@@ -9,7 +9,7 @@
 export type LangCode = 'zh';
 
 /** Question types the engine can grade. */
-export type QuestionType = 'count' | 'model';
+export type QuestionType = 'count' | 'model' | 'location';
 
 export interface QuestionExample {
   /** A learner answer. */
@@ -83,7 +83,27 @@ export interface ModelQuestion extends BaseQuestion {
   };
 }
 
-export type Question = CountQuestion | ModelQuestion;
+/** "Where...?" questions (在哪儿). */
+export interface LocationQuestion extends BaseQuestion {
+  type: 'location';
+  expected: {
+    /**
+     * Accepted places, e.g. ["书包"]. Omit it when any place is a right
+     * answer (你在哪儿吃饭？): then only the language is graded.
+     */
+    places?: string[];
+    /** Required localizer, e.g. "里" (里面, 里边 are accepted too). */
+    localizer?: string;
+    /** A full model answer, e.g. 书在书包里。 */
+    sentence?: string;
+  };
+  options?: {
+    /** Highest score for an answer with the wrong content (default 20). */
+    wrongContentScore?: number;
+  };
+}
+
+export type Question = CountQuestion | ModelQuestion | LocationQuestion;
 
 export type Severity = 'error' | 'typo' | 'info';
 

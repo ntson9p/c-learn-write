@@ -1,0 +1,31 @@
+{
+  "id": "zh-location-book",
+  "lang": "zh",
+  "type": "location",
+  "title": "Quyển sách ở đâu?",
+  "prompt": "书在哪儿？",
+  "promptVi": "Quyển sách ở đâu? (trong hình: quyển sách ở trong cặp sách)",
+  "picture": "🎒📕",
+  "expected": {
+    "places": ["书包", "包"],
+    "localizer": "里",
+    "sentence": "书在书包里。"
+  },
+  "examples": [
+    { "answer": "书在书包里。", "score": 100 },
+    { "answer": "在书包里。", "score": 100 },
+    { "answer": "书包里。", "score": 100, "note": "Câu trả lời ngắn, rất tự nhiên" },
+    { "answer": "书在书包里面。", "score": 100 },
+    { "answer": "书放在书包里。", "score": 100, "note": "放在 là cách nói đúng" },
+    { "answer": "书包里有一本书。", "score": 100 },
+    { "answer": "书在书包。", "score": 80, "issues": ["missing_localizer"], "note": "书包 là đồ vật, cần 里" },
+    { "answer": "书在里书包。", "score": 80, "issues": ["localizer_order"], "note": "Dịch từng chữ \"ở trong cặp\"" },
+    { "answer": "书在书报里。", "score": 95, "issues": ["homophone_char"], "note": "报 (bào) gõ nhầm thay cho 包 (bāo)" },
+    { "answer": "书再书包里。", "score": 95, "issues": ["homophone_char"], "note": "再 gõ nhầm thay cho 在" },
+    { "answer": "書在書包裡。", "score": 100, "issues": ["traditional_converted"], "note": "Chữ phồn thể" },
+    { "answer": "书在书包上。", "score": 20, "note": "Ở trên cặp, không phải ở trong cặp" },
+    { "answer": "书在桌子上。", "score": 20 },
+    { "answer": "书不在书包里。", "score": 20, "note": "Câu phủ định" },
+    { "answer": "我喜欢看书。", "score": 0, "note": "Chưa nêu địa điểm" }
+  ]
+}

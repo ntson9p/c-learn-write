@@ -6,6 +6,8 @@ import measureData from './data/measure-words.json';
 import modifierData from './data/modifiers.json';
 import nonNumberData from './data/non-numbers.json';
 import nounData from './data/nouns.json';
+import placeData from './data/places.json';
+import verbData from './data/verbs.json';
 
 export type MeasureKind = 'individual' | 'general' | 'container' | 'time' | 'calendar' | 'money' | 'measure' | 'ordinal';
 
@@ -97,6 +99,71 @@ export const NON_NUMBER_PATTERNS: readonly RegExp[] = stringList(
   (nonNumberData as Record<string, unknown>).patterns,
   'non-numbers.patterns',
 ).map((source) => new RegExp(source, 'gu'));
+
+// ---- Places, localizers and verbs (used for 在哪儿 answers) ----
+
+export type PlaceKind = 'proper' | 'place' | 'object';
+
+export interface PlaceInfo {
+  word: string;
+  /** proper: 中国 (never + 里); place: 家 (localizer optional); object: 桌子 (localizer required). */
+  kind: PlaceKind;
+  /** Objects only: the localizer group suggested when it is missing (桌子 -> 上). */
+  localizer?: string;
+}
+
+const places = placeData as Record<string, unknown>;
+
+/** Localizer word -> its group (上面 -> 上, 里头 -> 里). */
+function loadLocalizers(): Map<string, string> {
+  const raw = places.localizers;
+  if (typeof raw !== 'object' || raw === null) throw new Error('lexicon: places.localizers must be an object');
+  const map = new Map<string, string>();
+  for (const [group, words] of Object.entries(raw)) {
+    for (const word of stringList(words, `places.localizers.${group}`)) {
+      if (map.has(word)) throw new Error(`lexicon: localizer ${word} is listed twice`);
+      map.set(word, group);
+    }
+    if (map.get(group) !== group) throw new Error(`lexicon: localizer group ${group} must list itself`);
+  }
+  return map;
+}
+
+function loadPlaces(localizers: ReadonlyMap<string, string>): Map<string, PlaceInfo> {
+  const map = new Map<string, PlaceInfo>();
+  const add = (info: PlaceInfo) => {
+    if (map.has(info.word)) throw new Error(`lexicon: place ${info.word} is listed twice`);
+    map.set(info.word, info);
+  };
+  for (const word of stringList(places.proper, 'places.proper')) add({ word, kind: 'proper' });
+  for (const word of stringList(places.places, 'places.places')) add({ word, kind: 'place' });
+  const objects = places.objects;
+  if (typeof objects !== 'object' || objects === null) throw new Error('lexicon: places.objects must be an object');
+  for (const [word, localizer] of Object.entries(objects)) {
+    if (typeof localizer !== 'string' || localizers.get(localizer) !== localizer) {
+      throw new Error(`lexicon: places.objects.${word} must name a localizer group`);
+    }
+    add({ word, kind: 'object', localizer });
+  }
+  return map;
+}
+
+export const LOCALIZERS: ReadonlyMap<string, string> = loadLocalizers();
+export const LOCALIZER_LIST: readonly string[] = byLengthDesc(LOCALIZERS.keys());
+export const PLACES: ReadonlyMap<string, PlaceInfo> = loadPlaces(LOCALIZERS);
+export const PLACE_LIST: readonly string[] = byLengthDesc(PLACES.keys());
+export const NOT_REVERSED: ReadonlySet<string> = new Set(stringList(places.notReversed, 'places.notReversed'));
+/** Time words that can follow 在 but are not places (在晚上). */
+export const NOT_PLACES: readonly string[] = byLengthDesc(stringList(places.notPlaces, 'places.notPlaces'));
+
+const verbs = verbData as Record<string, unknown>;
+/** Verbs that may be followed directly by 在 + place (住在, 放在). */
+export const ZAI_VERBS: ReadonlySet<string> = new Set(stringList(verbs.zaiComplement, 'verbs.zaiComplement'));
+/** Action verbs, including the ZAI_VERBS. */
+export const ACTION_VERBS: ReadonlySet<string> = new Set([...stringList(verbs.actions, 'verbs.actions'), ...ZAI_VERBS]);
+export const ACTION_LIST: readonly string[] = byLengthDesc(ACTION_VERBS);
+export const ZAI_LIST: readonly string[] = byLengthDesc(ZAI_VERBS);
+export const NOT_ACTIONS: ReadonlySet<string> = new Set(stringList(verbs.notActions, 'verbs.notActions'));
 
 /** The longest word of a length-sorted list found at text[pos], before `end`. */
 export function matchLongest(text: string, pos: number, words: readonly string[], end = text.length): string | undefined {

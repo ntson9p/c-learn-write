@@ -24,14 +24,11 @@ import {
   matchLongest,
   type MeasureInfo,
 } from './lexicon';
-import { NUMERAL_RUN, isNumeralChar, parseZhNumber, type ParsedNumber } from './numbers';
-import { isHomophone } from './pinyin';
+import { NUMERAL_RUN, parseZhNumber, type ParsedNumber } from './numbers';
+import { findLocations, type LocationMention } from './places';
+import { homophoneTypos, type TextSpan, type Typo } from './spans';
 
-export interface TextSpan {
-  start: number;
-  end: number;
-  text: string;
-}
+export type { TextSpan, Typo } from './spans';
 
 export interface NumberSpan extends TextSpan {
   parsed: ParsedNumber;
@@ -51,12 +48,6 @@ export interface ModifierSpan extends TextSpan {
   base: string;
   /** Homophone typos of an expected colour (率 for 绿). */
   typos?: Typo[];
-}
-
-export interface Typo {
-  index: number;
-  written: string;
-  expected: string;
 }
 
 export interface NounSpan extends TextSpan {
@@ -89,6 +80,8 @@ export interface ZhDoc {
   text: string;
   clauses: TextSpan[];
   phrases: QuantityPhrase[];
+  /** Places mentioned in the answer (在家, 书包里...). */
+  locations: LocationMention[];
 }
 
 export interface AnalyzeOptions {
@@ -96,6 +89,10 @@ export interface AnalyzeOptions {
   expectedNouns?: readonly string[];
   /** Colours the answer should mention; enables homophone matching for them. */
   expectedColors?: readonly string[];
+  /** Places the answer should mention; enables homophone matching for them. */
+  expectedPlaces?: readonly string[];
+  /** The answer is to a "where" question: a bare object (书包。) names a place. */
+  locationQuestion?: boolean;
 }
 
 const APPROX_AFTER_UNIT = new Set(['多', '来', '余']);
@@ -170,26 +167,6 @@ function matchModifier(text: string, p: number, end: number): ModifierSpan | und
     return { start: p, end: q, text: text.slice(p, q), kind: 'adjective', base: adjective };
   }
   return undefined;
-}
-
-/**
- * Compares `word` with the text at p, character by character: every
- * character must be equal or a homophone, with at least one homophone.
- * Returns the typos, or undefined when the text is not a typo of `word`.
- */
-function homophoneTypos(text: string, p: number, end: number, word: string): Typo[] | undefined {
-  if (p + word.length > end) return undefined;
-  const typos: Typo[] = [];
-  let exactChars = 0;
-  for (let i = 0; i < word.length; i++) {
-    const w = text[p + i]!;
-    const e = word[i]!;
-    if (w === e) exactChars++;
-    else if (isHan(w) && !isNumeralChar(w) && isHomophone(w, e)) typos.push({ index: p + i, written: w, expected: e });
-    else return undefined;
-  }
-  if (typos.length === 0 || (word.length >= 2 && exactChars === 0)) return undefined;
-  return typos;
 }
 
 /** A homophone typo of an expected colour, e.g. 率苹果 for 绿苹果. */
@@ -342,5 +319,6 @@ export function analyzeZh(text: string, options: AnalyzeOptions = {}): ZhDoc {
     });
     lastEnd = Math.max(np.end, pos);
   }
-  return { text, clauses, phrases };
+  const locations = findLocations(text, clauses, options.expectedPlaces ?? [], options.locationQuestion ?? false);
+  return { text, clauses, phrases, locations };
 }

@@ -1,0 +1,23 @@
+{
+  "id": "zh-location-live",
+  "lang": "zh",
+  "type": "location",
+  "title": "Bạn sống ở đâu?",
+  "prompt": "你住在哪儿？",
+  "promptVi": "Bạn sống ở đâu? (trả lời về bản thân bạn: nơi nào cũng được)",
+  "picture": "🏠",
+  "expected": {
+    "sentence": "我住在河内。"
+  },
+  "examples": [
+    { "answer": "我住在河内。", "score": 100 },
+    { "answer": "住在胡志明市。", "score": 100 },
+    { "answer": "我住在越南河内。", "score": 100 },
+    { "answer": "我在河内住。", "score": 100, "note": "Cũng là cách nói đúng" },
+    { "answer": "我住河内。", "score": 100, "note": "Khẩu ngữ, chấp nhận được" },
+    { "answer": "我住在河内里。", "score": 90, "issues": ["extra_localizer"], "note": "Tên thành phố không thêm 里" },
+    { "answer": "我住在中国里面。", "score": 90, "issues": ["extra_localizer"] },
+    { "answer": "我住在一个小城市。", "score": 100 },
+    { "answer": "我住在阮廌。", "score": 100, "note": "Tên lạ: được chấp nhận nhưng cần giáo viên xem lại" }
+  ]
+}

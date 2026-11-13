@@ -1,5 +1,38 @@
 import { describe, expect, it } from 'vitest';
-import { ADJECTIVES, COLORS, MEASURE_WORDS, NON_NUMBER_PATTERNS, NOUNS, matchLongest } from '../../src/lang/zh/lexicon';
+import {
+  ACTION_VERBS,
+  ADJECTIVES,
+  COLORS,
+  LOCALIZERS,
+  MEASURE_WORDS,
+  NON_NUMBER_PATTERNS,
+  NOT_REVERSED,
+  NOUNS,
+  PLACES,
+  ZAI_VERBS,
+  matchLongest,
+} from '../../src/lang/zh/lexicon';
+
+describe('place and verb data', () => {
+  it('loads places and localizers', () => {
+    expect(PLACES.get('中国')).toEqual({ word: '中国', kind: 'proper' });
+    expect(PLACES.get('家')).toEqual({ word: '家', kind: 'place' });
+    expect(PLACES.get('桌子')).toEqual({ word: '桌子', kind: 'object', localizer: '上' });
+    expect(LOCALIZERS.get('里面')).toBe('里');
+    expect(LOCALIZERS.get('底下')).toBe('下');
+  });
+
+  it('only lists "not reversed" words that start with a localizer', () => {
+    for (const word of NOT_REVERSED) expect(['上', '下', '里', '外', '前', '后'], word).toContain(word[0]);
+  });
+
+  it('counts verbs taking 在 after them as action verbs', () => {
+    expect(ACTION_VERBS.has('吃饭')).toBe(true);
+    for (const verb of ZAI_VERBS) expect(ACTION_VERBS.has(verb), verb).toBe(true);
+    expect(ACTION_VERBS.has('喜欢')).toBe(false);
+    expect(ACTION_VERBS.has('去')).toBe(false);
+  });
+});
 
 describe('lexicon data', () => {
   it('loads the word lists', () => {

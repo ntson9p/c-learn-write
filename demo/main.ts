@@ -5,6 +5,7 @@ import { segments } from './highlight';
 const TYPE_LABELS: Record<Question['type'], string> = {
   count: 'Đếm số lượng',
   model: 'Đáp án mẫu',
+  location: 'Hỏi nơi chốn',
 };
 
 const STATUS_LABELS: Record<ContentStatus, string> = {

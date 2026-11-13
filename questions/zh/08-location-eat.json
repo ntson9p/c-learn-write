@@ -1,0 +1,26 @@
+{
+  "id": "zh-location-eat",
+  "lang": "zh",
+  "type": "location",
+  "title": "Bạn ăn cơm ở đâu?",
+  "prompt": "你在哪儿吃饭？",
+  "promptVi": "Bạn ăn cơm ở đâu? (trả lời về bản thân bạn: nơi nào cũng được)",
+  "picture": "🍚",
+  "expected": {
+    "sentence": "我在家吃饭。"
+  },
+  "examples": [
+    { "answer": "我在家吃饭。", "score": 100 },
+    { "answer": "在家。", "score": 100 },
+    { "answer": "家里。", "score": 100 },
+    { "answer": "我常常在饭馆吃饭。", "score": 100 },
+    { "answer": "我在学校的食堂吃饭。", "score": 100 },
+    { "answer": "我回家吃饭。", "score": 100, "note": "回家 cũng nêu địa điểm" },
+    { "answer": "我吃饭在家。", "score": 80, "issues": ["place_order"], "note": "Dịch từng chữ \"tôi ăn cơm ở nhà\"" },
+    { "answer": "我每天吃午饭在公司。", "score": 80, "issues": ["place_order"] },
+    { "answer": "我再家吃饭。", "score": 95, "issues": ["homophone_char"], "note": "再 gõ nhầm thay cho 在" },
+    { "answer": "我吃饭在里家。", "score": 60, "issues": ["localizer_order", "place_order"], "note": "Hai lỗi trật tự cùng lúc" },
+    { "answer": "我不在家吃饭。", "score": 20, "note": "Chỉ nói nơi không ăn" },
+    { "answer": "我在吃饭。", "score": 0, "note": "在 ở đây nghĩa là \"đang\", chưa nêu địa điểm" }
+  ]
+}

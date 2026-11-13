@@ -9,8 +9,9 @@
 import type { Fix, Issue } from '../../core/types';
 import { sortIssues } from '../../core/scoring';
 import type { QuantityPhrase, ZhDoc } from './analyze';
-import { ZH_SEVERITY, type ZhIssueCode } from './issues';
+import { zhIssue, type ZhIssueCode } from './issues';
 import { NOUNS } from './lexicon';
+import { locationRules } from './location-rules';
 import { vi } from './messages';
 import { toZhNumeral } from './numbers';
 import { pinyinOf } from './pinyin';
@@ -22,6 +23,10 @@ export interface ZhRuleContext {
   /** Count questions also expect a measure word after a bare number (有四。). */
   countQuestion: boolean;
   allowArabicDigits: boolean;
+  /** Places of a location question; their localizer is suggested when missing. */
+  expectedPlaces?: readonly string[];
+  /** Localizer group of a location question (里 for 书在书包里). */
+  expectedLocalizer?: string;
 }
 
 function makeIssue(
@@ -32,9 +37,7 @@ function makeIssue(
   message: string,
   fix?: Fix,
 ): Issue {
-  const issue: Issue = { code, severity: ZH_SEVERITY[code], penalty: ctx.penalties[code] ?? 0, message, start, end };
-  if (fix) issue.fix = fix;
-  return issue;
+  return zhIssue(ctx.penalties, code, start, end, message, fix);
 }
 
 /** The noun of a phrase when the analysis recognised it. */
@@ -210,7 +213,17 @@ function arabicDigits(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
   return out;
 }
 
-const RULES = [missingMeasureWord, wrongMeasureWord, erLiang, liangMisuse, modifierOrder, buYou, homophoneChars, arabicDigits];
+const RULES = [
+  missingMeasureWord,
+  wrongMeasureWord,
+  erLiang,
+  liangMisuse,
+  modifierOrder,
+  buYou,
+  homophoneChars,
+  arabicDigits,
+  locationRules,
+];
 
 export function runZhRules(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
   return sortIssues(RULES.flatMap((rule) => rule(doc, ctx)));

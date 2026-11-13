@@ -1,4 +1,4 @@
-import type { Severity } from '../../core/types';
+import type { Fix, Issue, Severity } from '../../core/types';
 
 export type ZhIssueCode =
   | 'missing_measure_word'
@@ -7,6 +7,10 @@ export type ZhIssueCode =
   | 'liang_misuse'
   | 'modifier_order'
   | 'bu_you'
+  | 'place_order'
+  | 'localizer_order'
+  | 'missing_localizer'
+  | 'extra_localizer'
   | 'homophone_char'
   | 'missing_word'
   | 'extra_word'
@@ -22,6 +26,10 @@ export const ZH_DEFAULT_PENALTIES: Readonly<Record<ZhIssueCode, number>> = {
   liang_misuse: 10,
   modifier_order: 20,
   bu_you: 20,
+  place_order: 20,
+  localizer_order: 20,
+  missing_localizer: 20,
+  extra_localizer: 10,
   homophone_char: 5,
   missing_word: 15,
   extra_word: 15,
@@ -37,6 +45,10 @@ export const ZH_SEVERITY: Readonly<Record<ZhIssueCode, Severity>> = {
   liang_misuse: 'error',
   modifier_order: 'error',
   bu_you: 'error',
+  place_order: 'error',
+  localizer_order: 'error',
+  missing_localizer: 'error',
+  extra_localizer: 'error',
   homophone_char: 'typo',
   missing_word: 'error',
   extra_word: 'error',
@@ -53,6 +65,10 @@ export const ZH_ISSUE_LABELS_VI: Readonly<Record<ZhIssueCode, string>> = {
   liang_misuse: '两 → 二',
   modifier_order: 'Sai trật tự từ',
   bu_you: '不有 → 没有',
+  place_order: 'Vị trí cụm nơi chốn',
+  localizer_order: 'Vị trí phương vị từ',
+  missing_localizer: 'Thiếu phương vị từ',
+  extra_localizer: 'Thừa phương vị từ',
   homophone_char: 'Gõ nhầm chữ',
   missing_word: 'Thiếu từ',
   extra_word: 'Thừa từ',
@@ -60,3 +76,17 @@ export const ZH_ISSUE_LABELS_VI: Readonly<Record<ZhIssueCode, string>> = {
   arabic_digits: 'Chữ số',
   traditional_converted: 'Chữ phồn thể',
 };
+
+/** Builds an issue with the severity of its code and the question's penalty. */
+export function zhIssue(
+  penalties: Readonly<Record<string, number>>,
+  code: ZhIssueCode,
+  start: number,
+  end: number,
+  message: string,
+  fix?: Fix,
+): Issue {
+  const issue: Issue = { code, severity: ZH_SEVERITY[code], penalty: penalties[code] ?? 0, message, start, end };
+  if (fix) issue.fix = fix;
+  return issue;
+}

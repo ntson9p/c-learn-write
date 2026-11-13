@@ -1,7 +1,7 @@
 import { expandPattern, PatternError } from './patterns';
 
 const LANGS = new Set(['zh']);
-const TYPES = new Set(['count', 'model']);
+const TYPES = new Set(['count', 'model', 'location']);
 
 function isObject(value: unknown): value is Record<string, unknown> {
   return typeof value === 'object' && value !== null && !Array.isArray(value);
@@ -45,6 +45,7 @@ export function validateQuestion(input: unknown): string[] {
 
   if (q.type === 'count') validateCount(q, err);
   if (q.type === 'model') validateModel(q, err);
+  if (q.type === 'location') validateLocation(q, err);
 
   if (q.examples !== undefined) {
     if (!Array.isArray(q.examples)) err('"examples" must be an array');
@@ -93,6 +94,32 @@ function validateCount(q: Record<string, unknown>, err: (msg: string) => void): 
       if (options.wrongContentScore !== undefined && !isScore(options.wrongContentScore)) {
         err('"options.wrongContentScore" must be an integer from 0 to 100');
       }
+    }
+  }
+}
+
+function validateLocation(q: Record<string, unknown>, err: (msg: string) => void): void {
+  const expected = q.expected;
+  if (!isObject(expected)) {
+    err('"expected" must be an object');
+    return;
+  }
+  if (expected.places !== undefined) {
+    if (!(Array.isArray(expected.places) && expected.places.length > 0 && expected.places.every(isNonEmptyString))) {
+      err('"expected.places" must be a non-empty array of non-empty strings');
+    }
+  }
+  for (const key of ['localizer', 'sentence'] as const) {
+    if (expected[key] !== undefined && !isNonEmptyString(expected[key])) err(`"expected.${key}" must be a non-empty string`);
+  }
+  if (expected.localizer !== undefined && expected.places === undefined) {
+    err('"expected.localizer" needs "expected.places"');
+  }
+  const options = q.options;
+  if (options !== undefined) {
+    if (!isObject(options)) err('"options" must be an object');
+    else if (options.wrongContentScore !== undefined && !isScore(options.wrongContentScore)) {
+      err('"options.wrongContentScore" must be an integer from 0 to 100');
     }
   }
 }

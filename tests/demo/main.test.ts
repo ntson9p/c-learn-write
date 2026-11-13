@@ -57,6 +57,16 @@ describe('demo page', () => {
     expect(document.body.textContent).toContain('Đáp án tham khảo: 图片里有四个绿苹果。');
   });
 
+  it('grades location questions', () => {
+    const book = QUESTIONS.find((q) => q.id === 'zh-location-book')!;
+    [...document.querySelectorAll<HTMLButtonElement>('#questions button')].find((b) => b.textContent === book.title)?.click();
+    expect($('#question-type').textContent).toBe('Hỏi nơi chốn');
+    clickExample('书在里书包。');
+    expect($('.score-value').textContent).toBe('80');
+    expect($('.issue-label').textContent).toBe('Vị trí phương vị từ');
+    expect(document.body.textContent).toContain('Câu đã sửa: 书在书包里。');
+  });
+
   it('switches questions and remembers the choice in the URL', () => {
     const cats = QUESTIONS.find((q) => q.id === 'zh-count-cats')!;
     const button = [...document.querySelectorAll<HTMLButtonElement>('#questions button')].find((b) => b.textContent === cats.title);
