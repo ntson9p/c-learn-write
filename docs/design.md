@@ -10,7 +10,7 @@ Tài liệu này ghi lại các quyết định, kiến trúc và thuật toán 
 | Ngôn ngữ lập trình | **TypeScript** | Bộ chấm chạy ngay trong app web/điện thoại, chấm tức thì, dùng được khi offline, không cần server |
 | Ngôn ngữ của lời nhận xét | **Tiếng Việt** | Người học là người Việt; làm trước các luật bắt lỗi do thói quen tiếng Việt |
 | Cách thử prototype | **Trang web demo** + test tự động | Dễ thử, dễ đưa giáo viên xem |
-| Phạm vi | Loại câu hỏi **đếm số lượng** + **đáp án mẫu** | Hỏi nơi chốn và trả lời bằng pinyin để sau |
+| Phạm vi | Loại câu hỏi **đếm số lượng** + **đáp án mẫu**; ngay sau đó thêm **hỏi nơi chốn** | Trả lời bằng pinyin để sau |
 
 ## Kiến trúc
 
@@ -35,6 +35,8 @@ Mỗi luật chỉ báo lỗi khi chắc chắn. Ví dụ:
 - 二 trước 月/号/楼/年级/斤 vẫn đúng (二月, 二楼…), nên luật 二→两 không báo lỗi.
 - 不有 trong 无所不有, 不有趣 không phải lỗi.
 - 苹果是绿的 và 苹果绿了 là vị ngữ, không phải lỗi trật tự từ.
+- 住在河内, 放在桌子上 (động từ + 在) là cách nói đúng, nên luật trật tự nơi chốn im lặng.
+- 椅子。 chỉ là một cái ghế, trừ khi đó là câu trả lời cho câu hỏi 在哪儿.
 
 Khi không chắc về **nội dung**, bộ chấm đặt cờ `needsReview` (cần giáo viên xem lại) thay vì đoán.
 
@@ -52,6 +54,23 @@ số      [lượng từ]  [từ bổ nghĩa]  [danh từ]  [từ bổ nghĩa đ
 - **Lượng từ**: phân loại theo [measure-words.json](../src/lang/zh/data/measure-words.json): lượng từ cá thể (phải hợp với danh từ), chung (种), đồ chứa (杯), thời gian, lịch, tiền, đo lường, số thứ tự.
 - **Danh từ**: ưu tiên từ dài nhất trong từ vựng (苹果树 thắng 苹果). Một từ đồng âm với danh từ mong đợi (平果 ↔ 苹果) được nhận là lỗi gõ, **trừ khi** chính nó là một danh từ khác có thật.
 - **Phủ định**: 没(有), 不是, 不止, 不到… đứng ngay trước số trong cùng mệnh đề.
+
+## Phân tích nơi chốn
+
+[places.ts](../src/lang/zh/places.ts) tìm các **cụm nơi chốn**:
+
+```
+在  nơi chốn      [的] [phương vị từ]     在 家 里 · 在 桌子 上 · 在 桌子 的 上面
+在  phương vị từ  nơi chốn                在 上 桌子   ← lỗi: phương vị từ đặt trước (kiểu "trên bàn")
+cụm 的 cụm                                在 桌子上 的 书包里
+```
+
+- **Từ vựng** ([places.json](../src/lang/zh/data/places.json)) chia ba loại: tên riêng (中国, 河内: không thêm 里), nơi chốn (家, 学校: 里 tùy ý), đồ vật (桌子, 书包: bắt buộc có phương vị từ). Phương vị từ được xếp nhóm theo nghĩa (nhóm 上 gồm 上/上面/上边/上头…).
+- **Không phải nơi chốn**: 在 + động từ là thể tiếp diễn (我在吃饭, 我在上课); 在 + thời gian (在晚上, 在五月); chữ 在 nằm trong 现在, 实在…
+- **Không bị coi là phương vị từ đặt ngược**: các từ có thật bắt đầu bằng phương vị từ (上海, 上课, 上车, 外地…).
+- Ngoài ra còn nhận ra: sở hữu (在我的房间), từ hạn định (在一个小城市, 在这家饭馆), 再 gõ nhầm cho 在 (再家), động từ nhận nơi chốn trực tiếp (住河内, 回家), câu trả lời ngắn (书包里。, 桌子上有一本书).
+- Tên lạ đứng sau 在 được nhận là nơi chốn khi kết thúc bằng một từ chỉ nơi chốn (阮廌高中, 阿明家). Nếu không, nó được ghi là "không rõ".
+- Một đồ vật đứng một mình (椅子。) chỉ được coi là nơi chốn khi trả lời câu hỏi 在哪儿.
 
 ## Chấm loại `count`
 
@@ -76,6 +95,22 @@ số      [lượng từ]  [từ bổ nghĩa]  [danh từ]  [từ bổ nghĩa đ
 5. Nếu cả câu không khớp, thử **từng mệnh đề**. Câu có thêm thông tin (我是越南人，我住在河内) được chấp nhận nhưng gắn cờ cần xem lại, vì phần thêm chưa được kiểm tra nội dung.
 6. Không khớp gì thì 0 điểm, kèm đáp án gần nhất làm gợi ý. Gắn cờ cần xem lại nếu chỉ khác đúng một chữ không làm đổi nghĩa (这是芒果 so với 这是苹果).
 
+## Chấm loại `location`
+
+1. **Câu hỏi theo hình** (có `expected.places`). Mỗi cụm nơi chốn được xếp vào một trong ba nhóm: đúng nơi; đúng nơi nhưng sai phương vị từ (书包上 ≠ 书包里, tính là sai nội dung); hoặc nơi khác.
+   - Có cụm đúng nơi thì đúng nội dung. Nếu câu nêu thêm nơi khác, gắn cờ cần xem lại (书在书包里，书包在桌子上).
+   - Chỉ có nơi khác thì sai nội dung, tối đa 20 điểm. Gắn cờ cần xem lại nếu tên lạ chỉ khác nơi đúng một chữ.
+   - Chỉ có câu phủ định (书不在书包里) thì sai nội dung. Không nêu nơi nào thì 0 điểm.
+   - Thiếu phương vị từ (书在书包) vẫn đúng nội dung, chỉ bị trừ điểm ngôn ngữ.
+2. **Câu hỏi về bản thân** (không có `expected.places`): nơi nào cũng đúng. Tên lạ được chấp nhận nhưng gắn cờ cần xem lại.
+3. Lỗi ngôn ngữ trừ điểm như ở các loại khác. Luật `place_order` chỉ báo lỗi khi thỏa mãn đủ các điều kiện sau:
+   - cụm 在 đứng cuối mệnh đề (sau nó chỉ có thể là trợ từ 了/呢/吧/吗…);
+   - trước nó có một động từ hành động ([verbs.json](../src/lang/zh/data/verbs.json));
+   - động từ đứng ngay trước 在 không thuộc nhóm nhận 在 phía sau (住, 放, 坐, 写…);
+   - câu không có động từ chuyển động (去, 来, 回, 到).
+
+   Với động từ "đặt để" có tân ngữ, cách sửa dùng 把 (放书在桌子上 → 把书放在桌子上). Động từ đứng sau 的 hoặc lượng từ được coi là danh từ (我的工作在河内 là câu đúng).
+
 ## Dữ liệu cần giáo viên duyệt
 
 Danh sách khởi đầu do Claude soạn, **chưa được giáo viên kiểm tra**:
@@ -84,20 +119,22 @@ Danh sách khởi đầu do Claude soạn, **chưa được giáo viên kiểm t
 - [ ] [measure-words.json](../src/lang/zh/data/measure-words.json): loại của từng lượng từ và danh sách `erOk` (những chỗ 二 vẫn đúng).
 - [ ] [modifiers.json](../src/lang/zh/data/modifiers.json): màu và tính từ dùng cho luật trật tự từ.
 - [ ] [non-numbers.json](../src/lang/zh/data/non-numbers.json): các từ chứa chữ số nhưng không phải số.
+- [ ] [places.json](../src/lang/zh/data/places.json): 116 từ chỉ nơi chốn (34 tên riêng, 50 nơi chốn, 32 đồ vật kèm phương vị từ mặc định như 桌子 → 上, 书包 → 里), 31 phương vị từ trong 12 nhóm, các từ chỉ thời gian, các từ "không đảo" (上车, 外地…).
+- [ ] [verbs.json](../src/lang/zh/data/verbs.json): 91 động từ hành động, 23 động từ nhận 在 phía sau (住在, 放在…), 26 từ trông giống động từ nhưng không phải (学生, 看见, 放假…).
 - [ ] [messages.ts](../src/lang/zh/messages.ts): lời nhận xét tiếng Việt.
 - [ ] Mức trừ điểm mặc định trong [issues.ts](../src/lang/zh/issues.ts).
 - [ ] Các câu hỏi mẫu trong [questions/zh/](../questions/zh/) và điểm mong đợi của từng ví dụ.
 
 ## Kiểm thử
 
-- `npm test` chạy hơn 200 test: đọc số, chuẩn hóa, từ vựng, phân tích câu, từng luật (gồm cả các ca **không được** báo lỗi), hai bộ chấm, tất cả ví dụ của các câu hỏi mẫu, và giao diện demo (happy-dom).
+- `npm test` chạy gần 300 test: đọc số, chuẩn hóa, từ vựng, phân tích câu và nơi chốn, từng luật (gồm cả các ca **không được** báo lỗi), ba bộ chấm, kiểm tra cấu hình câu hỏi, tất cả ví dụ của các câu hỏi mẫu, và giao diện demo (happy-dom).
 - `npm run check` = kiểm tra kiểu TypeScript + test.
 - Tốc độ: khoảng 0,1 ms mỗi câu trả lời (sau lần chấm đầu tiên, vốn phải nạp từ điển pinyin).
 
 ## Hướng phát triển
 
-1. Nhờ giáo viên duyệt dữ liệu ở danh sách trên; bổ sung danh từ theo giáo trình.
+1. Nhờ giáo viên duyệt dữ liệu ở danh sách trên; bổ sung danh từ, nơi chốn và động từ theo giáo trình.
 2. Ghi lại các câu trả lời thật cùng kết quả chấm. Những câu có cờ `needsReview` được giáo viên xem rồi bổ sung vào đáp án mẫu hoặc luật.
-3. Thêm loại câu hỏi "hỏi nơi chốn" (luật 我吃饭在家 → 我在家吃饭, một lỗi rất hay gặp ở người Việt).
+3. Luật trật tự cho câu có động từ chuyển động (我去学习在图书馆 → 我去图书馆学习) và cho cụm thời gian (我吃饭在晚上 → 我晚上吃饭).
 4. Cho phép trả lời bằng pinyin và chấm thanh điệu.
 5. Gói tiếng Anh (`src/lang/en`) cho app tiếng Anh.
