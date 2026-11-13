@@ -299,10 +299,11 @@ export function gradeZhModel(q: ModelQuestion, answer: string): GradeResult {
     ? [{ code: 'traditional_converted', severity: 'info', penalty: penalties.traditional_converted ?? 0, message: vi.traditional, start: 0, end: 0 }]
     : [];
 
-  if (unitize(text).length === 0 || (!hasHan(text) && !/[0-9]/.test(text))) {
+  const empty = unitize(text).length === 0;
+  if (empty || (!hasHan(text) && !/[0-9]/.test(text))) {
     return {
       score: 0,
-      content: { status: 'no_answer', message: unitize(text).length === 0 ? vi.empty : vi.notChinese },
+      content: { status: 'no_answer', message: empty ? vi.empty : vi.notChinese },
       issues: info,
       normalized: text,
       ...(models[0] ? { suggestion: models[0].display } : {}),
