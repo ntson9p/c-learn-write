@@ -1,0 +1,17 @@
+{
+  "_doc": "Measure words (量词) grouped by kind. individual: must fit the noun (checked against nouns.json). general and container: accepted with any noun. time, calendar, money, measure, ordinal: not counts of objects. erOk: 二 is acceptable right before it; before every other measure word the number 2 must be written 两.",
+  "individual": [
+    "个", "本", "只", "条", "张", "件", "辆", "台", "把", "位", "口", "名", "家", "座", "栋",
+    "所", "间", "棵", "朵", "束", "盆", "枝", "支", "双", "块", "片", "根", "颗", "粒", "串",
+    "头", "匹", "架", "艘", "顶", "封", "首", "部", "门", "扇", "节", "堂", "道", "份", "套",
+    "幅", "句", "层", "对", "副"
+  ],
+  "general": ["种", "样", "类", "群", "堆", "批", "些"],
+  "container": ["杯", "瓶", "碗", "盘", "盒", "罐", "壶", "袋", "包", "箱", "桶"],
+  "time": ["天", "年", "岁", "次", "遍", "回", "周", "星期", "分钟", "小时", "点", "点钟", "秒", "秒钟", "刻", "分"],
+  "calendar": ["月", "号", "日"],
+  "money": ["元", "毛", "角"],
+  "measure": ["斤", "公斤", "克", "米", "公里", "厘米"],
+  "ordinal": ["楼", "年级", "路", "班"],
+  "erOk": ["层", "元", "角", "斤", "公斤", "克", "米", "公里", "厘米", "分", "秒", "秒钟"]
+}

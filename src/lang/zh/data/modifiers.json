@@ -1,0 +1,9 @@
+{
+  "_doc": "Words that describe a noun. Inside a noun phrase they must come BEFORE the noun (绿苹果, not 苹果绿). A colour may take a shade before it (深/浅), and 色 and/or 的 after it.",
+  "colors": ["红", "绿", "黄", "蓝", "白", "黑", "紫", "灰", "粉", "粉红", "橙", "棕", "青", "金", "银"],
+  "shades": ["深", "浅"],
+  "adjectives": [
+    "大", "小", "新", "旧", "长", "短", "高", "矮", "胖", "瘦", "老", "好", "坏", "漂亮", "好看",
+    "可爱", "贵", "便宜", "干净", "脏", "圆", "甜", "酸", "热", "冷", "年轻", "聪明"
+  ]
+}
