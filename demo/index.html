@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="vi">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="light dark" />
+    <title>Chấm câu trả lời tiếng Trung</title>
+    <link rel="stylesheet" href="./style.css" />
+  </head>
+  <body>
+    <header class="top">
+      <h1>Chấm câu trả lời tiếng Trung</h1>
+      <p class="sub">Prototype · chấm bằng luật, không dùng AI/LLM · chạy hoàn toàn trên trình duyệt</p>
+    </header>
+
+    <main>
+      <nav id="questions" class="chips" aria-label="Chọn câu hỏi"></nav>
+
+      <section class="card question" aria-live="polite">
+        <div class="picture" id="picture" aria-hidden="true"></div>
+        <div class="question-text">
+          <p class="type" id="question-type"></p>
+          <p class="prompt" id="prompt" lang="zh-CN"></p>
+          <p class="prompt-vi" id="prompt-vi"></p>
+        </div>
+      </section>
+
+      <form id="answer-form" class="answer-form" autocomplete="off">
+        <label for="answer" class="visually-hidden">Câu trả lời</label>
+        <input id="answer" type="text" lang="zh-CN" placeholder="Nhập câu trả lời bằng chữ Hán…" />
+        <button type="submit">Chấm điểm</button>
+      </form>
+
+      <section class="examples">
+        <h2>Thử nhanh</h2>
+        <div id="examples" class="chips"></div>
+      </section>
+
+      <section id="result" class="card result" hidden aria-live="polite"></section>
+    </main>
+
+    <footer>
+      <p>
+        Kết quả chỉ mang tính thử nghiệm. Bảng lượng từ và các luật cần được giáo viên tiếng Trung duyệt trước khi dùng
+        thật.
+      </p>
+    </footer>
+
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>
