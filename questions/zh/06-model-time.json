@@ -1,0 +1,20 @@
+{
+  "id": "zh-model-time",
+  "lang": "zh",
+  "type": "model",
+  "title": "Mấy giờ rồi?",
+  "prompt": "现在几点？",
+  "promptVi": "Bây giờ là mấy giờ?",
+  "picture": "🕑",
+  "answers": ["(现在)(是)(下午)两点(钟)(了)。"],
+  "examples": [
+    { "answer": "现在两点。", "score": 100 },
+    { "answer": "现在是两点钟。", "score": 100 },
+    { "answer": "两点。", "score": 100 },
+    { "answer": "现在两点了。", "score": 100 },
+    { "answer": "下午两点。", "score": 100 },
+    { "answer": "现在2点。", "score": 100 },
+    { "answer": "现在二点。", "score": 90, "issues": ["er_liang"], "note": "Giờ đồng hồ: 两点, không nói 二点" },
+    { "answer": "现在三点。", "score": 0 }
+  ]
+}

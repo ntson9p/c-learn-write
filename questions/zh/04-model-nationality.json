@@ -1,0 +1,20 @@
+{
+  "id": "zh-model-nationality",
+  "lang": "zh",
+  "type": "model",
+  "title": "Quốc tịch",
+  "prompt": "你是哪国人？",
+  "promptVi": "Bạn là người nước nào? (giả sử bạn là người Việt Nam)",
+  "picture": "🌏",
+  "answers": ["(我)是越南人。", "越南人。"],
+  "examples": [
+    { "answer": "我是越南人。", "score": 100 },
+    { "answer": "越南人", "score": 100 },
+    { "answer": "嗯，我是越南人啊。", "score": 100, "note": "Bỏ qua thán từ đầu câu và trợ từ cuối câu" },
+    { "answer": "我是越喃人。", "score": 95, "issues": ["homophone_char"] },
+    { "answer": "我越南人。", "score": 85, "issues": ["missing_word"], "note": "Thiếu 是" },
+    { "answer": "我是越南人，我住在河内。", "score": 100, "note": "Có thêm thông tin: được chấp nhận, nhưng đánh dấu cần giáo viên xem lại" },
+    { "answer": "我是中国人。", "score": 0 },
+    { "answer": "我不是越南人。", "score": 0, "note": "Thêm 不 làm đổi nghĩa" }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "zh-count-cats",
+  "lang": "zh",
+  "type": "count",
+  "title": "Đếm mèo",
+  "prompt": "图片里有几只猫？",
+  "promptVi": "Trong hình có mấy con mèo?",
+  "picture": "🐈🐈",
+  "expected": {
+    "number": 2,
+    "noun": "猫",
+    "sentence": "图片里有两只猫。"
+  },
+  "examples": [
+    { "answer": "图片里有两只猫。", "score": 100 },
+    { "answer": "有两只。", "score": 100 },
+    { "answer": "有2只猫。", "score": 100 },
+    { "answer": "有两只小猫。", "score": 100 },
+    { "answer": "有二只猫。", "score": 90, "issues": ["er_liang"], "note": "Trước lượng từ, số 2 là 两" },
+    { "answer": "有两个猫。", "score": 80, "issues": ["wrong_measure_word"], "note": "猫 dùng lượng từ 只" },
+    { "answer": "有两个。", "score": 80, "issues": ["wrong_measure_word"] },
+    { "answer": "有二个猫。", "score": 70, "issues": ["er_liang", "wrong_measure_word"] },
+    { "answer": "有两猫。", "score": 80, "issues": ["missing_measure_word"] },
+    { "answer": "有两只猫小。", "score": 80, "issues": ["modifier_order"], "note": "Dịch từng chữ \"mèo nhỏ\"" },
+    { "answer": "有两只毛。", "score": 95, "issues": ["homophone_char"], "note": "毛 (máo) gõ nhầm thay cho 猫 (māo)" },
+    { "answer": "有三只猫。", "score": 20 },
+    { "answer": "有两只狗。", "score": 20, "note": "Nói về chó" }
+  ]
+}

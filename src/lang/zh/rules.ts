@@ -172,12 +172,12 @@ function buYou(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
   return out;
 }
 
-/** 绿平果 -> 绿苹果: a homophone typed instead of a character of the expected noun. */
-function homophoneNouns(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
+/** 绿平果 -> 绿苹果, 率苹果 -> 绿苹果: homophones typed instead of the expected words. */
+function homophoneChars(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
   const out: Issue[] = [];
   for (const p of doc.phrases) {
-    if (p.noun?.match !== 'homophone') continue;
-    for (const t of p.noun.typos) {
+    const typos = [...(p.noun?.match === 'homophone' ? p.noun.typos : []), ...p.modifiers.flatMap((m) => m.typos ?? [])];
+    for (const t of typos) {
       out.push(
         makeIssue(ctx, 'homophone_char', t.index, t.index + 1, vi.homophone(t.written, t.expected, pinyinOf(t.written), pinyinOf(t.expected)), {
           start: t.index,
@@ -210,7 +210,7 @@ function arabicDigits(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
   return out;
 }
 
-const RULES = [missingMeasureWord, wrongMeasureWord, erLiang, liangMisuse, modifierOrder, buYou, homophoneNouns, arabicDigits];
+const RULES = [missingMeasureWord, wrongMeasureWord, erLiang, liangMisuse, modifierOrder, buYou, homophoneChars, arabicDigits];
 
 export function runZhRules(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
   return sortIssues(RULES.flatMap((rule) => rule(doc, ctx)));

@@ -18,6 +18,7 @@ export const vi = {
   countNoNumber: (asked: string) => `Câu trả lời chưa nêu số lượng ${q(asked)}.`,
 
   modelCorrect: 'Câu trả lời đúng.',
+  modelPartial: 'Một phần câu trả lời khớp với đáp án; phần còn lại chưa được kiểm tra nội dung.',
   modelUnmatched: 'Câu trả lời chưa khớp với đáp án nào.',
 
   missingMeasure: (num: string, measure: string, rest: string, formal: boolean) =>

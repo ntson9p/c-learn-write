@@ -97,6 +97,14 @@ describe('analyzeZh', () => {
     expect(phrases('有四个绿平果')[0]).toMatchObject({ noun: '平果', match: 'unknown' });
   });
 
+  it('recognises homophone typos of an expected colour', () => {
+    const doc = analyzeZh('有四个率苹果', { expectedNouns: ['苹果'], expectedColors: ['绿'] });
+    expect(doc.phrases[0]?.modifiers).toMatchObject([{ base: '绿', text: '率', typos: [{ written: '率', expected: '绿' }] }]);
+    expect(doc.phrases[0]?.noun?.noun).toBe('苹果');
+    // Without expected colours, 率 is not a modifier.
+    expect(analyzeZh('有四个率苹果', { expectedNouns: ['苹果'] }).phrases[0]?.modifiers).toEqual([]);
+  });
+
   it('marks unknown words close to the expected noun', () => {
     const doc = analyzeZh('有四个苹里', { expectedNouns: ['苹果'] });
     expect(doc.phrases[0]?.noun).toMatchObject({ noun: '苹里', match: 'unknown', near: '苹果' });

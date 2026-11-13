@@ -47,8 +47,10 @@ export interface MeasureSpan extends TextSpan {
 
 export interface ModifierSpan extends TextSpan {
   kind: 'color' | 'adjective';
-  /** The word without shade, 色 or 的 (绿 in 浅绿色的). */
+  /** The word without shade, 色 or 的 (绿 in 浅绿色的); for a typo, the intended word. */
   base: string;
+  /** Homophone typos of an expected colour (率 for 绿). */
+  typos?: Typo[];
 }
 
 export interface Typo {
@@ -92,6 +94,8 @@ export interface ZhDoc {
 export interface AnalyzeOptions {
   /** Nouns the answer should mention; enables homophone matching for them. */
   expectedNouns?: readonly string[];
+  /** Colours the answer should mention; enables homophone matching for them. */
+  expectedColors?: readonly string[];
 }
 
 const APPROX_AFTER_UNIT = new Set(['多', '来', '余']);
@@ -168,6 +172,39 @@ function matchModifier(text: string, p: number, end: number): ModifierSpan | und
   return undefined;
 }
 
+/**
+ * Compares `word` with the text at p, character by character: every
+ * character must be equal or a homophone, with at least one homophone.
+ * Returns the typos, or undefined when the text is not a typo of `word`.
+ */
+function homophoneTypos(text: string, p: number, end: number, word: string): Typo[] | undefined {
+  if (p + word.length > end) return undefined;
+  const typos: Typo[] = [];
+  let exactChars = 0;
+  for (let i = 0; i < word.length; i++) {
+    const w = text[p + i]!;
+    const e = word[i]!;
+    if (w === e) exactChars++;
+    else if (isHan(w) && !isNumeralChar(w) && isHomophone(w, e)) typos.push({ index: p + i, written: w, expected: e });
+    else return undefined;
+  }
+  if (typos.length === 0 || (word.length >= 2 && exactChars === 0)) return undefined;
+  return typos;
+}
+
+/** A homophone typo of an expected colour, e.g. 率苹果 for 绿苹果. */
+function matchColorTypo(text: string, p: number, end: number, colors: readonly string[]): ModifierSpan | undefined {
+  for (const color of colors) {
+    const typos = homophoneTypos(text, p, end, color);
+    if (!typos) continue;
+    let q = p + color.length;
+    if (q < end && text[q] === '色') q++;
+    if (q < end && text[q] === '的') q++;
+    return { start: p, end: q, text: text.slice(p, q), kind: 'color', base: color, typos };
+  }
+  return undefined;
+}
+
 function matchNoun(text: string, p: number, end: number, expected: readonly string[]): NounSpan | undefined {
   let best: string | undefined;
   for (const word of expected) {
@@ -180,24 +217,10 @@ function matchNoun(text: string, p: number, end: number, expected: readonly stri
   // A homophone of an expected noun (平果 for 苹果), unless the written word is
   // itself a known noun (then the learner said something else).
   for (const word of expected) {
-    if (p + word.length > end) continue;
     const written = text.slice(p, p + word.length);
     if (NOUNS.has(written)) continue;
-    const typos: Typo[] = [];
-    let exactChars = 0;
-    let ok = true;
-    for (let i = 0; i < word.length; i++) {
-      const w = written[i]!;
-      const e = word[i]!;
-      if (w === e) exactChars++;
-      else if (isHan(w) && !isNumeralChar(w) && isHomophone(w, e)) typos.push({ index: p + i, written: w, expected: e });
-      else {
-        ok = false;
-        break;
-      }
-    }
-    if (!ok || typos.length === 0 || (word.length >= 2 && exactChars === 0)) continue;
-    return { start: p, end: p + word.length, text: written, noun: word, match: 'homophone', typos };
+    const typos = homophoneTypos(text, p, end, word);
+    if (typos) return { start: p, end: p + word.length, text: written, noun: word, match: 'homophone', typos };
   }
   return undefined;
 }
@@ -241,6 +264,7 @@ function parseNounPhrase(
   pos: number,
   end: number,
   expected: readonly string[],
+  expectedColors: readonly string[],
   numberStarts: ReadonlySet<number>,
 ) {
   const modifiers: ModifierSpan[] = [];
@@ -249,7 +273,7 @@ function parseNounPhrase(
   while (p < end && modifiers.length < 4 && !numberStarts.has(p)) {
     noun = matchNoun(text, p, end, expected);
     if (noun) break;
-    const modifier = matchModifier(text, p, end);
+    const modifier = matchModifier(text, p, end) ?? matchColorTypo(text, p, end, expectedColors);
     if (!modifier) break;
     modifiers.push(modifier);
     p = modifier.end;
@@ -269,6 +293,7 @@ function parseNounPhrase(
 
 export function analyzeZh(text: string, options: AnalyzeOptions = {}): ZhDoc {
   const expected = options.expectedNouns ?? [];
+  const expectedColors = options.expectedColors ?? [];
   const clauses = splitClauses(text);
   const spans = findNumberSpans(text);
   const numberStarts = new Set(spans.map((s) => s.start));
@@ -301,7 +326,7 @@ export function analyzeZh(text: string, options: AnalyzeOptions = {}): ZhDoc {
       pos = measure.end;
     }
 
-    const np = parseNounPhrase(text, pos, clause.end, expected, numberStarts);
+    const np = parseNounPhrase(text, pos, clause.end, expected, expectedColors, numberStarts);
     const prefix = text.slice(clause.start, span.start);
     phrases.push({
       start: span.start,

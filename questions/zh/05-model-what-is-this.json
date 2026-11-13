@@ -1,0 +1,22 @@
+{
+  "id": "zh-model-what-is-this",
+  "lang": "zh",
+  "type": "model",
+  "title": "Đây là gì?",
+  "prompt": "这是什么？",
+  "promptVi": "Đây là cái gì?",
+  "picture": "🍎",
+  "answers": ["[这|这个]是(一个)苹果。", "(是)(一个)苹果。"],
+  "examples": [
+    { "answer": "这是苹果。", "score": 100 },
+    { "answer": "这是一个苹果。", "score": 100 },
+    { "answer": "苹果。", "score": 100 },
+    { "answer": "这是平果。", "score": 95, "issues": ["homophone_char"] },
+    { "answer": "这是一苹果。", "score": 80, "issues": ["missing_measure_word"] },
+    { "answer": "这是一本苹果。", "score": 80, "issues": ["wrong_measure_word"] },
+    { "answer": "這是蘋果。", "score": 100, "issues": ["traditional_converted"] },
+    { "answer": "这是香蕉。", "score": 0 },
+    { "answer": "那是苹果。", "score": 0, "note": "这/那 khác nghĩa và không có trong đáp án mẫu: đánh dấu cần giáo viên xem lại" },
+    { "answer": "这不是苹果。", "score": 0, "note": "Thêm 不 làm đổi nghĩa" }
+  ]
+}

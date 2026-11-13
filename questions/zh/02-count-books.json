@@ -1,0 +1,25 @@
+{
+  "id": "zh-count-books",
+  "lang": "zh",
+  "type": "count",
+  "title": "Đếm sách",
+  "prompt": "桌子上有几本书？",
+  "promptVi": "Trên bàn có mấy quyển sách?",
+  "picture": "📕📗📘",
+  "expected": {
+    "number": 3,
+    "noun": "书",
+    "sentence": "桌子上有三本书。"
+  },
+  "examples": [
+    { "answer": "桌子上有三本书。", "score": 100 },
+    { "answer": "有三本。", "score": 100 },
+    { "answer": "三本书。", "score": 100 },
+    { "answer": "有三本红色的书。", "score": 100 },
+    { "answer": "有三个书。", "score": 80, "issues": ["wrong_measure_word"], "note": "书 dùng lượng từ 本" },
+    { "answer": "有三书。", "score": 80, "issues": ["missing_measure_word"] },
+    { "answer": "有三本输。", "score": 95, "issues": ["homophone_char"], "note": "输 (shū) gõ nhầm thay cho 书 (shū)" },
+    { "answer": "有四本书。", "score": 20 },
+    { "answer": "桌子上没有书。", "score": 20, "note": "Nói là không có quyển nào" }
+  ]
+}

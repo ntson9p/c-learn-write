@@ -1,0 +1,39 @@
+{
+  "id": "zh-count-green-apples",
+  "lang": "zh",
+  "type": "count",
+  "title": "Đếm táo xanh",
+  "prompt": "图片里有几个绿苹果？",
+  "promptVi": "Trong hình có mấy quả táo xanh?",
+  "picture": "🍏🍏🍏🍏🍎🍎",
+  "expected": {
+    "number": 4,
+    "noun": "苹果",
+    "colors": ["绿", "青"],
+    "sentence": "图片里有四个绿苹果。"
+  },
+  "examples": [
+    { "answer": "图片里有四个绿苹果。", "score": 100 },
+    { "answer": "有四个。", "score": 100, "note": "Câu rút gọn, rất tự nhiên trong tiếng Trung" },
+    { "answer": "有4个。", "score": 100, "note": "Chấp nhận chữ số Ả Rập" },
+    { "answer": "有四个青苹果。", "score": 100, "note": "青苹果 cũng là táo xanh" },
+    { "answer": "有两个红苹果和四个绿苹果。", "score": 100, "note": "Nhận ra số nào đi với táo xanh" },
+    { "answer": "图片里有六个苹果，四个是绿的。", "score": 100, "note": "Màu nằm ở vị ngữ 是绿的" },
+    { "answer": "有四苹果。", "score": 80, "issues": ["missing_measure_word"] },
+    { "answer": "有四。", "score": 80, "issues": ["missing_measure_word"] },
+    { "answer": "有四本苹果。", "score": 80, "issues": ["wrong_measure_word"] },
+    { "answer": "有四个苹果绿。", "score": 80, "issues": ["modifier_order"], "note": "Dịch từng chữ \"táo xanh\"" },
+    { "answer": "有四个绿平果。", "score": 95, "issues": ["homophone_char"] },
+    { "answer": "有四个率苹果。", "score": 95, "issues": ["homophone_char"], "note": "率 (lǜ) gõ nhầm thay cho 绿 (lǜ)" },
+    { "answer": "圖片裡有四個綠蘋果。", "score": 100, "issues": ["traditional_converted"], "note": "Chữ phồn thể" },
+    { "answer": "有十四个绿苹果。", "score": 20, "note": "Sai số lượng, dù có chứa chữ 四" },
+    { "answer": "有五个绿苹果。", "score": 20 },
+    { "answer": "没有四个绿苹果。", "score": 20, "note": "Câu phủ định" },
+    { "answer": "有四个红苹果和两个绿苹果。", "score": 20, "note": "Táo xanh chỉ có 2 quả" },
+    { "answer": "有两个红苹果。", "score": 20, "note": "Nói về táo đỏ" },
+    { "answer": "有四五个。", "score": 20, "note": "Số ước lượng" },
+    { "answer": "有四个或者五个。", "score": 20, "note": "Hai con số khác nhau" },
+    { "answer": "我喜欢苹果。", "score": 0, "note": "Không trả lời câu hỏi" },
+    { "answer": "you si ge", "score": 0, "note": "Không viết bằng chữ Hán" }
+  ]
+}
