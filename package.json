@@ -10,16 +10,21 @@
     "apps/*"
   ],
   "scripts": {
+    "dev": "npm run dev -w @c-learn-write/web",
+    "build": "npm run build -w @c-learn-write/web",
+    "preview": "npm run preview -w @c-learn-write/web",
     "typecheck": "tsc --noEmit -p . && npm run typecheck --workspaces --if-present",
     "test": "vitest run",
     "test:watch": "vitest",
     "check": "npm run typecheck && npm run test",
-    "demo": "npm run demo -w @c-learn-write/grader"
+    "demo": "npm run demo -w @c-learn-write/grader",
+    "e2e": "npm run e2e -w @c-learn-write/web"
   },
   "engines": {
     "node": "^22.12.0 || ^24.0.0 || >=26.0.0"
   },
   "devDependencies": {
+    "@types/node": "22.20.5",
     "happy-dom": "^21.0.4",
     "typescript": "^7.0.2",
     "vite": "^8.3.8",
