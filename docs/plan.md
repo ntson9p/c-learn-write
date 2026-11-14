@@ -1,6 +1,6 @@
 # Kế hoạch: web app dạy tiếng Trung HSK1–HSK3 cho người Việt
 
-> **Trạng thái: chờ chủ dự án duyệt.** Viết ngày 2026-11-14, ở giai đoạn 1 (khảo sát và quyết định). Chưa có dòng code nào của app được viết; code chỉ bắt đầu sau khi kế hoạch này được duyệt.
+> **Trạng thái: đã được chủ dự án duyệt ngày 2026-11-14.** Kế hoạch viết ở giai đoạn 1 (khảo sát và quyết định); tiến độ thực hiện từng giai đoạn được ghi trong [handoff.md](handoff.md).
 >
 > Tài liệu liên quan: [handoff.md](handoff.md) (bàn giao), [design.md](design.md) (thiết kế bộ chấm), [README.md](../README.md).
 
@@ -240,14 +240,14 @@ Mỗi giai đoạn kết thúc bằng các bước sau:
 
 Đã đọc tài liệu; môi trường dùng Node 22.23.4; `npm ci` chạy xong; `npm run check` qua 18 file test, 295 test.
 
-### Giai đoạn 1: Khảo sát và quyết định (đang chờ duyệt)
+### Giai đoạn 1: Khảo sát và quyết định (xong ngày 2026-11-14)
 
 Đã tìm hiểu chuẩn HSK và dữ liệu mở (mục 3), chốt 12 quyết định (mục 2) và viết kế hoạch này.
 
 **Tiêu chí hoàn thành**
 
-- [ ] Chủ dự án duyệt `docs/plan.md`.
-- [ ] `docs/handoff.md` được cập nhật theo các quyết định.
+- [x] Chủ dự án duyệt `docs/plan.md`.
+- [x] `docs/handoff.md` được cập nhật theo các quyết định.
 
 ### Giai đoạn 2: Nền tảng
 

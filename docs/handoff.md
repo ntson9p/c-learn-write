@@ -12,6 +12,8 @@
   - 295 test đều qua; repo có 11 commit trên nhánh `master` (commit cuối cùng thêm chính tài liệu này).
 - **Việc tiếp theo** (mục 10): xây một **web app hoàn chỉnh dạy ngữ pháp và từ vựng tiếng Trung**, giúp người học đạt trình độ từ **HSK1 đến HSK3**, dùng lại bộ chấm này cho các bài tập tự luận.
 
+> **Cập nhật 2026-11-14 (phiên 2).** Giai đoạn 0 và 1 đã xong: môi trường cloud chạy Node 22.23.4, 295 test qua; chủ dự án đã chốt 12 quyết định và **duyệt kế hoạch [docs/plan.md](plan.md)** (đề cương thi HSK 2025, PWA Preact + Vite, monorepo npm workspaces, FSRS, nội dung do Claude soạn nháp và giáo viên duyệt…). Mọi việc làm trên nhánh `claude/gifted-euler-v75r1k`, không commit vào `master`; hỏi chủ dự án trước khi mở pull request, merge hoặc triển khai. Kế hoạch là nguồn chính cho các bước tiếp theo; các mục 9–11 bên dưới chỉ còn giá trị lịch sử.
+
 ## 2. Làm việc với chủ dự án (quan trọng)
 
 - Trả lời chủ dự án bằng **tiếng Việt**.
