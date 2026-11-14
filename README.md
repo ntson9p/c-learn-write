@@ -32,24 +32,26 @@ Với câu hỏi nơi chốn, bộ chấm bắt các lỗi trật tự từ rấ
 
 ## Chạy thử
 
-Yêu cầu: Node.js 22.12 trở lên (đã thử với Node 24.21).
+Yêu cầu: Node.js 22.12 trở lên (đã thử với Node 22.23 và 24.21).
+
+Repo là một monorepo npm workspaces: bộ chấm nằm ở `packages/grader`, web app ở `apps/web` (xem [docs/plan.md](docs/plan.md)).
 
 ```sh
-npm install
-npm run demo      # trang demo: mở http://localhost:5173
-npm test          # chạy toàn bộ test
-npm run check     # kiểm tra kiểu TypeScript + test
+npm ci
+npm run dev       # web app: mở địa chỉ Vite in ra (thêm -- --host để mở từ điện thoại)
+npm run demo      # trang demo của bộ chấm: http://localhost:5173
+npm run check     # kiểm tra kiểu TypeScript + toàn bộ test
+npm run build     # build web app (PWA) vào apps/web/dist
+npm run e2e       # build rồi chạy test đầu-cuối bằng Playwright (Chromium)
 ```
 
-Mở trang demo trên điện thoại (cùng mạng Wi-Fi): chạy `npm run demo -- --host` rồi mở địa chỉ "Network" mà Vite in ra.
-
-Trên trang demo, chọn một câu hỏi, gõ câu trả lời hoặc bấm một câu trong mục "Thử nhanh". Kết quả gồm điểm, lời nhận xét cho từng lỗi (kèm số điểm bị trừ), câu đã sửa, đáp án tham khảo, và cờ "Cần giáo viên xem lại" khi bộ chấm không chắc chắn.
+Trên trang demo (hoặc trang "Chấm thử" trong app), chọn một câu hỏi, gõ câu trả lời hoặc bấm một câu trong mục "Thử nhanh". Kết quả gồm điểm, lời nhận xét cho từng lỗi (kèm số điểm bị trừ), câu đã sửa, đáp án tham khảo, và cờ "Cần giáo viên xem lại" khi bộ chấm không chắc chắn.
 
 ## Dùng trong code
 
 ```ts
-import { grade, type Question } from './src';
-import data from './questions/zh/01-count-green-apples.json';
+import { grade, type Question } from '@c-learn-write/grader';
+import data from './packages/grader/questions/zh/01-count-green-apples.json';
 
 const question = data as Question;
 const result = grade(question, '有四苹果。');
@@ -84,7 +86,7 @@ Nguyên tắc quan trọng nhất: **chính xác trước, đầy đủ sau.** K
 
 ## Viết câu hỏi
 
-Mỗi câu hỏi là một file JSON trong [questions/zh/](questions/zh/). Thêm câu hỏi mới không cần sửa code.
+Mỗi câu hỏi là một file JSON trong [questions/zh/](packages/grader/questions/zh/). Thêm câu hỏi mới không cần sửa code.
 
 ### Loại `count`: hỏi số lượng
 
@@ -105,7 +107,7 @@ Mỗi câu hỏi là một file JSON trong [questions/zh/](questions/zh/). Thêm
 | Trường | Ý nghĩa |
 |---|---|
 | `expected.number` | Số lượng đúng |
-| `expected.noun` | Danh từ được đếm; nên có trong [bảng danh từ](src/lang/zh/data/nouns.json) để kiểm tra được lượng từ |
+| `expected.noun` | Danh từ được đếm; nên có trong [bảng danh từ](packages/grader/src/lang/zh/data/nouns.json) để kiểm tra được lượng từ |
 | `expected.colors` | Các từ chỉ màu được chấp nhận (không bắt buộc) |
 | `expected.sentence` | Câu trả lời mẫu để gợi ý cho người học (không bắt buộc) |
 | `options.requireFullSentence` | Bắt trả lời thành câu có 有/是 (mặc định: không) |
@@ -154,7 +156,7 @@ Khi so khớp, bộ chấm bỏ qua dấu câu, thán từ đầu câu (嗯，�
 | `expected.sentence` | Câu trả lời mẫu để gợi ý (không bắt buộc) |
 | `options.wrongContentScore` | Điểm tối đa khi sai nội dung (mặc định: 20) |
 
-Nơi chốn nên có trong [places.json](src/lang/zh/data/places.json), vì ở đó ghi rõ từ nào là tên riêng (中国, không thêm 里), nơi chốn (家, 里 tùy ý) hay đồ vật (桌子, bắt buộc có phương vị từ). Với câu hỏi về bản thân, tên địa điểm lạ (một con phố, một ngôi trường) vẫn được chấp nhận nhưng gắn cờ "Cần giáo viên xem lại".
+Nơi chốn nên có trong [places.json](packages/grader/src/lang/zh/data/places.json), vì ở đó ghi rõ từ nào là tên riêng (中国, không thêm 里), nơi chốn (家, 里 tùy ý) hay đồ vật (桌子, bắt buộc có phương vị từ). Với câu hỏi về bản thân, tên địa điểm lạ (một con phố, một ngôi trường) vẫn được chấp nhận nhưng gắn cờ "Cần giáo viên xem lại".
 
 ### Ví dụ đi kèm câu hỏi
 
@@ -194,24 +196,16 @@ Mỗi câu hỏi có thể đổi mức trừ qua trường `penalties`, ví d�
 ## Cấu trúc thư mục
 
 ```
-src/
-  core/            phần dùng chung cho mọi ngôn ngữ: kiểu dữ liệu, cú pháp đáp án, so khớp, kiểm tra câu hỏi
-  lang/zh/         gói tiếng Trung
-    data/          từ vựng dạng JSON (lượng từ, danh từ, màu/tính từ, từ chứa chữ số nhưng không phải số,
-                   nơi chốn/phương vị từ, động từ)
-    analyze.ts     phân tích câu (cụm số lượng)
-    places.ts      phân tích cụm nơi chốn
-    rules.ts       các luật bắt lỗi
-    location-rules.ts  các luật về nơi chốn
-    count.ts       bộ chấm loại count
-    model.ts       bộ chấm loại model
-    location.ts    bộ chấm loại location
-    messages.ts    lời nhận xét tiếng Việt
-  grade.ts         điểm vào: chọn gói ngôn ngữ theo câu hỏi
-questions/zh/      câu hỏi mẫu
-demo/              trang demo
-tests/             test (Vitest), kể cả test giao diện demo (happy-dom)
-docs/design.md     thiết kế và các quyết định
+packages/grader/   bộ chấm (@c-learn-write/grader)
+  src/core/        phần dùng chung cho mọi ngôn ngữ: kiểu dữ liệu, cú pháp đáp án, so khớp, kiểm tra câu hỏi
+  src/lang/zh/     gói tiếng Trung: chuẩn hóa, đọc số, từ vựng JSON (data/), phân tích câu, luật, các bộ chấm,
+                   lời nhận xét tiếng Việt
+  src/grade.ts     điểm vào: chọn gói ngôn ngữ theo câu hỏi
+  questions/zh/    câu hỏi mẫu (mỗi ví dụ là một test)
+  demo/            trang demo của bộ chấm
+  tests/           test (Vitest)
+apps/web/          web app PWA (Preact + Vite), dùng bộ chấm như một thư viện
+docs/              plan.md (kế hoạch), handoff.md (bàn giao), design.md (thiết kế bộ chấm)
 ```
 
 ## Giới hạn hiện tại

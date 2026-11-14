@@ -42,7 +42,7 @@ Khi không chắc về **nội dung**, bộ chấm đặt cờ `needsReview` (c�
 
 ## Phân tích câu tiếng Trung
 
-Thay vì một bộ phân tích cú pháp tổng quát (rất dễ hỏng khi câu có lỗi của người học), [analyze.ts](../src/lang/zh/analyze.ts) chỉ tìm **cụm số lượng**, cấu trúc mang dữ kiện của câu trả lời:
+Thay vì một bộ phân tích cú pháp tổng quát (rất dễ hỏng khi câu có lỗi của người học), [analyze.ts](../packages/grader/src/lang/zh/analyze.ts) chỉ tìm **cụm số lượng**, cấu trúc mang dữ kiện của câu trả lời:
 
 ```
 số      [lượng từ]  [từ bổ nghĩa]  [danh từ]  [từ bổ nghĩa đặt sai chỗ]
@@ -50,14 +50,14 @@ số      [lượng từ]  [từ bổ nghĩa]  [danh từ]  [từ bổ nghĩa đ
 四        个                         苹果        绿      ← lỗi trật tự từ
 ```
 
-- **Số**: chữ số Ả Rập hoặc chữ Hán (四, 十四, 一百零五, 两千三, 四五 = "4 hoặc 5"). Các từ chỉ trông giống số (一起, 一共, 星期四, 十分好, 看一看…) bị loại nhờ danh sách [non-numbers.json](../src/lang/zh/data/non-numbers.json); số thứ tự (第四) cũng bị loại.
-- **Lượng từ**: phân loại theo [measure-words.json](../src/lang/zh/data/measure-words.json): lượng từ cá thể (phải hợp với danh từ), chung (种), đồ chứa (杯), thời gian, lịch, tiền, đo lường, số thứ tự.
+- **Số**: chữ số Ả Rập hoặc chữ Hán (四, 十四, 一百零五, 两千三, 四五 = "4 hoặc 5"). Các từ chỉ trông giống số (一起, 一共, 星期四, 十分好, 看一看…) bị loại nhờ danh sách [non-numbers.json](../packages/grader/src/lang/zh/data/non-numbers.json); số thứ tự (第四) cũng bị loại.
+- **Lượng từ**: phân loại theo [measure-words.json](../packages/grader/src/lang/zh/data/measure-words.json): lượng từ cá thể (phải hợp với danh từ), chung (种), đồ chứa (杯), thời gian, lịch, tiền, đo lường, số thứ tự.
 - **Danh từ**: ưu tiên từ dài nhất trong từ vựng (苹果树 thắng 苹果). Một từ đồng âm với danh từ mong đợi (平果 ↔ 苹果) được nhận là lỗi gõ, **trừ khi** chính nó là một danh từ khác có thật.
 - **Phủ định**: 没(有), 不是, 不止, 不到… đứng ngay trước số trong cùng mệnh đề.
 
 ## Phân tích nơi chốn
 
-[places.ts](../src/lang/zh/places.ts) tìm các **cụm nơi chốn**:
+[places.ts](../packages/grader/src/lang/zh/places.ts) tìm các **cụm nơi chốn**:
 
 ```
 在  nơi chốn      [的] [phương vị từ]     在 家 里 · 在 桌子 上 · 在 桌子 的 上面
@@ -65,7 +65,7 @@ số      [lượng từ]  [từ bổ nghĩa]  [danh từ]  [từ bổ nghĩa đ
 cụm 的 cụm                                在 桌子上 的 书包里
 ```
 
-- **Từ vựng** ([places.json](../src/lang/zh/data/places.json)) chia ba loại: tên riêng (中国, 河内: không thêm 里), nơi chốn (家, 学校: 里 tùy ý), đồ vật (桌子, 书包: bắt buộc có phương vị từ). Phương vị từ được xếp nhóm theo nghĩa (nhóm 上 gồm 上/上面/上边/上头…).
+- **Từ vựng** ([places.json](../packages/grader/src/lang/zh/data/places.json)) chia ba loại: tên riêng (中国, 河内: không thêm 里), nơi chốn (家, 学校: 里 tùy ý), đồ vật (桌子, 书包: bắt buộc có phương vị từ). Phương vị từ được xếp nhóm theo nghĩa (nhóm 上 gồm 上/上面/上边/上头…).
 - **Không phải nơi chốn**: 在 + động từ là thể tiếp diễn (我在吃饭, 我在上课); 在 + thời gian (在晚上, 在五月); chữ 在 nằm trong 现在, 实在…
 - **Không bị coi là phương vị từ đặt ngược**: các từ có thật bắt đầu bằng phương vị từ (上海, 上课, 上车, 外地…).
 - Ngoài ra còn nhận ra: sở hữu (在我的房间), từ hạn định (在一个小城市, 在这家饭馆), 再 gõ nhầm cho 在 (再家), động từ nhận nơi chốn trực tiếp (住河内, 回家), câu trả lời ngắn (书包里。, 桌子上有一本书).
@@ -88,7 +88,7 @@ cụm 的 cụm                                在 桌子上 的 书包里
 1. Mở rộng các mẫu `[a|b](x)` thành danh sách đáp án.
 2. Nếu câu trả lời **trùng y hệt** một đáp án mẫu (bỏ qua dấu câu, thán từ đầu câu, trợ từ cuối câu) thì nhận điểm của đáp án đó, không chạy luật. Đáp án mẫu do giáo viên viết được tin tưởng tuyệt đối.
 3. Nếu không trùng: chạy các luật, áp dụng chỗ sửa của luật rồi so lại. Ví dụ 这是一苹果 được sửa thành 这是一个苹果, khớp đáp án, bị trừ 20 vì thiếu lượng từ.
-4. So khớp bằng **căn chỉnh từng ký tự** có trọng số ([align.ts](../src/core/align.ts)). Mỗi số được coi là một đơn vị (四 = 4 = `#4`). Những gì được chấp nhận:
+4. So khớp bằng **căn chỉnh từng ký tự** có trọng số ([align.ts](../packages/grader/src/core/align.ts)). Mỗi số được coi là một đơn vị (四 = 4 = `#4`). Những gì được chấp nhận:
    - Chữ đồng âm (cùng pinyin, bỏ qua thanh điệu): −5 mỗi chữ, tối đa khoảng 1/3 độ dài câu.
    - Thiếu/thừa hư từ 是 的 了 很 也 都 就 还 个 呢 吧 啊 呀: −15 mỗi từ, tối đa 1 lần (câu ≤ 4 đơn vị) hoặc 2 lần (câu dài hơn).
    - Không bao giờ chấp nhận chỗ khác nhau ở 不 没 别 无 非 未 吗 否, ở con số, hay 这/那.
@@ -105,7 +105,7 @@ cụm 的 cụm                                在 桌子上 的 书包里
 2. **Câu hỏi về bản thân** (không có `expected.places`): nơi nào cũng đúng. Tên lạ được chấp nhận nhưng gắn cờ cần xem lại.
 3. Lỗi ngôn ngữ trừ điểm như ở các loại khác. Luật `place_order` chỉ báo lỗi khi thỏa mãn đủ các điều kiện sau:
    - cụm 在 đứng cuối mệnh đề (sau nó chỉ có thể là trợ từ 了/呢/吧/吗…);
-   - trước nó có một động từ hành động ([verbs.json](../src/lang/zh/data/verbs.json));
+   - trước nó có một động từ hành động ([verbs.json](../packages/grader/src/lang/zh/data/verbs.json));
    - động từ đứng ngay trước 在 không thuộc nhóm nhận 在 phía sau (住, 放, 坐, 写…);
    - câu không có động từ chuyển động (去, 来, 回, 到).
 
@@ -115,15 +115,15 @@ cụm 的 cụm                                在 桌子上 的 书包里
 
 Danh sách khởi đầu do Claude soạn, **chưa được giáo viên kiểm tra**:
 
-- [ ] [nouns.json](../src/lang/zh/data/nouns.json): 123 danh từ và các lượng từ được chấp nhận; lượng từ đầu tiên là lượng từ được gợi ý khi sửa. Cần xem lại các trường hợp có tranh luận: 电脑 có dùng được 个 không? 椅子 có dùng được 张 không? 苹果 có dùng được 颗 không?
-- [ ] [measure-words.json](../src/lang/zh/data/measure-words.json): loại của từng lượng từ và danh sách `erOk` (những chỗ 二 vẫn đúng).
-- [ ] [modifiers.json](../src/lang/zh/data/modifiers.json): màu và tính từ dùng cho luật trật tự từ.
-- [ ] [non-numbers.json](../src/lang/zh/data/non-numbers.json): các từ chứa chữ số nhưng không phải số.
-- [ ] [places.json](../src/lang/zh/data/places.json): 116 từ chỉ nơi chốn (34 tên riêng, 50 nơi chốn, 32 đồ vật kèm phương vị từ mặc định như 桌子 → 上, 书包 → 里), 31 phương vị từ trong 12 nhóm, các từ chỉ thời gian, các từ "không đảo" (上车, 外地…).
-- [ ] [verbs.json](../src/lang/zh/data/verbs.json): 91 động từ hành động, 23 động từ nhận 在 phía sau (住在, 放在…), 26 từ trông giống động từ nhưng không phải (学生, 看见, 放假…).
-- [ ] [messages.ts](../src/lang/zh/messages.ts): lời nhận xét tiếng Việt.
-- [ ] Mức trừ điểm mặc định trong [issues.ts](../src/lang/zh/issues.ts).
-- [ ] Các câu hỏi mẫu trong [questions/zh/](../questions/zh/) và điểm mong đợi của từng ví dụ.
+- [ ] [nouns.json](../packages/grader/src/lang/zh/data/nouns.json): 123 danh từ và các lượng từ được chấp nhận; lượng từ đầu tiên là lượng từ được gợi ý khi sửa. Cần xem lại các trường hợp có tranh luận: 电脑 có dùng được 个 không? 椅子 có dùng được 张 không? 苹果 có dùng được 颗 không?
+- [ ] [measure-words.json](../packages/grader/src/lang/zh/data/measure-words.json): loại của từng lượng từ và danh sách `erOk` (những chỗ 二 vẫn đúng).
+- [ ] [modifiers.json](../packages/grader/src/lang/zh/data/modifiers.json): màu và tính từ dùng cho luật trật tự từ.
+- [ ] [non-numbers.json](../packages/grader/src/lang/zh/data/non-numbers.json): các từ chứa chữ số nhưng không phải số.
+- [ ] [places.json](../packages/grader/src/lang/zh/data/places.json): 116 từ chỉ nơi chốn (34 tên riêng, 50 nơi chốn, 32 đồ vật kèm phương vị từ mặc định như 桌子 → 上, 书包 → 里), 31 phương vị từ trong 12 nhóm, các từ chỉ thời gian, các từ "không đảo" (上车, 外地…).
+- [ ] [verbs.json](../packages/grader/src/lang/zh/data/verbs.json): 91 động từ hành động, 23 động từ nhận 在 phía sau (住在, 放在…), 26 từ trông giống động từ nhưng không phải (学生, 看见, 放假…).
+- [ ] [messages.ts](../packages/grader/src/lang/zh/messages.ts): lời nhận xét tiếng Việt.
+- [ ] Mức trừ điểm mặc định trong [issues.ts](../packages/grader/src/lang/zh/issues.ts).
+- [ ] Các câu hỏi mẫu trong [questions/zh/](../packages/grader/questions/zh/) và điểm mong đợi của từng ví dụ.
 
 ## Kiểm thử
 
