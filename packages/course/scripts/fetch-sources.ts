@@ -46,8 +46,10 @@ async function keep(file: string, out: string, filter: (row: string[], header: s
   const [header, ...rows] = parseCsv(text);
   if (!header) throw new Error(`${file}: empty`);
   const keepIdx = header.map((h, i) => (dropColumns.includes(h) ? -1 : i)).filter((i) => i >= 0);
+  // Multi-line cells use CRLF upstream; keep LF only (the repo stores text with LF).
+  const cell = (r: string[], i: number) => (r[i] ?? '').replace(/\r\n?/g, '\n');
   const kept = rows.filter((r) => r.some((c) => c !== '') && filter(r, header));
-  write(join(root, 'hsk-2025', out), toCsv([keepIdx.map((i) => header[i]!), ...kept.map((r) => keepIdx.map((i) => r[i] ?? ''))]));
+  write(join(root, 'hsk-2025', out), toCsv([keepIdx.map((i) => header[i]!), ...kept.map((r) => keepIdx.map((i) => cell(r, i)))]));
   return kept;
 }
 
