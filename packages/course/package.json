@@ -19,6 +19,8 @@
     "review:import": "node scripts/review-import.ts"
   },
   "dependencies": {
-    "@c-learn-write/grader": "*"
+    "@c-learn-write/grader": "*",
+    "pinyin-pro": "^3.29.5",
+    "opencc-js": "^1.4.2"
   }
 }
