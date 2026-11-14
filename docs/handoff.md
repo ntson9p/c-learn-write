@@ -14,6 +14,22 @@
 
 > **Cập nhật 2026-11-14 (phiên 2).** Giai đoạn 0 và 1 đã xong: môi trường cloud chạy Node 22.23.4, 295 test qua; chủ dự án đã chốt 12 quyết định và **duyệt kế hoạch [docs/plan.md](plan.md)** (đề cương thi HSK 2025, PWA Preact + Vite, monorepo npm workspaces, FSRS, nội dung do Claude soạn nháp và giáo viên duyệt…). Mọi việc làm trên nhánh `claude/gifted-euler-v75r1k`, không commit vào `master`; hỏi chủ dự án trước khi mở pull request, merge hoặc triển khai. Kế hoạch là nguồn chính cho các bước tiếp theo; các mục 9–11 bên dưới chỉ còn giá trị lịch sử.
 
+## 1b. Tiến độ triển khai kế hoạch (cập nhật sau mỗi bước lớn)
+
+Cập nhật lần cuối: 2026-11-15. Nhánh `claude/gifted-euler-v75r1k`; CI GitHub Actions (`.github/workflows/ci.yml`) chạy xanh.
+
+| Giai đoạn | Trạng thái |
+|---|---|
+| 0–1. Tiếp nhận, khảo sát, quyết định | Xong; `docs/plan.md` đã được duyệt |
+| 2. Nền tảng | Gần xong. **Đường dẫn đã đổi**: `src/`, `tests/`, `questions/`, `demo/` của bộ chấm nay ở `packages/grader/` (package `@c-learn-write/grader`). App PWA ở `apps/web` (Preact 10 + Vite 8, vite-plugin-pwa, idb, hash router, chuỗi tiếng Việt ở `apps/web/src/strings.ts`). `npm run check` = kiểm tra kiểu mọi workspace + Vitest (326 test); `npm run e2e` = build + Playwright (3 test) |
+| 3. Dữ liệu | Đang làm. `packages/course`: `sources/` (đề cương HSK 2025 cấp 1–3 và âm Hán Việt, tải bằng `npm run sources:fetch -w @c-learn-write/course`, khóa commit). Việc tiếp theo: module pinyin (tách âm tiết theo chữ), script `data:build` (nguồn → JSON + âm Hán Việt), kiểu dữ liệu và bộ kiểm tra, kiểm soát từ vựng, xuất/nhập bảng tính duyệt, xếp HSK1 thành ~15 bài và soạn nội dung |
+| 4–9 | Chưa làm |
+
+Lưu ý khi làm tiếp:
+- Script Node trong `packages/course/scripts` chạy thẳng file `.ts` (Node 22.18+ tự bỏ kiểu); import tương đối phải ghi đuôi `.ts`.
+- **Bộ lọc nội dung của Claude** đã hai lần chặn câu trả lời đúng lúc sắp viết ra bảng âm tiết pinyin chuẩn (có lẽ vì trùng văn bản phổ biến). Đừng gõ tay các danh sách chuẩn dài; hãy sinh chúng từ dữ liệu (ví dụ từ thư viện pinyin-pro). Commit và push sau mỗi bước nhỏ vì tiến trình có thể bị khởi động lại.
+- Không đưa câu ví dụ chính thức (例句) của đề cương vào repo.
+
 ## 2. Làm việc với chủ dự án (quan trọng)
 
 - Trả lời chủ dự án bằng **tiếng Việt**.
