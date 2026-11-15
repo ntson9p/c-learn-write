@@ -16,7 +16,8 @@
     "content:fill": "node scripts/fill.ts",
     "content:report": "node scripts/report.ts",
     "review:export": "node scripts/review-export.ts",
-    "review:import": "node scripts/review-import.ts"
+    "review:import": "node scripts/review-import.ts",
+    "content:brief": "node scripts/lesson-brief.ts"
   },
   "dependencies": {
     "@c-learn-write/grader": "*",
