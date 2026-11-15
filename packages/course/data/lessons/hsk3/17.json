@@ -1,0 +1,1406 @@
+{
+  "id": "hsk3-17",
+  "goalsVi": [
+    "Gọi tên cảnh vật thiên nhiên và con vật: 山, 河, 海, 草地, 马, 牛, 羊, 大熊猫",
+    "Rủ nhau đi công viên, vườn thú, chụp ảnh: 我们在这儿拍照吧！",
+    "Dùng đúng lượng từ chuyên dụng: 一张照片, 一头牛, 一封信, 一所学校, 五百米",
+    "Nói 'cái nào cũng, ai nấy đều' bằng lượng từ lặp: 张张照片都很漂亮, 个个都很可爱",
+    "Nói 'trông có vẻ' bằng 「看起来」 và 「看上去」, phân biệt với 「看来」"
+  ],
+  "words": [
+    {
+      "no": 649,
+      "word": "公园",
+      "meaningsVi": [
+        "công viên"
+      ],
+      "examples": [
+        {
+          "zh": "周末我们去公园走走吧。",
+          "py": "zhōu mò wǒ men qù gōng yuán zǒu zǒu ba",
+          "vi": "Cuối tuần chúng mình đi dạo công viên nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 675,
+      "word": "花园",
+      "meaningsVi": [
+        "vườn hoa, khu vườn"
+      ],
+      "noteVi": "「花园」 là khu vườn trồng hoa, cây cảnh (của một ngôi nhà, một trường học…), nhỏ hơn 「公园」. Đừng nhầm với 'vườn' trồng rau, cây ăn quả.",
+      "examples": [
+        {
+          "zh": "我家后面有一个小花园。",
+          "py": "wǒ jiā hòu miàn yǒu yí gè xiǎo huā yuán",
+          "vi": "Sau nhà tôi có một khu vườn nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 955,
+      "word": "园",
+      "meaningsVi": [
+        "vườn, khu vườn (hay dùng trong từ ghép)"
+      ],
+      "noteVi": "「园」 ít khi đứng một mình; thường gặp trong từ ghép: 公园 (công viên), 花园 (vườn hoa), 动物园 (vườn thú), 校园 (khuôn viên trường). Khi đã nói đến một khu vườn, có thể dùng 「园里」 để chỉ lại nó.",
+      "examples": [
+        {
+          "zh": "这个花园不大，可是园里的花很多。",
+          "py": "zhè ge huā yuán bú dà kě shì yuán lǐ de huā hěn duō",
+          "vi": "Khu vườn này không lớn, nhưng hoa trong vườn rất nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 548,
+      "word": "草地",
+      "meaningsVi": [
+        "bãi cỏ, thảm cỏ"
+      ],
+      "noteVi": "Nói 'trên bãi cỏ' là 「草地上」, phương vị từ 「上」 đứng sau.",
+      "examples": [
+        {
+          "zh": "孩子们在草地上跑来跑去。",
+          "py": "hái zi men zài cǎo dì shàng pǎo lái pǎo qù",
+          "vi": "Bọn trẻ chạy tới chạy lui trên bãi cỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 823,
+      "word": "山",
+      "meaningsVi": [
+        "núi"
+      ],
+      "noteVi": "'Leo núi' là 「爬山」; 'trên núi' là 「山上」. Âm Hán Việt là 'sơn' (giang sơn).",
+      "examples": [
+        {
+          "zh": "星期天我们去爬山了。",
+          "py": "xīng qī tiān wǒ men qù pá shān le",
+          "vi": "Chủ nhật chúng tôi đi leo núi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 668,
+      "word": "河",
+      "meaningsVi": [
+        "sông"
+      ],
+      "noteVi": "Âm Hán Việt là 'hà', như trong 「河内」 (Hà Nội, 'phía trong sông'). Lượng từ là 「条」: 一条河.",
+      "examples": [
+        {
+          "zh": "我家旁边有一条河。",
+          "py": "wǒ jiā páng biān yǒu yì tiáo hé",
+          "vi": "Cạnh nhà tôi có một con sông."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 661,
+      "word": "海",
+      "meaningsVi": [
+        "biển"
+      ],
+      "noteVi": "'Bờ biển, ra biển' hay nói 「海边」. Chữ 「海」 cũng có trong tên 「上海」 (Thượng Hải).",
+      "examples": [
+        {
+          "zh": "夏天我们常常去海边游泳。",
+          "py": "xià tiān wǒ men cháng cháng qù hǎi biān yóu yǒng",
+          "vi": "Mùa hè chúng tôi thường ra biển bơi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 789,
+      "word": "爬",
+      "meaningsVi": [
+        "leo, trèo",
+        "bò (em bé, con vật)"
+      ],
+      "noteVi": "Hay gặp: 爬山 (leo núi), 爬楼梯 (leo cầu thang bộ). Em bé bò dưới đất cũng dùng 「爬」.",
+      "examples": [
+        {
+          "zh": "电梯坏了，我们只能爬楼梯。",
+          "py": "diàn tī huài le wǒ men zhǐ néng pá lóu tī",
+          "vi": "Thang máy hỏng rồi, chúng ta chỉ có thể leo cầu thang bộ."
+        },
+        {
+          "zh": "我儿子已经会爬了。",
+          "py": "wǒ ér zi yǐ jīng huì pá le",
+          "vi": "Con trai tôi đã biết bò rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 603,
+      "word": "动物",
+      "meaningsVi": [
+        "động vật, con vật"
+      ],
+      "examples": [
+        {
+          "zh": "你最喜欢什么动物？",
+          "py": "nǐ zuì xǐ huan shén me dòng wù",
+          "vi": "Bạn thích con vật nào nhất?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 604,
+      "word": "动物园",
+      "meaningsVi": [
+        "vườn thú, sở thú"
+      ],
+      "examples": [
+        {
+          "zh": "明天我带孩子去动物园看大熊猫。",
+          "py": "míng tiān wǒ dài hái zi qù dòng wù yuán kàn dà xióng māo",
+          "vi": "Ngày mai tôi đưa con đi sở thú xem gấu trúc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 576,
+      "word": "大熊猫",
+      "meaningsVi": [
+        "gấu trúc"
+      ],
+      "noteVi": "Lượng từ là 「只」: 一只大熊猫. Trong khẩu ngữ người ta cũng nói tắt là 熊猫.",
+      "examples": [
+        {
+          "zh": "北京动物园里有好几只大熊猫。",
+          "py": "běi jīng dòng wù yuán lǐ yǒu hǎo jǐ zhī dà xióng māo",
+          "vi": "Trong vườn thú Bắc Kinh có mấy con gấu trúc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 764,
+      "word": "马",
+      "meaningsVi": [
+        "ngựa"
+      ],
+      "noteVi": "'Cưỡi ngựa' là 「骑马」, giống 骑自行车. Chữ 「马」 cũng có trong 「马上」 (ngay lập tức) và 「马路」 (đường cái).",
+      "examples": [
+        {
+          "zh": "你会骑马吗？",
+          "py": "nǐ huì qí mǎ ma",
+          "vi": "Bạn có biết cưỡi ngựa không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 785,
+      "word": "牛",
+      "meaningsVi": [
+        "bò, trâu"
+      ],
+      "noteVi": "「牛」 chỉ chung cả bò và trâu (牛奶 là sữa bò). Lượng từ là 「头」: 一头牛, không dùng 「个」.",
+      "examples": [
+        {
+          "zh": "草地上有两头牛。",
+          "py": "cǎo dì shàng yǒu liǎng tóu niú",
+          "vi": "Trên bãi cỏ có hai con bò."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 918,
+      "word": "羊",
+      "meaningsVi": [
+        "dê, cừu"
+      ],
+      "noteVi": "「羊」 chỉ chung cả dê và cừu; tiếng Việt phân biệt rõ hơn. Lượng từ thường dùng là 「只」.",
+      "examples": [
+        {
+          "zh": "山上有很多羊。",
+          "py": "shān shàng yǒu hěn duō yáng",
+          "vi": "Trên núi có rất nhiều dê."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 919,
+      "word": "养",
+      "meaningsVi": [
+        "nuôi (con vật, con cái)",
+        "trồng, chăm (hoa, cây cảnh)"
+      ],
+      "noteVi": "Âm Hán Việt 'dưỡng', nhưng nghĩa thường dùng là 'nuôi': 养狗 (nuôi chó), 养孩子 (nuôi con), 养花 (trồng hoa).",
+      "examples": [
+        {
+          "zh": "我家养了两只猫。",
+          "py": "wǒ jiā yǎng le liǎng zhī māo",
+          "vi": "Nhà tôi nuôi hai con mèo."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 732,
+      "word": "可爱",
+      "meaningsVi": [
+        "đáng yêu, dễ thương"
+      ],
+      "noteVi": "Hay dùng cho trẻ con, con vật, đồ vật nhỏ xinh. Khen người lớn đẹp thì thường dùng 「漂亮」.",
+      "examples": [
+        {
+          "zh": "这只小狗真可爱！",
+          "py": "zhè zhī xiǎo gǒu zhēn kě ài",
+          "vi": "Con chó nhỏ này đáng yêu quá!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 791,
+      "word": "拍照",
+      "meaningsVi": [
+        "chụp ảnh"
+      ],
+      "noteVi": "「拍照」 không có tân ngữ đi sau. Chụp ảnh **cho** ai: 给 + người + 拍照 (给我拍照), không nói 拍照我. Chụp ảnh **cùng** ai: 跟 + người + 拍照.",
+      "examples": [
+        {
+          "zh": "这儿的花真漂亮，我们在这儿拍照吧！",
+          "py": "zhè r de huā zhēn piào liang wǒ men zài zhè r pāi zhào ba",
+          "vi": "Hoa ở đây đẹp thật, chúng mình chụp ảnh ở đây nhé!"
+        },
+        {
+          "zh": "请你给我们拍照，好吗？",
+          "py": "qǐng nǐ gěi wǒ men pāi zhào hǎo ma",
+          "vi": "Bạn chụp ảnh giúp chúng tôi được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 973,
+      "word": "照相",
+      "meaningsVi": [
+        "chụp ảnh"
+      ],
+      "noteVi": "「照相」 và 「拍照」 nghĩa như nhau; giới trẻ hay nói 「拍照」 hơn. Cách dùng giống nhau: 给他照相, 跟大熊猫照相.",
+      "examples": [
+        {
+          "zh": "我们一起照相吧！",
+          "py": "wǒ men yì qǐ zhào xiàng ba",
+          "vi": "Chúng mình cùng chụp ảnh nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 970,
+      "word": "照",
+      "meaningsVi": [
+        "chụp (ảnh)",
+        "chiếu (ánh sáng)",
+        "soi (gương)"
+      ],
+      "noteVi": "「照」 là động từ đơn: 照得很好 (chụp đẹp), 是在哪儿照的？ (chụp ở đâu thế?). Nghĩa khác: 太阳照在草地上 (mặt trời chiếu xuống bãi cỏ).",
+      "examples": [
+        {
+          "zh": "这张照片是在哪儿照的？",
+          "py": "zhè zhāng zhào piàn shì zài nǎ r zhào de",
+          "vi": "Bức ảnh này chụp ở đâu thế?"
+        },
+        {
+          "zh": "太阳照在草地上，非常舒服。",
+          "py": "tài yáng zhào zài cǎo dì shàng fēi cháng shū fu",
+          "vi": "Nắng chiếu trên bãi cỏ, rất dễ chịu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 972,
+      "word": "照片",
+      "meaningsVi": [
+        "ảnh, bức ảnh"
+      ],
+      "noteVi": "Lượng từ là 「张」: 一张照片. Tiếng Việt nói 'hai ảnh' được, nhưng tiếng Trung không bỏ lượng từ: 两张照片.",
+      "examples": [
+        {
+          "zh": "这是我小时候的照片。",
+          "py": "zhè shì wǒ xiǎo shí hou de zhào piàn",
+          "vi": "Đây là ảnh hồi nhỏ của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 895,
+      "word": "相机",
+      "meaningsVi": [
+        "máy ảnh"
+      ],
+      "examples": [
+        {
+          "zh": "你带相机了吗？",
+          "py": "nǐ dài xiàng jī le ma",
+          "vi": "Bạn có mang máy ảnh không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 967,
+      "word": "张",
+      "meaningsVi": [
+        "(lượng từ) tờ, tấm, chiếc: cho vật phẳng (giấy, ảnh, vé, bàn, giường)",
+        "há, mở (miệng)"
+      ],
+      "noteVi": "Lượng từ 「张」 dùng cho vật có mặt phẳng: 一张纸, 一张照片, 一张票, 一张地图, 一张桌子, 一张床. Là động từ: 张开嘴 (há miệng). 「张」 cũng là một họ (Trương).",
+      "examples": [
+        {
+          "zh": "我想买两张票。",
+          "py": "wǒ xiǎng mǎi liǎng zhāng piào",
+          "vi": "Tôi muốn mua hai vé."
+        },
+        {
+          "zh": "请张开嘴，我看一下。",
+          "py": "qǐng zhāng kāi zuǐ wǒ kàn yí xià",
+          "vi": "Há miệng ra, để tôi xem một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 769,
+      "word": "米",
+      "meaningsVi": [
+        "mét (đơn vị đo chiều dài)"
+      ],
+      "noteVi": "Cùng chữ với 「米」 trong 「米饭」 (cơm). Nói chiều cao: 他一米八 (anh ấy cao 1 mét 80).",
+      "examples": [
+        {
+          "zh": "我家离公园只有五百米。",
+          "py": "wǒ jiā lí gōng yuán zhǐ yǒu wǔ bǎi mǐ",
+          "vi": "Nhà tôi cách công viên chỉ năm trăm mét."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 160,
+      "titleVi": "Lượng từ chuyên dụng: 张, 把, 双, 种, 头, 辆, 所, 封, 页, 句, 段, 节, 班, 层; đơn vị đo 米, 公斤…",
+      "summaryVi": "Mỗi loại danh từ đi với lượng từ riêng (一张照片, 一头牛, 一封信, 一所学校); đơn vị đo như 米, 公斤, 斤 đứng ngay sau số.",
+      "explanationVi": [
+        "Giữa số đếm (hoặc 这/那) và danh từ luôn phải có lượng từ: 两**张**照片, 这**头**牛. Tiếng Việt cũng có loại từ (tấm, con, chiếc, bức), nhưng nhiều khi bỏ được: 'mua hai vé', 'quyển sách ba trăm trang'. Tiếng Trung **không** bỏ: 两张票, 三百页.",
+        "Nhớ theo nhóm: **hình dạng**: 张 (vật phẳng: 纸, 照片, 票, 地图, 桌子, 床), 把 (vật có tay cầm: 椅子, 伞, 勺子), 条 (vật dài: 河, 路, 裤子). **Con vật**: 只 (chó, mèo, chim, dê, gấu trúc), 头 (con vật lớn: 牛). **Đôi, loại**: 双 (鞋, 筷子), 种 (一种水果). **Xe, nhà, trường**: 辆 (车), 层 (tầng), 所 (学校, 医院, 大学).",
+        "**Lời nói, chữ viết, thời gian**: 封 (信), 页 (trang sách), 句 (câu nói: 一句话), 段 (một đoạn: 一段话, 一段路, 一段时间). **Trường lớp**: 节 (tiết học: 一节课), 班 (lớp: 一班, 二班; chuyến xe: 下一班车).",
+        "**Đơn vị đo** đứng ngay sau số, không cần lượng từ khác: 五百米 (500 mét), 两公斤 (2 cân), 三斤 (3 cân Trung Quốc = 1,5 kg), 五毛 / 五角 (5 hào), 一刻 (15 phút). Nói dài bao nhiêu: 这条河有五百米长 hoặc 这条河长五百米. Nói chiều cao: 他一米八 (1 mét 80)."
+      ],
+      "patterns": [
+        "Số + lượng từ + danh từ (两张照片, 三头牛)",
+        "这/那 + (số) + lượng từ + danh từ (这所学校, 那两辆车)",
+        "Số + đơn vị đo (五百米, 两公斤)"
+      ],
+      "examples": [
+        {
+          "zh": "草地上有两头牛和五只羊。",
+          "py": "cǎo dì shàng yǒu liǎng tóu niú hé wǔ zhī yáng",
+          "vi": "Trên bãi cỏ có hai con bò và năm con dê."
+        },
+        {
+          "zh": "她给我写了一封信，有三页。",
+          "py": "tā gěi wǒ xiě le yì fēng xìn yǒu sān yè",
+          "vi": "Cô ấy viết cho tôi một bức thư, dài ba trang."
+        },
+        {
+          "zh": "这所学校很大，学生也很多。",
+          "py": "zhè suǒ xué xiào hěn dà xué shēng yě hěn duō",
+          "vi": "Ngôi trường này rất lớn, học sinh cũng rất đông."
+        },
+        {
+          "zh": "这条河有两百米长。",
+          "py": "zhè tiáo hé yǒu liǎng bǎi mǐ cháng",
+          "vi": "Con sông này dài hai trăm mét."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我买了两票。",
+          "right": "我买了两张票。",
+          "noteVi": "Tiếng Việt nói 'hai vé' không cần loại từ, nhưng tiếng Trung bắt buộc có lượng từ: 两张票.",
+          "issue": "missing_measure_word"
+        },
+        {
+          "wrong": "我有三个照片。",
+          "right": "我有三张照片。",
+          "noteVi": "「照片」 là vật phẳng nên dùng 「张」, không dùng 「个」.",
+          "issue": "wrong_measure_word"
+        },
+        {
+          "wrong": "她给我写了一张信。",
+          "right": "她给我写了一封信。",
+          "noteVi": "Thư dùng lượng từ riêng là 「封」. 「张」 chỉ dùng cho tờ giấy: 一张纸.",
+          "issue": "wrong_measure_word"
+        }
+      ],
+      "morphemes": [
+        "所"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 163,
+      "titleVi": "Lượng từ lặp: 个个, 张张 (cái nào cũng, ai nấy đều)",
+      "summaryVi": "Lặp lại lượng từ một âm tiết (个个, 张张, 天天) để nói 'mỗi một… đều', thường đứng trước 「都」: 张张照片都很漂亮.",
+      "explanationVi": [
+        "Lượng từ một âm tiết lặp lại mang nghĩa '**từng cái, mỗi cái đều**': 个个 (ai nấy, cái nào cũng), 张张 (tấm nào cũng), 本本 (quyển nào cũng). Một số danh từ chỉ thời gian cũng lặp như vậy: 天天 (ngày nào cũng), 年年 (năm nào cũng).",
+        "Tiếng Việt có cách nói rất giống: 'nhà nhà, người người'. Nhưng thường ngày người Việt hay nói '**tấm nào cũng** đẹp', 'đứa nào cũng ngoan'. Tiếng Trung nói gọn: 张张都很漂亮, 个个都很可爱.",
+        "Lượng từ lặp **đứng trước động từ**, làm chủ ngữ hoặc đứng trước danh từ chủ ngữ, và thường có 「都」 đi sau: 这些照片张张都很漂亮, 张张照片都很漂亮. **Không** đặt sau động từ làm tân ngữ: không nói 我喜欢张张照片, mà nói 这些照片我张张都喜欢.",
+        "Nghĩa gần với 「每 + lượng từ」: 张张照片 ≈ 每张照片. Nhưng đã lặp lượng từ thì **không** thêm 「每」 nữa (không nói 每张张)."
+      ],
+      "patterns": [
+        "Lượng từ lặp + danh từ + 都 + …",
+        "Danh từ + lượng từ lặp + 都 + …",
+        "Tân ngữ + chủ ngữ + lượng từ lặp + 都 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "这些照片张张都很漂亮。",
+          "py": "zhè xiē zhào piàn zhāng zhāng dōu hěn piào liang",
+          "vi": "Mấy tấm ảnh này tấm nào cũng đẹp."
+        },
+        {
+          "zh": "我们班的同学个个都很努力。",
+          "py": "wǒ men bān de tóng xué gè gè dōu hěn nǔ lì",
+          "vi": "Các bạn lớp mình ai nấy đều rất chăm chỉ."
+        },
+        {
+          "zh": "他天天都去公园跑步。",
+          "py": "tā tiān tiān dōu qù gōng yuán pǎo bù",
+          "vi": "Ngày nào anh ấy cũng ra công viên chạy bộ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我喜欢张张照片。",
+          "right": "这些照片我张张都喜欢。",
+          "noteVi": "Lượng từ lặp không đứng sau động từ làm tân ngữ. Đưa tân ngữ lên đầu câu rồi dùng 「张张都」; hoặc nói 每张照片我都喜欢."
+        },
+        {
+          "wrong": "每张张照片都很好看。",
+          "right": "张张照片都很好看。",
+          "noteVi": "Lượng từ lặp đã có nghĩa 'mỗi', không thêm 「每」. Có thể nói 每张照片都很好看."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 188,
+      "titleVi": "「看起来」: trông có vẻ, xem chừng",
+      "summaryVi": "Chủ ngữ + 看起来 + tính từ/cụm động từ: đánh giá dựa vào vẻ ngoài hoặc ấn tượng ban đầu (他看起来很累, 这个问题看起来很简单).",
+      "explanationVi": [
+        "「看起来」 nghĩa là '**trông có vẻ, nhìn thì thấy**': người nói dựa vào cái nhìn thấy, ấn tượng ban đầu để đánh giá: 你看起来很累 (Trông bạn có vẻ mệt), 这个菜看起来很好吃 (Món này trông ngon).",
+        "Chủ ngữ là **người hoặc vật được nhìn**, 「看起来」 đứng sau chủ ngữ, trước tính từ: 他看起来很年轻. Tiếng Việt nói 'Tôi thấy anh ấy có vẻ trẻ', nhưng không dịch thành 我看起来他很年轻 (câu này sai). Cũng có thể đặt 「看起来」 ở đầu câu để đoán chung về tình hình: 看起来要下雨了 (Xem chừng sắp mưa rồi).",
+        "「看起来」 dùng rộng: cả với vẻ ngoài (人, 动物, 菜) lẫn với những thứ phải nghĩ mới biết (问题, 办法): 这个办法看起来不错 (Cách này nghe có vẻ được đấy).",
+        "Phân biệt: 「看来」 (bài 9) là 'xem ra, có lẽ', suy đoán từ **tình hình**, thường đứng đầu câu: 都十点了，看来他不来了. Còn 「看起来」 thiên về **vẻ ngoài, ấn tượng**. Ngoài ra, theo bài 15 (động từ + 起来 chỉ sự bắt đầu), 「看起来」 còn có thể là 'bắt đầu xem/đọc': 他拿起书看了起来 — đó là nghĩa khác hẳn."
+      ],
+      "patterns": [
+        "Chủ ngữ + 看起来 + (很…) + tính từ",
+        "Chủ ngữ + 看起来 + (不/没…) + cụm động từ",
+        "看起来 + câu (đoán chung)"
+      ],
+      "examples": [
+        {
+          "zh": "你看起来很累，休息一下吧。",
+          "py": "nǐ kàn qǐ lái hěn lèi xiū xi yí xià ba",
+          "vi": "Trông bạn có vẻ mệt, nghỉ một chút đi."
+        },
+        {
+          "zh": "这个问题看起来很难，其实很简单。",
+          "py": "zhè ge wèn tí kàn qǐ lái hěn nán qí shí hěn jiǎn dān",
+          "vi": "Câu hỏi này trông có vẻ khó, thật ra rất đơn giản."
+        },
+        {
+          "zh": "这个菜看起来很好吃。",
+          "py": "zhè ge cài kàn qǐ lái hěn hǎo chī",
+          "vi": "Món này trông ngon quá."
+        },
+        {
+          "zh": "看起来要下雨了，我们回去吧。",
+          "py": "kàn qǐ lái yào xià yǔ le wǒ men huí qù ba",
+          "vi": "Xem chừng sắp mưa rồi, chúng mình về thôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我看起来他很累。",
+          "right": "他看起来很累。",
+          "noteVi": "Chủ ngữ của 「看起来」 là người được nhìn (他), không phải người nhìn. Muốn nói 'tôi thấy' thì dùng 我觉得他很累."
+        },
+        {
+          "wrong": "他很看起来年轻。",
+          "right": "他看起来很年轻。",
+          "noteVi": "「很」 bổ nghĩa cho tính từ nên đứng sau 「看起来」, ngay trước 「年轻」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 189,
+      "titleVi": "「看上去」: nhìn bề ngoài thì…",
+      "summaryVi": "Chủ ngữ + 看上去 + tính từ/像…: nhận xét dựa vào vẻ ngoài nhìn thấy bằng mắt (她看上去只有二十岁).",
+      "explanationVi": [
+        "「看上去」 cũng nghĩa là 'trông, nhìn bề ngoài thì', dùng giống 「看起来」: 她看上去只有二十岁 (Trông cô ấy chỉ khoảng hai mươi tuổi), 这只大熊猫看上去很可爱.",
+        "Khác nhau tinh tế: 「看上去」 **chỉ** dựa vào cái mắt nhìn thấy (dáng người, màu sắc, vẻ mặt…); 「看起来」 dùng rộng hơn, cả với ấn tượng chung. Vì vậy 这个办法看起来不错 tự nhiên hơn 这个办法看上去不错. Suy đoán từ tình hình (đã muộn, trời tối…) thì dùng 「看来」, không dùng 「看上去」. Khi nói về vẻ ngoài thì 「看上去」 và 「看起来」 thay nhau được.",
+        "Chỉ có hai cách nói 「看起来」 và 「看上去」. Không có 看上来 hay 看起去 với nghĩa 'trông có vẻ'. Cũng như 「看起来」, chủ ngữ là người hoặc vật **được nhìn**: 她看上去很年轻, không nói 我看上去她很年轻.",
+        "「看上去」 hay đi với 「好像」 (bài 8) để nói nhẹ nhàng hơn: 他看上去好像不太高兴 (Trông anh ấy hình như không vui lắm)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 看上去 + (很…) + tính từ",
+        "Chủ ngữ + 看上去 + 好像 + …"
+      ],
+      "examples": [
+        {
+          "zh": "她看上去只有二十岁。",
+          "py": "tā kàn shàng qù zhǐ yǒu èr shí suì",
+          "vi": "Trông cô ấy chỉ khoảng hai mươi tuổi."
+        },
+        {
+          "zh": "这个公园看上去不大，可是里面有很多动物。",
+          "py": "zhè ge gōng yuán kàn shàng qù bú dà kě shì lǐ miàn yǒu hěn duō dòng wù",
+          "vi": "Công viên này nhìn thì không lớn, nhưng bên trong có rất nhiều con vật."
+        },
+        {
+          "zh": "他看上去好像不太高兴。",
+          "py": "tā kàn shàng qù hǎo xiàng bú tài gāo xìng",
+          "vi": "Trông anh ấy hình như không vui lắm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他看上来很年轻。",
+          "right": "他看上去很年轻。",
+          "noteVi": "Chỉ nói 「看上去」 hoặc 「看起来」; không có 看上来 với nghĩa 'trông có vẻ'."
+        },
+        {
+          "wrong": "都十点了，看上去他不来了。",
+          "right": "都十点了，看来他不来了。",
+          "noteVi": "Đây là suy đoán từ tình hình (đã mười giờ), không phải từ vẻ ngoài, nên dùng 「看来」. Câu bên trái không tự nhiên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-17-e01",
+      "type": "match",
+      "promptVi": "Nối tên con vật với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "马",
+          "ngựa"
+        ],
+        [
+          "牛",
+          "bò, trâu"
+        ],
+        [
+          "羊",
+          "dê, cừu"
+        ],
+        [
+          "大熊猫",
+          "gấu trúc"
+        ],
+        [
+          "动物",
+          "động vật"
+        ],
+        [
+          "动物园",
+          "vườn thú"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-17-e02",
+      "type": "match",
+      "promptVi": "Nối cảnh vật với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "山",
+          "núi"
+        ],
+        [
+          "河",
+          "sông"
+        ],
+        [
+          "海",
+          "biển"
+        ],
+        [
+          "草地",
+          "bãi cỏ"
+        ],
+        [
+          "花园",
+          "vườn hoa"
+        ],
+        [
+          "公园",
+          "công viên"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-17-e03",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "照片",
+          "bức ảnh"
+        ],
+        [
+          "相机",
+          "máy ảnh"
+        ],
+        [
+          "拍照",
+          "chụp ảnh"
+        ],
+        [
+          "爬",
+          "leo, trèo"
+        ],
+        [
+          "养",
+          "nuôi"
+        ],
+        [
+          "可爱",
+          "đáng yêu"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-17-e04",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "我想买两＿票。",
+      "options": [
+        "张",
+        "本",
+        "把"
+      ],
+      "answer": 0,
+      "explainVi": "Vé là vật phẳng nên dùng 「张」: 两张票.",
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e05",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "草地上有三",
+      "after": "牛。",
+      "answers": [
+        "头"
+      ],
+      "options": [
+        "头",
+        "张",
+        "双"
+      ],
+      "vi": "Trên bãi cỏ có ba con bò.",
+      "explainVi": "Con vật lớn như bò dùng 「头」.",
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e06",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "妈妈给我写了一＿信。",
+      "options": [
+        "封",
+        "张",
+        "页"
+      ],
+      "answer": 0,
+      "explainVi": "Thư dùng 「封」. 「页」 là trang, 「张」 là tờ.",
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e07",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "这本书一共有三百",
+      "after": "。",
+      "answers": [
+        "页"
+      ],
+      "options": [
+        "页",
+        "张",
+        "本"
+      ],
+      "vi": "Quyển sách này tổng cộng có ba trăm trang.",
+      "explainVi": "Trang sách dùng 「页」. Tiếng Việt nói 'ba trăm trang', tiếng Trung cũng phải có 「页」 sau số.",
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e08",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "今天下午我们有两＿汉语课。",
+      "options": [
+        "节",
+        "本",
+        "张"
+      ],
+      "answer": 0,
+      "explainVi": "Tiết học dùng 「节」: 两节课 (hai tiết).",
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e09",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几张照片？",
+        "promptVi": "Trên bàn có mấy tấm ảnh?",
+        "picture": "🖼️🖼️🖼️🖼️",
+        "expected": {
+          "number": 4,
+          "noun": "照片",
+          "sentence": "桌子上有四张照片。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有四张照片。",
+            "score": 100
+          },
+          {
+            "answer": "有四张。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有四个照片。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有四照片。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有五张照片。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e10",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "草地上有几头牛？",
+        "promptVi": "Trên bãi cỏ có mấy con bò?",
+        "picture": "🐄🐄🐄",
+        "expected": {
+          "number": 3,
+          "noun": "牛",
+          "sentence": "草地上有三头牛。"
+        },
+        "examples": [
+          {
+            "answer": "草地上有三头牛。",
+            "score": 100
+          },
+          {
+            "answer": "有三头。",
+            "score": 100
+          },
+          {
+            "answer": "草地上有三个牛。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "草地上有三只牛。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "草地上有两头牛。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e11",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这条街上有几所学校？",
+        "promptVi": "Trên con phố này có mấy ngôi trường?",
+        "picture": "🏫🏫",
+        "expected": {
+          "number": 2,
+          "noun": "学校",
+          "sentence": "这条街上有两所学校。"
+        },
+        "examples": [
+          {
+            "answer": "这条街上有两所学校。",
+            "score": 100
+          },
+          {
+            "answer": "有两个学校。",
+            "score": 100
+          },
+          {
+            "answer": "有二所学校。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "有两学校。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有三所学校。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e12",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "动物园里有几只大熊猫？",
+        "promptVi": "Trong vườn thú có mấy con gấu trúc?",
+        "picture": "🐼🐼",
+        "expected": {
+          "number": 2,
+          "noun": "熊猫",
+          "sentence": "动物园里有两只大熊猫。"
+        },
+        "examples": [
+          {
+            "answer": "动物园里有两只大熊猫。",
+            "score": 100
+          },
+          {
+            "answer": "有两只。",
+            "score": 100
+          },
+          {
+            "answer": "动物园里有两个大熊猫。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "动物园里有两大熊猫。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "动物园里有三只大熊猫。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e13",
+      "type": "order",
+      "vi": "Nhà tôi cách công viên chỉ năm trăm mét.",
+      "tiles": [
+        "五百米",
+        "我家",
+        "公园",
+        "只有",
+        "离"
+      ],
+      "answers": [
+        "我家离公园只有五百米"
+      ],
+      "explainVi": "「离 + nơi chốn」 đứng sau chủ ngữ; 「米」 là đơn vị đo, đứng ngay sau số.",
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e14",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Mấy tấm ảnh này, tấm nào cũng đẹp.)",
+      "options": [
+        "这些照片张张都很漂亮。",
+        "这些照片都很漂亮张张。",
+        "这些每张张照片都很漂亮。"
+      ],
+      "answer": 0,
+      "explainVi": "Lượng từ lặp 「张张」 đứng trước 「都」 và động từ/tính từ; đã lặp thì không thêm 「每」.",
+      "grammar": [
+        163
+      ]
+    },
+    {
+      "id": "hsk3-17-e15",
+      "type": "order",
+      "vi": "Bọn trẻ đứa nào cũng rất đáng yêu.",
+      "tiles": [
+        "可爱",
+        "孩子们",
+        "都",
+        "个个",
+        "很"
+      ],
+      "answers": [
+        "孩子们个个都很可爱"
+      ],
+      "explainVi": "「个个」 đứng sau chủ ngữ, trước 「都」.",
+      "grammar": [
+        163
+      ]
+    },
+    {
+      "id": "hsk3-17-e16",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这些照片",
+      "after": "都是我爸爸照的。",
+      "answers": [
+        "张张"
+      ],
+      "options": [
+        "张张",
+        "个个",
+        "本本"
+      ],
+      "vi": "Mấy tấm ảnh này, tấm nào cũng do bố tôi chụp.",
+      "explainVi": "Ảnh dùng lượng từ 「张」, nên lặp thành 「张张」.",
+      "grammar": [
+        163,
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e17",
+      "type": "translate",
+      "vi": "Bức ảnh nào cũng rất đẹp.",
+      "answers": [
+        "[张张照片|每张照片|照片张张]都[很|非常][漂亮|好看]。"
+      ],
+      "examples": [
+        {
+          "answer": "张张照片都很漂亮。",
+          "score": 100
+        },
+        {
+          "answer": "每张照片都很好看。",
+          "score": 100
+        },
+        {
+          "answer": "照片张张都非常漂亮。",
+          "score": 100
+        },
+        {
+          "answer": "张张照片很漂亮。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 都"
+        },
+        {
+          "answer": "张张照片都不漂亮。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        163
+      ]
+    },
+    {
+      "id": "hsk3-17-e18",
+      "type": "choice",
+      "promptVi": "「他看起来很累。」 nghĩa là gì?",
+      "options": [
+        "Trông anh ấy có vẻ mệt.",
+        "Anh ấy bắt đầu xem thì thấy mệt.",
+        "Anh ấy nhìn tôi rất mệt mỏi."
+      ],
+      "answer": 0,
+      "explainVi": "「看起来」 = trông có vẻ; chủ ngữ là người được nhìn.",
+      "grammar": [
+        188
+      ]
+    },
+    {
+      "id": "hsk3-17-e19",
+      "type": "order",
+      "vi": "Câu hỏi này trông có vẻ rất đơn giản.",
+      "tiles": [
+        "简单",
+        "这个问题",
+        "很",
+        "看起来"
+      ],
+      "answers": [
+        "这个问题看起来很简单"
+      ],
+      "explainVi": "Chủ ngữ + 看起来 + 很 + tính từ.",
+      "grammar": [
+        188
+      ]
+    },
+    {
+      "id": "hsk3-17-e20",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi thấy anh ấy có vẻ không vui lắm.)",
+      "options": [
+        "他看起来不太高兴。",
+        "我看起来他不太高兴。",
+        "他很看起来不高兴。"
+      ],
+      "answer": 0,
+      "explainVi": "Chủ ngữ của 「看起来」 là người được nhìn; không nói 我看起来他…",
+      "grammar": [
+        188
+      ]
+    },
+    {
+      "id": "hsk3-17-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "王老师看",
+      "after": "很年轻。",
+      "answers": [
+        "上去",
+        "起来"
+      ],
+      "options": [
+        "上去",
+        "上来",
+        "起去",
+        "起来"
+      ],
+      "vi": "Trông thầy Vương rất trẻ.",
+      "explainVi": "Chỉ có 「看上去」 và 「看起来」; không có 看上来, 看起去.",
+      "grammar": [
+        189,
+        188
+      ]
+    },
+    {
+      "id": "hsk3-17-e22",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng. (Đã mười giờ rồi, xem ra anh ấy không đến nữa.)",
+      "zh": "都十点了，＿他不来了。",
+      "options": [
+        "看来",
+        "看上去"
+      ],
+      "answer": 0,
+      "explainVi": "Ở đây là suy đoán từ tình hình (đã muộn), không phải từ vẻ ngoài, nên dùng 「看来」. 「看上去」 chỉ dùng khi nhìn thấy bằng mắt.",
+      "grammar": [
+        189
+      ]
+    },
+    {
+      "id": "hsk3-17-e23",
+      "type": "order",
+      "vi": "Trông anh ấy hình như không vui lắm.",
+      "tiles": [
+        "好像",
+        "他",
+        "高兴",
+        "看上去",
+        "不太"
+      ],
+      "answers": [
+        "他看上去好像不太高兴"
+      ],
+      "explainVi": "Chủ ngữ + 看上去 + 好像 + 不太 + tính từ.",
+      "grammar": [
+        189
+      ]
+    },
+    {
+      "id": "hsk3-17-e24",
+      "type": "translate",
+      "vi": "Trông cô ấy chỉ khoảng hai mươi tuổi.",
+      "answers": [
+        "她看[上去|起来]只有二十岁。"
+      ],
+      "examples": [
+        {
+          "answer": "她看上去只有二十岁。",
+          "score": 100
+        },
+        {
+          "answer": "她看起来只有二十岁。",
+          "score": 100
+        },
+        {
+          "answer": "她看上去只有三十岁。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        189,
+        188
+      ]
+    },
+    {
+      "id": "hsk3-17-e25",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你觉得这只大熊猫怎么样？",
+        "promptVi": "Bạn thấy con gấu trúc này thế nào? (Trả lời: trông nó rất đáng yêu.)",
+        "answers": [
+          "(它)看[起来|上去][很|非常|真]可爱。",
+          "(它)[很|非常|真]可爱。"
+        ],
+        "examples": [
+          {
+            "answer": "它看起来很可爱。",
+            "score": 100
+          },
+          {
+            "answer": "看上去非常可爱。",
+            "score": 100
+          },
+          {
+            "answer": "很可爱。",
+            "score": 100
+          },
+          {
+            "answer": "它看起来不可爱。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        188,
+        189
+      ]
+    },
+    {
+      "id": "hsk3-17-e26",
+      "type": "translate",
+      "vi": "Chúng mình chụp ảnh ở đây nhé.",
+      "answers": [
+        "[我们|咱们]在[这儿|这里][拍照|照相]吧。"
+      ],
+      "examples": [
+        {
+          "answer": "我们在这儿拍照吧。",
+          "score": 100
+        },
+        {
+          "answer": "咱们在这里照相吧。",
+          "score": 100
+        },
+        {
+          "answer": "我们拍照在这儿吧。",
+          "score": 80,
+          "issues": [
+            "place_order"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "hsk3-17-e27",
+      "type": "translate",
+      "vi": "Nhà tôi nuôi hai con mèo.",
+      "answers": [
+        "我家养了两只猫。",
+        "我家养两只猫。"
+      ],
+      "examples": [
+        {
+          "answer": "我家养了两只猫。",
+          "score": 100
+        },
+        {
+          "answer": "我家养两只猫。",
+          "score": 100
+        },
+        {
+          "answer": "我家养了两个猫。",
+          "score": 80,
+          "issues": [
+            "wrong_measure_word"
+          ]
+        },
+        {
+          "answer": "我家养了两只狗。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        160
+      ]
+    },
+    {
+      "id": "hsk3-17-e28",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "羊在哪儿？",
+        "promptVi": "Đàn dê ở đâu? (Trong hình: đàn dê ở trên núi.)",
+        "picture": "⛰️🐐🐐",
+        "expected": {
+          "places": [
+            "山"
+          ],
+          "localizer": "上",
+          "sentence": "羊在山上。"
+        },
+        "examples": [
+          {
+            "answer": "羊在山上。",
+            "score": 100
+          },
+          {
+            "answer": "在山上。",
+            "score": 100
+          },
+          {
+            "answer": "羊在山。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ],
+            "note": "Thiếu 上: 山 là vật, phải có phương vị từ"
+          },
+          {
+            "answer": "羊在山下。",
+            "score": 20
+          },
+          {
+            "answer": "羊在河里。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

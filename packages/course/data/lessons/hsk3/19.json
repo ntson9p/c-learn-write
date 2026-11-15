@@ -1,0 +1,1152 @@
+{
+  "id": "hsk3-19",
+  "goalsVi": [
+    "Nói về văn hóa, lịch sử, ngôn ngữ, các nước trên thế giới: 文化, 历史, 语言, 世界, 国家",
+    "Nói ai nổi tiếng, cái gì ảnh hưởng đến ai: 有名, 名人, 画家, 影响, 受到欢迎",
+    "Hiểu và tạo từ bằng hậu tố 「-家」, 「-员」, 「-子」: 画家, 运动员, 桌子",
+    "Nói 'căn cứ vào' với 「根据」, 'theo ý ai' với 「在……看来」 và 'đối với ai' với 「对……来说」"
+  ],
+  "words": [
+    {
+      "no": 878,
+      "word": "文化",
+      "meaningsVi": [
+        "văn hóa"
+      ],
+      "examples": [
+        {
+          "zh": "我对中国文化很感兴趣。",
+          "py": "wǒ duì zhōng guó wén huà hěn gǎn xìng qù",
+          "vi": "Tôi rất quan tâm đến văn hóa Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 749,
+      "word": "历史",
+      "meaningsVi": [
+        "lịch sử"
+      ],
+      "noteVi": "Nói một nơi lâu đời: 北京有三千多年的历史 (Bắc Kinh có hơn ba nghìn năm lịch sử).",
+      "examples": [
+        {
+          "zh": "北京有三千多年的历史。",
+          "py": "běi jīng yǒu sān qiān duō nián de lì shǐ",
+          "vi": "Bắc Kinh có hơn ba nghìn năm lịch sử."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 952,
+      "word": "语言",
+      "meaningsVi": [
+        "ngôn ngữ, tiếng"
+      ],
+      "noteVi": "「语言」 là từ chung; tên một thứ tiếng thì dùng 汉语, 英语, 越南语. Lượng từ: 一种语言.",
+      "examples": [
+        {
+          "zh": "你会说几种语言？",
+          "py": "nǐ huì shuō jǐ zhǒng yǔ yán",
+          "vi": "Bạn biết nói mấy thứ tiếng?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 650,
+      "word": "故事",
+      "meaningsVi": [
+        "câu chuyện, truyện"
+      ],
+      "noteVi": "'Kể chuyện' là 「讲故事」. Âm Hán Việt 'cố sự' dễ gây nhầm: 「故事」 chỉ là câu chuyện, không phải 'chuyện cũ'.",
+      "examples": [
+        {
+          "zh": "妈妈每天晚上给孩子讲故事。",
+          "py": "mā ma měi tiān wǎn shang gěi hái zi jiǎng gù shi",
+          "vi": "Tối nào mẹ cũng kể chuyện cho con nghe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 832,
+      "word": "世界",
+      "meaningsVi": [
+        "thế giới"
+      ],
+      "noteVi": "'Trên thế giới' là 「世界上」: 世界上有很多国家.",
+      "examples": [
+        {
+          "zh": "我想去世界上很多地方旅游。",
+          "py": "wǒ xiǎng qù shì jiè shàng hěn duō dì fang lǚ yóu",
+          "vi": "Tôi muốn đi du lịch nhiều nơi trên thế giới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 658,
+      "word": "国家",
+      "meaningsVi": [
+        "đất nước, quốc gia, nước"
+      ],
+      "examples": [
+        {
+          "zh": "你去过哪些国家？",
+          "py": "nǐ qù guò nǎ xiē guó jiā",
+          "vi": "Bạn đã đến những nước nào rồi?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 541,
+      "word": "不同",
+      "meaningsVi": [
+        "khác nhau, không giống nhau"
+      ],
+      "noteVi": "「不同」 nghĩa như 「不一样」 nhưng trang trọng hơn, hay đứng trước danh từ: 不同的国家, 不同的语言. Cũng nói: A 跟 B 不同.",
+      "examples": [
+        {
+          "zh": "不同的国家有不同的文化。",
+          "py": "bù tóng de guó jiā yǒu bù tóng de wén huà",
+          "vi": "Các nước khác nhau có nền văn hóa khác nhau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 772,
+      "word": "名人",
+      "meaningsVi": [
+        "người nổi tiếng, danh nhân"
+      ],
+      "examples": [
+        {
+          "zh": "他是我们这儿的名人，大家都认识他。",
+          "py": "tā shì wǒ men zhè r de míng rén dà jiā dōu rèn shi tā",
+          "vi": "Ông ấy là người nổi tiếng ở chỗ chúng tôi, ai cũng biết ông ấy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 676,
+      "word": "画家",
+      "meaningsVi": [
+        "họa sĩ"
+      ],
+      "noteVi": "「家」 ở đây là hậu tố chỉ người giỏi một lĩnh vực (xem ngữ pháp), không phải 'nhà'.",
+      "examples": [
+        {
+          "zh": "她爸爸是一位画家。",
+          "py": "tā bà ba shì yí wèi huà jiā",
+          "vi": "Bố cô ấy là một họa sĩ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 947,
+      "word": "有名",
+      "meaningsVi": [
+        "nổi tiếng, có tiếng"
+      ],
+      "noteVi": "Là tính từ: 很有名 (rất nổi tiếng), 有名的画家 (họa sĩ nổi tiếng). Phân biệt với 「名人」 (người nổi tiếng) là danh từ.",
+      "examples": [
+        {
+          "zh": "这家饭馆很有名，客人非常多。",
+          "py": "zhè jiā fàn guǎn hěn yǒu míng kè rén fēi cháng duō",
+          "vi": "Quán ăn này rất nổi tiếng, khách rất đông."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 987,
+      "word": "主要",
+      "meaningsVi": [
+        "chủ yếu, chính"
+      ],
+      "noteVi": "Đứng trước danh từ: 主要的问题 (vấn đề chính). Đứng trước động từ: 我们主要学习听和说 (chúng tôi chủ yếu học nghe và nói).",
+      "examples": [
+        {
+          "zh": "这学期我们主要学习听和说。",
+          "py": "zhè xué qī wǒ men zhǔ yào xué xí tīng hé shuō",
+          "vi": "Học kỳ này chúng tôi chủ yếu học nghe và nói."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 618,
+      "word": "发展",
+      "meaningsVi": [
+        "phát triển"
+      ],
+      "examples": [
+        {
+          "zh": "这几年河内发展得很快。",
+          "py": "zhè jǐ nián hé nèi fā zhǎn de hěn kuài",
+          "vi": "Mấy năm nay Hà Nội phát triển rất nhanh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 940,
+      "word": "影响",
+      "meaningsVi": [
+        "ảnh hưởng (đến)",
+        "sự ảnh hưởng"
+      ],
+      "noteVi": "Là động từ, 「影响」 đi thẳng với tân ngữ: 影响学习 (ảnh hưởng đến việc học), không cần thêm chữ nào như 'đến'. Là danh từ: 对……的影响很大, 对……有影响.",
+      "examples": [
+        {
+          "zh": "晚上玩手机会影响睡觉。",
+          "py": "wǎn shang wán shǒu jī huì yǐng xiǎng shuì jiào",
+          "vi": "Buổi tối chơi điện thoại sẽ ảnh hưởng đến giấc ngủ."
+        },
+        {
+          "zh": "这位老师对我的影响很大。",
+          "py": "zhè wèi lǎo shī duì wǒ de yǐng xiǎng hěn dà",
+          "vi": "Thầy giáo này có ảnh hưởng rất lớn đến tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 838,
+      "word": "受",
+      "meaningsVi": [
+        "được, bị, chịu (sự…)"
+      ],
+      "noteVi": "Hay gặp: 受欢迎 (được yêu thích, được hoan nghênh), 受影响 (bị ảnh hưởng). 很受 + người + 欢迎: được ai rất yêu thích.",
+      "examples": [
+        {
+          "zh": "这个故事很受孩子们欢迎。",
+          "py": "zhè ge gù shi hěn shòu hái zi men huān yíng",
+          "vi": "Câu chuyện này được trẻ con rất yêu thích."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 839,
+      "word": "受到",
+      "meaningsVi": [
+        "nhận được, được, bị (sự…)"
+      ],
+      "noteVi": "受到 + 欢迎 / 喜爱 / 帮助 / 关心 / 影响. 「受到」 dùng được cho cả việc tốt lẫn việc xấu (受到影响: bị ảnh hưởng); 「得到」 (bài 18) chỉ dùng cho thứ mình mong có (得到帮助). Không nói 得到影响.",
+      "examples": [
+        {
+          "zh": "他的画受到了很多人的喜爱。",
+          "py": "tā de huà shòu dào le hěn duō rén de xǐ ài",
+          "vi": "Tranh của anh ấy được rất nhiều người yêu thích."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 946,
+      "word": "有关",
+      "meaningsVi": [
+        "có liên quan (đến)",
+        "về (cái gì)"
+      ],
+      "noteVi": "Mẫu thường dùng: 跟 / 和 + N + 有关 (có liên quan đến N). Làm định ngữ: 跟历史有关的书 (sách liên quan đến lịch sử), nghĩa gần với 关于历史的书 (bài 11).",
+      "examples": [
+        {
+          "zh": "我想看一些跟中国历史有关的书。",
+          "py": "wǒ xiǎng kàn yì xiē gēn zhōng guó lì shǐ yǒu guān de shū",
+          "vi": "Tôi muốn đọc vài cuốn sách liên quan đến lịch sử Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 645,
+      "word": "根据",
+      "meaningsVi": [
+        "căn cứ vào, dựa theo",
+        "căn cứ, cơ sở"
+      ],
+      "noteVi": "Là giới từ: 根据 + thông tin, yêu cầu… (xem ngữ pháp). Là danh từ: 你这么说有什么根据？ (Bạn nói vậy có căn cứ gì?).",
+      "examples": [
+        {
+          "zh": "这个故事是根据历史写的。",
+          "py": "zhè ge gù shi shì gēn jù lì shǐ xiě de",
+          "vi": "Câu chuyện này được viết dựa theo lịch sử."
+        },
+        {
+          "zh": "你这么说有什么根据？",
+          "py": "nǐ zhè me shuō yǒu shén me gēn jù",
+          "vi": "Bạn nói vậy có căn cứ gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 602,
+      "word": "懂得",
+      "meaningsVi": [
+        "hiểu (lẽ phải, giá trị của việc gì)",
+        "biết (cách cư xử, cách làm)"
+      ],
+      "noteVi": "「懂」 (HSK2) là hiểu một câu nói, một bài: 听懂, 看懂, 我懂了. 「懂得」 là hiểu lẽ phải, biết cách: 懂得关心别人 (biết quan tâm người khác). Không dùng 「懂得」 làm bổ ngữ: nói 听懂, không nói 听懂得.",
+      "examples": [
+        {
+          "zh": "他从小就懂得关心别人。",
+          "py": "tā cóng xiǎo jiù dǒng de guān xīn bié rén",
+          "vi": "Từ nhỏ cậu ấy đã biết quan tâm đến người khác."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 150,
+      "titleVi": "Hậu tố 「-家」, 「-员」, 「-子」",
+      "summaryVi": "「-家」 chỉ người giỏi một lĩnh vực (画家), 「-员」 chỉ người làm một việc hay thành viên (运动员, 服务员), 「-子」 là hậu tố danh từ đọc nhẹ (桌子, 本子).",
+      "explanationVi": [
+        "**「-家」**: đứng sau tên một lĩnh vực, chỉ người có chuyên môn, thường là người giỏi, có tiếng: 画家 (họa sĩ), 音乐家 (nhạc sĩ, nhà soạn nhạc). Tiếng Việt có cách nói rất giống: '**nhà** văn', '**nhà** khoa học', và âm Hán Việt 'gia' trong 'chuyên gia'. Chữ 「家」 này không phải 'ngôi nhà' hay 'gia đình'.",
+        "**「-员」**: chỉ người làm một công việc cụ thể hoặc thành viên của một tập thể: 运动员 (vận động viên), 服务员 (nhân viên phục vụ). Giống chữ '**viên**' tiếng Việt: nhân viên, vận động viên, thành viên. So với 「-家」, 「-员」 không mang ý 'giỏi, nổi tiếng'; nó chỉ cho biết người đó làm việc gì.",
+        "**「-子」**: đọc nhẹ (zi), biến một chữ thành danh từ dùng được một mình: 桌子, 椅子, 本子, 杯子, 盘子, 筷子, 房子, 包子. 「子」 ở đây **không** có nghĩa 'con' (dù Hán Việt là 'tử'). Nhiều chữ phải có 「子」 mới đứng một mình được: nói 一张桌子, không nói 一张桌."
+      ],
+      "patterns": [
+        "Lĩnh vực + 家 (画家, 音乐家)",
+        "Công việc + 员 (运动员, 服务员)",
+        "Chữ gốc + 子 (桌子, 本子)"
+      ],
+      "examples": [
+        {
+          "zh": "她是一位画家，她的画很受欢迎。",
+          "py": "tā shì yí wèi huà jiā tā de huà hěn shòu huān yíng",
+          "vi": "Cô ấy là một họa sĩ, tranh của cô ấy rất được yêu thích."
+        },
+        {
+          "zh": "我哥哥是一名运动员。",
+          "py": "wǒ gē ge shì yì míng yùn dòng yuán",
+          "vi": "Anh trai tôi là một vận động viên."
+        },
+        {
+          "zh": "服务员给我们拿来了筷子和勺子。",
+          "py": "fú wù yuán gěi wǒ men ná lái le kuài zi hé sháo zi",
+          "vi": "Nhân viên phục vụ mang đũa và thìa đến cho chúng tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他是一名运动家。",
+          "right": "他是一名运动员。",
+          "noteVi": "Người chơi thể thao (vận động viên) dùng 「员」; 「家」 dùng cho người có chuyên môn như 画家, 音乐家."
+        },
+        {
+          "wrong": "他是一位有名的画员。",
+          "right": "他是一位有名的画家。",
+          "noteVi": "Họa sĩ là 「画家」; không có từ 画员."
+        },
+        {
+          "wrong": "我买了一张桌。",
+          "right": "我买了一张桌子。",
+          "noteVi": "「桌」 phải có hậu tố 「子」 mới đứng một mình làm danh từ được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 176,
+      "titleVi": "Giới từ 「根据」: căn cứ vào, dựa theo",
+      "summaryVi": "「根据 + thông tin, yêu cầu, tình hình…」 cho biết làm việc gì dựa trên cơ sở nào; thường đứng đầu câu: 根据老师的要求，我们每天写一百个汉字.",
+      "explanationVi": [
+        "「根据」 nghĩa là '**căn cứ vào, dựa theo**'. Sau nó là một thứ làm cơ sở: yêu cầu, thông tin, tình hình, câu chuyện, lịch sử…: 根据老师的要求 (theo yêu cầu của thầy), 根据历史 (dựa theo lịch sử).",
+        "Vị trí: cụm 「根据……」 đứng **đầu câu** (sau đó có dấu phẩy) hoặc **sau chủ ngữ, trước động từ**: 根据老师的要求，我们每天写一百个汉字 / 我们会根据天气决定去不去爬山. Tiếng Việt hay để cuối câu: 'Chúng tôi viết… **theo yêu cầu của thầy**', nhưng tiếng Trung không đặt cụm 「根据」 ở cuối.",
+        "Sau 「根据」 **không** đặt một người. Tiếng Việt nói 'theo tôi, …' (ý kiến), nhưng không dịch là 根据我; phải dùng 「在我看来」 (điểm ngữ pháp tiếp theo) hoặc 我认为, 我觉得. Còn 根据我的要求 (theo yêu cầu của tôi) thì đúng, vì sau 「根据」 là 'yêu cầu'.",
+        "Mẫu 「是根据……+ động từ + 的」 hay dùng để nói một tác phẩm dựa trên cái gì: 这个故事是根据历史写的."
+      ],
+      "patterns": [
+        "根据 + danh từ，chủ ngữ + động từ…",
+        "Chủ ngữ + 根据 + danh từ + động từ…",
+        "… 是根据 + danh từ + động từ + 的"
+      ],
+      "examples": [
+        {
+          "zh": "根据老师的要求，我们每天写一百个汉字。",
+          "py": "gēn jù lǎo shī de yāo qiú wǒ men měi tiān xiě yì bǎi gè hàn zì",
+          "vi": "Theo yêu cầu của thầy, mỗi ngày chúng tôi viết một trăm chữ Hán."
+        },
+        {
+          "zh": "我们会根据天气决定去不去爬山。",
+          "py": "wǒ men huì gēn jù tiān qì jué dìng qù bu qù pá shān",
+          "vi": "Chúng tôi sẽ căn cứ vào thời tiết để quyết định có đi leo núi hay không."
+        },
+        {
+          "zh": "这张画是根据一个老故事画的。",
+          "py": "zhè zhāng huà shì gēn jù yí gè lǎo gù shi huà de",
+          "vi": "Bức tranh này được vẽ dựa theo một câu chuyện cổ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "根据我，这个办法不太好。",
+          "right": "在我看来，这个办法不太好。",
+          "noteVi": "'Theo tôi' (ý kiến) không dịch là 根据我: sau 「根据」 không đặt một người. Dùng 「在我看来」 hoặc 我觉得."
+        },
+        {
+          "wrong": "我们每天写一百个汉字根据老师的要求。",
+          "right": "根据老师的要求，我们每天写一百个汉字。",
+          "noteVi": "Cụm 「根据……」 đứng đầu câu hoặc trước động từ, không đặt cuối câu như tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 186,
+      "titleVi": "「在……看来」: theo ý ai, trong mắt ai",
+      "summaryVi": "「在 + người + 看来」 đứng đầu câu, nêu ý kiến, cách nhìn của người đó: 在我看来，学汉语不难.",
+      "explanationVi": [
+        "「在……看来」 nghĩa là '**theo (ý) ai, trong mắt ai**'. Giữa 「在」 và 「看来」 là một người hoặc một nhóm người: 在我看来 (theo tôi), 在妈妈看来 (trong mắt mẹ), 在很多外国人看来 (theo nhiều người nước ngoài).",
+        "Cụm này thường đứng **đầu câu**, sau đó là dấu phẩy và ý kiến: 在我看来，这个办法不错. Nó trang trọng hơn 我觉得, và hay dùng khi muốn nhấn mạnh **đó là cách nhìn của một người**, có thể khác người khác: 在爷爷看来，我还是一个孩子.",
+        "Phải có đủ 「在」 và 「来」: không nói 在我看. Phân biệt với 「看来」 (bài 9) không có người ở giữa: 看来他不来了 (xem ra anh ấy không đến), đó là suy đoán từ tình hình. Và đừng dùng 根据我 cho nghĩa 'theo tôi'."
+      ],
+      "patterns": [
+        "在 + người + 看来，+ ý kiến"
+      ],
+      "examples": [
+        {
+          "zh": "在我看来，学汉语最难的是写汉字。",
+          "py": "zài wǒ kàn lái xué hàn yǔ zuì nán de shì xiě hàn zì",
+          "vi": "Theo tôi, khó nhất khi học tiếng Trung là viết chữ Hán."
+        },
+        {
+          "zh": "在爷爷看来，我还是一个孩子。",
+          "py": "zài yé ye kàn lái wǒ hái shi yí gè hái zi",
+          "vi": "Trong mắt ông, tôi vẫn là một đứa trẻ."
+        },
+        {
+          "zh": "在很多外国人看来，汉字像画一样。",
+          "py": "zài hěn duō wài guó rén kàn lái hàn zì xiàng huà yí yàng",
+          "vi": "Với nhiều người nước ngoài, chữ Hán giống như tranh vẽ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "在我看，学汉语不难。",
+          "right": "在我看来，学汉语不难。",
+          "noteVi": "Phải có 「来」: 在……看来. (Khẩu ngữ có thể nói 我看，…, nhưng không có 「在」.)"
+        },
+        {
+          "wrong": "根据妈妈，我还是一个孩子。",
+          "right": "在妈妈看来，我还是一个孩子。",
+          "noteVi": "Nêu cách nhìn của một người dùng 「在……看来」, không dùng 「根据」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 194,
+      "titleVi": "「对……来说」: đối với ai",
+      "summaryVi": "「对 + người/nhóm + 来说」 nói một việc khó, dễ, quan trọng… **đối với** người đó: 对我来说，汉字最难.",
+      "explanationVi": [
+        "「对……来说」 nghĩa là '**đối với ai, với ai thì**': xét từ vị trí, hoàn cảnh của người đó, một việc là khó, dễ, quan trọng, nhiều, ít…: 对我来说，汉字最难 (Đối với tôi, chữ Hán khó nhất). Cụm này đứng **đầu câu** hoặc **sau chủ ngữ**: 三百块钱对你来说不多.",
+        "Phải có đủ 「对」 và 「来说」. Không nói 对我，汉字最难. Đặc biệt đừng nhầm với 「对 + người + 说」 (nói với ai): 他对我说 = anh ấy nói với tôi; còn 对我来说 = đối với tôi.",
+        "Phân biệt với 「在……看来」: 「在我看来」 nêu **ý kiến** của tôi (theo tôi thì…); 「对我来说」 nói sự việc **với tôi** thì như thế nào (với tôi thì khó, với tôi thì quan trọng). So sánh: 对我来说，这个问题很难 (câu hỏi này khó với tôi — tôi làm không được); 在我看来，这个问题不重要 (theo tôi, vấn đề này không quan trọng)."
+      ],
+      "patterns": [
+        "对 + người + 来说，…",
+        "Chủ ngữ + 对 + người + 来说 + …"
+      ],
+      "examples": [
+        {
+          "zh": "对我来说，汉字是最难的。",
+          "py": "duì wǒ lái shuō hàn zì shì zuì nán de",
+          "vi": "Đối với tôi, chữ Hán là khó nhất."
+        },
+        {
+          "zh": "对孩子们来说，玩比学习还重要。",
+          "py": "duì hái zi men lái shuō wán bǐ xué xí hái zhòng yào",
+          "vi": "Đối với trẻ con, chơi còn quan trọng hơn học."
+        },
+        {
+          "zh": "三百块钱对你来说不多，对我来说很多。",
+          "py": "sān bǎi kuài qián duì nǐ lái shuō bù duō duì wǒ lái shuō hěn duō",
+          "vi": "Ba trăm đồng đối với bạn thì không nhiều, đối với tôi thì nhiều."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "对我，汉字最难。",
+          "right": "对我来说，汉字最难。",
+          "noteVi": "Tiếng Việt chỉ cần 'đối với tôi', nhưng tiếng Trung phải có đủ 「对……来说」."
+        },
+        {
+          "wrong": "对我说，汉字最难。",
+          "right": "对我来说，汉字最难。",
+          "noteVi": "「对我说」 là 'nói với tôi'. 'Đối với tôi' là 「对我来说」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-19-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "文化",
+          "văn hóa"
+        ],
+        [
+          "历史",
+          "lịch sử"
+        ],
+        [
+          "语言",
+          "ngôn ngữ"
+        ],
+        [
+          "故事",
+          "câu chuyện"
+        ],
+        [
+          "世界",
+          "thế giới"
+        ],
+        [
+          "国家",
+          "đất nước"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-19-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "名人",
+          "người nổi tiếng"
+        ],
+        [
+          "有名",
+          "nổi tiếng"
+        ],
+        [
+          "主要",
+          "chủ yếu"
+        ],
+        [
+          "发展",
+          "phát triển"
+        ],
+        [
+          "影响",
+          "ảnh hưởng"
+        ],
+        [
+          "不同",
+          "khác nhau"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-19-e03",
+      "type": "choice",
+      "promptVi": "Người vẽ tranh (họa sĩ) tiếng Trung gọi là gì?",
+      "options": [
+        "画家",
+        "画员",
+        "画子"
+      ],
+      "answer": 0,
+      "explainVi": "「-家」 chỉ người có chuyên môn trong một lĩnh vực: 画家, 音乐家.",
+      "grammar": [
+        150
+      ]
+    },
+    {
+      "id": "hsk3-19-e04",
+      "type": "fill",
+      "promptVi": "Chọn hậu tố đúng.",
+      "before": "他是一名足球运动",
+      "after": "。",
+      "answers": [
+        "员"
+      ],
+      "options": [
+        "员",
+        "家",
+        "子"
+      ],
+      "vi": "Anh ấy là một cầu thủ bóng đá.",
+      "explainVi": "Vận động viên là 「运动员」, giống chữ 'viên' tiếng Việt.",
+      "grammar": [
+        150
+      ]
+    },
+    {
+      "id": "hsk3-19-e05",
+      "type": "match",
+      "promptVi": "Nối từ có hậu tố với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "画家",
+          "họa sĩ"
+        ],
+        [
+          "音乐家",
+          "nhạc sĩ"
+        ],
+        [
+          "运动员",
+          "vận động viên"
+        ],
+        [
+          "服务员",
+          "nhân viên phục vụ"
+        ],
+        [
+          "桌子",
+          "cái bàn"
+        ],
+        [
+          "本子",
+          "quyển vở"
+        ]
+      ],
+      "grammar": [
+        150
+      ]
+    },
+    {
+      "id": "hsk3-19-e06",
+      "type": "choice",
+      "promptVi": "「家」 trong 「画家」, 「音乐家」 nghĩa là gì?",
+      "options": [
+        "người có chuyên môn trong một lĩnh vực (nhà…)",
+        "ngôi nhà",
+        "gia đình"
+      ],
+      "answer": 0,
+      "explainVi": "Hậu tố 「-家」 giống chữ 'nhà' trong 'nhà văn, nhà khoa học'.",
+      "grammar": [
+        150
+      ]
+    },
+    {
+      "id": "hsk3-19-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "老师的要求，我们每天写一百个汉字。",
+      "answers": [
+        "根据"
+      ],
+      "options": [
+        "根据",
+        "对",
+        "在"
+      ],
+      "vi": "Theo yêu cầu của thầy, mỗi ngày chúng tôi viết một trăm chữ Hán.",
+      "explainVi": "Làm việc dựa trên cơ sở nào (yêu cầu của thầy) dùng 「根据」.",
+      "grammar": [
+        176
+      ]
+    },
+    {
+      "id": "hsk3-19-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Theo yêu cầu của thầy, mỗi ngày chúng tôi viết một trăm chữ Hán.)",
+      "options": [
+        "根据老师的要求，我们每天写一百个汉字。",
+        "我们每天写一百个汉字根据老师的要求。",
+        "我们根据每天写一百个汉字老师的要求。"
+      ],
+      "answer": 0,
+      "explainVi": "Cụm 「根据……」 đứng đầu câu hoặc trước động từ, không đặt ở cuối câu.",
+      "grammar": [
+        176
+      ]
+    },
+    {
+      "id": "hsk3-19-e09",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Theo tôi, cách này không hay lắm.)",
+      "options": [
+        "在我看来，这个办法不太好。",
+        "根据我，这个办法不太好。",
+        "对我说，这个办法不太好。"
+      ],
+      "answer": 0,
+      "explainVi": "'Theo tôi' (ý kiến) là 「在我看来」. Sau 「根据」 không đặt một người; 「对我说」 là 'nói với tôi'.",
+      "grammar": [
+        186,
+        176
+      ]
+    },
+    {
+      "id": "hsk3-19-e10",
+      "type": "order",
+      "vi": "Câu chuyện này được viết dựa theo lịch sử.",
+      "tiles": [
+        "写的",
+        "这个故事",
+        "历史",
+        "是",
+        "根据"
+      ],
+      "answers": [
+        "这个故事是根据历史写的"
+      ],
+      "explainVi": "Mẫu 「是根据 + danh từ + động từ + 的」.",
+      "grammar": [
+        176
+      ]
+    },
+    {
+      "id": "hsk3-19-e11",
+      "type": "translate",
+      "vi": "Bạn nói vậy có căn cứ gì?",
+      "answers": [
+        "你这[么|样]说有什么根据？",
+        "你这[么|样]说有根据吗？"
+      ],
+      "examples": [
+        {
+          "answer": "你这么说有什么根据？",
+          "score": 100
+        },
+        {
+          "answer": "你这样说有根据吗？",
+          "score": 100
+        },
+        {
+          "answer": "你这么说没有根据。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        176
+      ]
+    },
+    {
+      "id": "hsk3-19-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "在妈妈",
+      "after": "，我还是一个孩子。",
+      "answers": [
+        "看来"
+      ],
+      "options": [
+        "看来",
+        "来说",
+        "看"
+      ],
+      "vi": "Trong mắt mẹ, tôi vẫn là một đứa trẻ.",
+      "explainVi": "Cách nhìn của một người: 「在……看来」.",
+      "grammar": [
+        186
+      ]
+    },
+    {
+      "id": "hsk3-19-e13",
+      "type": "order",
+      "vi": "Theo tôi, tiếng Trung không khó học.",
+      "tiles": [
+        "看来",
+        "汉语不难学",
+        "在",
+        "我"
+      ],
+      "answers": [
+        "在我看来汉语不难学"
+      ],
+      "explainVi": "Người đứng giữa 「在」 và 「看来」, cả cụm đứng đầu câu.",
+      "grammar": [
+        186
+      ]
+    },
+    {
+      "id": "hsk3-19-e14",
+      "type": "choice",
+      "promptVi": "「在我看来」 nghĩa là gì?",
+      "options": [
+        "theo tôi (ý kiến của tôi)",
+        "tôi đã nhìn thấy",
+        "tôi đến để xem"
+      ],
+      "answer": 0,
+      "grammar": [
+        186
+      ]
+    },
+    {
+      "id": "hsk3-19-e15",
+      "type": "translate",
+      "vi": "Theo bố tôi, học lịch sử rất quan trọng.",
+      "answers": [
+        "在(我)爸爸看来，学(习)历史[很|非常]重要。",
+        {
+          "text": "对(我)爸爸来说，学(习)历史[很|非常]重要。",
+          "score": 60
+        }
+      ],
+      "examples": [
+        {
+          "answer": "在我爸爸看来，学历史很重要。",
+          "score": 100
+        },
+        {
+          "answer": "在爸爸看来，学习历史非常重要。",
+          "score": 100
+        },
+        {
+          "answer": "对我爸爸来说，学历史很重要。",
+          "score": 60,
+          "note": "对……来说 là 'đối với bố', không phải 'theo ý bố'"
+        },
+        {
+          "answer": "根据我爸爸，学历史很重要。",
+          "score": 0,
+          "note": "Sau 根据 không đặt một người"
+        },
+        {
+          "answer": "在我爸爸看，学历史很重要。",
+          "score": 0,
+          "note": "Thiếu 来"
+        }
+      ],
+      "grammar": [
+        186
+      ]
+    },
+    {
+      "id": "hsk3-19-e16",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Đối với tôi, chữ Hán khó nhất.)",
+      "options": [
+        "对我来说，汉字最难。",
+        "对我说，汉字最难。",
+        "对我，汉字最难。"
+      ],
+      "answer": 0,
+      "explainVi": "Phải có đủ 「对……来说」; 「对我说」 là 'nói với tôi'.",
+      "grammar": [
+        194
+      ]
+    },
+    {
+      "id": "hsk3-19-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "对孩子们来",
+      "after": "，玩比学习还重要。",
+      "answers": [
+        "说"
+      ],
+      "options": [
+        "说",
+        "看",
+        "讲"
+      ],
+      "vi": "Đối với trẻ con, chơi còn quan trọng hơn học.",
+      "grammar": [
+        194
+      ]
+    },
+    {
+      "id": "hsk3-19-e18",
+      "type": "fill",
+      "promptVi": "Chọn cách nói đúng.",
+      "before": "下课的时候，王老师",
+      "after": "：明天不上课。",
+      "answers": [
+        "对我们说"
+      ],
+      "options": [
+        "对我们说",
+        "对我们来说"
+      ],
+      "vi": "Lúc tan học, thầy Vương nói với chúng tôi: ngày mai không phải lên lớp.",
+      "explainVi": "'Nói với ai' là 「对 + người + 说」. 「对我们来说」 là 'đối với chúng tôi'.",
+      "grammar": [
+        194
+      ]
+    },
+    {
+      "id": "hsk3-19-e19",
+      "type": "translate",
+      "vi": "Đối với tôi, gia đình là quan trọng nhất.",
+      "answers": [
+        "对我来说，[家人|家]最重要。",
+        "对我来说，最重要的是[家人|家]。",
+        "在我看来，[家人|家]最重要。"
+      ],
+      "examples": [
+        {
+          "answer": "对我来说，家人最重要。",
+          "score": 100
+        },
+        {
+          "answer": "对我来说，最重要的是家。",
+          "score": 100
+        },
+        {
+          "answer": "在我看来，家人最重要。",
+          "score": 100
+        },
+        {
+          "answer": "对我说，家人最重要。",
+          "score": 0,
+          "note": "对我说 là 'nói với tôi'"
+        },
+        {
+          "answer": "对我，家人最重要。",
+          "score": 0,
+          "note": "Thiếu 来说"
+        }
+      ],
+      "grammar": [
+        194
+      ]
+    },
+    {
+      "id": "hsk3-19-e20",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "对你来说，学汉语什么最难？",
+        "promptVi": "Đối với bạn, học tiếng Trung cái gì khó nhất? (Giả sử: chữ Hán.)",
+        "answers": [
+          "(对我来说，)汉字最难。",
+          "(对我来说，)最难的是汉字。",
+          "汉字。"
+        ],
+        "examples": [
+          {
+            "answer": "对我来说，汉字最难。",
+            "score": 100
+          },
+          {
+            "answer": "最难的是汉字。",
+            "score": 100
+          },
+          {
+            "answer": "汉字。",
+            "score": 100
+          },
+          {
+            "answer": "对我来说，汉字不难。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        194
+      ]
+    },
+    {
+      "id": "hsk3-19-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我想看一些跟中国历史",
+      "after": "的书。",
+      "answers": [
+        "有关"
+      ],
+      "options": [
+        "有关",
+        "关于",
+        "有名"
+      ],
+      "vi": "Tôi muốn đọc vài cuốn sách liên quan đến lịch sử Trung Quốc.",
+      "explainVi": "Mẫu 「跟……有关」. 「关于」 đứng trước: 关于中国历史的书."
+    },
+    {
+      "id": "hsk3-19-e22",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "他的画＿了很多人的喜爱。",
+      "options": [
+        "受到",
+        "收到",
+        "有关"
+      ],
+      "answer": 0,
+      "explainVi": "「受到 + 喜爱/欢迎/影响」. 「收到」 dùng cho đồ vật được gửi đến (thư, quà)."
+    },
+    {
+      "id": "hsk3-19-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "晚上玩手机会",
+      "after": "睡觉。",
+      "answers": [
+        "影响"
+      ],
+      "options": [
+        "影响",
+        "发展",
+        "主要"
+      ],
+      "vi": "Buổi tối chơi điện thoại sẽ ảnh hưởng đến giấc ngủ."
+    },
+    {
+      "id": "hsk3-19-e24",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "老师说得很慢，我都听＿了。",
+      "options": [
+        "懂",
+        "懂得"
+      ],
+      "answer": 0,
+      "explainVi": "Hiểu lời nói làm bổ ngữ sau động từ: 听懂. 「懂得」 là hiểu lẽ phải, biết cách (懂得关心别人)."
+    },
+    {
+      "id": "hsk3-19-e25",
+      "type": "translate",
+      "vi": "Các nước khác nhau có nền văn hóa khác nhau.",
+      "answers": [
+        "不同的国家有不同的文化。"
+      ],
+      "examples": [
+        {
+          "answer": "不同的国家有不同的文化。",
+          "score": 100
+        },
+        {
+          "answer": "不同的国家有不同文化。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "不同的国家有一样的文化。",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "hsk3-19-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你对哪个国家的文化感兴趣？",
+        "promptVi": "Bạn quan tâm đến văn hóa nước nào? (Giả sử: Trung Quốc.)",
+        "answers": [
+          "(我)对中国(的)文化(很)感兴趣。",
+          "中国(的文化)。"
+        ],
+        "examples": [
+          {
+            "answer": "我对中国文化很感兴趣。",
+            "score": 100
+          },
+          {
+            "answer": "我对中国的文化感兴趣。",
+            "score": 100
+          },
+          {
+            "answer": "中国。",
+            "score": 100
+          },
+          {
+            "answer": "我对日本文化很感兴趣。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-19-e27",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这儿有几位画家？",
+        "promptVi": "Ở đây có mấy họa sĩ?",
+        "picture": "🧑‍🎨🧑‍🎨🧑‍🎨",
+        "expected": {
+          "number": 3,
+          "noun": "画家",
+          "sentence": "这儿有三位画家。"
+        },
+        "examples": [
+          {
+            "answer": "这儿有三位画家。",
+            "score": 100
+          },
+          {
+            "answer": "有三个画家。",
+            "score": 100
+          },
+          {
+            "answer": "这儿有三画家。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "这儿有两位画家。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        150
+      ]
+    }
+  ]
+}

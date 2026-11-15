@@ -1,0 +1,1339 @@
+{
+  "id": "hsk3-18",
+  "goalsVi": [
+    "Nói về các môn thể thao, nơi thi đấu và vận động viên: 打网球, 打羽毛球, 体育馆, 球场, 运动会",
+    "Kể kết quả thi đấu: 得分, 得了第一, 得到帮助",
+    "Tả vóc dáng: 胖, 瘦, 矮, 身高一米八, 头发很长, 他很像他爸爸; nói mức 'trở lên / trở xuống' với 以上, 以下",
+    "Kể 'chẳng mấy chốc' với 「不一会儿」 và nói 'tiếp tục' với 「动词 + 下去 / 下来」",
+    "So sánh: 「A 不比 B + tính từ」 (khác 「A 没有 B」) và 「A 比 B 早/晚/多/少 + động từ + số lượng」"
+  ],
+  "words": [
+    {
+      "no": 854,
+      "word": "体育馆",
+      "meaningsVi": [
+        "nhà thi đấu, nhà thể thao"
+      ],
+      "noteVi": "「馆」 là toà nhà dùng vào một việc, như trong 图书馆 (thư viện), 饭馆 (quán ăn).",
+      "examples": [
+        {
+          "zh": "下雨的时候，我们在体育馆里打球。",
+          "py": "xià yǔ de shí hou wǒ men zài tǐ yù guǎn lǐ dǎ qiú",
+          "vi": "Khi trời mưa, chúng tôi chơi bóng trong nhà thi đấu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 811,
+      "word": "球场",
+      "meaningsVi": [
+        "sân bóng, sân chơi bóng"
+      ],
+      "noteVi": "Ghép với tên môn: 足球场 (sân bóng đá), 篮球场 (sân bóng rổ), 网球场 (sân quần vợt).",
+      "examples": [
+        {
+          "zh": "下午我们去球场踢足球吧。",
+          "py": "xià wǔ wǒ men qù qiú chǎng tī zú qiú ba",
+          "vi": "Chiều nay chúng mình ra sân đá bóng nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 522,
+      "word": "比赛",
+      "meaningsVi": [
+        "trận đấu, cuộc thi",
+        "thi đấu, thi"
+      ],
+      "noteVi": "Vừa là danh từ (参加比赛: tham gia cuộc thi) vừa là động từ (我们比赛一下: chúng ta thi một chút). Thi đấu với ai: 跟 + người + 比赛.",
+      "examples": [
+        {
+          "zh": "这次比赛我们班得了第一。",
+          "py": "zhè cì bǐ sài wǒ men bān dé le dì yī",
+          "vi": "Cuộc thi lần này lớp chúng tôi được giải nhất."
+        },
+        {
+          "zh": "我们比赛一下，看谁跑得快。",
+          "py": "wǒ men bǐ sài yí xià kàn shéi pǎo de kuài",
+          "vi": "Chúng mình thi một chút xem ai chạy nhanh hơn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 960,
+      "word": "运动会",
+      "meaningsVi": [
+        "đại hội thể thao, hội thao"
+      ],
+      "noteVi": "Tổ chức đại hội thể thao là 「开运动会」, giống 开会 (họp).",
+      "examples": [
+        {
+          "zh": "下个星期学校要开运动会。",
+          "py": "xià gè xīng qī xué xiào yào kāi yùn dòng huì",
+          "vi": "Tuần sau trường sẽ tổ chức hội thao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 961,
+      "word": "运动员",
+      "meaningsVi": [
+        "vận động viên"
+      ],
+      "noteVi": "Lượng từ hay dùng là 「名」 hoặc 「个」: 一名运动员.",
+      "examples": [
+        {
+          "zh": "他是一名足球运动员。",
+          "py": "tā shì yì míng zú qiú yùn dòng yuán",
+          "vi": "Anh ấy là một cầu thủ bóng đá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 956,
+      "word": "员",
+      "meaningsVi": [
+        "(hậu tố) người làm một việc, thành viên: 运动员, 服务员"
+      ],
+      "noteVi": "Giống chữ 'viên' trong tiếng Việt (nhân viên, vận động viên, thành viên). 「员」 không đứng một mình; luôn đứng sau một từ khác: 运动员 (vận động viên), 服务员 (nhân viên phục vụ).",
+      "examples": [
+        {
+          "zh": "这家饭馆的服务员都很热情。",
+          "py": "zhè jiā fàn guǎn de fú wù yuán dōu hěn rè qíng",
+          "vi": "Nhân viên phục vụ của quán này ai cũng nhiệt tình."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 872,
+      "word": "网球",
+      "meaningsVi": [
+        "quần vợt, tennis"
+      ],
+      "noteVi": "Chơi quần vợt là 「打网球」. Môn chơi bằng tay hoặc vợt dùng 「打」, môn chơi bằng chân dùng 「踢」 (踢足球).",
+      "examples": [
+        {
+          "zh": "你会打网球吗？",
+          "py": "nǐ huì dǎ wǎng qiú ma",
+          "vi": "Bạn có biết chơi quần vợt không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 950,
+      "word": "羽毛球",
+      "meaningsVi": [
+        "cầu lông"
+      ],
+      "noteVi": "Âm Hán Việt 'vũ mao cầu': quả cầu bằng lông vũ. Chơi cầu lông là 「打羽毛球」.",
+      "examples": [
+        {
+          "zh": "晚上我常常跟朋友打羽毛球。",
+          "py": "wǎn shang wǒ cháng cháng gēn péng you dǎ yǔ máo qiú",
+          "vi": "Buổi tối tôi thường chơi cầu lông với bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 856,
+      "word": "跳",
+      "meaningsVi": [
+        "nhảy"
+      ],
+      "noteVi": "Đã gặp trong 「跳舞」 (khiêu vũ). 「跳」 là nhảy lên, nhảy qua: 跳得很高 (nhảy rất cao).",
+      "examples": [
+        {
+          "zh": "他跳得很高。",
+          "py": "tā tiào de hěn gāo",
+          "vi": "Anh ấy nhảy rất cao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 583,
+      "word": "得",
+      "meaningsVi": [
+        "được, đạt được (điểm, giải)"
+      ],
+      "noteVi": "Chữ 「得」 có ba cách đọc: **dé** (động từ 'được': 得了一百分), **de** (trợ từ: 跑得很快), **děi** (phải: 我得走了).",
+      "examples": [
+        {
+          "zh": "这次考试他得了一百分。",
+          "py": "zhè cì kǎo shì tā dé le yì bǎi fēn",
+          "vi": "Bài thi lần này cậu ấy được một trăm điểm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 584,
+      "word": "得到",
+      "meaningsVi": [
+        "nhận được, có được, đạt được"
+      ],
+      "noteVi": "「得到」 thường đi với thứ trừu tượng hoặc kết quả: 得到帮助 (nhận được sự giúp đỡ), 得到机会 (có cơ hội). Nhận đồ vật người khác gửi (thư, quà, email) thì dùng 「收到」: 收到一封信.",
+      "examples": [
+        {
+          "zh": "他得到了老师和同学的帮助。",
+          "py": "tā dé dào le lǎo shī hé tóng xué de bāng zhù",
+          "vi": "Cậu ấy nhận được sự giúp đỡ của thầy cô và bạn bè."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 585,
+      "word": "得分",
+      "meaningsVi": [
+        "ghi điểm",
+        "điểm số (đạt được)"
+      ],
+      "noteVi": "Là động từ li hợp: 他又得分了 (anh ấy lại ghi điểm), 得了两分 (ghi được hai điểm). Là danh từ: 他的得分最高.",
+      "examples": [
+        {
+          "zh": "这次比赛他的得分最高。",
+          "py": "zhè cì bǐ sài tā de dé fēn zuì gāo",
+          "vi": "Trong lần thi đấu này, anh ấy ghi điểm cao nhất."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 697,
+      "word": "坚持",
+      "meaningsVi": [
+        "kiên trì, bền bỉ (làm tiếp)",
+        "giữ vững (ý kiến)"
+      ],
+      "noteVi": "Hay dùng: 坚持 + động từ (坚持锻炼: kiên trì tập luyện), 坚持下去 (kiên trì tiếp).",
+      "examples": [
+        {
+          "zh": "我爷爷每天坚持跑步。",
+          "py": "wǒ yé ye měi tiān jiān chí pǎo bù",
+          "vi": "Ông tôi ngày nào cũng kiên trì chạy bộ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 853,
+      "word": "体育",
+      "meaningsVi": [
+        "thể dục, thể thao"
+      ],
+      "noteVi": "Âm Hán Việt là 'thể dục', nhưng 「体育」 chỉ chung thể thao: 体育课 (giờ thể dục), 体育馆 (nhà thi đấu).",
+      "examples": [
+        {
+          "zh": "我最喜欢上体育课。",
+          "py": "wǒ zuì xǐ huan shàng tǐ yù kè",
+          "vi": "Tôi thích nhất là học giờ thể dục."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 771,
+      "word": "名单",
+      "meaningsVi": [
+        "danh sách (tên người)"
+      ],
+      "examples": [
+        {
+          "zh": "比赛的名单上有你的名字。",
+          "py": "bǐ sài de míng dān shàng yǒu nǐ de míng zi",
+          "vi": "Trong danh sách thi đấu có tên bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 827,
+      "word": "身高",
+      "meaningsVi": [
+        "chiều cao (của người)"
+      ],
+      "noteVi": "「身高」 là danh từ, đi với con số: 我身高一米七 / 我的身高是一米七. Nhận xét cao hay thấp thì dùng 「个子」: 他个子很高.",
+      "examples": [
+        {
+          "zh": "他的身高是一米八。",
+          "py": "tā de shēn gāo shì yì mǐ bā",
+          "vi": "Chiều cao của anh ấy là một mét tám mươi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 931,
+      "word": "以上",
+      "meaningsVi": [
+        "trở lên, trên (một mức)"
+      ],
+      "noteVi": "Đứng sau số lượng: 一米八以上 (từ 1 mét 80 trở lên), 十八岁以上. Thường hiểu là gồm cả con số đó.",
+      "examples": [
+        {
+          "zh": "身高一米八以上的同学可以参加篮球比赛。",
+          "py": "shēn gāo yì mǐ bā yǐ shàng de tóng xué kě yǐ cān jiā lán qiú bǐ sài",
+          "vi": "Các bạn cao từ một mét tám mươi trở lên có thể tham gia thi bóng rổ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 934,
+      "word": "以下",
+      "meaningsVi": [
+        "trở xuống, dưới (một mức)"
+      ],
+      "examples": [
+        {
+          "zh": "十二岁以下的孩子不用买票。",
+          "py": "shí èr suì yǐ xià de hái zi bú yòng mǎi piào",
+          "vi": "Trẻ em từ mười hai tuổi trở xuống không cần mua vé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 793,
+      "word": "胖",
+      "meaningsVi": [
+        "béo, mập"
+      ],
+      "noteVi": "「胖了」 là béo lên (thay đổi). Nói thẳng người khác 「胖」 có thể làm họ không vui, giống tiếng Việt.",
+      "examples": [
+        {
+          "zh": "我最近胖了，得多运动。",
+          "py": "wǒ zuì jìn pàng le děi duō yùn dòng",
+          "vi": "Dạo này tôi béo lên rồi, phải vận động nhiều hơn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 840,
+      "word": "瘦",
+      "meaningsVi": [
+        "gầy",
+        "(quần áo) chật, bó"
+      ],
+      "noteVi": "「瘦了」 là gầy đi. Với quần áo, 「瘦」 là chật, bó: 这条裤子有点儿瘦.",
+      "examples": [
+        {
+          "zh": "你瘦了，最近工作很忙吧？",
+          "py": "nǐ shòu le zuì jìn gōng zuò hěn máng ba",
+          "vi": "Bạn gầy đi rồi, dạo này công việc bận lắm phải không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 502,
+      "word": "矮",
+      "meaningsVi": [
+        "thấp, lùn"
+      ],
+      "noteVi": "Trái nghĩa với 「高」 khi nói chiều cao của người, cây, nhà: 个子矮, 矮楼.",
+      "examples": [
+        {
+          "zh": "我比哥哥矮一点儿。",
+          "py": "wǒ bǐ gē ge ǎi yì diǎn r",
+          "vi": "Tôi thấp hơn anh trai một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 861,
+      "word": "头发",
+      "meaningsVi": [
+        "tóc"
+      ],
+      "noteVi": "「头」 là đầu, 「头发」 mới là tóc. Chữ 「发」 đọc nhẹ: tóufa.",
+      "examples": [
+        {
+          "zh": "她的头发很长，是黑色的。",
+          "py": "tā de tóu fa hěn cháng shì hēi sè de",
+          "vi": "Tóc cô ấy rất dài, màu đen."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 896,
+      "word": "像",
+      "meaningsVi": [
+        "giống"
+      ],
+      "noteVi": "「像」 là động từ: A 像 B (A giống B), có thể thêm 很: 他很像他爸爸. Cũng nói: A 跟 B 很像. Kết hợp với bài 17: 他看起来像运动员 (Trông anh ấy giống vận động viên). Đừng nhầm với 「好像」 (hình như).",
+      "examples": [
+        {
+          "zh": "他很像他爸爸。",
+          "py": "tā hěn xiàng tā bà ba",
+          "vi": "Cậu ấy rất giống bố."
+        },
+        {
+          "zh": "他个子很高，看起来像运动员。",
+          "py": "tā gè zi hěn gāo kàn qǐ lái xiàng yùn dòng yuán",
+          "vi": "Anh ấy cao, trông giống vận động viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 184,
+      "titleVi": "「不一会儿」: chẳng mấy chốc, chỉ một lát sau",
+      "summaryVi": "「不一会儿」 đứng đầu vế sau, cho biết việc tiếp theo xảy ra chỉ sau một thời gian rất ngắn; thường đi với 「就……了」: 不一会儿，他就回来了.",
+      "explanationVi": [
+        "「不一会儿」 nghĩa là '**chẳng mấy chốc, chỉ một lát sau**'. Chữ 「不」 ở đây **không** phủ định: 不一会儿 không phải là 'không một lúc nào', mà là 'chưa được bao lâu thì…'.",
+        "Thường dùng khi **kể lại** việc đã xảy ra: vế trước nói một việc, vế sau mở đầu bằng 「不一会儿」, rồi đến 「就 + động từ + 了」: 比赛开始了，不一会儿，他就得了两分 (Trận đấu bắt đầu, chẳng mấy chốc anh ấy đã ghi hai điểm). Có thể đặt sau chủ ngữ: 他不一会儿就回来了.",
+        "Phân biệt với 「一会儿」 (HSK2): 「一会儿」 là 'một lát', đứng **sau động từ** chỉ thời gian kéo dài (等一会儿, 休息一会儿) hoặc chỉ tương lai gần (我一会儿就来). 「不一会儿」 **không** đứng sau động từ: nói 我们等了一会儿, không nói 我们等了不一会儿."
+      ],
+      "patterns": [
+        "Việc 1，不一会儿（，）(chủ ngữ) + 就 + động từ + 了",
+        "Chủ ngữ + 不一会儿 + 就 + động từ + 了"
+      ],
+      "examples": [
+        {
+          "zh": "比赛开始了，不一会儿，他就得了两分。",
+          "py": "bǐ sài kāi shǐ le bù yí huì r tā jiù dé le liǎng fēn",
+          "vi": "Trận đấu bắt đầu, chẳng mấy chốc anh ấy đã ghi được hai điểm."
+        },
+        {
+          "zh": "下雨了，不一会儿，球场上的人都走了。",
+          "py": "xià yǔ le bù yí huì r qiú chǎng shàng de rén dōu zǒu le",
+          "vi": "Trời mưa, chỉ một lát sau mọi người trên sân bóng đều đi hết."
+        },
+        {
+          "zh": "他出去买水，不一会儿就回来了。",
+          "py": "tā chū qù mǎi shuǐ bù yí huì r jiù huí lái le",
+          "vi": "Anh ấy ra ngoài mua nước, chẳng mấy chốc đã quay về."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们等了不一会儿。",
+          "right": "我们等了一会儿。",
+          "noteVi": "Chỉ khoảng thời gian chờ (sau động từ) dùng 「一会儿」. 「不一会儿」 đứng đầu vế câu, chỉ việc tiếp theo xảy ra rất nhanh: 不一会儿，他就来了."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 208,
+      "titleVi": "Động từ + 下去 / 下来: tiếp tục (về sau) / kéo dài (đến giờ)",
+      "summaryVi": "「V + 下去」: tiếp tục làm từ bây giờ về sau (说下去, 坚持下去); 「V + 下来」: một việc kéo dài từ trước đến nay, đã làm trọn (坚持下来, 跑下来).",
+      "explanationVi": [
+        "Ở HSK2, 「下去 / 下来」 chỉ hướng: 走下去 (đi xuống), 跑下来 (chạy xuống đây). Bài này học **nghĩa mở rộng**: chỉ thời gian kéo dài của một hành động.",
+        "**V + 下去** = tiếp tục làm, từ **bây giờ về sau**: 你说下去 (Bạn nói tiếp đi), 学汉语很难，可是我要坚持下去 (… tôi sẽ kiên trì tiếp). Tiếng Việt hay dùng 'tiếp', 'nữa': nói tiếp, học tiếp. Không làm tiếp được thì dùng bổ ngữ khả năng (bài 10): 我太累了，跑不下去了 (Tôi mệt quá, không chạy tiếp được nữa).",
+        "**V + 下来** = hành động kéo dài từ **trước đến bây giờ** (hoặc đến lúc kết thúc), nhấn mạnh đã làm trọn, đã vượt qua: 比赛很累，可是他坚持下来了 (… nhưng anh ấy đã trụ được đến cùng), 五千米跑下来，他一点儿也不累 (Chạy hết năm nghìn mét mà anh ấy chẳng mệt chút nào), 一个学期学下来，他的汉语提高了很多.",
+        "Tân ngữ **không** đứng sau 下去 / 下来: không nói 我要学下去汉语. Đưa tân ngữ lên đầu câu (汉语我要一直学下去) hoặc bỏ đi khi đã rõ (我要一直学下去)."
+      ],
+      "patterns": [
+        "Động từ + 下去 (tiếp tục về sau)",
+        "Động từ + 下来 (kéo dài đến nay / đến cuối)",
+        "Động từ + 不 + 下去 (không tiếp tục được)"
+      ],
+      "examples": [
+        {
+          "zh": "你说下去，我们都在听。",
+          "py": "nǐ shuō xià qù wǒ men dōu zài tīng",
+          "vi": "Bạn nói tiếp đi, chúng tôi đều đang nghe."
+        },
+        {
+          "zh": "学汉语不容易，可是我会坚持下去。",
+          "py": "xué hàn yǔ bù róng yì kě shì wǒ huì jiān chí xià qù",
+          "vi": "Học tiếng Trung không dễ, nhưng tôi sẽ kiên trì tiếp."
+        },
+        {
+          "zh": "比赛很累，可是他还是坚持下来了。",
+          "py": "bǐ sài hěn lèi kě shì tā hái shi jiān chí xià lái le",
+          "vi": "Trận đấu rất mệt, nhưng anh ấy vẫn trụ được đến cùng."
+        },
+        {
+          "zh": "一个学期学下来，他的汉语水平提高了很多。",
+          "py": "yí gè xué qī xué xià lái tā de hàn yǔ shuǐ píng tí gāo le hěn duō",
+          "vi": "Học hết một học kỳ, trình độ tiếng Trung của cậu ấy tiến bộ rất nhiều."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你说下来吧，我在听。",
+          "right": "你说下去吧，我在听。",
+          "noteVi": "Tiếp tục từ bây giờ về sau dùng 「下去」. 「下来」 nhìn từ trước đến bây giờ, không dùng để bảo người khác nói tiếp."
+        },
+        {
+          "wrong": "我要学下去汉语。",
+          "right": "汉语我要一直学下去。",
+          "noteVi": "Tân ngữ không đứng sau 「下去」. Đưa 汉语 lên đầu câu, hoặc bỏ đi khi đã rõ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 224,
+      "titleVi": "A 不比 B + tính từ: A không hơn B (gần như nhau)",
+      "summaryVi": "「A 不比 B + tính từ」 nghĩa là A không … hơn B (hai bên gần như nhau), hay dùng để phản bác; khác với 「A 没有 B + tính từ」 (A không … bằng B).",
+      "explanationVi": [
+        "「我不比他矮」 nghĩa là 'Tôi **không thấp hơn** anh ấy': hai người cao gần như nhau, có khi tôi còn cao hơn. Câu này hay dùng để **phản bác** ý của người khác: 你说我矮？我不比他矮！",
+        "Đừng hiểu 「A 不比 B + tính từ」 thành 'A kém B'. Muốn nói A kém B, dùng 「A 没有 B + tính từ」 (HSK2): 我没有他高 (Tôi không cao bằng anh ấy). So sánh: 我不比他高 = tôi không cao hơn anh ấy (gần bằng nhau); 我没有他高 = tôi thấp hơn anh ấy.",
+        "「不」 đứng **trước 「比」**, không đứng trước tính từ: nói 他不比我胖, không nói 他比我不胖. Giống các câu 「比」 khác, trước tính từ không thêm 很, 非常."
+      ],
+      "patterns": [
+        "A + 不比 + B + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "你说他胖？我觉得他不比你胖。",
+          "py": "nǐ shuō tā pàng wǒ jué de tā bù bǐ nǐ pàng",
+          "vi": "Bạn bảo anh ấy béo à? Tôi thấy anh ấy có béo hơn bạn đâu."
+        },
+        {
+          "zh": "这个体育馆不比那个小。",
+          "py": "zhè ge tǐ yù guǎn bù bǐ nà ge xiǎo",
+          "vi": "Nhà thi đấu này không nhỏ hơn cái kia."
+        },
+        {
+          "zh": "妹妹不比姐姐矮，她们差不多高。",
+          "py": "mèi mei bù bǐ jiě jie ǎi tā men chà bu duō gāo",
+          "vi": "Em gái không thấp hơn chị, hai chị em cao gần bằng nhau."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他比我不胖。",
+          "right": "他不比我胖。",
+          "noteVi": "「不」 đứng trước 「比」, không đứng trước tính từ."
+        },
+        {
+          "wrong": "这个球场不比那个很大。",
+          "right": "这个球场不比那个大。",
+          "noteVi": "Trong câu 「比」 không thêm 「很」 trước tính từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 225,
+      "titleVi": "A 比 B 早/晚/多/少 + động từ + số lượng",
+      "summaryVi": "Nói A làm sớm hơn, muộn hơn, nhiều hơn, ít hơn B bao nhiêu: 早/晚/多/少 đứng trước động từ, số lượng đứng sau: 我比他早到了十分钟.",
+      "explanationVi": [
+        "Muốn nói chênh lệch bao nhiêu khi so sánh hai hành động, đặt 「早 / 晚 / 多 / 少」 **trước động từ**, con số **sau động từ**: 我比他早到了十分钟 (Tôi đến sớm hơn anh ấy mười phút), 他比我多跑了五百米 (Anh ấy chạy nhiều hơn tôi năm trăm mét).",
+        "Tiếng Việt đặt 'sớm hơn, nhiều hơn' **sau** động từ: 'đến sớm hơn', 'chạy nhiều hơn'. Vì vậy người Việt hay nói sai 我比他到早了十分钟, 他比我跑多了五百米. Nhớ: 早到, 晚来, 多跑, 少得 — tính từ đứng trước động từ.",
+        "「了」 đứng sau động từ: 多跑了, 早到了. Với thời gian, cũng có thể đặt con số trước động từ: 我比他早十分钟到. Không có 「比」, cách nói này vẫn dùng được: 我今天早到了十分钟 (Hôm nay tôi đến sớm mười phút), 你多吃一点儿 (Bạn ăn nhiều thêm một chút)."
+      ],
+      "patterns": [
+        "A + 比 + B + 早/晚 + động từ + (了) + thời gian",
+        "A + 比 + B + 多/少 + động từ + (了) + số lượng"
+      ],
+      "examples": [
+        {
+          "zh": "今天我比他早到了十分钟。",
+          "py": "jīn tiān wǒ bǐ tā zǎo dào le shí fēn zhōng",
+          "vi": "Hôm nay tôi đến sớm hơn anh ấy mười phút."
+        },
+        {
+          "zh": "他比我多跑了五百米。",
+          "py": "tā bǐ wǒ duō pǎo le wǔ bǎi mǐ",
+          "vi": "Anh ấy chạy nhiều hơn tôi năm trăm mét."
+        },
+        {
+          "zh": "这次比赛，她比我少得了两分。",
+          "py": "zhè cì bǐ sài tā bǐ wǒ shǎo dé le liǎng fēn",
+          "vi": "Lần thi này, cô ấy được ít hơn tôi hai điểm."
+        },
+        {
+          "zh": "哥哥比我晚来了半个小时。",
+          "py": "gē ge bǐ wǒ wǎn lái le bàn gè xiǎo shí",
+          "vi": "Anh trai đến muộn hơn tôi nửa tiếng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我比他到早了十分钟。",
+          "right": "我比他早到了十分钟。",
+          "noteVi": "「早」 đứng trước động từ 「到」, không đứng sau như tiếng Việt 'đến sớm hơn'."
+        },
+        {
+          "wrong": "他比我跑多了五百米。",
+          "right": "他比我多跑了五百米。",
+          "noteVi": "「多」 đứng trước động từ 「跑」; số lượng (五百米) đứng sau động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-18-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "网球",
+          "quần vợt"
+        ],
+        [
+          "羽毛球",
+          "cầu lông"
+        ],
+        [
+          "体育馆",
+          "nhà thi đấu"
+        ],
+        [
+          "球场",
+          "sân bóng"
+        ],
+        [
+          "运动会",
+          "hội thao"
+        ],
+        [
+          "运动员",
+          "vận động viên"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-18-e02",
+      "type": "match",
+      "promptVi": "Nối từ chỉ vóc dáng với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "胖",
+          "béo"
+        ],
+        [
+          "瘦",
+          "gầy"
+        ],
+        [
+          "矮",
+          "thấp"
+        ],
+        [
+          "头发",
+          "tóc"
+        ],
+        [
+          "身高",
+          "chiều cao"
+        ],
+        [
+          "像",
+          "giống"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-18-e03",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "比赛",
+          "thi đấu"
+        ],
+        [
+          "坚持",
+          "kiên trì"
+        ],
+        [
+          "得到",
+          "nhận được"
+        ],
+        [
+          "得分",
+          "ghi điểm"
+        ],
+        [
+          "名单",
+          "danh sách"
+        ],
+        [
+          "以下",
+          "trở xuống"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-18-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "十八岁",
+      "after": "的人才能开车。",
+      "answers": [
+        "以上"
+      ],
+      "options": [
+        "以上",
+        "以下"
+      ],
+      "vi": "Người từ mười tám tuổi trở lên mới được lái xe."
+    },
+    {
+      "id": "hsk3-18-e05",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "他＿了很多人的帮助。",
+      "options": [
+        "得到",
+        "收到",
+        "得分"
+      ],
+      "answer": 0,
+      "explainVi": "Nhận được sự giúp đỡ (thứ trừu tượng) dùng 「得到」. 「收到」 dùng cho đồ vật được gửi đến: 收到一封信."
+    },
+    {
+      "id": "hsk3-18-e06",
+      "type": "choice",
+      "promptVi": "「比赛开始了，不一会儿，他就得了两分。」 nghĩa là gì?",
+      "options": [
+        "Trận đấu bắt đầu, chẳng mấy chốc anh ấy đã ghi được hai điểm.",
+        "Trận đấu bắt đầu, một lúc lâu anh ấy không ghi được điểm nào.",
+        "Trận đấu bắt đầu rất lâu rồi anh ấy mới ghi được hai điểm."
+      ],
+      "answer": 0,
+      "explainVi": "「不一会儿」 = chẳng mấy chốc, chỉ một lát sau; 「不」 ở đây không phủ định.",
+      "grammar": [
+        184
+      ]
+    },
+    {
+      "id": "hsk3-18-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他出去买水，",
+      "after": "就回来了。",
+      "answers": [
+        "不一会儿"
+      ],
+      "options": [
+        "不一会儿",
+        "一点儿",
+        "有时"
+      ],
+      "vi": "Anh ấy ra ngoài mua nước, chẳng mấy chốc đã quay về.",
+      "grammar": [
+        184
+      ]
+    },
+    {
+      "id": "hsk3-18-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng tôi đợi một lát.)",
+      "options": [
+        "我们等了一会儿。",
+        "我们等了不一会儿。",
+        "我们不一会儿等了。"
+      ],
+      "answer": 0,
+      "explainVi": "Sau động từ, chỉ thời gian chờ, dùng 「一会儿」. 「不一会儿」 không đứng sau động từ.",
+      "grammar": [
+        184
+      ]
+    },
+    {
+      "id": "hsk3-18-e09",
+      "type": "order",
+      "vi": "Chẳng mấy chốc anh ấy đã quay về.",
+      "tiles": [
+        "回来了",
+        "他",
+        "就",
+        "不一会儿"
+      ],
+      "answers": [
+        "不一会儿他就回来了",
+        "他不一会儿就回来了"
+      ],
+      "explainVi": "「不一会儿」 đứng đầu câu hoặc sau chủ ngữ, sau đó là 「就 + động từ + 了」.",
+      "grammar": [
+        184
+      ]
+    },
+    {
+      "id": "hsk3-18-e10",
+      "type": "translate",
+      "vi": "Chẳng mấy chốc, anh ấy đã ghi được hai điểm.",
+      "answers": [
+        "不一会儿(，)他就得了两分。",
+        "他不一会儿就得了两分。"
+      ],
+      "examples": [
+        {
+          "answer": "不一会儿，他就得了两分。",
+          "score": 100
+        },
+        {
+          "answer": "他不一会儿就得了两分。",
+          "score": 100
+        },
+        {
+          "answer": "不一会儿，他得了两分。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Nên có 就"
+        },
+        {
+          "answer": "不一会儿，他就得了三分。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        184
+      ]
+    },
+    {
+      "id": "hsk3-18-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn nói tiếp đi, tôi đang nghe.)",
+      "options": [
+        "你说下去吧，我在听。",
+        "你说下来吧，我在听。",
+        "你下去说吧，我在听。"
+      ],
+      "answer": 0,
+      "explainVi": "Tiếp tục từ bây giờ về sau dùng 「V + 下去」. 「下去说」 là 'đi xuống rồi nói'.",
+      "grammar": [
+        208
+      ]
+    },
+    {
+      "id": "hsk3-18-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "学汉语很难，可是我会坚持",
+      "after": "。",
+      "answers": [
+        "下去"
+      ],
+      "options": [
+        "下去",
+        "下来"
+      ],
+      "vi": "Học tiếng Trung rất khó, nhưng tôi sẽ kiên trì tiếp.",
+      "explainVi": "Nói về việc sẽ tiếp tục làm (từ bây giờ về sau) dùng 「下去」.",
+      "grammar": [
+        208
+      ]
+    },
+    {
+      "id": "hsk3-18-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "五千米跑",
+      "after": "，他一点儿也不累。",
+      "answers": [
+        "下来"
+      ],
+      "options": [
+        "下来",
+        "下去"
+      ],
+      "vi": "Chạy hết năm nghìn mét mà anh ấy chẳng mệt chút nào.",
+      "explainVi": "Đã chạy trọn quãng đường (từ đầu đến lúc xong) dùng 「下来」.",
+      "grammar": [
+        208
+      ]
+    },
+    {
+      "id": "hsk3-18-e14",
+      "type": "order",
+      "vi": "Chúng ta phải kiên trì tiếp.",
+      "tiles": [
+        "下去",
+        "我们",
+        "坚持",
+        "要"
+      ],
+      "answers": [
+        "我们要坚持下去"
+      ],
+      "explainVi": "「下去」 đứng ngay sau động từ 「坚持」.",
+      "grammar": [
+        208
+      ]
+    },
+    {
+      "id": "hsk3-18-e15",
+      "type": "translate",
+      "vi": "Bạn nói tiếp đi.",
+      "answers": [
+        "(请)(你)说下去(吧)。"
+      ],
+      "examples": [
+        {
+          "answer": "你说下去吧。",
+          "score": 100
+        },
+        {
+          "answer": "请你说下去。",
+          "score": 100
+        },
+        {
+          "answer": "说下去吧。",
+          "score": 100
+        },
+        {
+          "answer": "你说下来吧。",
+          "score": 0,
+          "note": "下来 không có nghĩa 'tiếp tục từ bây giờ'"
+        }
+      ],
+      "grammar": [
+        208
+      ]
+    },
+    {
+      "id": "hsk3-18-e16",
+      "type": "choice",
+      "promptVi": "「我不比他胖。」 nghĩa là gì?",
+      "options": [
+        "Tôi không béo hơn anh ấy (hai người gần như nhau).",
+        "Tôi gầy hơn anh ấy nhiều.",
+        "Tôi không béo bằng anh ấy."
+      ],
+      "answer": 0,
+      "explainVi": "「A 不比 B + tính từ」: A không … hơn B, hai bên gần như nhau. 'Tôi không béo bằng anh ấy' là 我没有他胖.",
+      "grammar": [
+        224
+      ]
+    },
+    {
+      "id": "hsk3-18-e17",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy không thấp hơn tôi.)",
+      "options": [
+        "他不比我矮。",
+        "他比我不矮。",
+        "他不比我很矮。"
+      ],
+      "answer": 0,
+      "explainVi": "「不」 đứng trước 「比」; trước tính từ không thêm 「很」.",
+      "grammar": [
+        224
+      ]
+    },
+    {
+      "id": "hsk3-18-e18",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你说这个体育馆小？我觉得它",
+      "after": "那个小。",
+      "answers": [
+        "不比"
+      ],
+      "options": [
+        "不比",
+        "比不",
+        "不跟"
+      ],
+      "vi": "Bạn bảo nhà thi đấu này nhỏ à? Tôi thấy nó có nhỏ hơn cái kia đâu.",
+      "explainVi": "Phản bác ý người khác: 「A 不比 B + tính từ」.",
+      "grammar": [
+        224
+      ]
+    },
+    {
+      "id": "hsk3-18-e19",
+      "type": "translate",
+      "vi": "Anh trai tôi không cao hơn tôi (hai anh em cao gần bằng nhau).",
+      "answers": [
+        "[我哥哥|哥哥]不比我高。"
+      ],
+      "examples": [
+        {
+          "answer": "我哥哥不比我高。",
+          "score": 100
+        },
+        {
+          "answer": "哥哥不比我高。",
+          "score": 100
+        },
+        {
+          "answer": "我哥哥比我不高。",
+          "score": 0,
+          "note": "不 phải đứng trước 比"
+        },
+        {
+          "answer": "我哥哥没有我高。",
+          "score": 0,
+          "note": "没有 nghĩa là 'không cao bằng', khác nghĩa"
+        }
+      ],
+      "grammar": [
+        224
+      ]
+    },
+    {
+      "id": "hsk3-18-e20",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đến sớm hơn anh ấy mười phút.)",
+      "options": [
+        "我比他早到了十分钟。",
+        "我比他到早了十分钟。",
+        "我早比他到了十分钟。"
+      ],
+      "answer": 0,
+      "explainVi": "「早」 đứng trước động từ, số lượng thời gian đứng sau: 早到了十分钟.",
+      "grammar": [
+        225
+      ]
+    },
+    {
+      "id": "hsk3-18-e21",
+      "type": "order",
+      "vi": "Anh ấy chạy nhiều hơn tôi năm trăm mét.",
+      "tiles": [
+        "跑了",
+        "他",
+        "五百米",
+        "多",
+        "比我"
+      ],
+      "answers": [
+        "他比我多跑了五百米"
+      ],
+      "explainVi": "A 比 B + 多 + động từ + số lượng.",
+      "grammar": [
+        225
+      ]
+    },
+    {
+      "id": "hsk3-18-e22",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这次比赛，她比我",
+      "after": "得了两分。",
+      "answers": [
+        "少"
+      ],
+      "options": [
+        "少",
+        "小",
+        "矮"
+      ],
+      "vi": "Lần thi này, cô ấy được ít hơn tôi hai điểm.",
+      "explainVi": "Ít hơn về số lượng dùng 「少」 đứng trước động từ.",
+      "grammar": [
+        225
+      ]
+    },
+    {
+      "id": "hsk3-18-e23",
+      "type": "translate",
+      "vi": "Hôm nay tôi đến muộn hơn anh ấy nửa tiếng.",
+      "answers": [
+        "[今天我|我今天]比他晚[到|来](了)半个小时。",
+        "[今天我|我今天]比他晚半个小时[到|来]。"
+      ],
+      "examples": [
+        {
+          "answer": "今天我比他晚到了半个小时。",
+          "score": 100
+        },
+        {
+          "answer": "我今天比他晚来半个小时。",
+          "score": 100
+        },
+        {
+          "answer": "今天我比他晚半个小时到。",
+          "score": 100
+        },
+        {
+          "answer": "今天我比他到晚了半个小时。",
+          "score": 0,
+          "note": "晚 phải đứng trước động từ"
+        },
+        {
+          "answer": "今天我比他早到了半个小时。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        225
+      ]
+    },
+    {
+      "id": "hsk3-18-e24",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "大卫跑了三千米，小明跑了两千米。大卫比小明多跑了多少米？",
+        "promptVi": "David chạy 3000 mét, Tiểu Minh chạy 2000 mét. David chạy nhiều hơn Tiểu Minh bao nhiêu mét?",
+        "answers": [
+          "([大卫|他]比小明)多跑了一千米。",
+          "一千米。"
+        ],
+        "examples": [
+          {
+            "answer": "大卫比小明多跑了一千米。",
+            "score": 100
+          },
+          {
+            "answer": "他比小明多跑了一千米。",
+            "score": 100
+          },
+          {
+            "answer": "一千米。",
+            "score": 100
+          },
+          {
+            "answer": "大卫比小明跑多了一千米。",
+            "score": 0,
+            "note": "多 phải đứng trước động từ 跑"
+          },
+          {
+            "answer": "大卫比小明多跑了两千米。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        225
+      ]
+    },
+    {
+      "id": "hsk3-18-e25",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你身高多少？",
+        "promptVi": "Bạn cao bao nhiêu? (Giả sử bạn cao 1 mét 70.)",
+        "answers": [
+          "(我)(的)(身高)(是)一米七。"
+        ],
+        "examples": [
+          {
+            "answer": "我身高一米七。",
+            "score": 100
+          },
+          {
+            "answer": "我的身高是一米七。",
+            "score": 100
+          },
+          {
+            "answer": "一米七。",
+            "score": 100
+          },
+          {
+            "answer": "我身高一米八。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-18-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你像你爸爸还是像你妈妈？",
+        "promptVi": "Bạn giống bố hay giống mẹ? (Giả sử bạn giống mẹ.)",
+        "answers": [
+          "(我)像(我)妈妈。",
+          "(我)[跟|和](我)妈妈很像。"
+        ],
+        "examples": [
+          {
+            "answer": "我像妈妈。",
+            "score": 100
+          },
+          {
+            "answer": "我像我妈妈。",
+            "score": 100
+          },
+          {
+            "answer": "我跟妈妈很像。",
+            "score": 100
+          },
+          {
+            "answer": "我像爸爸。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-18-e27",
+      "type": "translate",
+      "vi": "Năm ngoái anh ấy giành giải nhất ở hội thao.",
+      "answers": [
+        "[他去年|去年他]在运动会上得了第一(名)。",
+        "他在去年的运动会上得了第一(名)。"
+      ],
+      "examples": [
+        {
+          "answer": "他去年在运动会上得了第一。",
+          "score": 100
+        },
+        {
+          "answer": "去年他在运动会上得了第一名。",
+          "score": 100
+        },
+        {
+          "answer": "他在去年的运动会上得了第一。",
+          "score": 100
+        },
+        {
+          "answer": "他去年在运动会上得第一。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Việc đã xảy ra, nên có 了"
+        },
+        {
+          "answer": "他去年在运动会上得了第二。",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "hsk3-18-e28",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "运动员们在哪儿？",
+        "promptVi": "Các vận động viên ở đâu? (Trong hình: họ ở trong nhà thi đấu.)",
+        "picture": "🏟️🏃🏃",
+        "expected": {
+          "places": [
+            "体育馆"
+          ],
+          "localizer": "里",
+          "sentence": "他们在体育馆里。"
+        },
+        "examples": [
+          {
+            "answer": "他们在体育馆里。",
+            "score": 100
+          },
+          {
+            "answer": "在体育馆里面。",
+            "score": 100
+          },
+          {
+            "answer": "在体育馆。",
+            "score": 100
+          },
+          {
+            "answer": "他们在里体育馆。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "他们在球场上。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-18-e29",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "球场上有几个运动员？",
+        "promptVi": "Trên sân có mấy vận động viên?",
+        "picture": "🏃🏃🏃🏃🏃",
+        "expected": {
+          "number": 5,
+          "noun": "运动员",
+          "sentence": "球场上有五个运动员。"
+        },
+        "examples": [
+          {
+            "answer": "球场上有五个运动员。",
+            "score": 100
+          },
+          {
+            "answer": "有五名运动员。",
+            "score": 100
+          },
+          {
+            "answer": "球场上有五运动员。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "球场上有四个运动员。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}
