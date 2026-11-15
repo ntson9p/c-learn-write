@@ -37,3 +37,29 @@ Một số câu được ghi là "sai" thật ra **đúng ngữ pháp nhưng sai
 - Loại `count`: danh từ đi sau một từ lạ (两个女医生) được nhận đúng nhưng gắn cờ "cần giáo viên xem lại".
 - Một số lỗi kiểu tiếng Việt chưa có luật nên bị 0 điểm thay vì được giải thích: 我想说话和王老师, 我上班八点, 外边学校…, 这个衣服 (sai lượng từ sau 这).
 - 他昨天没有来了 chỉ bị trừ 15 điểm (thừa 了).
+
+## HSK2
+
+- **Cách hiểu các nghĩa con trong đề cương** (người soạn tự hiểu): điểm 90 (都2 = "đã … rồi", 就2 = "chính là", 还是1 = "vẫn"), điểm 103 (吧2 đoán và xác nhận, 呢4 nhấn mạnh sự thật, 的2 khẳng định chắc chắn, 啊1 cảm xúc).
+- **Hình vị khai báo thêm:** 泳, 步 (điểm 75, để tách 游泳, 跑步: 游了一个小时泳, 跑完步); các dạng AABB 高高兴兴, 快快乐乐, 漂漂亮亮, 舒舒服服 (điểm 79, vì nội dung đề cương "AA、AABB" không có chữ Hán cụ thể).
+- 常 (điểm 87) là từ HSK3 nên câu HSK2 chỉ dùng 经常; 常 chỉ nhắc trong phần giải thích.
+- **Câu "sai" cần xác nhận:** 我们上课从八点到十一点, 我一个星期两次去超市, 我找了两次他, 我告诉给你一件事, 虽然下雨了，我们去上课了 (thiếu 但是), 我是一位老师 (位 cho bản thân), ——所以你喝咖啡吧 (所以 để đáp lời người khác); một số người chấp nhận trong khẩu ngữ: 他跑很快, 这个酒店是新, 我去学校坐地铁 (ghi chú nói rõ chỉ sai với ý định).
+- **Độ tự nhiên:** 我妻子河内人, 明天我生日 (điểm 116), 一包饺子, 走路有十分钟, 他是高个子, 门口开着很多红色的花, 一间房间, 我也想买那样的一个书包; 一条狗 được trình bày là chấp nhận được; ghi chú văn hóa 一楼 / tầng trệt.
+- Pinyin đã sửa tay: 教 jiāo (động từ), thanh nhẹ trong 看看, 想想, 帮个忙; 得/地/过 làm trợ từ đọc de/de/guo.
+
+## HSK3 (bài 01–08)
+
+- **Cách hiểu nghĩa con:** 才1 "muộn/chậm, mới", 就3 "chỉ" (就我一个人), 还3 chỉ mức độ (还不错, A比B还…), 有些 "hơi", 极 trước tính từ (极少; 极了 để sau).
+- **Hình vị khai báo thêm:** 盘 (điểm 161, vì chỉ có từ 盘子), 不必 (điểm 171).
+- **Câu "sai" chỉ sai ý định hoặc kém tự nhiên** (ghi chú đã nói rõ): 他可是每天都来, 这件衣服有点儿漂亮, 我跟他一样很高, 别人们, 十七十八岁 (viết 十七、十八岁 thì được), 你想吃什么？ (điểm 157), 他明天一定不来, 我愿意吃冰激凌, 明天我不得上班, 你不用喝酒, 东边学校.
+- **Chưa chắc là sai:** 这家饭馆又便宜，而且好吃 (trộn hai cấu trúc), 这个蛋糕极好吃了, 在楼上搬来了…, 楼上搬来了那位邻居, 我家在学校北方; khẳng định 不A不B có trật tự cố định; khác biệt sắc thái 大概 / 差不多.
+- Một số câu hỏi `model` cho 80 điểm khi câu trả lời đúng nhưng không dùng cấu trúc đang luyện (我很饿, 打扫干净了, 我感冒了).
+- Ghi chú về 层 so sánh cách đánh số tầng ở Trung Quốc với miền Bắc và miền Nam Việt Nam; ghi chú 屋子 là từ của miền Bắc Trung Quốc.
+
+## Giới hạn của bộ chấm phát hiện khi soạn HSK2–3
+
+- Lỗi trật tự kiểu tiếng Việt với 从, 跟, 给, 一起, 最, 次 chưa có luật (bị 0 điểm thay vì được giải thích); thiếu 得 (他跑很快) cũng vậy.
+- 在左边桌子, 在下面床, 在旁边教室 (phương vị từ hai âm tiết đứng trước danh từ) chưa bị bắt là `localizer_order`.
+- 地铁站在学校 được 100 dù hình là "trước cổng trường" (学校 là nơi chốn, phương vị từ không bắt buộc).
+- 三米饭 bị đọc là "3 mét"; 三个碗米饭 bị coi là sai nội dung; 面条儿, 药店 chưa có trong bảng từ của bộ chấm; 题 chỉ nhận 道, 笔 chỉ nhận 支/枝 (三个题 bị báo sai).
+- Trợ từ 了 đặt sai chỗ chỉ bị trừ 30 điểm (thừa + thiếu từ).
