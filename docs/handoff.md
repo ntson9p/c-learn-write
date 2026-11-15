@@ -125,7 +125,7 @@ Các nguyên tắc thiết kế (nên giữ khi phát triển tiếp):
 | `arabic_digits` | 4个 → 四个 (khi câu hỏi yêu cầu chữ Hán) | 5 |
 | `traditional_converted` | 蘋果 → 苹果 (chỉ ghi chú) | 0 |
 
-Mỗi câu hỏi có thể đổi mức trừ qua trường `penalties`. Cách viết câu hỏi của từng loại có trong [README.md](../README.md#viết-câu-hỏi).
+Mỗi câu hỏi có thể đổi mức trừ qua trường `penalties`. Cách viết câu hỏi của từng loại có trong [packages/grader/README.md](../packages/grader/README.md#viết-câu-hỏi).
 
 ### Dữ liệu từ vựng (chưa được giáo viên duyệt)
 

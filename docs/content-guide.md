@@ -38,7 +38,7 @@ Nội dung khóa học nằm trong `packages/course/data/` và theo giấy phép
 | `fill` | `before`, `after` (kết thúc bằng 。！？), `answers`, `options` (tùy chọn), `vi` | So đáp án sau khi chuẩn hóa |
 | `order` | `vi`, `tiles`, `answers` (các thứ tự được chấp nhận, không có dấu câu) | So thứ tự; sai thì bộ chấm giải thích nếu có luật |
 | `translate` | `vi`, `answers` (cú pháp `[a\|b](x)` của bộ chấm), `examples` | Bộ chấm loại `model` |
-| `question` | `question`: câu hỏi của bộ chấm (`count`, `location`, `model`) không có `id`, `lang` | Bộ chấm |
+| `question` | `question`: câu hỏi của bộ chấm (`count`, `location`, `model`; cách viết ở [README của bộ chấm](../packages/grader/README.md#viết-câu-hỏi)) không có `id`, `lang` | Bộ chấm |
 | `match` | `promptVi`, `pairs` (chữ Hán ↔ nghĩa) | So cặp |
 
 Với `translate` và `question`, phải liệt kê đủ các cách nói đúng phổ biến trong `answers`, và thêm `examples` gồm vài câu đúng, vài câu sai kèm điểm mong đợi. Mỗi ví dụ là một test: test kiểm tra bộ chấm cho đúng điểm đó.
