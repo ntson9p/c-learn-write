@@ -62,4 +62,15 @@ Mỗi từ, điểm ngữ pháp (và tùy chọn mỗi bài tập) có `review`:
 
 ## 5. Giáo viên duyệt bằng bảng tính
 
-Phần này sẽ được bổ sung cùng công cụ xuất/nhập bảng tính (`npm run review:export`, `npm run review:import`).
+Giáo viên không cần biết JSON hay GitHub.
+
+1. Người phụ trách xuất các bài cần duyệt ra bảng tính:
+   `npm run review:export -w @c-learn-write/course -- duyet-hsk1.csv hsk1` (cả HSK1), hoặc `… -- duyet-bai3.csv hsk1-03` (một bài).
+2. Giáo viên mở file bằng Excel hoặc Google Sheets. Mỗi dòng là một từ, một điểm ngữ pháp hoặc một bài tập, gồm chữ Hán, pinyin, nghĩa, ghi chú, âm Hán Việt, ví dụ (chữ Hán — pinyin — bản dịch), lỗi hay gặp.
+3. Với mỗi dòng đã xem, giáo viên điền:
+   - **Kết quả duyệt**: `đạt` hoặc `cần sửa`;
+   - **Người duyệt**: tên hoặc chữ viết tắt;
+   - **Góp ý**: bắt buộc khi `cần sửa` (sửa thế nào, vì sao).
+   Không sửa các cột khác, nhất là cột **Mã** và **Mã nội dung**. Lưu lại dưới dạng CSV (UTF-8).
+4. Người phụ trách nhập kết quả: `npm run review:import -w @c-learn-write/course -- duyet-hsk1.csv`. Nếu có dòng sai (giá trị lạ, thiếu góp ý, hoặc nội dung đã bị sửa sau khi xuất), lệnh báo lỗi và **không ghi gì**.
+5. Các mục `cần sửa` được sửa theo góp ý, rồi xuất lại để giáo viên duyệt lần nữa. Khi một mục đã `đạt` bị sửa nội dung, app tự coi nó là "Chưa duyệt" cho tới khi được duyệt lại.

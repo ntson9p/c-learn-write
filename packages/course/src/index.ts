@@ -20,3 +20,4 @@ export {
 } from './course.ts';
 export { exerciseQuestion, translateQuestion, canBuild } from './validate.ts';
 export { effectiveStatus } from './review.ts';
+export { applyReviewRows, buildReviewRows, REVIEW_HEADER } from './review-sheet.ts';
