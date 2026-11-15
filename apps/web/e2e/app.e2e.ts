@@ -76,11 +76,27 @@ describe('app (production build)', () => {
     await context.close();
   });
 
+  it('animates stroke order from the shipped stroke data', async () => {
+    const context = await browser.newContext({ viewport: { width: 375, height: 812 } });
+    const page = await context.newPage();
+    await page.goto(`${base}#/write/${encodeURIComponent('爱')}`);
+    // The button is enabled once the character's stroke data has loaded.
+    await page.locator('.writer button:not([disabled])', { hasText: 'Xem thứ tự nét' }).waitFor();
+    await page.getByRole('button', { name: 'Xem thứ tự nét' }).click();
+    // hanzi-writer draws one SVG path per stroke (爱 has 10).
+    await page.waitForFunction(() => document.querySelectorAll('.writer-box svg path').length >= 10);
+    await shot(page, 'write-phone');
+    const res = await fetch(`${base}strokes/ARPHICPL.TXT`);
+    expect(res.ok).toBe(true);
+    await context.close();
+  });
+
   it('serves the license notices', async () => {
     const res = await fetch(`${base}licenses.txt`);
     expect(res.ok).toBe(true);
     const text = await res.text();
     expect(text).toContain('preact@');
     expect(text).toContain('pinyin-pro@');
+    expect(text).toContain('ARPHIC PUBLIC LICENSE');
   });
 });

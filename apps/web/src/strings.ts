@@ -148,6 +148,22 @@ export const T = {
     retry: 'Làm lại',
   },
 
+  writing: {
+    title: 'Luyện viết chữ Hán',
+    intro: 'Đề cương thi HSK yêu cầu viết tay 100 chữ ở HSK2 và thêm 150 chữ ở HSK3. Chọn một chữ để xem thứ tự nét và tập viết.',
+    level: (level: number, n: number) => `HSK${level}: ${n} chữ`,
+    practiced: (n: number) => `Đã luyện ${n} chữ`,
+    animate: 'Xem thứ tự nét',
+    quiz: 'Tập viết',
+    quizHint: 'Viết từng nét theo đúng thứ tự vào ô bên dưới (dùng ngón tay hoặc chuột).',
+    done: (mistakes: number) => (mistakes === 0 ? 'Viết đúng hết các nét!' : `Hoàn thành, sai ${mistakes} lần.`),
+    outline: 'Hiện chữ mờ',
+    loadFailed: 'Không tải được dữ liệu nét của chữ này.',
+    next: 'Chữ tiếp theo',
+    license: 'Dữ liệu nét chữ: Make Me a Hanzi (Arphic Public License).',
+    homeLink: (level: number) => `Luyện viết các chữ HSK${level}`,
+  },
+
   dict: {
     title: 'Từ điển',
     search: 'Tìm chữ Hán, pinyin, nghĩa tiếng Việt hoặc âm Hán Việt',

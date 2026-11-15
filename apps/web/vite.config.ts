@@ -1,7 +1,15 @@
 import preact from '@preact/preset-vite';
 import { defineConfig } from 'vite';
 import { VitePWA } from 'vite-plugin-pwa';
+import { readFileSync } from 'node:fs';
 import { licensesPlugin } from './build/licenses.ts';
+import { strokesPlugin } from './build/strokes.ts';
+
+// Handwriting characters of the syllabus (HSK2: 100, HSK3: 150): only their stroke data ships.
+const characters = JSON.parse(readFileSync(new URL('../../packages/course/data/hsk/characters.json', import.meta.url), 'utf8')) as {
+  handwriting: Record<string, string[]>;
+};
+const handwriting = Object.values(characters.handwriting).flat();
 
 // Static PWA: relative base and hash routes, so the build works from any
 // sub-path (GitHub Pages) and offline.
@@ -10,7 +18,8 @@ export default defineConfig({
   plugins: [
     preact(),
     // The service worker bundles these Workbox modules (vite-plugin-pwa, generateSW).
-    licensesPlugin(['workbox-core', 'workbox-precaching', 'workbox-routing', 'workbox-strategies']),
+    licensesPlugin(['workbox-core', 'workbox-precaching', 'workbox-routing', 'workbox-strategies', 'hanzi-writer-data']),
+    strokesPlugin(handwriting),
     VitePWA({
       registerType: 'autoUpdate',
       injectRegister: false,
@@ -32,7 +41,7 @@ export default defineConfig({
         ],
       },
       workbox: {
-        globPatterns: ['**/*.{js,css,html,svg,png,json,txt,webmanifest}'],
+        globPatterns: ['**/*.{js,css,html,svg,png,json,txt,TXT,webmanifest}'],
         maximumFileSizeToCacheInBytes: 6 * 1024 * 1024,
         navigateFallback: 'index.html',
         cleanupOutdatedCaches: true,

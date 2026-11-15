@@ -16,7 +16,7 @@ export interface PackageLicense {
   texts: { file: string; text: string }[];
 }
 
-const LICENSE_FILE = /^(licen[cs]e|copying|notice|third[_-]party[_-]licen[cs]es)(\.(md|txt))?$/i;
+const LICENSE_FILE = /^(licen[cs]e|copying|notice|third[_-]party[_-]licen[cs]es|arphicpl)(\.(md|txt))?$/i;
 
 /** The package directory of a module path inside node_modules, or undefined. */
 export function packageDirOf(moduleId: string): string | undefined {

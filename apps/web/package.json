@@ -19,13 +19,15 @@
     "@preact/signals": "2.11.4",
     "idb": "8.0.4",
     "preact": "10.29.8",
-    "ts-fsrs": "6.0.0"
+    "ts-fsrs": "6.0.0",
+    "hanzi-writer": "3.7.3"
   },
   "devDependencies": {
     "@preact/preset-vite": "2.10.6",
     "@testing-library/preact": "3.2.6",
     "fake-indexeddb": "6.2.7",
     "playwright": "1.63.0",
-    "vite-plugin-pwa": "2.0.0"
+    "vite-plugin-pwa": "2.0.0",
+    "hanzi-writer-data": "2.0.1"
   }
 }

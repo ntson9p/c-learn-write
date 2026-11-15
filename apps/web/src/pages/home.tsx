@@ -47,6 +47,13 @@ export default function HomePage(_props: PageProps) {
         {T.home.levelWords(LEVEL_SIZE[level].words)} · {T.home.levelGrammar(LEVEL_SIZE[level].grammar)}
       </p>
 
+      {level >= 2 && (
+        <p>
+          <a class="button" href={href('/write')}>
+            {T.writing.homeLink(level)}
+          </a>
+        </p>
+      )}
       {lessons.length === 0 && <p class="card">{T.home.comingSoon}</p>}
       <ol class="lesson-list">
         {lessons.map((l, i) => {
