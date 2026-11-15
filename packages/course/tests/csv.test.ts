@@ -10,11 +10,11 @@ describe('csv', () => {
     ]);
   });
   it('skips a BOM and blank rows in objects', () => {
-    expect(parseCsvObjects('﻿No.,级别\n1,一级\n\n')).toEqual([{ 'No.': '1', 级别: '一级' }]);
+    expect(parseCsvObjects(`${String.fromCharCode(0xfeff)}No.,级别\n1,一级\n\n`)).toEqual([{ 'No.': '1', 级别: '一级' }]);
   });
   it('writes what it reads', () => {
     const rows = [['a', 'b,c'], ['"q"', ' lead'], ['x\ny', '']];
     expect(parseCsv(toCsv(rows))).toEqual(rows);
-    expect(toCsv([['a']], true).startsWith('﻿')).toBe(true);
+    expect(toCsv([['a']], true).startsWith(String.fromCharCode(0xfeff))).toBe(true);
   });
 });

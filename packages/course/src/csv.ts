@@ -3,6 +3,9 @@
  * no dependencies so that Node scripts and the app can share it.
  */
 
+/** Byte order mark, written for Excel (kept out of the source as a literal). */
+const BOM = String.fromCharCode(0xfeff);
+
 export function parseCsv(text: string): string[][] {
   const rows: string[][] = [];
   let row: string[] = [];
@@ -52,5 +55,5 @@ function quote(value: string): string {
 
 /** CSV text with LF line ends (and a BOM when `bom` is set, for Excel). */
 export function toCsv(rows: readonly (readonly string[])[], bom = false): string {
-  return (bom ? '﻿' : '') + rows.map((r) => r.map(quote).join(',')).join('\n') + '\n';
+  return (bom ? BOM : '') + rows.map((r) => r.map(quote).join(',')).join('\n') + '\n';
 }
