@@ -28,3 +28,12 @@ describe('compound words of the syllabus', () => {
     expect(checkZhSentence('我有一个书。').issues.map((i) => i.code)).toEqual(['wrong_measure_word']);
   });
 });
+
+describe('places after motion verbs', () => {
+  it('does not ask for a localizer when an object follows 去/回 as a modifier or object', () => {
+    for (const s of ['去上海的飞机几点飞？', '这是去上海的飞机吗？', '我要坐去上海的飞机。', '你拿回你的手机吧。']) {
+      expect(checkZhSentence(s).issues, s).toEqual([]);
+    }
+    expect(checkZhSentence('书在桌子。').issues.map((i) => i.code)).toEqual(['missing_localizer']);
+  });
+});

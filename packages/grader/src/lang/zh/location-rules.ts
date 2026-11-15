@@ -47,7 +47,12 @@ function firstActionVerb(text: string, from: number, to: number) {
   return undefined;
 }
 
-function unitIssues(text: string, unit: PlaceUnit, ctx: ZhRuleContext): Issue[] {
+/**
+ * `afterZai`: the place is introduced by 在 (or a bare answer to 在哪儿).
+ * After a verb such as 去 or 回, an object is not a location (去上海的飞机
+ * "the plane to Shanghai", 拿回你的手机): no missing_localizer there.
+ */
+function unitIssues(text: string, unit: PlaceUnit, ctx: ZhRuleContext, afterZai: boolean): Issue[] {
   const issues: Issue[] = [];
   const { noun, localizer } = unit;
   for (const t of noun?.typos ?? []) {
@@ -69,7 +74,7 @@ function unitIssues(text: string, unit: PlaceUnit, ctx: ZhRuleContext): Issue[] 
         replacement: nounText + localizer.text,
       }),
     );
-  } else if (noun.kind === 'object' && !localizer) {
+  } else if (noun.kind === 'object' && !localizer && afterZai) {
     const expected = ctx.expectedLocalizer && ctx.expectedPlaces?.includes(noun.word);
     const group = expected ? ctx.expectedLocalizer! : (PLACES.get(noun.word)?.localizer ?? '上');
     issues.push(
@@ -138,7 +143,7 @@ export function locationRules(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
         }),
       );
     }
-    for (const unit of m.phrase.units) inner.push(...unitIssues(doc.text, unit, ctx));
+    for (const unit of m.phrase.units) inner.push(...unitIssues(doc.text, unit, ctx, m.verb === undefined));
     out.push(...inner);
     const order = placeOrder(doc, m, inner, ctx);
     if (order) out.push(order);
