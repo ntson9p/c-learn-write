@@ -92,9 +92,16 @@ const vocabulary: VocabEntry[] = read('sources/hsk-2025/vocabulary.csv').map((r)
   if (!syllables) throw new Error(`cannot align pinyin of ${raw} ${r['拼音']}`);
   const numberedSyl = syllables.map(numbered);
 
-  const posRaw = r['词性'] ?? '';
-  const pos = posRaw.split('、').filter((p) => p && !p.startsWith('（'));
-  const posLater = posRaw.split('、').filter((p) => p.startsWith('（')).map((p) => p.replace(/[（）]/g, ''));
+  // "形、介、（量、动）": parts in brackets belong to senses graded at a higher level.
+  const pos: string[] = [];
+  const posLater: string[] = [];
+  let depth = 0;
+  for (const part of (r['词性'] ?? '').split('、')) {
+    if (part.startsWith('（')) depth++;
+    const name = part.replace(/[（）]/g, '');
+    if (name) (depth > 0 ? posLater : pos).push(name);
+    if (part.endsWith('）')) depth = Math.max(0, depth - 1);
+  }
 
   const citation = pinyinPro(word, { type: 'array', toneType: 'num', v: false }) as string[];
   const trad = [...toTrad(word)];

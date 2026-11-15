@@ -7,6 +7,7 @@ export { ZH_DEFAULT_PENALTIES, ZH_ISSUE_LABELS_VI, type ZhIssueCode } from './is
 export { gradeZhCount } from './count';
 export { gradeZhLocation } from './location';
 export { gradeZhModel } from './model';
+export { checkZhSentence, type SentenceCheck } from './check';
 
 /** Grades an answer to a Chinese question. */
 export function gradeZh(question: Question, answer: string): GradeResult {

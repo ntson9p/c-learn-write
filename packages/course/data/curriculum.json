@@ -1,0 +1,20 @@
+{
+  "_doc": "Which lesson teaches which words (official numbers in hsk/vocabulary.json) and grammar points (hsk/grammar.json). Lesson content lives in lessons/hsk<N>/<NN>.json. DRAFT: to be reviewed by a Chinese teacher.",
+  "lessons": [
+    {"id": "hsk1-01", "level": 1, "order": 1, "titleVi": "Xin chào", "topicVi": "Chào hỏi, làm quen, họ tên", "words": [146, 221, 200, 204, 150, 147, 71, 188, 13, 115, 91, 182, 128, 107, 248, 241, 14, 271, 45, 120], "grammar": [42, 46, 47, 52]},
+    {"id": "hsk1-02", "level": 1, "order": 2, "titleVi": "Bạn là người nước nào?", "topicVi": "Quốc tịch, ngôn ngữ, bạn bè", "words": [170, 289, 66, 131, 144, 79, 253, 41, 124, 222, 148, 201, 205, 26, 69, 290, 247, 196, 82, 156, 211, 171, 57], "grammar": [9, 16, 35, 43, 48]},
+    {"id": "hsk1-03", "level": 1, "order": 3, "titleVi": "Gia đình tôi", "topicVi": "Gia đình, số đếm từ 1 đến 5", "words": [86, 87, 3, 114, 58, 92, 31, 123, 48, 153, 68, 263, 122, 78, 30, 279, 136, 181, 85, 60, 104, 254, 49, 111, 173, 198, 223], "grammar": [23, 24, 28, 38, 53]},
+    {"id": "hsk1-04", "level": 1, "order": 4, "titleVi": "Hôm nay là ngày mấy?", "topicVi": "Số đếm, tuổi, ngày tháng, thứ trong tuần", "words": [113, 160, 2, 95, 184, 112, 46, 47, 199, 149, 269, 172, 76, 243, 244, 245, 94, 130, 297, 93, 129, 168, 32, 207, 88], "grammar": [11, 36, 44, 68, 69]},
+    {"id": "hsk1-05", "level": 1, "order": 5, "titleVi": "Bây giờ là mấy giờ?", "topicVi": "Giờ giấc, sinh hoạt hằng ngày", "words": [33, 55, 56, 236, 7, 232, 186, 185, 275, 178, 291, 229, 217, 5, 273, 215, 161, 194, 195, 167, 99, 299, 118, 187], "grammar": [14, 37, 49, 70]},
+    {"id": "hsk1-06", "level": 1, "order": 6, "titleVi": "Đây là cái gì?", "topicVi": "Đồ vật, con vật, lượng từ", "words": [281, 138, 132, 284, 141, 135, 239, 258, 190, 10, 295, 262, 189, 34, 35, 24, 218, 25, 234, 242, 64, 119, 287, 202, 203], "grammar": [1, 10, 12, 27, 29, 32, 39]},
+    {"id": "hsk1-07", "level": 1, "order": 7, "titleVi": "Ở đâu?", "topicVi": "Nơi chốn, phương hướng", "words": [272, 110, 175, 226, 212, 163, 80, 11, 213, 280, 137, 283, 140, 282, 139, 134, 133, 52, 294, 165, 166, 278], "grammar": [2, 3, 21, 33, 54, 55]},
+    {"id": "hsk1-08", "level": 1, "order": 8, "titleVi": "Ăn gì, uống gì?", "topicVi": "Ăn uống", "words": [21, 77, 50, 125, 16, 17, 192, 151, 84, 126, 127, 8, 90, 159, 193, 51, 72, 9, 274, 224, 216, 300, 108, 4, 252, 233], "grammar": [5, 13, 25]},
+    {"id": "hsk1-09", "level": 1, "order": 9, "titleVi": "Đi mua sắm", "topicVi": "Mua sắm, giá tiền", "words": [116, 117, 164, 105, 268, 6, 162, 65, 157, 180, 40, 174, 19, 39, 191, 61, 67, 102, 257, 206], "grammar": [6, 19, 30, 41, 56, 58, 67]},
+    {"id": "hsk1-10", "level": 1, "order": 10, "titleVi": "Đi lại", "topicVi": "Phương tiện, đi và đến", "words": [106, 81, 29, 298, 20, 97, 98, 22, 83, 53, 276, 270], "grammar": [18, 26, 57, 62]},
+    {"id": "hsk1-11", "level": 1, "order": 11, "titleVi": "Thời tiết và quần áo", "topicVi": "Thời tiết, quần áo, cảm nhận", "words": [208, 109, 169, 230, 267, 251, 285, 54, 265, 259, 89, 23, 158, 96, 277, 44], "grammar": [8, 15, 22, 45, 51, 63]},
+    {"id": "hsk1-12", "level": 1, "order": 12, "titleVi": "Đi khám bệnh", "topicVi": "Sức khỏe, khám bệnh", "words": [12, 183, 100, 260, 261, 246, 15, 121, 145, 288, 219, 220], "grammar": [4, 20, 50]},
+    {"id": "hsk1-13", "level": 1, "order": 13, "titleVi": "Sở thích", "topicVi": "Sở thích, giải trí", "words": [225, 1, 37, 38, 36, 59, 18, 209, 210, 101, 73, 74, 75, 214, 143, 154, 286], "grammar": [17, 60, 64, 65, 66]},
+    {"id": "hsk1-14", "level": 1, "order": 14, "titleVi": "Trường học", "topicVi": "Học tập, trường lớp", "words": [250, 27, 28, 237, 238, 292, 293, 235, 103, 177, 228, 179, 249, 42, 43, 240, 296, 70, 256], "grammar": [34, 40, 61]},
+    {"id": "hsk1-15", "level": 1, "order": 15, "titleVi": "Công việc", "topicVi": "Công việc, nghề nghiệp", "words": [62, 63, 176, 227, 231, 155, 142, 152, 197, 264, 266, 255], "grammar": [7, 31, 59]}
+  ]
+}

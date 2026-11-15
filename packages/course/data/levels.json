@@ -1,0 +1,4 @@
+{
+  "_doc": "complete: every word and grammar point of the level must be taught (checked by the tests); in_progress / planned: not yet.",
+  "levels": { "1": "in_progress", "2": "planned", "3": "planned" }
+}
