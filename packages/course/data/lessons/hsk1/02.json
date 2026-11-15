@@ -1,0 +1,1222 @@
+{
+  "id": "hsk1-02",
+  "goalsVi": [
+    "Hỏi và nói quốc tịch: 你是哪国人？我是越南人。",
+    "Nói mình biết nói, đang học tiếng gì; làm quen với bạn mới",
+    "Dùng đại từ số nhiều (我们, 你们, 他们…), 「也」 và 「都」",
+    "Nói cảm xúc, tình trạng bằng tính từ: 我很好, 我很高兴"
+  ],
+  "words": [
+    {
+      "no": 170,
+      "word": "人",
+      "meaningsVi": [
+        "người"
+      ],
+      "noteVi": "Tên nước + 「人」 = người nước đó: 越南人 (người Việt Nam), 中国人 (người Trung Quốc). Thứ tự ngược với tiếng Việt: không nói 「人越南」.",
+      "examples": [
+        {
+          "zh": "他是中国人，她是越南人。",
+          "py": "tā shì zhōng guó rén tā shì yuè nán rén",
+          "vi": "Anh ấy là người Trung Quốc, cô ấy là người Việt Nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 289,
+      "word": "中国",
+      "meaningsVi": [
+        "Trung Quốc"
+      ],
+      "examples": [
+        {
+          "zh": "王老师是中国人。",
+          "py": "wáng lǎo shī shì zhōng guó rén",
+          "vi": "Thầy Vương là người Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 66,
+      "word": "国",
+      "meaningsVi": [
+        "nước, quốc gia"
+      ],
+      "noteVi": "Thường không đứng một mình mà nằm trong tên nước (中国, 美国) hoặc trong câu hỏi 「哪国人」 (người nước nào).",
+      "examples": [
+        {
+          "zh": "你是哪国人？",
+          "py": "nǐ shì nǎ guó rén",
+          "vi": "Bạn là người nước nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 131,
+      "word": "哪",
+      "meaningsVi": [
+        "nào"
+      ],
+      "noteVi": "「哪」 đọc nǎ (thanh 3). Đừng nhầm với 「那」 (nà, thanh 4: kia, đó) sẽ học ở bài 3.",
+      "examples": [
+        {
+          "zh": "大卫是哪国人？",
+          "py": "dà wèi shì nǎ guó rén",
+          "vi": "David là người nước nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 144,
+      "word": "呢",
+      "meaningsVi": [
+        "(cuối câu hỏi rút gọn) còn … thì sao?",
+        "(trợ từ cuối câu hỏi, làm giọng hỏi nhẹ nhàng hơn)"
+      ],
+      "noteVi": "「你呢？」 = 'Còn bạn?': hỏi lại đúng câu hỏi vừa nói mà không phải lặp lại cả câu.",
+      "examples": [
+        {
+          "zh": "我是越南人，你呢？",
+          "py": "wǒ shì yuè nán rén nǐ ne",
+          "vi": "Tôi là người Việt Nam, còn bạn?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 79,
+      "word": "很",
+      "meaningsVi": [
+        "rất",
+        "(đứng trước tính từ, nhiều khi không cần dịch)"
+      ],
+      "noteVi": "Khi tính từ làm vị ngữ, người Trung Quốc thường thêm 「很」: 我很好. Lúc đó 「很」 nhẹ nghĩa, nhiều khi không cần dịch là 'rất'.",
+      "examples": [
+        {
+          "zh": "我很好，谢谢！",
+          "py": "wǒ hěn hǎo xiè xie",
+          "vi": "Tôi khỏe, cảm ơn!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 253,
+      "word": "也",
+      "meaningsVi": [
+        "cũng"
+      ],
+      "noteVi": "「也」 đứng sau chủ ngữ, trước động từ hoặc tính từ, giống 'cũng' trong tiếng Việt: 我也是学生. Không đặt 「也」 ở đầu câu.",
+      "examples": [
+        {
+          "zh": "我也是学生。",
+          "py": "wǒ yě shì xué shēng",
+          "vi": "Tôi cũng là học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 41,
+      "word": "都",
+      "meaningsVi": [
+        "đều, đều là, tất cả đều"
+      ],
+      "noteVi": "「都」 đứng sau chủ ngữ số nhiều, trước động từ: 我们都是学生 (Chúng tôi đều là học sinh). Không nói 「都我们」.",
+      "examples": [
+        {
+          "zh": "我们都是越南人。",
+          "py": "wǒ men dōu shì yuè nán rén",
+          "vi": "Chúng tôi đều là người Việt Nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 124,
+      "word": "们",
+      "meaningsVi": [
+        "(hậu tố số nhiều sau đại từ và danh từ chỉ người) các, những"
+      ],
+      "noteVi": "Thêm sau đại từ: 我们, 你们, 他们; sau danh từ chỉ người: 老师们, 同学们. Không thêm 「们」 sau danh từ chỉ vật.",
+      "examples": [
+        {
+          "zh": "同学们好！",
+          "py": "tóng xué men hǎo",
+          "vi": "Chào các em! (thầy cô chào cả lớp)"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 222,
+      "word": "我们",
+      "meaningsVi": [
+        "chúng tôi, chúng ta, chúng mình"
+      ],
+      "noteVi": "Tiếng Việt phân biệt 'chúng tôi' (không gồm người nghe) và 'chúng ta' (gồm cả người nghe); 「我们」 dùng được cho cả hai.",
+      "examples": [
+        {
+          "zh": "我们是同学。",
+          "py": "wǒ men shì tóng xué",
+          "vi": "Chúng tôi là bạn cùng lớp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 148,
+      "word": "你们",
+      "meaningsVi": [
+        "các bạn, các anh, các chị, các em"
+      ],
+      "examples": [
+        {
+          "zh": "你们是中国人吗？",
+          "py": "nǐ men shì zhōng guó rén ma",
+          "vi": "Các bạn là người Trung Quốc à?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 201,
+      "word": "他们",
+      "meaningsVi": [
+        "họ, các anh ấy, các ông ấy"
+      ],
+      "noteVi": "Một nhóm có cả nam lẫn nữ cũng dùng 「他们」.",
+      "examples": [
+        {
+          "zh": "他们是美国人。",
+          "py": "tā men shì měi guó rén",
+          "vi": "Họ là người Mỹ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 205,
+      "word": "她们",
+      "meaningsVi": [
+        "họ, các cô ấy, các chị ấy (nhóm toàn nữ)"
+      ],
+      "noteVi": "「她们」 và 「他们」 đọc giống nhau (tāmen); chỉ khi viết mới phân biệt.",
+      "examples": [
+        {
+          "zh": "她们都是老师。",
+          "py": "tā men dōu shì lǎo shī",
+          "vi": "Các cô ấy đều là giáo viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 26,
+      "word": "大家",
+      "meaningsVi": [
+        "mọi người"
+      ],
+      "noteVi": "Âm Hán Việt là 'đại gia', nhưng nghĩa là 'mọi người', không phải 'người giàu'.",
+      "examples": [
+        {
+          "zh": "大家好！我叫小明。",
+          "py": "dà jiā hǎo wǒ jiào xiǎo míng",
+          "vi": "Chào mọi người! Mình tên là Tiểu Minh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 69,
+      "word": "汉语",
+      "meaningsVi": [
+        "tiếng Hán, tiếng Trung Quốc"
+      ],
+      "noteVi": "「汉语」 và 「中文」 đều là 'tiếng Trung'. 「汉语」 hay dùng khi nói về ngôn ngữ, môn học; 「中文」 hay dùng cho chữ viết, sách báo, tên tiếng Trung.",
+      "examples": [
+        {
+          "zh": "我学汉语。",
+          "py": "wǒ xué hàn yǔ",
+          "vi": "Tôi học tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 290,
+      "word": "中文",
+      "meaningsVi": [
+        "tiếng Trung, chữ Trung Quốc"
+      ],
+      "examples": [
+        {
+          "zh": "你会说中文吗？",
+          "py": "nǐ huì shuō zhōng wén ma",
+          "vi": "Bạn biết nói tiếng Trung không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 247,
+      "word": "学",
+      "meaningsVi": [
+        "học"
+      ],
+      "noteVi": "「学」 + môn học: 学汉语 (học tiếng Trung). Đừng nhầm với 「学生」 (học sinh).",
+      "examples": [
+        {
+          "zh": "他们也学汉语。",
+          "py": "tā men yě xué hàn yǔ",
+          "vi": "Họ cũng học tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 196,
+      "word": "说",
+      "meaningsVi": [
+        "nói"
+      ],
+      "noteVi": "「说」 + ngôn ngữ: 说汉语, 说英语, 说越南语.",
+      "examples": [
+        {
+          "zh": "她说英语，也说汉语。",
+          "py": "tā shuō yīng yǔ yě shuō hàn yǔ",
+          "vi": "Cô ấy nói tiếng Anh, cũng nói tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 82,
+      "word": "会",
+      "meaningsVi": [
+        "biết (làm gì, do học mà biết), có khả năng"
+      ],
+      "noteVi": "「会」 + động từ: 会说汉语 (biết nói tiếng Trung). Phủ định là 「不会」. Với ngôn ngữ cũng có thể nói gọn: 我会汉语.",
+      "examples": [
+        {
+          "zh": "他不会说汉语。",
+          "py": "tā bú huì shuō hàn yǔ",
+          "vi": "Anh ấy không biết nói tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 156,
+      "word": "朋友",
+      "meaningsVi": [
+        "bạn, bạn bè"
+      ],
+      "noteVi": "「朋友」 là bạn bè nói chung; bạn học cùng lớp, cùng trường là 「同学」.",
+      "examples": [
+        {
+          "zh": "我们是朋友。",
+          "py": "wǒ men shì péng you",
+          "vi": "Chúng tôi là bạn bè."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 211,
+      "word": "同学",
+      "meaningsVi": [
+        "bạn cùng lớp, bạn học",
+        "(thầy cô gọi học sinh) em, các em"
+      ],
+      "examples": [
+        {
+          "zh": "我们是同学，也是朋友。",
+          "py": "wǒ men shì tóng xué yě shì péng you",
+          "vi": "Chúng tôi là bạn cùng lớp, cũng là bạn bè."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 171,
+      "word": "认识",
+      "meaningsVi": [
+        "quen, quen biết (một người)",
+        "biết, nhận ra (chữ, đường…)"
+      ],
+      "noteVi": "Âm Hán Việt là 'nhận thức', nhưng nghĩa thường gặp là 'quen biết'. 'Biết làm gì' thì dùng 「会」: 我会说汉语.",
+      "examples": [
+        {
+          "zh": "认识你很高兴！",
+          "py": "rèn shi nǐ hěn gāo xìng",
+          "vi": "Rất vui được làm quen với bạn!"
+        },
+        {
+          "zh": "你认识王老师吗？",
+          "py": "nǐ rèn shi wáng lǎo shī ma",
+          "vi": "Bạn có quen thầy Vương không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 57,
+      "word": "高兴",
+      "meaningsVi": [
+        "vui, vui mừng"
+      ],
+      "noteVi": "Âm Hán Việt là 'cao hứng'. Là tính từ nên nói 「我很高兴」, không nói 「我是高兴」.",
+      "examples": [
+        {
+          "zh": "大家都很高兴。",
+          "py": "dà jiā dōu hěn gāo xìng",
+          "vi": "Mọi người đều rất vui."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 9,
+      "titleVi": "Đại từ nhân xưng",
+      "summaryVi": "我, 你, 您, 他, 她 và số nhiều với 「们」: 我们, 你们, 他们, 她们; 「大家」 là mọi người.",
+      "explanationVi": [
+        "Số ít: 「我」 (tôi), 「你」 (bạn), 「您」 (ông, bà, thầy, cô — lịch sự), 「他」 (anh ấy), 「她」 (cô ấy).",
+        "Số nhiều: thêm 「们」 vào sau: 「我们」, 「你们」, 「他们」, 「她们」. Tiếng Việt đặt 'các', 'chúng' ở **trước** (các bạn, chúng tôi), tiếng Trung đặt 「们」 ở **sau**.",
+        "「他们」 dùng cho nhóm nam hoặc nhóm có cả nam lẫn nữ; 「她们」 chỉ dùng cho nhóm toàn nữ. 「我们」 nghĩa là cả 'chúng tôi' lẫn 'chúng ta'. 「大家」 là 'mọi người'.",
+        "Đại từ không đổi hình thức khi làm chủ ngữ hay tân ngữ: 我认识他, 他认识我. Đại từ chỉ con vật, đồ vật (它, 它们) sẽ học ở bài 6."
+      ],
+      "patterns": [
+        "我 / 你 / 他 / 她 + 们"
+      ],
+      "examples": [
+        {
+          "zh": "我们是学生，他们是老师。",
+          "py": "wǒ men shì xué shēng tā men shì lǎo shī",
+          "vi": "Chúng tôi là học sinh, họ là giáo viên."
+        },
+        {
+          "zh": "你们好！",
+          "py": "nǐ men hǎo",
+          "vi": "Chào các bạn!"
+        },
+        {
+          "zh": "她们都是中国人。",
+          "py": "tā men dōu shì zhōng guó rén",
+          "vi": "Các cô ấy đều là người Trung Quốc."
+        },
+        {
+          "zh": "大家好！",
+          "py": "dà jiā hǎo",
+          "vi": "Chào mọi người!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们是学生们。",
+          "right": "我们是学生。",
+          "noteVi": "Chủ ngữ 「我们」 đã cho biết là số nhiều; danh từ sau 「是」 không thêm 「们」 (tiếng Việt cũng chỉ nói 'Chúng tôi là học sinh')."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 16,
+      "titleVi": "Phó từ 「都」: đều",
+      "summaryVi": "「都」 đứng sau chủ ngữ số nhiều, trước động từ hoặc tính từ: 我们都是学生。",
+      "explanationVi": [
+        "「都」 nghĩa là 'đều, tất cả đều'. Nó nói về **những người, những vật đứng trước nó**, nên chủ ngữ thường là số nhiều: 我们, 他们, 大家…",
+        "Vị trí: **chủ ngữ + 都 + động từ / tính từ**, giống 'đều' trong tiếng Việt. Không đặt 「都」 ở đầu câu như chữ 'tất cả': không nói 「都我们是学生」.",
+        "Khi có cả 「也」 và 「都」, nói 「也都」: 我们也都是学生 (Chúng tôi cũng đều là học sinh).",
+        "Phủ định: 「都不」 = đều không: 他们都不是中国人 (Họ đều không phải người Trung Quốc)."
+      ],
+      "patterns": [
+        "Chủ ngữ (số nhiều) + 都 + động từ / tính từ",
+        "Chủ ngữ + 也都 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "我们都是学生。",
+          "py": "wǒ men dōu shì xué shēng",
+          "vi": "Chúng tôi đều là học sinh."
+        },
+        {
+          "zh": "他们都会说汉语。",
+          "py": "tā men dōu huì shuō hàn yǔ",
+          "vi": "Họ đều biết nói tiếng Trung."
+        },
+        {
+          "zh": "她们都不是中国人。",
+          "py": "tā men dōu bú shì zhōng guó rén",
+          "vi": "Các cô ấy đều không phải là người Trung Quốc."
+        },
+        {
+          "zh": "我们也都很高兴。",
+          "py": "wǒ men yě dōu hěn gāo xìng",
+          "vi": "Chúng tôi cũng đều rất vui."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "都我们是学生。",
+          "right": "我们都是学生。",
+          "noteVi": "「都」 không đứng đầu câu như 'tất cả' trong tiếng Việt; nó đứng sau chủ ngữ, trước động từ."
+        },
+        {
+          "wrong": "我们都也是越南人。",
+          "right": "我们也都是越南人。",
+          "noteVi": "Có cả hai từ thì 「也」 đứng trước 「都」: 也都."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 35,
+      "titleVi": "Chủ ngữ là danh từ, đại từ hoặc cụm danh từ",
+      "summaryVi": "Chủ ngữ đứng đầu câu, có thể là đại từ (我), danh từ (老师), tên riêng (大卫) hoặc cụm danh từ (王老师, 我们老师).",
+      "explanationVi": [
+        "Chủ ngữ là người hay vật mà câu nói đến; nó đứng **đầu câu**, trước động từ, giống tiếng Việt.",
+        "Chủ ngữ có thể là đại từ (「我」, 「他们」), danh từ (「老师」), tên riêng (「大卫」) hoặc một cụm danh từ (「王老师」, 「我们老师」).",
+        "Trong cụm danh từ, từ bổ nghĩa đứng **trước** từ chính, ngược với tiếng Việt: 'thầy Vương' là 「王老师」, 'người Mỹ' là 「美国人」."
+      ],
+      "patterns": [
+        "Chủ ngữ (danh từ / đại từ / cụm danh từ) + vị ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "大卫是美国人。",
+          "py": "dà wèi shì měi guó rén",
+          "vi": "David là người Mỹ."
+        },
+        {
+          "zh": "王老师会说英语。",
+          "py": "wáng lǎo shī huì shuō yīng yǔ",
+          "vi": "Thầy Vương biết nói tiếng Anh."
+        },
+        {
+          "zh": "我们老师是中国人。",
+          "py": "wǒ men lǎo shī shì zhōng guó rén",
+          "vi": "Thầy giáo của chúng tôi là người Trung Quốc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "老师王是中国人。",
+          "right": "王老师是中国人。",
+          "noteVi": "Tiếng Việt nói 'thầy Vương', tiếng Trung nói họ trước, chức danh sau: 「王老师」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 43,
+      "titleVi": "Câu có vị ngữ là tính từ",
+      "summaryVi": "Chủ ngữ + 很 + tính từ, không dùng 「是」: 我很好, 我很高兴。",
+      "explanationVi": [
+        "Khi vị ngữ là tính từ (好, 高兴…), câu **không có 「是」**: 'Tôi vui' là 「我很高兴」, không nói 「我是高兴」.",
+        "Câu khẳng định thường thêm 「很」 trước tính từ. 「很」 ở đây nhẹ nghĩa, nhiều khi không cần dịch là 'rất'. Thiếu 「很」 (我高兴) nghe như đang so sánh hoặc chưa nói hết câu.",
+        "「很」 luôn đứng **trước** tính từ. Tiếng Việt nói 'vui lắm', nhưng tiếng Trung không nói 「高兴很」.",
+        "Phủ định: 「不」 + tính từ, thường bỏ 「很」: 我不高兴. Hỏi: thêm 「吗」: 你好吗？"
+      ],
+      "patterns": [
+        "Chủ ngữ + 很 + tính từ",
+        "Chủ ngữ + 不 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "我很好。",
+          "py": "wǒ hěn hǎo",
+          "vi": "Tôi khỏe."
+        },
+        {
+          "zh": "认识你我也很高兴。",
+          "py": "rèn shi nǐ wǒ yě hěn gāo xìng",
+          "vi": "Được làm quen với bạn tôi cũng rất vui."
+        },
+        {
+          "zh": "他不高兴。",
+          "py": "tā bù gāo xìng",
+          "vi": "Anh ấy không vui."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我是高兴。",
+          "right": "我很高兴。",
+          "noteVi": "Không dùng 「是」 trước tính từ; thay bằng 「很」."
+        },
+        {
+          "wrong": "我高兴很。",
+          "right": "我很高兴。",
+          "noteVi": "Tiếng Việt nói 'vui lắm', nhưng 「很」 phải đứng trước tính từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 48,
+      "titleVi": "Câu hỏi có từ để hỏi",
+      "summaryVi": "Đặt từ để hỏi (什么, 哪…) vào đúng chỗ của thông tin cần hỏi, không thêm 「吗」: 你是哪国人？",
+      "explanationVi": [
+        "Muốn hỏi một thông tin cụ thể, đặt từ để hỏi vào **đúng chỗ** của câu trả lời, trật tự câu giữ nguyên: 你是**哪国**人？ → 我是**越南**人。 Tiếng Việt cũng vậy: 'Bạn là người nước **nào**?'",
+        "Câu đã có từ để hỏi thì **không thêm 「吗」**.",
+        "Chú ý cụm danh từ: 'người nước nào' là 「哪国人」, từ bổ nghĩa 「哪国」 đứng trước 「人」, ngược với tiếng Việt.",
+        "「呢」 ở cuối một danh từ, đại từ dùng để hỏi lại câu vừa hỏi: 我是学生，你呢？ (Tôi là học sinh, còn bạn?)"
+      ],
+      "patterns": [
+        "… 哪国人？",
+        "… 什么 …？",
+        "Danh từ / đại từ + 呢？"
+      ],
+      "examples": [
+        {
+          "zh": "你是哪国人？",
+          "py": "nǐ shì nǎ guó rén",
+          "vi": "Bạn là người nước nào?"
+        },
+        {
+          "zh": "他叫什么名字？",
+          "py": "tā jiào shén me míng zi",
+          "vi": "Anh ấy tên là gì?"
+        },
+        {
+          "zh": "我是越南人，你呢？",
+          "py": "wǒ shì yuè nán rén nǐ ne",
+          "vi": "Tôi là người Việt Nam, còn bạn?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你是人哪国？",
+          "right": "你是哪国人？",
+          "noteVi": "Tiếng Việt nói 'người nước nào', nhưng tiếng Trung đặt 「哪国」 trước 「人」."
+        },
+        {
+          "wrong": "你是哪国人吗？",
+          "right": "你是哪国人？",
+          "noteVi": "Câu đã có 「哪」 để hỏi thì không thêm 「吗」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-02-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "中国",
+          "Trung Quốc"
+        ],
+        [
+          "朋友",
+          "bạn bè"
+        ],
+        [
+          "同学",
+          "bạn cùng lớp"
+        ],
+        [
+          "汉语",
+          "tiếng Trung"
+        ],
+        [
+          "高兴",
+          "vui"
+        ],
+        [
+          "认识",
+          "quen biết"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-02-e02",
+      "type": "match",
+      "promptVi": "Nối đại từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "我们",
+          "chúng tôi, chúng ta"
+        ],
+        [
+          "你们",
+          "các bạn"
+        ],
+        [
+          "他们",
+          "họ (nhóm nam hoặc cả nam lẫn nữ)"
+        ],
+        [
+          "她们",
+          "các cô ấy (nhóm toàn nữ)"
+        ],
+        [
+          "大家",
+          "mọi người"
+        ]
+      ],
+      "grammar": [
+        9
+      ]
+    },
+    {
+      "id": "hsk1-02-e03",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Bạn là người nước nào?'",
+      "options": [
+        "你是哪国人？",
+        "你是人哪国？",
+        "你是哪国人吗？"
+      ],
+      "answer": 0,
+      "explainVi": "「哪国」 đứng trước 「人」, và câu có 「哪」 thì không thêm 「吗」.",
+      "grammar": [
+        48
+      ]
+    },
+    {
+      "id": "hsk1-02-e04",
+      "type": "fill",
+      "promptVi": "Điền từ để hỏi.",
+      "before": "你是",
+      "after": "国人？",
+      "answers": [
+        "哪"
+      ],
+      "options": [
+        "哪",
+        "吗",
+        "呢"
+      ],
+      "vi": "Bạn là người nước nào?",
+      "grammar": [
+        48
+      ]
+    },
+    {
+      "id": "hsk1-02-e05",
+      "type": "order",
+      "vi": "Chúng tôi đều là học sinh.",
+      "tiles": [
+        "都",
+        "学生",
+        "我们",
+        "是"
+      ],
+      "answers": [
+        "我们都是学生"
+      ],
+      "explainVi": "「都」 đứng sau chủ ngữ, trước 「是」.",
+      "grammar": [
+        16
+      ]
+    },
+    {
+      "id": "hsk1-02-e06",
+      "type": "order",
+      "vi": "Thầy Vương là người Trung Quốc.",
+      "tiles": [
+        "老师",
+        "中国",
+        "是",
+        "王",
+        "人"
+      ],
+      "answers": [
+        "王老师是中国人"
+      ],
+      "explainVi": "Họ đứng trước chức danh (王老师), tên nước đứng trước 「人」 (中国人).",
+      "grammar": [
+        35
+      ]
+    },
+    {
+      "id": "hsk1-02-e07",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "认识你",
+      "after": "高兴！",
+      "answers": [
+        "很"
+      ],
+      "options": [
+        "很",
+        "是",
+        "都"
+      ],
+      "vi": "Rất vui được làm quen với bạn!",
+      "grammar": [
+        43
+      ]
+    },
+    {
+      "id": "hsk1-02-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我很高兴。",
+        "我是高兴。",
+        "我高兴很。"
+      ],
+      "answer": 0,
+      "explainVi": "Tính từ làm vị ngữ thì không dùng 「是」; 「很」 đứng trước tính từ.",
+      "grammar": [
+        43
+      ]
+    },
+    {
+      "id": "hsk1-02-e09",
+      "type": "choice",
+      "promptVi": "Chọn từ thích hợp: 'Tôi là người Việt Nam, còn bạn?'",
+      "zh": "我是越南人，你＿？",
+      "options": [
+        "呢",
+        "吗",
+        "什么"
+      ],
+      "answer": 0,
+      "explainVi": "「你呢？」 = 'còn bạn?': hỏi lại câu vừa nói.",
+      "grammar": [
+        48
+      ]
+    },
+    {
+      "id": "hsk1-02-e10",
+      "type": "translate",
+      "vi": "Họ đều là người Trung Quốc.",
+      "answers": [
+        "[他们|她们]都是中国人。"
+      ],
+      "examples": [
+        {
+          "answer": "他们都是中国人。",
+          "score": 100
+        },
+        {
+          "answer": "她们都是中国人。",
+          "score": 100
+        },
+        {
+          "answer": "他们都中国人。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "他们都是越南人。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        9,
+        16
+      ]
+    },
+    {
+      "id": "hsk1-02-e11",
+      "type": "translate",
+      "vi": "Tôi cũng biết nói tiếng Trung.",
+      "answers": [
+        "我也会说[汉语|中文]。",
+        "我也会[汉语|中文]。"
+      ],
+      "examples": [
+        {
+          "answer": "我也会说汉语。",
+          "score": 100
+        },
+        {
+          "answer": "我也会中文。",
+          "score": 100
+        },
+        {
+          "answer": "我也不会说汉语。",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "hsk1-02-e12",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "大卫是哪国人？",
+        "promptVi": "David là người nước nào? (David là người Mỹ.)",
+        "answers": [
+          "[大卫|他]是美国人。",
+          "美国人。"
+        ],
+        "examples": [
+          {
+            "answer": "他是美国人。",
+            "score": 100
+          },
+          {
+            "answer": "美国人。",
+            "score": 100
+          },
+          {
+            "answer": "大卫美国人。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "他是英国人。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        48
+      ]
+    },
+    {
+      "id": "hsk1-02-e13",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你会说汉语吗？",
+        "promptVi": "Bạn biết nói tiếng Trung không? (Giả sử bạn biết.)",
+        "answers": [
+          "(我)会说[汉语|中文]。",
+          "(我)会[汉语|中文]。",
+          "(我)会。"
+        ],
+        "examples": [
+          {
+            "answer": "我会说汉语。",
+            "score": 100
+          },
+          {
+            "answer": "会。",
+            "score": 100
+          },
+          {
+            "answer": "我不会说汉语。",
+            "score": 0
+          },
+          {
+            "answer": "我会说英语。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-02-e14",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "认识你很高兴！",
+        "promptVi": "Rất vui được làm quen với bạn! (Hãy đáp: 'Tôi cũng rất vui.')",
+        "answers": [
+          "(认识你)我也很高兴。"
+        ],
+        "examples": [
+          {
+            "answer": "我也很高兴。",
+            "score": 100
+          },
+          {
+            "answer": "认识你我也很高兴！",
+            "score": 100
+          },
+          {
+            "answer": "我也高兴。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "我不高兴。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        43
+      ]
+    },
+    {
+      "id": "hsk1-02-e15",
+      "type": "order",
+      "vi": "Bạn là người nước nào?",
+      "tiles": [
+        "哪",
+        "你",
+        "国",
+        "是",
+        "人"
+      ],
+      "answers": [
+        "你是哪国人"
+      ],
+      "grammar": [
+        48
+      ]
+    },
+    {
+      "id": "hsk1-02-e16",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我们都是学生。",
+        "都我们是学生。",
+        "我们是都学生。"
+      ],
+      "answer": 0,
+      "explainVi": "「都」 đứng sau chủ ngữ, trước động từ 「是」.",
+      "grammar": [
+        16
+      ]
+    },
+    {
+      "id": "hsk1-02-e17",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "他们",
+      "after": "是老师。",
+      "answers": [
+        "都"
+      ],
+      "options": [
+        "都",
+        "很",
+        "吗"
+      ],
+      "vi": "Họ đều là giáo viên.",
+      "grammar": [
+        16
+      ]
+    },
+    {
+      "id": "hsk1-02-e18",
+      "type": "translate",
+      "vi": "Mọi người đều rất vui.",
+      "answers": [
+        "大家都很高兴。"
+      ],
+      "examples": [
+        {
+          "answer": "大家都很高兴。",
+          "score": 100
+        },
+        {
+          "answer": "大家都高兴。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "大家都不高兴。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        16,
+        43
+      ]
+    },
+    {
+      "id": "hsk1-02-e19",
+      "type": "translate",
+      "vi": "Tôi là người Việt Nam, còn bạn?",
+      "answers": [
+        "我是越南人，你呢？"
+      ],
+      "examples": [
+        {
+          "answer": "我是越南人，你呢？",
+          "score": 100
+        },
+        {
+          "answer": "我是中国人，你呢？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        48
+      ]
+    },
+    {
+      "id": "hsk1-02-e20",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你们都是学生吗？",
+        "promptVi": "Các bạn đều là học sinh à? (Trả lời: đúng, chúng tôi đều là học sinh.)",
+        "answers": [
+          "(是，)我们都是学生。",
+          "是。"
+        ],
+        "examples": [
+          {
+            "answer": "是，我们都是学生。",
+            "score": 100
+          },
+          {
+            "answer": "我们都是学生。",
+            "score": 100
+          },
+          {
+            "answer": "我们都不是学生。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        9,
+        16
+      ]
+    },
+    {
+      "id": "hsk1-02-e21",
+      "type": "choice",
+      "promptVi": "Nói về David (大卫) và Mary (玛丽) cùng lúc, dùng đại từ nào?",
+      "options": [
+        "他们",
+        "她们",
+        "我们"
+      ],
+      "answer": 0,
+      "explainVi": "Nhóm có cả nam lẫn nữ dùng 「他们」; 「她们」 chỉ dùng cho nhóm toàn nữ.",
+      "grammar": [
+        9
+      ]
+    },
+    {
+      "id": "hsk1-02-e22",
+      "type": "choice",
+      "promptVi": "Trong câu 「我们老师是中国人。」, chủ ngữ là gì?",
+      "options": [
+        "我们老师",
+        "我们",
+        "中国人"
+      ],
+      "answer": 0,
+      "explainVi": "Chủ ngữ có thể là một cụm danh từ: 「我们老师」 (thầy giáo của chúng tôi).",
+      "grammar": [
+        35
+      ]
+    },
+    {
+      "id": "hsk1-02-e23",
+      "type": "translate",
+      "vi": "Thầy Vương cũng là người Trung Quốc.",
+      "answers": [
+        "王老师也是中国人。"
+      ],
+      "examples": [
+        {
+          "answer": "王老师也是中国人。",
+          "score": 100
+        },
+        {
+          "answer": "王老师也中国人。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "王老师不是中国人。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        35
+      ]
+    },
+    {
+      "id": "hsk1-02-e24",
+      "type": "order",
+      "vi": "Họ cũng đều biết nói tiếng Anh.",
+      "tiles": [
+        "都",
+        "他们",
+        "说",
+        "也",
+        "英语",
+        "会"
+      ],
+      "answers": [
+        "他们也都会说英语"
+      ],
+      "explainVi": "Thứ tự: chủ ngữ + 也都 + 会 + 说 + ngôn ngữ.",
+      "grammar": [
+        9,
+        16
+      ]
+    }
+  ]
+}

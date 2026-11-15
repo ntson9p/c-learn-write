@@ -1,0 +1,1275 @@
+{
+  "id": "hsk1-08",
+  "goalsVi": [
+    "Gọi tên các món ăn, đồ uống thông dụng: 米饭, 面条儿, 饺子, 包子, 茶, 牛奶…",
+    "Nói mình muốn ăn, uống gì với 「想」, 「要」; gọi món: 我要一杯茶",
+    "Đếm đồ uống bằng lượng từ 「杯」: 一杯水, 两杯茶",
+    "Kể việc đã ăn, đã uống với 「了」: 我吃了两个包子",
+    "Rủ người khác ăn uống với 「吧」: 我们去吃饭吧！"
+  ],
+  "words": [
+    {
+      "no": 21,
+      "word": "吃",
+      "meaningsVi": [
+        "ăn"
+      ],
+      "noteVi": "'Ăn cơm', 'ăn (một bữa)' nói chung là 「吃饭」.",
+      "examples": [
+        {
+          "zh": "你吃什么？",
+          "py": "nǐ chī shén me",
+          "vi": "Bạn ăn gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 77,
+      "word": "喝",
+      "meaningsVi": [
+        "uống"
+      ],
+      "examples": [
+        {
+          "zh": "我喝茶，你喝什么？",
+          "py": "wǒ hē chá nǐ hē shén me",
+          "vi": "Tôi uống trà, bạn uống gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 50,
+      "word": "饭",
+      "meaningsVi": [
+        "cơm",
+        "bữa ăn"
+      ],
+      "noteVi": "「饭」 hay đi trong từ ghép: 吃饭 (ăn cơm, ăn bữa), 早饭 (bữa sáng), 做饭 (nấu ăn).",
+      "examples": [
+        {
+          "zh": "我们去吃饭吧！",
+          "py": "wǒ men qù chī fàn ba",
+          "vi": "Chúng mình đi ăn cơm thôi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 125,
+      "word": "米饭",
+      "meaningsVi": [
+        "cơm (cơm trắng nấu từ gạo)"
+      ],
+      "noteVi": "「米饭」 là cơm trắng; 「饭」 là bữa ăn nói chung. Người miền Nam Trung Quốc ăn nhiều cơm, người miền Bắc ăn nhiều mì, bánh bao.",
+      "examples": [
+        {
+          "zh": "我中午吃米饭。",
+          "py": "wǒ zhōng wǔ chī mǐ fàn",
+          "vi": "Buổi trưa tôi ăn cơm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 16,
+      "word": "菜",
+      "meaningsVi": [
+        "món ăn, thức ăn",
+        "rau"
+      ],
+      "examples": [
+        {
+          "zh": "这个菜很好吃。",
+          "py": "zhè ge cài hěn hǎo chī",
+          "vi": "Món này rất ngon."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 17,
+      "word": "茶",
+      "meaningsVi": [
+        "trà, chè"
+      ],
+      "examples": [
+        {
+          "zh": "我想喝茶。",
+          "py": "wǒ xiǎng hē chá",
+          "vi": "Tôi muốn uống trà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 192,
+      "word": "水",
+      "meaningsVi": [
+        "nước"
+      ],
+      "examples": [
+        {
+          "zh": "我要一杯水。",
+          "py": "wǒ yào yì bēi shuǐ",
+          "vi": "Cho tôi một cốc nước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 151,
+      "word": "牛奶",
+      "meaningsVi": [
+        "sữa (sữa bò)"
+      ],
+      "examples": [
+        {
+          "zh": "我早上喝牛奶。",
+          "py": "wǒ zǎo shang hē niú nǎi",
+          "vi": "Buổi sáng tôi uống sữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 84,
+      "word": "鸡蛋",
+      "meaningsVi": [
+        "trứng gà"
+      ],
+      "noteVi": "Đếm bằng 「个」: 两个鸡蛋 (hai quả trứng).",
+      "examples": [
+        {
+          "zh": "我吃了两个鸡蛋。",
+          "py": "wǒ chī le liǎng gè jī dàn",
+          "vi": "Tôi đã ăn hai quả trứng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 126,
+      "word": "面包",
+      "meaningsVi": [
+        "bánh mì"
+      ],
+      "noteVi": "「面」 là bột mì, 「包」 là bánh bọc; 「面包」 là bánh mì nói chung (bánh mì gối, bánh mì ngọt…).",
+      "examples": [
+        {
+          "zh": "我的早饭是面包和牛奶。",
+          "py": "wǒ de zǎo fàn shì miàn bāo hé niú nǎi",
+          "vi": "Bữa sáng của tôi là bánh mì và sữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 127,
+      "word": "面条儿",
+      "meaningsVi": [
+        "mì sợi, món mì"
+      ],
+      "noteVi": "Cũng viết là 「面条」. 「儿」 đọc liền với âm trước: miàntiáor.",
+      "examples": [
+        {
+          "zh": "他晚上吃面条儿。",
+          "py": "tā wǎn shang chī miàn tiáo r",
+          "vi": "Buổi tối anh ấy ăn mì."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 8,
+      "word": "包子",
+      "meaningsVi": [
+        "bánh bao (có nhân)"
+      ],
+      "examples": [
+        {
+          "zh": "我要三个包子。",
+          "py": "wǒ yào sān gè bāo zi",
+          "vi": "Cho tôi ba cái bánh bao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 90,
+      "word": "饺子",
+      "meaningsVi": [
+        "sủi cảo, bánh chẻo"
+      ],
+      "examples": [
+        {
+          "zh": "我们吃饺子吧！",
+          "py": "wǒ men chī jiǎo zi ba",
+          "vi": "Chúng mình ăn sủi cảo nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 159,
+      "word": "苹果",
+      "meaningsVi": [
+        "quả táo"
+      ],
+      "noteVi": "Âm Hán Việt là 'bình quả'. Đếm bằng 「个」: 一个苹果.",
+      "examples": [
+        {
+          "zh": "这个苹果很大。",
+          "py": "zhè ge píng guǒ hěn dà",
+          "vi": "Quả táo này rất to."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 193,
+      "word": "水果",
+      "meaningsVi": [
+        "hoa quả, trái cây"
+      ],
+      "examples": [
+        {
+          "zh": "你想吃什么水果？",
+          "py": "nǐ xiǎng chī shén me shuǐ guǒ",
+          "vi": "Bạn muốn ăn hoa quả gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 51,
+      "word": "饭店",
+      "meaningsVi": [
+        "nhà hàng, quán ăn",
+        "khách sạn (trong tên riêng)"
+      ],
+      "noteVi": "Âm Hán Việt là 'phạn điếm'. Nhiều khách sạn lớn cũng có tên '… 饭店'.",
+      "examples": [
+        {
+          "zh": "我们在饭店吃晚饭。",
+          "py": "wǒ men zài fàn diàn chī wǎn fàn",
+          "vi": "Chúng tôi ăn tối ở nhà hàng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 72,
+      "word": "好吃",
+      "meaningsVi": [
+        "ngon (đồ ăn)"
+      ],
+      "noteVi": "Chỉ dùng cho đồ **ăn**. 「好吃」 là tính từ nên không cần 「是」: 饺子很好吃, không nói 饺子是好吃.",
+      "examples": [
+        {
+          "zh": "妈妈的饺子很好吃。",
+          "py": "mā ma de jiǎo zi hěn hǎo chī",
+          "vi": "Sủi cảo mẹ làm rất ngon."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 9,
+      "word": "杯子",
+      "meaningsVi": [
+        "cái cốc, cái ly, cái chén"
+      ],
+      "noteVi": "「杯子」 là chính cái cốc (一个杯子). Khi đếm đồ uống thì dùng lượng từ 「杯」: 一杯茶 (một cốc trà).",
+      "examples": [
+        {
+          "zh": "这是我的杯子。",
+          "py": "zhè shì wǒ de bēi zi",
+          "vi": "Đây là cốc của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 274,
+      "word": "早饭",
+      "meaningsVi": [
+        "bữa sáng"
+      ],
+      "examples": [
+        {
+          "zh": "你吃早饭了吗？",
+          "py": "nǐ chī zǎo fàn le ma",
+          "vi": "Bạn ăn sáng chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 224,
+      "word": "午饭",
+      "meaningsVi": [
+        "bữa trưa"
+      ],
+      "examples": [
+        {
+          "zh": "我们十二点吃午饭。",
+          "py": "wǒ men shí èr diǎn chī wǔ fàn",
+          "vi": "Chúng tôi ăn trưa lúc mười hai giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 216,
+      "word": "晚饭",
+      "meaningsVi": [
+        "bữa tối"
+      ],
+      "examples": [
+        {
+          "zh": "晚饭你想吃什么？",
+          "py": "wǎn fàn nǐ xiǎng chī shén me",
+          "vi": "Bữa tối bạn muốn ăn gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 300,
+      "word": "做饭",
+      "meaningsVi": [
+        "nấu cơm, nấu ăn"
+      ],
+      "examples": [
+        {
+          "zh": "我爸爸会做饭。",
+          "py": "wǒ bà ba huì zuò fàn",
+          "vi": "Bố tôi biết nấu ăn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 108,
+      "word": "了",
+      "meaningsVi": [
+        "(trợ từ, đặt sau động từ) đã … (hành động đã xảy ra, đã xong)"
+      ],
+      "noteVi": "Đọc nhẹ: le. Bài này học 「了」 đặt ngay sau động từ: 我吃了两个包子. Các cách dùng khác của 「了」 sẽ học sau.",
+      "examples": [
+        {
+          "zh": "我喝了一杯牛奶。",
+          "py": "wǒ hē le yì bēi niú nǎi",
+          "vi": "Tôi đã uống một cốc sữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 4,
+      "word": "吧",
+      "meaningsVi": [
+        "(cuối câu) … nhé, … đi (đề nghị, rủ rê)",
+        "(cuối câu hỏi) … chứ, … phải không (đoán)"
+      ],
+      "noteVi": "「吧」 ở cuối câu làm lời đề nghị nghe nhẹ nhàng, thân mật: 我们吃饭吧！ (Mình ăn cơm đi!).",
+      "examples": [
+        {
+          "zh": "我们去饭店吃饭吧！",
+          "py": "wǒ men qù fàn diàn chī fàn ba",
+          "vi": "Chúng mình đi nhà hàng ăn đi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 252,
+      "word": "要",
+      "meaningsVi": [
+        "muốn có, cần; (gọi món) cho tôi …",
+        "muốn, định (làm gì)"
+      ],
+      "noteVi": "「要」 + danh từ: muốn có (我要一杯茶). 「要」 + động từ: muốn làm, định làm (我要吃饺子). Muốn nói 'không muốn' thường dùng 「不想」.",
+      "examples": [
+        {
+          "zh": "我要一杯茶。",
+          "py": "wǒ yào yì bēi chá",
+          "vi": "Cho tôi một cốc trà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 233,
+      "word": "想",
+      "meaningsVi": [
+        "muốn (làm gì)",
+        "nghĩ, nhớ"
+      ],
+      "noteVi": "Nghĩa 'muốn' thì 「想」 đi trước động từ: 想吃, 想喝.",
+      "examples": [
+        {
+          "zh": "我想吃面条儿。",
+          "py": "wǒ xiǎng chī miàn tiáo r",
+          "vi": "Tôi muốn ăn mì."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 5,
+      "titleVi": "「想」 và 「要」: muốn",
+      "summaryVi": "「想/要」 + động từ: muốn làm gì; 「要」 + danh từ: muốn có cái gì (khi gọi món). Phủ định: 「不想」.",
+      "explanationVi": [
+        "「想」 và 「要」 đứng **trước động từ** để nói mong muốn: 我想喝茶 (Tôi muốn uống trà), 我要吃饺子 (Tôi muốn ăn sủi cảo). Giống chữ 'muốn' trong tiếng Việt.",
+        "「想」 nhẹ nhàng hơn (muốn, thích là…); 「要」 mạnh hơn, thể hiện ý định hoặc yêu cầu. Khi gọi món, nói 「我要…」: 我要一杯茶 (Cho tôi một cốc trà). Lúc này 「要」 đứng ngay trước danh từ.",
+        "「想」 nghĩa 'muốn' **không** đứng ngay trước danh từ: không nói 我想茶. Hãy nói 我想喝茶 hoặc 我要茶.",
+        "Phủ định thường dùng 「不想」: 我不想吃饭 (Tôi không muốn ăn). Câu hỏi: 你想吃什么？, 你想喝茶吗？, 你想不想喝茶？"
+      ],
+      "patterns": [
+        "Chủ ngữ + 想/要 + động từ (+ tân ngữ)",
+        "Chủ ngữ + 要 + (số lượng +) danh từ",
+        "Chủ ngữ + 不想 + động từ (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "我想吃苹果。",
+          "py": "wǒ xiǎng chī píng guǒ",
+          "vi": "Tôi muốn ăn táo."
+        },
+        {
+          "zh": "我要两个包子。",
+          "py": "wǒ yào liǎng gè bāo zi",
+          "vi": "Cho tôi hai cái bánh bao."
+        },
+        {
+          "zh": "他不想喝牛奶。",
+          "py": "tā bù xiǎng hē niú nǎi",
+          "vi": "Cậu ấy không muốn uống sữa."
+        },
+        {
+          "zh": "你想不想吃饺子？",
+          "py": "nǐ xiǎng bu xiǎng chī jiǎo zi",
+          "vi": "Bạn có muốn ăn sủi cảo không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我想茶。",
+          "right": "我想喝茶。",
+          "noteVi": "「想」 (muốn) cần một động từ đi sau; muốn có một món thì dùng 「要」: 我要茶."
+        },
+        {
+          "wrong": "我喝想茶。",
+          "right": "我想喝茶。",
+          "noteVi": "「想」 đứng trước động từ, giống 'muốn uống' trong tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 13,
+      "titleVi": "Lượng từ mượn: 杯 (cốc)",
+      "summaryVi": "Đồ uống được đếm bằng vật chứa: 一杯茶 (một cốc trà), 两杯水 (hai cốc nước).",
+      "explanationVi": [
+        "Nước, trà, sữa… không đếm từng cái được, nên đếm bằng **vật chứa** nó. 「杯」 (cốc, ly, chén) là lượng từ mượn từ danh từ 「杯子」 (cái cốc): 一杯茶, 两杯牛奶. Tiếng Việt cũng nói 'một **cốc** trà', 'hai **ly** nước'.",
+        "Phân biệt: 一杯水 là một cốc nước (đếm nước); 一个杯子 là một cái cốc (đếm cốc).",
+        "Trước 「杯」, số 2 vẫn là 「两」: 两杯茶. Hỏi số lượng: 几杯？ Gọi đồ uống: 我要一杯水."
+      ],
+      "patterns": [
+        "Số + 杯 + đồ uống",
+        "几 + 杯 + đồ uống？"
+      ],
+      "examples": [
+        {
+          "zh": "我想喝一杯牛奶。",
+          "py": "wǒ xiǎng hē yì bēi niú nǎi",
+          "vi": "Tôi muốn uống một cốc sữa."
+        },
+        {
+          "zh": "桌子上有两杯水。",
+          "py": "zhuō zi shàng yǒu liǎng bēi shuǐ",
+          "vi": "Trên bàn có hai cốc nước."
+        },
+        {
+          "zh": "你喝了几杯茶？",
+          "py": "nǐ hē le jǐ bēi chá",
+          "vi": "Bạn đã uống mấy cốc trà?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我要一个水。",
+          "right": "我要一杯水。",
+          "noteVi": "Nước không đếm bằng 「个」; dùng vật chứa 「杯」.",
+          "issue": "wrong_measure_word"
+        },
+        {
+          "wrong": "我要二杯茶。",
+          "right": "我要两杯茶。",
+          "noteVi": "Trước lượng từ 「杯」, số 2 là 「两」.",
+          "issue": "er_liang"
+        },
+        {
+          "wrong": "我要一杯子茶。",
+          "right": "我要一杯茶。",
+          "noteVi": "Lượng từ là 「杯」, không phải danh từ 「杯子」."
+        }
+      ],
+      "morphemes": [
+        "杯"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 25,
+      "titleVi": "Trợ từ 「了」 sau động từ: hành động đã xảy ra",
+      "summaryVi": "Động từ + 了 (+ số lượng + tân ngữ): hành động đã xảy ra, đã xong: 我吃了两个包子.",
+      "explanationVi": [
+        "「了」 đặt **ngay sau động từ** cho biết hành động đã xảy ra hoặc đã xong: 我喝了一杯茶 (Tôi đã uống một cốc trà). Nghĩa gần với 'đã', 'rồi' của tiếng Việt, nhưng vị trí khác: 'đã' đứng trước động từ, còn 「了」 đứng sau.",
+        "Câu có 「了」 sau động từ thường có thêm số lượng hoặc thông tin khác sau tân ngữ: 我吃了两个鸡蛋. Câu chỉ có 我吃了饭 nghe như chưa nói xong.",
+        "Hỏi một việc đã làm chưa: đặt 「了吗」 ở cuối câu: 你吃早饭了吗？ (Bạn ăn sáng chưa?).",
+        "Phủ định: dùng 「没有」 trước động từ và **bỏ** 「了」: 我没有吃早饭 (Tôi chưa ăn sáng). Không nói 我没有吃了早饭."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + 了 + số lượng + tân ngữ",
+        "Chủ ngữ + động từ + tân ngữ + 了吗？",
+        "Chủ ngữ + 没有 + động từ + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我吃了两个包子。",
+          "py": "wǒ chī le liǎng gè bāo zi",
+          "vi": "Tôi đã ăn hai cái bánh bao."
+        },
+        {
+          "zh": "他喝了三杯水。",
+          "py": "tā hē le sān bēi shuǐ",
+          "vi": "Anh ấy đã uống ba cốc nước."
+        },
+        {
+          "zh": "你吃午饭了吗？",
+          "py": "nǐ chī wǔ fàn le ma",
+          "vi": "Bạn ăn trưa chưa?"
+        },
+        {
+          "zh": "我没有吃早饭。",
+          "py": "wǒ méi yǒu chī zǎo fàn",
+          "vi": "Tôi chưa ăn sáng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我了吃两个包子。",
+          "right": "我吃了两个包子。",
+          "noteVi": "「了」 đứng sau động từ, không đứng trước như chữ 'đã' trong tiếng Việt."
+        },
+        {
+          "wrong": "我没有吃了早饭。",
+          "right": "我没有吃早饭。",
+          "noteVi": "Câu phủ định với 「没有」 thì bỏ 「了」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-08-e01",
+      "type": "match",
+      "promptVi": "Nối món ăn với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "米饭",
+          "cơm"
+        ],
+        [
+          "面条儿",
+          "mì sợi"
+        ],
+        [
+          "饺子",
+          "sủi cảo"
+        ],
+        [
+          "包子",
+          "bánh bao"
+        ],
+        [
+          "面包",
+          "bánh mì"
+        ],
+        [
+          "鸡蛋",
+          "trứng gà"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-08-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "茶",
+          "trà"
+        ],
+        [
+          "水",
+          "nước"
+        ],
+        [
+          "牛奶",
+          "sữa"
+        ],
+        [
+          "苹果",
+          "quả táo"
+        ],
+        [
+          "水果",
+          "hoa quả"
+        ],
+        [
+          "杯子",
+          "cái cốc"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-08-e03",
+      "type": "choice",
+      "promptVi": "Từ nào nghĩa là 'bữa trưa'?",
+      "options": [
+        "午饭",
+        "早饭",
+        "晚饭"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "hsk1-08-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi muốn uống trà.)",
+      "options": [
+        "我想喝茶。",
+        "我喝想茶。",
+        "我想茶喝。"
+      ],
+      "answer": 0,
+      "explainVi": "「想」 đứng trước động từ 「喝」.",
+      "grammar": [
+        5
+      ]
+    },
+    {
+      "id": "hsk1-08-e05",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "他不",
+      "after": "吃米饭，他想吃面条儿。",
+      "answers": [
+        "想"
+      ],
+      "options": [
+        "想",
+        "了",
+        "吧"
+      ],
+      "vi": "Anh ấy không muốn ăn cơm, anh ấy muốn ăn mì.",
+      "grammar": [
+        5
+      ]
+    },
+    {
+      "id": "hsk1-08-e06",
+      "type": "order",
+      "vi": "Bạn muốn ăn gì?",
+      "tiles": [
+        "你",
+        "想",
+        "吃",
+        "什么"
+      ],
+      "answers": [
+        "你想吃什么"
+      ],
+      "grammar": [
+        5
+      ]
+    },
+    {
+      "id": "hsk1-08-e07",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "我要一＿茶。",
+      "options": [
+        "杯",
+        "个",
+        "本"
+      ],
+      "answer": 0,
+      "explainVi": "Đồ uống đếm bằng vật chứa: 一杯茶.",
+      "grammar": [
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e08",
+      "type": "fill",
+      "promptVi": "Điền lượng từ thích hợp.",
+      "before": "桌子上有两",
+      "after": "牛奶。",
+      "answers": [
+        "杯"
+      ],
+      "options": [
+        "杯",
+        "个",
+        "只"
+      ],
+      "vi": "Trên bàn có hai cốc sữa.",
+      "grammar": [
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e09",
+      "type": "choice",
+      "promptVi": "「一杯水」 và 「一个杯子」 khác nhau thế nào?",
+      "options": [
+        "一杯水: một cốc nước; 一个杯子: một cái cốc",
+        "Hai cách nói giống nhau",
+        "一杯水: một cái cốc; 一个杯子: một cốc nước"
+      ],
+      "answer": 0,
+      "grammar": [
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e10",
+      "type": "order",
+      "vi": "Tôi đã ăn hai quả trứng gà.",
+      "tiles": [
+        "我",
+        "吃",
+        "了",
+        "两个",
+        "鸡蛋"
+      ],
+      "answers": [
+        "我吃了两个鸡蛋"
+      ],
+      "explainVi": "「了」 đứng ngay sau động từ 「吃」.",
+      "grammar": [
+        25
+      ]
+    },
+    {
+      "id": "hsk1-08-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi chưa ăn sáng.)",
+      "options": [
+        "我没有吃早饭。",
+        "我没有吃了早饭。",
+        "我不吃了早饭。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định với 「没有」 thì không dùng 「了」.",
+      "grammar": [
+        25
+      ]
+    },
+    {
+      "id": "hsk1-08-e12",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我喝",
+      "after": "一杯茶。",
+      "answers": [
+        "了"
+      ],
+      "options": [
+        "了",
+        "吧",
+        "想"
+      ],
+      "vi": "Tôi đã uống một cốc trà.",
+      "grammar": [
+        25
+      ]
+    },
+    {
+      "id": "hsk1-08-e13",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp để rủ bạn.",
+      "before": "我们去吃饺子",
+      "after": "！",
+      "answers": [
+        "吧"
+      ],
+      "options": [
+        "吧",
+        "吗",
+        "呢"
+      ],
+      "vi": "Chúng mình đi ăn sủi cảo đi!"
+    },
+    {
+      "id": "hsk1-08-e14",
+      "type": "translate",
+      "vi": "Cho tôi một cốc nước.",
+      "answers": [
+        "我(想)要一杯水。"
+      ],
+      "examples": [
+        {
+          "answer": "我要一杯水。",
+          "score": 100
+        },
+        {
+          "answer": "我想要一杯水。",
+          "score": 100
+        },
+        {
+          "answer": "我要一个水。",
+          "score": 80,
+          "issues": [
+            "wrong_measure_word"
+          ]
+        },
+        {
+          "answer": "我要一水。",
+          "score": 80,
+          "issues": [
+            "missing_measure_word"
+          ]
+        },
+        {
+          "answer": "我要两杯水。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        5,
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e15",
+      "type": "translate",
+      "vi": "Hôm qua tôi đã ăn ba cái bánh bao.",
+      "answers": [
+        "[我昨天|昨天我]吃了三个包子。"
+      ],
+      "examples": [
+        {
+          "answer": "我昨天吃了三个包子。",
+          "score": 100
+        },
+        {
+          "answer": "昨天我吃了三个包子。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天吃三个包子。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "我昨天吃了三个饺子。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        25
+      ]
+    },
+    {
+      "id": "hsk1-08-e16",
+      "type": "translate",
+      "vi": "Tôi không muốn uống sữa.",
+      "answers": [
+        "我不想喝牛奶。"
+      ],
+      "examples": [
+        {
+          "answer": "我不想喝牛奶。",
+          "score": 100
+        },
+        {
+          "answer": "我想喝牛奶。",
+          "score": 0,
+          "note": "Thiếu 「不」: nghĩa ngược lại"
+        }
+      ],
+      "grammar": [
+        5
+      ]
+    },
+    {
+      "id": "hsk1-08-e17",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几杯茶？",
+        "promptVi": "Trên bàn có mấy cốc trà? (Trong hình: 2 cốc trà.)",
+        "picture": "🍵🍵",
+        "expected": {
+          "number": 2,
+          "noun": "茶",
+          "sentence": "桌子上有两杯茶。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有两杯茶。",
+            "score": 100
+          },
+          {
+            "answer": "有两杯。",
+            "score": 100
+          },
+          {
+            "answer": "两杯茶。",
+            "score": 100
+          },
+          {
+            "answer": "有二杯茶。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ],
+            "note": "Trước 杯, số 2 là 两"
+          },
+          {
+            "answer": "有两个茶。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ],
+            "note": "Trà đếm bằng 杯"
+          },
+          {
+            "answer": "有两茶。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有三杯茶。",
+            "score": 20
+          },
+          {
+            "answer": "有两杯水。",
+            "score": 20,
+            "note": "Nói về nước, không phải trà"
+          }
+        ]
+      },
+      "grammar": [
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e18",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "大卫吃了几个饺子？",
+        "promptVi": "David đã ăn mấy cái sủi cảo? (Trong hình: 8 cái sủi cảo.)",
+        "picture": "🥟🥟🥟🥟🥟🥟🥟🥟",
+        "expected": {
+          "number": 8,
+          "noun": "饺子",
+          "sentence": "他吃了八个饺子。"
+        },
+        "examples": [
+          {
+            "answer": "他吃了八个饺子。",
+            "score": 100
+          },
+          {
+            "answer": "大卫吃了八个。",
+            "score": 100
+          },
+          {
+            "answer": "八个。",
+            "score": 100
+          },
+          {
+            "answer": "他吃了八饺子。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "他吃了八只饺子。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ],
+            "note": "只 dùng cho con vật"
+          },
+          {
+            "answer": "他吃了九个饺子。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        25
+      ]
+    },
+    {
+      "id": "hsk1-08-e19",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你想喝什么？",
+        "promptVi": "Bạn muốn uống gì? (Giả sử bạn muốn uống trà.)",
+        "answers": [
+          "(我)[想|要|想要]喝(一杯)茶。",
+          "(我)[要|想要](一杯)茶。",
+          "(一杯)茶。"
+        ],
+        "examples": [
+          {
+            "answer": "我想喝茶。",
+            "score": 100
+          },
+          {
+            "answer": "茶。",
+            "score": 100
+          },
+          {
+            "answer": "我要一杯茶。",
+            "score": 100
+          },
+          {
+            "answer": "我想喝一个茶。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "我想喝牛奶。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        5,
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e20",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你在哪儿吃午饭？",
+        "promptVi": "Bạn ăn trưa ở đâu? (Trả lời về bản thân bạn.)",
+        "expected": {
+          "sentence": "我在家吃午饭。"
+        },
+        "examples": [
+          {
+            "answer": "我在家吃午饭。",
+            "score": 100
+          },
+          {
+            "answer": "在家。",
+            "score": 100
+          },
+          {
+            "answer": "我在饭店吃午饭。",
+            "score": 100
+          },
+          {
+            "answer": "我吃午饭在家。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ],
+            "note": "Dịch theo thứ tự tiếng Việt 'ăn trưa ở nhà'"
+          },
+          {
+            "answer": "我吃午饭在饭店。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ]
+          }
+        ]
+      },
+      "grammar": [
+        21
+      ]
+    },
+    {
+      "id": "hsk1-08-e21",
+      "type": "translate",
+      "vi": "Tôi đã uống hai cốc sữa.",
+      "answers": [
+        "我喝了两杯牛奶。"
+      ],
+      "examples": [
+        {
+          "answer": "我喝了两杯牛奶。",
+          "score": 100
+        },
+        {
+          "answer": "我喝了二杯牛奶。",
+          "score": 90,
+          "issues": [
+            "er_liang"
+          ]
+        },
+        {
+          "answer": "我喝了两个牛奶。",
+          "score": 80,
+          "issues": [
+            "wrong_measure_word"
+          ]
+        },
+        {
+          "answer": "我喝了两杯水。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        25,
+        13
+      ]
+    },
+    {
+      "id": "hsk1-08-e22",
+      "type": "order",
+      "vi": "Tối nay tôi muốn ăn mì.",
+      "tiles": [
+        "今天晚上",
+        "我",
+        "想",
+        "吃",
+        "面条儿"
+      ],
+      "answers": [
+        "今天晚上我想吃面条儿",
+        "我今天晚上想吃面条儿"
+      ],
+      "grammar": [
+        5
+      ]
+    },
+    {
+      "id": "hsk1-08-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "饺子好吃吗？",
+        "promptVi": "Sủi cảo có ngon không? (Giả sử bạn thấy rất ngon.)",
+        "answers": [
+          "(饺子)很好吃。",
+          "好吃。"
+        ],
+        "examples": [
+          {
+            "answer": "很好吃。",
+            "score": 100
+          },
+          {
+            "answer": "饺子很好吃。",
+            "score": 100
+          },
+          {
+            "answer": "好吃。",
+            "score": 100
+          },
+          {
+            "answer": "饺子是很好吃。",
+            "score": 85,
+            "issues": [
+              "extra_word"
+            ],
+            "note": "Trước tính từ không dùng 是"
+          },
+          {
+            "answer": "不好吃。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        43
+      ]
+    }
+  ]
+}
