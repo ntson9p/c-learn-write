@@ -107,3 +107,19 @@ describe('gradeZhLocation: options', () => {
     expect(gradeZhLocation(book, 'in the bag').content.message).toBe('Hãy trả lời bằng chữ Hán.');
   });
 });
+
+describe('location: missing directional localizer', () => {
+  const q: LocationQuestion = {
+    id: 'station',
+    lang: 'zh',
+    type: 'location',
+    prompt: '地铁站在哪儿？',
+    expected: { places: ['学校'], localizer: '前' },
+  };
+  it('flags 在学校 for review when the picture says 在学校前边', () => {
+    const r = gradeZhLocation(q, '地铁站在学校。');
+    expect(r.content.status).toBe('correct');
+    expect(r.needsReview).toBe(true);
+    expect(gradeZhLocation(q, '地铁站在学校前边。').needsReview).toBe(false);
+  });
+});

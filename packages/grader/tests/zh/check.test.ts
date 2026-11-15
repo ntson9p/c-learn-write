@@ -55,3 +55,9 @@ describe('measure word that forms a word with the noun', () => {
     expect(checkZhSentence('我有一本人。').issues.map((i) => i.code)).toEqual(['wrong_measure_word']);
   });
 });
+
+describe('题 with 个', () => {
+  it('accepts the colloquial 三个题', () => {
+    expect(checkZhSentence('今天的作业有三个题。').issues).toEqual([]);
+  });
+});

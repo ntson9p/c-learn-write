@@ -60,6 +60,6 @@ Một số câu được ghi là "sai" thật ra **đúng ngữ pháp nhưng sai
 
 - Lỗi trật tự kiểu tiếng Việt với 从, 跟, 给, 一起, 最, 次 chưa có luật (bị 0 điểm thay vì được giải thích); thiếu 得 (他跑很快) cũng vậy.
 - 在左边桌子, 在下面床, 在旁边教室 (phương vị từ hai âm tiết đứng trước danh từ) chưa bị bắt là `localizer_order`.
-- 地铁站在学校 được 100 dù hình là "trước cổng trường" (学校 là nơi chốn, phương vị từ không bắt buộc).
-- 三米饭 bị đọc là "3 mét"; 三个碗米饭 bị coi là sai nội dung; 面条儿, 药店 chưa có trong bảng từ của bộ chấm; 题 chỉ nhận 道, 笔 chỉ nhận 支/枝 (三个题 bị báo sai).
+- 地铁站在学校 khi hình là "trước cổng trường": nay vẫn được chấm đúng nội dung nhưng gắn cờ "cần giáo viên xem lại" (bỏ phương vị từ chỉ hướng như 前, 后, 旁边 làm đổi nơi chốn).
+- 三米饭 bị đọc là "3 mét"; 三个碗米饭 bị coi là sai nội dung; 面条儿, 药店 chưa có trong bảng từ của bộ chấm; 笔 chỉ nhận 支/枝 (题 nay nhận cả 个).
 - Trợ từ 了 đặt sai chỗ chỉ bị trừ 30 điểm (thừa + thiếu từ).

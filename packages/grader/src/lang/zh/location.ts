@@ -24,6 +24,8 @@ import { runZhRules } from './rules';
 export type MentionRef = 'target' | 'wrong_localizer' | 'other' | 'unknown';
 
 const DEFAULT_WRONG_CONTENT_SCORE = 20;
+/** Localizers often left out without changing the place (在学校 ≈ 在学校里, 书在桌子 ≈ 桌子上). */
+const IMPLIED_GROUPS = new Set(['里', '上']);
 
 export function classifyMention(m: LocationMention, places: readonly string[], group: string | undefined): MentionRef {
   if (places.length === 0) {
@@ -56,7 +58,10 @@ function judge(doc: ZhDoc, places: readonly string[], group: string | undefined)
 
   if (targets.length > 0) {
     // Other places may describe other things (书在书包里，书包在桌子上): accept, but let a teacher check.
-    return { status: 'correct', message: vi.locationCorrect, needsReview: places.length > 0 && others.length > 0 };
+    // A missing directional localizer changes the place (在学校 is not 在学校前边): let a teacher check too.
+    const missingDirection =
+      group !== undefined && !IMPLIED_GROUPS.has(group) && targets.every((t) => t.m.phrase.units.every((u) => !u.localizer));
+    return { status: 'correct', message: vi.locationCorrect, needsReview: (places.length > 0 && others.length > 0) || missingDirection };
   }
   const first = others[0];
   if (first && places.length === 0) {
