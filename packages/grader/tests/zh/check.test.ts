@@ -46,3 +46,12 @@ describe('place_order: a verb inside a 的-phrase', () => {
     expect(checkZhSentence('我吃饭在家。').issues.map((i) => i.code)).toEqual(['place_order']);
   });
 });
+
+describe('measure word that forms a word with the noun', () => {
+  it('reads 一家人 as "a family"', () => {
+    for (const s of ['楼上搬来了一家人。', '我们小区搬走了两家人。', '我们一家人都喜欢吃饺子。']) {
+      expect(checkZhSentence(s).issues, s).toEqual([]);
+    }
+    expect(checkZhSentence('我有一本人。').issues.map((i) => i.code)).toEqual(['wrong_measure_word']);
+  });
+});

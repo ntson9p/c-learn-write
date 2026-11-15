@@ -10,7 +10,7 @@ import type { Fix, Issue } from '../../core/types';
 import { sortIssues } from '../../core/scoring';
 import type { QuantityPhrase, ZhDoc } from './analyze';
 import { zhIssue, type ZhIssueCode } from './issues';
-import { NOUNS } from './lexicon';
+import { COMPOUNDS, NOUNS } from './lexicon';
 import { locationRules } from './location-rules';
 import { vi } from './messages';
 import { toZhNumeral } from './numbers';
@@ -90,6 +90,8 @@ function wrongMeasureWord(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
     if (!noun) continue;
     const info = NOUNS.get(noun);
     if (!info || info.measures.includes(p.measure.text)) continue;
+    // 一家人 (a family): 家 + 人 is the word 家人, not a wrong measure word for 人.
+    if (p.noun && COMPOUNDS.has(p.measure.text + p.noun.text)) continue;
     const right = info.measures[0]!;
     out.push(
       makeIssue(ctx, 'wrong_measure_word', p.measure.start, p.measure.end, vi.wrongMeasure(noun, right, p.measure.text), {
