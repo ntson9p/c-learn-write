@@ -15,6 +15,8 @@ const isHan = (ch: string) => /\p{Script=Han}/u.test(ch);
 
 export class PinyinWriter {
   private readonly readings = new Map<string, string[]>();
+  /** Single characters whose syllabus pinyin lists alternatives (谁 shéi/shuí): the first one is preferred. */
+  private readonly preferredOf = new Map<string, string[]>();
   private readonly segmenter: Segmenter;
 
   constructor(vocabulary: readonly OfficialWord[], names: readonly NameEntry[]) {
@@ -24,7 +26,16 @@ export class PinyinWriter {
       if (syl) this.readings.set(w.word, syl);
     }
     for (const n of names) this.readings.set(n.zh, n.py.split(' '));
+    for (const w of vocabulary) {
+      if ([...w.word].length === 1 && w.pinyin.includes('/')) this.preferredOf.set(w.word, w.pinyin.split('/').map((p) => p.trim()));
+    }
     this.segmenter = new Segmenter([...vocabulary.map((w) => w.word), ...names.map((n) => n.zh)]);
+  }
+
+  /** The preferred form of a syllable for a character (谁: shuí -> shéi). */
+  preferred(ch: string, syllable: string): string {
+    const alternatives = this.preferredOf.get(ch);
+    return alternatives?.includes(syllable) ? alternatives[0]! : syllable;
   }
 
   /** One lower-case syllable per Han character, separated by spaces. */
@@ -57,7 +68,7 @@ export class PinyinWriter {
       official.forEach((s, k) => (out[start + k] = s));
     }
     return chars
-      .map((ch, i) => (isHan(ch) ? out[i] : null))
+      .map((ch, i) => (isHan(ch) && out[i] ? this.preferred(ch, out[i]) : null))
       .filter((s): s is string => s !== null)
       .join(' ');
   }

@@ -139,9 +139,14 @@ export function validateCourse(data: CourseData, readingsOf: ReadingsOf): string
   const segmenter = new Segmenter([...data.vocabulary.map((w) => w.word), ...data.names.map((n) => n.zh), ...morphemeLesson.keys()]);
 
   /** Words of `text` that are unknown or taught after `lesson`. */
+  const taughtBy = (word: string, lesson: Lesson): boolean => {
+    if (nameByZh.has(word)) return true;
+    const taught = firstLessonOf.get(word) ?? morphemeLesson.get(word);
+    return taught !== undefined && rank(taught) <= rank(lesson);
+  };
   const vocabProblems = (text: string, lesson: Lesson): string[] => {
     const out: string[] = [];
-    for (const t of segmenter.segment(text)) {
+    for (const t of segmenter.segment(text, (w) => taughtBy(w, lesson))) {
       if (nameByZh.has(t.text)) continue;
       if (!t.known) {
         out.push(`unknown word 「${t.text}」`);

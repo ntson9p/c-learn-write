@@ -11,6 +11,14 @@ describe('Segmenter', () => {
     expect(words('学生')).toEqual(['学生']);
   });
 
+  it('prefers words the learner knows when cuts are otherwise equal', () => {
+    const s2 = new Segmenter(['你', '有', '时间', '有时', '间', '吗']);
+    const cut = (prefer?: (w: string) => boolean) => s2.segment('你有时间吗？', prefer).map((t) => t.text);
+    expect(cut()).toEqual(['你', '有时', '间', '吗']); // no preference: longest first word
+    const taught = new Set(['你', '有', '时间', '吗']);
+    expect(cut((w) => taught.has(w))).toEqual(['你', '有', '时间', '吗']);
+  });
+
   it('skips punctuation, digits and Latin letters, and reports offsets', () => {
     const t = seg.segment('A4，我有');
     expect(t.map((x) => [x.text, x.start])).toEqual([

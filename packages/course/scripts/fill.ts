@@ -31,7 +31,16 @@ for (const file of course.lessons) {
     ...file.lesson.grammar.flatMap((g) => g.examples),
   ];
   for (const s of sentences) {
-    if (pinyinFits(s)) continue;
+    if (pinyinFits(s)) {
+      // Keep hand corrections, but use the preferred reading (谁 shéi).
+      const hans = [...s.zh].filter(isHan);
+      const fixed = s.py!.trim().split(/\s+/).map((syl, i) => writer.preferred(hans[i]!, syl)).join(' ');
+      if (fixed !== s.py) {
+        s.py = fixed;
+        filled++;
+      }
+      continue;
+    }
     s.py = writer.sentence(s.zh);
     filled++;
   }
