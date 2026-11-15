@@ -1,0 +1,1531 @@
+{
+  "id": "hsk2-07",
+  "goalsVi": [
+    "Nói vị trí đồ vật trong nhà, trong phòng với 上面, 下面, 里面, 外面, 前面, 后面, 旁边, 左边, 右边",
+    "Dùng đúng lượng từ 条, 位, 间, 名: 两条裤子, 一位老师, 一间教室, 三十名学生",
+    "Tả trạng thái và cách thức bằng 「着」: 门开着, 他穿着红色的衣服, 他坐着看书",
+    "Nói ở đâu có ai, có gì đang ở trạng thái nào: 椅子上坐着一个人",
+    "Nói số thứ tự không cần 「第」: 三楼 (tầng ba), 二班 (lớp 2)"
+  ],
+  "words": [
+    {
+      "no": 426,
+      "word": "上面",
+      "meaningsVi": [
+        "bên trên, phía trên, ở trên"
+      ],
+      "noteVi": "Nghĩa như 「上边」. Đứng sau danh từ: 桌子上面 (trên bàn), hoặc đứng một mình: 上面有什么？",
+      "examples": [
+        {
+          "zh": "你的本子在桌子上面。",
+          "py": "nǐ de běn zi zài zhuō zi shàng miàn",
+          "vi": "Vở của bạn ở trên bàn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 459,
+      "word": "下面",
+      "meaningsVi": [
+        "bên dưới, phía dưới, ở dưới"
+      ],
+      "examples": [
+        {
+          "zh": "小猫在床下面。",
+          "py": "xiǎo māo zài chuáng xià miàn",
+          "vi": "Con mèo nhỏ ở dưới gầm giường."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 390,
+      "word": "里面",
+      "meaningsVi": [
+        "bên trong, ở trong"
+      ],
+      "examples": [
+        {
+          "zh": "书包里面有什么？",
+          "py": "shū bāo lǐ miàn yǒu shén me",
+          "vi": "Trong cặp có gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 447,
+      "word": "外面",
+      "meaningsVi": [
+        "bên ngoài, ở ngoài"
+      ],
+      "noteVi": "Đứng một mình, 「外面」 hay chỉ ngoài trời, ngoài nhà: 外面很冷 (Bên ngoài lạnh lắm).",
+      "examples": [
+        {
+          "zh": "外面很冷，你多穿一点儿衣服。",
+          "py": "wài miàn hěn lěng nǐ duō chuān yì diǎn r yī fu",
+          "vi": "Bên ngoài lạnh lắm, bạn mặc thêm áo vào."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 419,
+      "word": "前面",
+      "meaningsVi": [
+        "phía trước, đằng trước"
+      ],
+      "examples": [
+        {
+          "zh": "学校前面有一个书店。",
+          "py": "xué xiào qián miàn yǒu yí gè shū diàn",
+          "vi": "Phía trước trường có một hiệu sách."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 356,
+      "word": "后面",
+      "meaningsVi": [
+        "phía sau, đằng sau"
+      ],
+      "examples": [
+        {
+          "zh": "我家后面有很多花。",
+          "py": "wǒ jiā hòu miàn yǒu hěn duō huā",
+          "vi": "Phía sau nhà tôi có rất nhiều hoa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 413,
+      "word": "旁边",
+      "meaningsVi": [
+        "bên cạnh"
+      ],
+      "noteVi": "Chỉ nói 「旁边」, không có 'bàng diện' 旁面. Đứng sau danh từ: 教室旁边 (bên cạnh phòng học). Âm Hán Việt là 'bàng biên'.",
+      "examples": [
+        {
+          "zh": "洗手间在教室旁边。",
+          "py": "xǐ shǒu jiān zài jiào shì páng biān",
+          "vi": "Nhà vệ sinh ở bên cạnh phòng học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 499,
+      "word": "左",
+      "meaningsVi": [
+        "trái, bên trái"
+      ],
+      "noteVi": "Đứng trước danh từ chỉ bộ phận: 左手 (tay trái). Tiếng Việt nói 'tay trái' (trái đứng sau), tiếng Trung nói 左手. Chỉ vị trí thường dùng 「左边」.",
+      "examples": [
+        {
+          "zh": "他左手疼。",
+          "py": "tā zuǒ shǒu téng",
+          "vi": "Anh ấy đau tay trái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 481,
+      "word": "右",
+      "meaningsVi": [
+        "phải, bên phải"
+      ],
+      "examples": [
+        {
+          "zh": "我右手有点儿疼，不能写字。",
+          "py": "wǒ yòu shǒu yǒu diǎn r téng bù néng xiě zì",
+          "vi": "Tay phải tôi hơi đau, không viết chữ được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 500,
+      "word": "左边",
+      "meaningsVi": [
+        "bên trái"
+      ],
+      "noteVi": "「边」 ở đây đọc nhẹ: zuǒbian.",
+      "examples": [
+        {
+          "zh": "我左边是小明。",
+          "py": "wǒ zuǒ bian shì xiǎo míng",
+          "vi": "Bên trái tôi là Tiểu Minh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 482,
+      "word": "右边",
+      "meaningsVi": [
+        "bên phải"
+      ],
+      "examples": [
+        {
+          "zh": "右边的那个人是我哥哥。",
+          "py": "yòu bian de nà ge rén shì wǒ gē ge",
+          "vi": "Người bên phải là anh trai tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 403,
+      "word": "面",
+      "meaningsVi": [
+        "phía, mặt (hậu tố sau phương vị từ: 上面, 里面, 外面…)"
+      ],
+      "noteVi": "Ở bài này 「面」 là hậu tố, không đứng một mình. Cùng chữ với 「面」 trong 「面条儿」 (mì) nhưng là nghĩa khác. Âm Hán Việt là 'diện'.",
+      "examples": [
+        {
+          "zh": "里面有人吗？",
+          "py": "lǐ miàn yǒu rén ma",
+          "vi": "Bên trong có ai không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 391,
+      "word": "楼",
+      "meaningsVi": [
+        "tòa nhà (nhiều tầng)",
+        "tầng, lầu (三楼: tầng ba)"
+      ],
+      "noteVi": "Số + 「楼」 chỉ tầng thứ mấy: 一楼, 二楼 (không nói 两楼), 三楼. Ở Trung Quốc 一楼 là tầng sát mặt đất (tầng trệt).",
+      "examples": [
+        {
+          "zh": "我家住在五楼。",
+          "py": "wǒ jiā zhù zài wǔ lóu",
+          "vi": "Nhà tôi ở tầng năm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 400,
+      "word": "门",
+      "meaningsVi": [
+        "cửa (cửa ra vào)"
+      ],
+      "noteVi": "'Mở cửa' là 开门 hoặc 打开门. 「门口」 (bài 4) là chỗ cửa ra vào, trước cửa. Âm Hán Việt là 'môn'.",
+      "examples": [
+        {
+          "zh": "我家的门是红色的。",
+          "py": "wǒ jiā de mén shì hóng sè de",
+          "vi": "Cửa nhà tôi màu đỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 366,
+      "word": "间",
+      "meaningsVi": [
+        "gian, căn, phòng (lượng từ cho phòng)"
+      ],
+      "noteVi": "Âm Hán Việt là 'gian', giống 'gian phòng' trong tiếng Việt: 一间教室, 两间洗手间. 「间」 cũng là một phần của các từ 房间, 时间, 洗手间.",
+      "examples": [
+        {
+          "zh": "这间教室很大。",
+          "py": "zhè jiān jiào shì hěn dà",
+          "vi": "Phòng học này rất rộng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 321,
+      "word": "床",
+      "meaningsVi": [
+        "giường"
+      ],
+      "noteVi": "「床」 là đồ vật, nên chỉ nơi chốn phải có phương vị từ: 在床上 (trên giường), 在床下面 (dưới gầm giường); không nói 在床. Âm Hán Việt là 'sàng'.",
+      "examples": [
+        {
+          "zh": "小猫在床上睡觉。",
+          "py": "xiǎo māo zài chuáng shàng shuì jiào",
+          "vi": "Con mèo nhỏ ngủ trên giường."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 457,
+      "word": "洗手间",
+      "meaningsVi": [
+        "nhà vệ sinh (nghĩa đen: phòng rửa tay)"
+      ],
+      "noteVi": "Cách nói lịch sự, hay dùng khi hỏi đường: 请问，洗手间在哪儿？",
+      "examples": [
+        {
+          "zh": "请问，洗手间在哪儿？",
+          "py": "qǐng wèn xǐ shǒu jiān zài nǎ r",
+          "vi": "Xin hỏi, nhà vệ sinh ở đâu ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 329,
+      "word": "打开",
+      "meaningsVi": [
+        "mở (cửa, sách, hộp…)",
+        "bật (máy tính, tivi)"
+      ],
+      "examples": [
+        {
+          "zh": "请大家打开书。",
+          "py": "qǐng dà jiā dǎ kāi shū",
+          "vi": "Mời các em mở sách ra."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 490,
+      "word": "着",
+      "meaningsVi": [
+        "(trợ từ) đang, … sẵn: chỉ trạng thái hoặc hành động đang kéo dài"
+      ],
+      "noteVi": "Đặt **ngay sau** động từ, đọc nhẹ zhe: 门开着 (cửa đang mở), 他坐着 (anh ấy đang ngồi). Chữ này còn đọc zháo, zhuó trong một số từ khác (học sau).",
+      "examples": [
+        {
+          "zh": "你的手机开着吗？",
+          "py": "nǐ de shǒu jī kāi zhe ma",
+          "vi": "Điện thoại của bạn đang bật à?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 360,
+      "word": "坏",
+      "meaningsVi": [
+        "hỏng",
+        "xấu, tồi (người xấu, việc xấu)"
+      ],
+      "noteVi": "Đồ bị hỏng nói 「坏了」: 手机坏了. Trái nghĩa với 「好」. Âm Hán Việt là 'hoại'.",
+      "examples": [
+        {
+          "zh": "我的手机坏了。",
+          "py": "wǒ de shǒu jī huài le",
+          "vi": "Điện thoại của tôi hỏng rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 358,
+      "word": "花",
+      "meaningsVi": [
+        "hoa, bông hoa"
+      ],
+      "noteVi": "Cùng chữ với 「花」 (tiêu tiền) ở bài 3 nhưng là từ khác. 'Hoa nở' là 花开了.",
+      "examples": [
+        {
+          "zh": "妈妈很喜欢花。",
+          "py": "mā ma hěn xǐ huan huā",
+          "vi": "Mẹ rất thích hoa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 71,
+      "titleVi": "Hậu tố 「面」: 上面, 里面, 前面…",
+      "summaryVi": "「面」 đặt sau 上, 下, 里, 外, 前, 后 tạo thành từ chỉ phía, nghĩa như khi thêm 「边」: 上面 = 上边.",
+      "explanationVi": [
+        "Ở HSK1 đã học hậu tố 「边」: 上边, 里边… Hậu tố 「面」 dùng giống hệt: 上面 (bên trên), 下面 (bên dưới), 里面 (bên trong), 外面 (bên ngoài), 前面 (phía trước), 后面 (phía sau). Cũng có 左面, 右面, nhưng 左边, 右边 thông dụng hơn.",
+        "Từ có 「面」 dùng như từ có 「边」: đứng **sau** danh từ (桌子上面, 书包里面) hoặc đứng một mình làm chủ ngữ, tân ngữ (外面很冷, 里面有人吗？). Nhớ: đứng sau danh từ, ngược với tiếng Việt 'trên bàn', 'trong cặp'.",
+        "Không phải từ nào có 「边」 cũng đổi được sang 「面」: 'bên cạnh' chỉ có 旁边, không có 旁面."
+      ],
+      "patterns": [
+        "Danh từ + 上面/下面/里面/外面/前面/后面",
+        "上面/里面/外面… + vị ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "书包里面有两本书。",
+          "py": "shū bāo lǐ miàn yǒu liǎng běn shū",
+          "vi": "Trong cặp có hai quyển sách."
+        },
+        {
+          "zh": "外面下雨了，你别出门了。",
+          "py": "wài miàn xià yǔ le nǐ bié chū mén le",
+          "vi": "Bên ngoài mưa rồi, bạn đừng ra ngoài nữa."
+        },
+        {
+          "zh": "我们学校后面有一个超市。",
+          "py": "wǒ men xué xiào hòu miàn yǒu yí gè chāo shì",
+          "vi": "Phía sau trường chúng tôi có một siêu thị."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "上面桌子有一本书。",
+          "right": "桌子上面有一本书。",
+          "noteVi": "「上面」 đứng sau danh từ: 桌子上面 (trên bàn), không đặt trước như tiếng Việt."
+        },
+        {
+          "wrong": "书包在椅子旁面。",
+          "right": "书包在椅子旁边。",
+          "noteVi": "Chỉ có 「旁边」, không có 「旁面」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 72,
+      "titleVi": "Phương vị từ 「左」, 「右」: trái, phải",
+      "summaryVi": "「左」, 「右」 thường dùng ở dạng 「左边」, 「右边」 (bên trái, bên phải), đứng sau danh từ; trước danh từ chỉ bộ phận thì nói thẳng: 左手, 右手.",
+      "explanationVi": [
+        "「左」 (trái) và 「右」 (phải) ít khi đứng một mình. Để chỉ vị trí, dùng 「左边」, 「右边」: 洗手间在右边 (Nhà vệ sinh ở bên phải). Giống các phương vị từ khác, chúng đứng **sau** danh từ: 桌子左边 (bên trái cái bàn), 我右边 (bên phải tôi).",
+        "「左」, 「右」 đứng **trước** danh từ để chỉ cái bên trái, bên phải: 左手 (tay trái), 右手 (tay phải). Tiếng Việt nói 'tay **trái**' (trái đứng sau), tiếng Trung nói **左**手. Không nói 手左.",
+        "Câu 'nơi chốn + 是/有' (HSK1) rất hay dùng với 左边, 右边: 左边是我的房间，右边是洗手间."
+      ],
+      "patterns": [
+        "Danh từ + 左边/右边",
+        "左/右 + danh từ chỉ bộ phận (左手, 右手)",
+        "左边/右边 + 是/有 + …"
+      ],
+      "examples": [
+        {
+          "zh": "左边是我的房间，右边是洗手间。",
+          "py": "zuǒ bian shì wǒ de fáng jiān yòu bian shì xǐ shǒu jiān",
+          "vi": "Bên trái là phòng của tôi, bên phải là nhà vệ sinh."
+        },
+        {
+          "zh": "书包在桌子左边。",
+          "py": "shū bāo zài zhuō zi zuǒ bian",
+          "vi": "Cặp sách ở bên trái cái bàn."
+        },
+        {
+          "zh": "他坐在我左边。",
+          "py": "tā zuò zài wǒ zuǒ bian",
+          "vi": "Anh ấy ngồi bên trái tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我手左疼。",
+          "right": "我左手疼。",
+          "noteVi": "'Tay trái' là 左手: 「左」 đứng trước danh từ, không đứng sau như tiếng Việt."
+        },
+        {
+          "wrong": "书包在左边桌子。",
+          "right": "书包在桌子左边。",
+          "noteVi": "「左边」 đứng sau danh từ (桌子), ngược với tiếng Việt 'bên trái cái bàn'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 81,
+      "titleVi": "Lượng từ chuyên dùng: 条, 位, 间, 名",
+      "summaryVi": "「条」 cho vật dài (裤子, 鱼), 「位」 cho người với ý kính trọng (老师), 「间」 cho phòng (教室), 「名」 cho người theo cách trang trọng (学生).",
+      "explanationVi": [
+        "Mỗi danh từ đi với lượng từ riêng; 「个」 dùng được với nhiều danh từ nhưng không phải lúc nào cũng đúng. Bài này học bốn lượng từ chuyên dùng.",
+        "**条**: vật dài, mềm: 一条裤子 (một cái quần), 两条鱼 (hai con cá); chó cũng nói được 一条狗 (hoặc 一只狗). **间**: phòng: 一间教室, 两间洗手间. Âm Hán Việt là 'gian', giống 'gian phòng'.",
+        "**位**: người, tỏ ý **kính trọng**: 一位老师, 这位先生. Âm Hán Việt là 'vị', giống 'một vị khách' của tiếng Việt. Vì là kính trọng nên **không** dùng 「位」 khi nói về chính mình. **名**: người, dùng khi nói trang trọng, theo nghề nghiệp, thân phận: 一名学生, 三名医生; nói về mình cũng được: 我是一名老师.",
+        "Khi nói chuyện bình thường, với người dùng 「个」 cũng đúng: 两个老师. Nhưng với 裤子, 鱼 thì phải dùng 「条」, không dùng 「个」."
+      ],
+      "patterns": [
+        "Số + 条 + 裤子/鱼",
+        "Số + 位 + 老师/先生/女士",
+        "Số + 间 + 教室/房间/洗手间",
+        "Số + 名 + 学生/医生/老师"
+      ],
+      "examples": [
+        {
+          "zh": "我买了两条裤子。",
+          "py": "wǒ mǎi le liǎng tiáo kù zi",
+          "vi": "Tôi mua hai cái quần."
+        },
+        {
+          "zh": "这位是我们的汉语老师。",
+          "py": "zhè wèi shì wǒ men de hàn yǔ lǎo shī",
+          "vi": "Vị này là thầy giáo tiếng Trung của chúng tôi."
+        },
+        {
+          "zh": "我们学校有二十间教室。",
+          "py": "wǒ men xué xiào yǒu èr shí jiān jiào shì",
+          "vi": "Trường chúng tôi có hai mươi phòng học."
+        },
+        {
+          "zh": "我们班有三十名学生。",
+          "py": "wǒ men bān yǒu sān shí míng xué shēng",
+          "vi": "Lớp chúng tôi có ba mươi học sinh."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我买了两个裤子。",
+          "right": "我买了两条裤子。",
+          "noteVi": "「裤子」 đi với lượng từ 「条」.",
+          "issue": "wrong_measure_word"
+        },
+        {
+          "wrong": "我是一位老师。",
+          "right": "我是一名老师。",
+          "noteVi": "「位」 tỏ ý kính trọng, không dùng khi tự giới thiệu; nói về mình dùng 「名」 hoặc 「个」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 102,
+      "titleVi": "Trợ từ động thái 「着」",
+      "summaryVi": "「着」 (đọc nhẹ zhe) đặt ngay sau động từ, cho biết một trạng thái hoặc một hành động đang kéo dài: 门开着, 他笑着说.",
+      "explanationVi": [
+        "「着」 là trợ từ, đặt **ngay sau động từ**, đọc nhẹ **zhe**. Nó cho biết sự việc **đang kéo dài**, chưa kết thúc. Tiếng Việt thường dịch là 'đang', '… sẵn', hoặc không cần dịch: 电视开着 (Tivi đang bật), 他穿着红色的衣服 (Anh ấy mặc áo đỏ).",
+        "「着」 có ba cách dùng chính, đều học trong bài này: chỉ **trạng thái** kéo dài (门开着); chỉ **hành động** kéo dài, nhất là kiểu 'động từ 1 + 着 + động từ 2' (笑着说 — cười nói); và trong câu **tồn hiện** 'nơi chốn + động từ + 着 + người/vật' (门口坐着很多人).",
+        "So với 「正在」 (HSK1): 「正在 + động từ」 nhấn mạnh hành động **đang diễn ra** lúc này (他正在穿衣服 — anh ấy đang mặc áo vào), còn 「động từ + 着」 nhấn mạnh **trạng thái** (他穿着红色的衣服 — trên người anh ấy là cái áo đỏ).",
+        "Không dùng 「着」 cùng 「了」 sau một động từ: nói 他穿着…, không nói 他穿着了…."
+      ],
+      "patterns": [
+        "Động từ + 着",
+        "Động từ 1 + 着 + động từ 2",
+        "Nơi chốn + động từ + 着 + người/vật"
+      ],
+      "examples": [
+        {
+          "zh": "电视开着，但是没有人看。",
+          "py": "diàn shì kāi zhe dàn shì méi yǒu rén kàn",
+          "vi": "Tivi đang bật nhưng không ai xem."
+        },
+        {
+          "zh": "她笑着对我说谢谢。",
+          "py": "tā xiào zhe duì wǒ shuō xiè xie",
+          "vi": "Cô ấy mỉm cười cảm ơn tôi."
+        },
+        {
+          "zh": "门口坐着很多人。",
+          "py": "mén kǒu zuò zhe hěn duō rén",
+          "vi": "Trước cửa có rất nhiều người đang ngồi."
+        },
+        {
+          "zh": "我们在门口等着你。",
+          "py": "wǒ men zài mén kǒu děng zhe nǐ",
+          "vi": "Chúng tôi đang đợi bạn ở cửa."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他着穿红色的衣服。",
+          "right": "他穿着红色的衣服。",
+          "noteVi": "「着」 đứng **sau** động từ, không đứng trước động từ như 'đang' của tiếng Việt."
+        },
+        {
+          "wrong": "他穿着了一件红色的衣服。",
+          "right": "他穿着一件红色的衣服。",
+          "noteVi": "「着」 và 「了」 không cùng đứng sau một động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 130,
+      "titleVi": "Câu tồn hiện: nơi chốn + động từ + 着 + người/vật",
+      "summaryVi": "Nơi chốn + động từ + 着 (+ số lượng) + danh từ: nói ở đâu có ai/cái gì, ở trạng thái nào (椅子上坐着一个人).",
+      "explanationVi": [
+        "Ở HSK1 đã học 'nơi chốn + 有 + danh từ': 门口有一只狗. Muốn nói thêm con chó **ở đó thế nào** (đang ngồi…), thay 「有」 bằng 'động từ + 着': 门口**坐着**一只狗 (Trước cửa có một con chó đang ngồi).",
+        "Thứ tự: **nơi chốn** (ở đầu câu, không có 「在」) + **động từ + 着** + (số + lượng từ) + **người/vật**: 本子上写着她的名字 (Trên vở có viết tên cô ấy), 这间房间里住着两个学生 (Phòng này có hai sinh viên ở).",
+        "Tiếng Việt cũng có kiểu câu này: 'Trước cửa **ngồi** một con chó', 'Trên vở **ghi** tên cô ấy'. Người/vật đứng sau động từ thường là thứ **chưa xác định**, hay có số lượng: 一个人, 两个学生, 很多花."
+      ],
+      "patterns": [
+        "Nơi chốn + động từ + 着 + số + lượng từ + danh từ",
+        "Nơi chốn + động từ + 着 + 很多 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "这间房间里住着两个学生。",
+          "py": "zhè jiān fáng jiān lǐ zhù zhe liǎng gè xué shēng",
+          "vi": "Phòng này có hai sinh viên ở."
+        },
+        {
+          "zh": "本子上写着她的名字。",
+          "py": "běn zi shàng xiě zhe tā de míng zi",
+          "vi": "Trên vở có ghi tên cô ấy."
+        },
+        {
+          "zh": "门口开着很多红色的花。",
+          "py": "mén kǒu kāi zhe hěn duō hóng sè de huā",
+          "vi": "Trước cửa nở rất nhiều hoa đỏ."
+        },
+        {
+          "zh": "椅子上坐着一个小朋友。",
+          "py": "yǐ zi shàng zuò zhe yí gè xiǎo péng yǒu",
+          "vi": "Trên ghế có một em bé đang ngồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "在椅子上坐着一个人。",
+          "right": "椅子上坐着一个人。",
+          "noteVi": "Câu tồn hiện bắt đầu bằng nơi chốn, không có 「在」 ở đầu câu."
+        },
+        {
+          "wrong": "本子上写我的名字着。",
+          "right": "本子上写着我的名字。",
+          "noteVi": "「着」 đứng ngay sau động từ 「写」, không đứng cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 142,
+      "titleVi": "Động từ + 着: trạng thái kéo dài",
+      "summaryVi": "「着」 sau các động từ như 开, 穿, 坐, 写 cho biết trạng thái do hành động để lại vẫn còn: 门开着 (cửa đang mở), 她穿着白色的衣服.",
+      "explanationVi": [
+        "Một số hành động xong rồi để lại một **trạng thái**: mở cửa thì cửa ở trạng thái mở; mặc áo thì áo ở trên người. 'Động từ + 着' nói trạng thái đó **vẫn đang còn**: 门开着 (Cửa đang mở), 电脑开着 (Máy tính đang bật), 他穿着新衣服 (Anh ấy mặc quần áo mới).",
+        "Phân biệt với 「了」: 门开了 là cửa **mở ra** (có thay đổi: lúc trước đóng, bây giờ mở); 门开着 là cửa **đang ở trạng thái mở**.",
+        "Tiếng Việt nhiều khi không cần từ nào: 'Cô ấy mặc áo trắng'. Khi tả trạng thái như vậy, tiếng Trung nên có 「着」: 她穿着白色的衣服. Hỏi: 门开着吗？"
+      ],
+      "patterns": [
+        "Danh từ + động từ + 着",
+        "Người + 穿着 + quần áo"
+      ],
+      "examples": [
+        {
+          "zh": "门开着，里面没有人。",
+          "py": "mén kāi zhe lǐ miàn méi yǒu rén",
+          "vi": "Cửa đang mở, bên trong không có ai."
+        },
+        {
+          "zh": "她穿着一件白色的衣服。",
+          "py": "tā chuān zhe yí jiàn bái sè de yī fu",
+          "vi": "Cô ấy mặc một chiếc áo màu trắng."
+        },
+        {
+          "zh": "电脑还开着，你上网吧。",
+          "py": "diàn nǎo hái kāi zhe nǐ shàng wǎng ba",
+          "vi": "Máy tính vẫn đang bật, bạn lên mạng đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他穿着一件衣服红色。",
+          "right": "他穿着一件红色的衣服。",
+          "noteVi": "Theo tiếng Việt 'áo đỏ' mà đặt màu sau danh từ là sai: màu đứng trước, 红色的衣服.",
+          "issue": "modifier_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 143,
+      "titleVi": "Động từ + 着: hành động kéo dài; động từ 1 + 着 + động từ 2",
+      "summaryVi": "「着」 cho biết một hành động đang kéo dài (我们等着你); trong 'động từ 1 + 着 + động từ 2', động từ 1 chỉ tư thế, cách thức của động từ 2: 坐着看书 (ngồi đọc sách), 笑着说 (cười nói).",
+      "explanationVi": [
+        "「着」 cũng đi với động từ chỉ hành động kéo dài: 我们等着你 (Chúng tôi đang đợi bạn), 外面下着雨 (Bên ngoài trời đang mưa), 他看着我 (Anh ấy đang nhìn tôi).",
+        "Hay gặp nhất là kiểu **động từ 1 + 着 + động từ 2**: động từ 1 cho biết làm động từ 2 **trong tư thế, cách thức nào**: 坐着看书 (ngồi đọc sách), 笑着说 (cười nói), 听着歌写汉字 (vừa nghe nhạc vừa viết chữ Hán).",
+        "Tiếng Việt nói 'ngồi đọc sách', 'cười nói' mà không cần thêm từ nào. Tiếng Trung **phải có** 「着」 sau động từ 1: 他坐着看书, không nói 他坐看书."
+      ],
+      "patterns": [
+        "Động từ + 着 (+ tân ngữ)",
+        "Động từ 1 + 着 + động từ 2 (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "爷爷坐着看书。",
+          "py": "yé ye zuò zhe kàn shū",
+          "vi": "Ông ngồi đọc sách."
+        },
+        {
+          "zh": "外面下着雨，你别出门了。",
+          "py": "wài miàn xià zhe yǔ nǐ bié chū mén le",
+          "vi": "Ngoài trời đang mưa, bạn đừng ra ngoài nữa."
+        },
+        {
+          "zh": "你等着，我一会儿就来。",
+          "py": "nǐ děng zhe wǒ yí huì r jiù lái",
+          "vi": "Bạn đợi đấy, tôi đến ngay."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他坐看书。",
+          "right": "他坐着看书。",
+          "noteVi": "Tiếng Việt nói 'ngồi đọc sách', nhưng tiếng Trung cần 「着」 sau động từ 1: 坐着看书."
+        },
+        {
+          "wrong": "我们等你着。",
+          "right": "我们等着你。",
+          "noteVi": "「着」 đứng ngay sau động từ, trước tân ngữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 145,
+      "titleVi": "Số thứ tự không có 「第」: 三楼, 二班, 五号",
+      "summaryVi": "Với một số từ như 楼, 班, 号, đặt số ngay trước là đã có nghĩa thứ tự, không cần 「第」: 三楼 (tầng ba), 二班 (lớp 2).",
+      "explanationVi": [
+        "Ở HSK1 đã học 「第 + số」: 第一, 第三天. Với một số từ như 楼 (tầng), 班 (lớp), 号 (số, ngày), chỉ cần **số + từ đó** là đã chỉ thứ tự: 三楼 (tầng ba), 二班 (lớp 2), 五号 (số 5; ngày mùng 5).",
+        "Chú ý số 2: trong số thứ tự dùng 「二」, không dùng 「两」: 二楼 (tầng hai), 二班 (lớp 2). So sánh: 两个班 là hai lớp (số lượng), 二班 là lớp 2 (thứ tự).",
+        "Tiếng Việt đặt số **sau**: 'tầng 3', 'lớp 2', 'phòng 302'. Tiếng Trung đặt số **trước**: 三楼, 二班, 302房间. Không nói 楼三.",
+        "Ở Trung Quốc 一楼 là tầng sát mặt đất (tầng trệt), nên 二楼 tương ứng với 'lầu một' theo cách gọi ở miền Nam Việt Nam."
+      ],
+      "patterns": [
+        "Số + 楼/班/号",
+        "Số + 号楼 (tòa nhà số …)"
+      ],
+      "examples": [
+        {
+          "zh": "我住在三楼。",
+          "py": "wǒ zhù zài sān lóu",
+          "vi": "Tôi sống ở tầng ba."
+        },
+        {
+          "zh": "我是二班的学生。",
+          "py": "wǒ shì èr bān de xué shēng",
+          "vi": "Tôi là học sinh lớp 2."
+        },
+        {
+          "zh": "我们的教室在五号楼。",
+          "py": "wǒ men de jiào shì zài wǔ hào lóu",
+          "vi": "Phòng học của chúng tôi ở tòa nhà số 5."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我住在楼三。",
+          "right": "我住在三楼。",
+          "noteVi": "Theo tiếng Việt 'tầng 3' mà đặt số sau là sai: số đứng trước 「楼」."
+        },
+        {
+          "wrong": "我的房间在两楼。",
+          "right": "我的房间在二楼。",
+          "noteVi": "Số thứ tự dùng 「二」: 二楼, không nói 两楼."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-07-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ phía với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "上面",
+          "bên trên"
+        ],
+        [
+          "下面",
+          "bên dưới"
+        ],
+        [
+          "里面",
+          "bên trong"
+        ],
+        [
+          "外面",
+          "bên ngoài"
+        ],
+        [
+          "前面",
+          "phía trước"
+        ],
+        [
+          "后面",
+          "phía sau"
+        ]
+      ],
+      "grammar": [
+        71
+      ]
+    },
+    {
+      "id": "hsk2-07-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "旁边",
+          "bên cạnh"
+        ],
+        [
+          "左边",
+          "bên trái"
+        ],
+        [
+          "右边",
+          "bên phải"
+        ],
+        [
+          "床",
+          "giường"
+        ],
+        [
+          "门",
+          "cửa"
+        ],
+        [
+          "花",
+          "hoa"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-07-e03",
+      "type": "choice",
+      "promptVi": "「桌子上面」 có nghĩa giống cụm nào?",
+      "options": [
+        "桌子上边",
+        "上边桌子",
+        "桌子下面"
+      ],
+      "answer": 0,
+      "explainVi": "「上面」 và 「上边」 cùng nghĩa, đều đứng sau danh từ.",
+      "grammar": [
+        71
+      ]
+    },
+    {
+      "id": "hsk2-07-e04",
+      "type": "fill",
+      "promptVi": "Điền chữ thích hợp.",
+      "before": "书包在椅子旁",
+      "after": "。",
+      "answers": [
+        "边"
+      ],
+      "options": [
+        "边",
+        "面",
+        "间"
+      ],
+      "vi": "Cặp sách ở bên cạnh cái ghế.",
+      "explainVi": "Chỉ có 「旁边」, không có 「旁面」.",
+      "grammar": [
+        71
+      ]
+    },
+    {
+      "id": "hsk2-07-e05",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đau tay trái.)",
+      "options": [
+        "我左手疼。",
+        "我手左疼。",
+        "我疼左手。"
+      ],
+      "answer": 0,
+      "explainVi": "'Tay trái' là 左手 (左 đứng trước); chỗ đau đứng trước 「疼」.",
+      "grammar": [
+        72
+      ]
+    },
+    {
+      "id": "hsk2-07-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "洗手间在教室",
+      "after": "。",
+      "answers": [
+        "右边"
+      ],
+      "options": [
+        "右边",
+        "右手",
+        "右"
+      ],
+      "vi": "Nhà vệ sinh ở bên phải phòng học.",
+      "grammar": [
+        72
+      ]
+    },
+    {
+      "id": "hsk2-07-e07",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "书包在哪儿？",
+        "promptVi": "Cặp sách ở đâu? (Trong hình: cặp sách ở bên trái cái bàn.)",
+        "expected": {
+          "places": [
+            "桌子"
+          ],
+          "localizer": "左边",
+          "sentence": "书包在桌子左边。"
+        },
+        "examples": [
+          {
+            "answer": "书包在桌子左边。",
+            "score": 100
+          },
+          {
+            "answer": "在桌子左边。",
+            "score": 100
+          },
+          {
+            "answer": "书包在桌子的左边。",
+            "score": 100
+          },
+          {
+            "answer": "书包在桌子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "书包在桌子右边。",
+            "score": 20,
+            "note": "Bên phải, không phải bên trái"
+          }
+        ]
+      },
+      "grammar": [
+        72
+      ]
+    },
+    {
+      "id": "hsk2-07-e08",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "小猫在哪儿？",
+        "promptVi": "Con mèo nhỏ ở đâu? (Trong hình: con mèo ở dưới gầm giường.)",
+        "picture": "🛏️🐈",
+        "expected": {
+          "places": [
+            "床"
+          ],
+          "localizer": "下",
+          "sentence": "小猫在床下面。"
+        },
+        "examples": [
+          {
+            "answer": "小猫在床下面。",
+            "score": 100
+          },
+          {
+            "answer": "它在床下边。",
+            "score": 100
+          },
+          {
+            "answer": "在床下。",
+            "score": 100
+          },
+          {
+            "answer": "小猫在床。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ],
+            "note": "床 là đồ vật, cần phương vị từ"
+          },
+          {
+            "answer": "小猫在床上面。",
+            "score": 20,
+            "note": "Ở trên giường, không phải dưới gầm giường"
+          }
+        ]
+      },
+      "grammar": [
+        71
+      ]
+    },
+    {
+      "id": "hsk2-07-e09",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "我买了两",
+      "after": "裤子。",
+      "answers": [
+        "条"
+      ],
+      "options": [
+        "条",
+        "位",
+        "间"
+      ],
+      "vi": "Tôi mua hai cái quần.",
+      "grammar": [
+        81
+      ]
+    },
+    {
+      "id": "hsk2-07-e10",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "这",
+      "after": "是我们的新老师。",
+      "answers": [
+        "位"
+      ],
+      "options": [
+        "位",
+        "条",
+        "间"
+      ],
+      "vi": "Vị này là thầy giáo mới của chúng tôi.",
+      "grammar": [
+        81
+      ]
+    },
+    {
+      "id": "hsk2-07-e11",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "这里有两",
+      "after": "洗手间。",
+      "answers": [
+        "间"
+      ],
+      "options": [
+        "间",
+        "位",
+        "条"
+      ],
+      "vi": "Ở đây có hai phòng vệ sinh.",
+      "grammar": [
+        81
+      ]
+    },
+    {
+      "id": "hsk2-07-e12",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这里有几条鱼？",
+        "promptVi": "Ở đây có mấy con cá?",
+        "picture": "🐟🐟🐟🐟",
+        "expected": {
+          "number": 4,
+          "noun": "鱼",
+          "sentence": "这里有四条鱼。"
+        },
+        "examples": [
+          {
+            "answer": "这里有四条鱼。",
+            "score": 100
+          },
+          {
+            "answer": "四条。",
+            "score": 100
+          },
+          {
+            "answer": "有四个鱼。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "有四鱼。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有三条鱼。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        81
+      ]
+    },
+    {
+      "id": "hsk2-07-e13",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "教室里有几位老师？",
+        "promptVi": "Trong phòng học có mấy thầy cô giáo?",
+        "picture": "👩‍🏫👨‍🏫",
+        "expected": {
+          "number": 2,
+          "noun": "老师",
+          "sentence": "教室里有两位老师。"
+        },
+        "examples": [
+          {
+            "answer": "教室里有两位老师。",
+            "score": 100
+          },
+          {
+            "answer": "有两个老师。",
+            "score": 100
+          },
+          {
+            "answer": "两名老师。",
+            "score": 100
+          },
+          {
+            "answer": "有二位老师。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "有两条老师。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "有三位老师。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        81
+      ]
+    },
+    {
+      "id": "hsk2-07-e14",
+      "type": "choice",
+      "promptVi": "Bạn tự giới thiệu 'Tôi là một giáo viên.' Câu nào đúng?",
+      "options": [
+        "我是一名老师。",
+        "我是一位老师。",
+        "我是一条老师。"
+      ],
+      "answer": 0,
+      "explainVi": "「位」 tỏ ý kính trọng, không dùng khi nói về mình; dùng 「名」 (hoặc 「个」).",
+      "grammar": [
+        81
+      ]
+    },
+    {
+      "id": "hsk2-07-e15",
+      "type": "choice",
+      "promptVi": "「门开着。」 nghĩa là gì?",
+      "options": [
+        "Cửa đang mở.",
+        "Cửa vừa mở ra rồi.",
+        "Hãy mở cửa ra."
+      ],
+      "answer": 0,
+      "explainVi": "'Động từ + 着' tả trạng thái đang kéo dài. 'Cửa vừa mở ra' là 门开了.",
+      "grammar": [
+        102,
+        142
+      ]
+    },
+    {
+      "id": "hsk2-07-e16",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他今天穿",
+      "after": "一条黑色的裤子。",
+      "answers": [
+        "着"
+      ],
+      "options": [
+        "着",
+        "在",
+        "的"
+      ],
+      "vi": "Hôm nay anh ấy mặc một chiếc quần màu đen.",
+      "grammar": [
+        102,
+        142
+      ]
+    },
+    {
+      "id": "hsk2-07-e17",
+      "type": "order",
+      "vi": "Anh ấy mặc một chiếc áo màu đỏ.",
+      "tiles": [
+        "他",
+        "穿着",
+        "一件",
+        "红色的",
+        "衣服"
+      ],
+      "answers": [
+        "他穿着一件红色的衣服"
+      ],
+      "explainVi": "「着」 đứng ngay sau động từ 「穿」; màu (红色的) đứng trước danh từ.",
+      "grammar": [
+        102,
+        142
+      ]
+    },
+    {
+      "id": "hsk2-07-e18",
+      "type": "order",
+      "vi": "Mẹ ngồi xem tivi.",
+      "tiles": [
+        "妈妈",
+        "坐着",
+        "看",
+        "电视"
+      ],
+      "answers": [
+        "妈妈坐着看电视"
+      ],
+      "explainVi": "Động từ 1 + 着 (坐着) chỉ tư thế, rồi mới đến động từ 2 (看电视).",
+      "grammar": [
+        143
+      ]
+    },
+    {
+      "id": "hsk2-07-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng tôi đang đợi bạn.)",
+      "options": [
+        "我们等着你。",
+        "我们着等你。",
+        "我们等你着。"
+      ],
+      "answer": 0,
+      "explainVi": "「着」 đứng ngay sau động từ, trước tân ngữ: 等着你.",
+      "grammar": [
+        143
+      ]
+    },
+    {
+      "id": "hsk2-07-e20",
+      "type": "translate",
+      "vi": "Anh ấy ngồi đọc sách.",
+      "answers": [
+        "他坐着看书(呢)。",
+        {
+          "text": "他坐看书。",
+          "score": 60
+        }
+      ],
+      "examples": [
+        {
+          "answer": "他坐着看书。",
+          "score": 100
+        },
+        {
+          "answer": "他坐着看书呢。",
+          "score": 100
+        },
+        {
+          "answer": "他坐看书。",
+          "score": 60,
+          "note": "Thiếu 着 sau động từ 1"
+        },
+        {
+          "answer": "他看着书。",
+          "score": 0,
+          "note": "Không nói 'ngồi'"
+        }
+      ],
+      "grammar": [
+        143
+      ]
+    },
+    {
+      "id": "hsk2-07-e21",
+      "type": "order",
+      "vi": "Trên ghế có một người đang ngồi.",
+      "tiles": [
+        "椅子上",
+        "坐着",
+        "一个",
+        "人"
+      ],
+      "answers": [
+        "椅子上坐着一个人"
+      ],
+      "explainVi": "Nơi chốn (椅子上) + động từ + 着 + số lượng + người.",
+      "grammar": [
+        130
+      ]
+    },
+    {
+      "id": "hsk2-07-e22",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Trên vở có ghi tên tôi.)",
+      "options": [
+        "本子上写着我的名字。",
+        "在本子上写着我的名字。",
+        "本子上写我的名字着。"
+      ],
+      "answer": 0,
+      "explainVi": "Câu tồn hiện bắt đầu bằng nơi chốn (không có 在); 「着」 đứng ngay sau động từ.",
+      "grammar": [
+        130
+      ]
+    },
+    {
+      "id": "hsk2-07-e23",
+      "type": "translate",
+      "vi": "Trước cửa có một con chó đang ngồi.",
+      "answers": [
+        "门口坐着一只(小)狗。"
+      ],
+      "examples": [
+        {
+          "answer": "门口坐着一只狗。",
+          "score": 100
+        },
+        {
+          "answer": "门口坐着一只小狗。",
+          "score": 100
+        },
+        {
+          "answer": "门口坐着一个狗。",
+          "score": 80,
+          "issues": [
+            "wrong_measure_word"
+          ]
+        },
+        {
+          "answer": "门口坐着两只狗。",
+          "score": 0,
+          "note": "Sai số lượng"
+        }
+      ],
+      "grammar": [
+        130
+      ]
+    },
+    {
+      "id": "hsk2-07-e24",
+      "type": "fill",
+      "promptVi": "Chọn cách nói đúng.",
+      "before": "我家住在",
+      "after": "。",
+      "answers": [
+        "三楼"
+      ],
+      "options": [
+        "三楼",
+        "楼三",
+        "三个楼"
+      ],
+      "vi": "Nhà tôi ở tầng ba.",
+      "explainVi": "Số đứng trước 「楼」 chỉ tầng thứ mấy: 三楼.",
+      "grammar": [
+        145
+      ]
+    },
+    {
+      "id": "hsk2-07-e25",
+      "type": "choice",
+      "promptVi": "「二班」 nghĩa là gì?",
+      "options": [
+        "lớp 2 (lớp số hai)",
+        "hai lớp",
+        "cả hai lớp"
+      ],
+      "answer": 0,
+      "explainVi": "Số + 班 chỉ thứ tự: 二班 là lớp 2. 'Hai lớp' là 两个班.",
+      "grammar": [
+        145
+      ]
+    },
+    {
+      "id": "hsk2-07-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你的房间在几楼？",
+        "promptVi": "Phòng của bạn ở tầng mấy? (Giả sử phòng bạn ở tầng 5.)",
+        "answers": [
+          "(我的房间)在五楼。",
+          "五楼。"
+        ],
+        "examples": [
+          {
+            "answer": "在五楼。",
+            "score": 100
+          },
+          {
+            "answer": "我的房间在五楼。",
+            "score": 100
+          },
+          {
+            "answer": "在5楼。",
+            "score": 100
+          },
+          {
+            "answer": "在楼五。",
+            "score": 0,
+            "note": "Số phải đứng trước 楼"
+          },
+          {
+            "answer": "在四楼。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        145
+      ]
+    },
+    {
+      "id": "hsk2-07-e27",
+      "type": "translate",
+      "vi": "Cửa phòng học đang mở.",
+      "answers": [
+        "教室(的)门开着(呢)。"
+      ],
+      "examples": [
+        {
+          "answer": "教室的门开着。",
+          "score": 100
+        },
+        {
+          "answer": "教室门开着。",
+          "score": 100
+        },
+        {
+          "answer": "教师的门开着。",
+          "score": 95,
+          "issues": [
+            "homophone_char"
+          ],
+          "note": "Gõ nhầm 师 (shī) thay cho 室 (shì)"
+        },
+        {
+          "answer": "教室的门开了。",
+          "score": 0,
+          "note": "开了 là 'mở ra', không phải 'đang mở'"
+        }
+      ],
+      "grammar": [
+        142
+      ]
+    },
+    {
+      "id": "hsk2-07-e28",
+      "type": "translate",
+      "vi": "Điện thoại của bạn ở trên giường.",
+      "answers": [
+        "你的手机在床上([面|边])。"
+      ],
+      "examples": [
+        {
+          "answer": "你的手机在床上。",
+          "score": 100
+        },
+        {
+          "answer": "你的手机在床上面。",
+          "score": 100
+        },
+        {
+          "answer": "你的手机在床。",
+          "score": 80,
+          "issues": [
+            "missing_localizer"
+          ]
+        },
+        {
+          "answer": "你的手机在床下面。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        71
+      ]
+    },
+    {
+      "id": "hsk2-07-e29",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的电脑",
+      "after": "了，不能上网。",
+      "answers": [
+        "坏"
+      ],
+      "options": [
+        "坏",
+        "错",
+        "完"
+      ],
+      "vi": "Máy tính của tôi hỏng rồi, không lên mạng được."
+    },
+    {
+      "id": "hsk2-07-e30",
+      "type": "order",
+      "vi": "Mời các em mở sách ra.",
+      "tiles": [
+        "请",
+        "大家",
+        "打开",
+        "书"
+      ],
+      "answers": [
+        "请大家打开书"
+      ]
+    }
+  ]
+}

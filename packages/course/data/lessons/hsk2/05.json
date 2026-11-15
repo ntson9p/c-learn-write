@@ -1,0 +1,1330 @@
+{
+  "id": "hsk2-05",
+  "goalsVi": [
+    "Nói về sức khỏe và chỗ đau theo kiểu câu 'người + bộ phận + 疼/不舒服': 我头疼, 我眼睛不舒服, 他身体很好",
+    "Hỏi lý do bằng 「为什么」 và trả lời bằng 「因为……」",
+    "Nói nguyên nhân – kết quả với 「因为……，所以……」 (Vì … nên …) và 「因为 + danh từ」",
+    "Đoán một khả năng bằng 「可能」: 他可能生病了",
+    "Khuyên, cấm bằng 「别」: 别动！ 别笑了！ 别太累了！"
+  ],
+  "words": [
+    {
+      "no": 429,
+      "word": "身体",
+      "meaningsVi": [
+        "cơ thể, thân thể",
+        "sức khỏe (身体好: khỏe mạnh)"
+      ],
+      "noteVi": "Hỏi thăm sức khỏe: 你身体好吗？ hoặc 你身体怎么样？ Nói ai đó khỏe: 他身体很好 (không cần 「是」).",
+      "examples": [
+        {
+          "zh": "我爷爷身体很好。",
+          "py": "wǒ yé ye shēn tǐ hěn hǎo",
+          "vi": "Ông tôi rất khỏe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 445,
+      "word": "头",
+      "meaningsVi": [
+        "đầu"
+      ],
+      "noteVi": "'Đau đầu' nói 「头疼」 (đầu + đau), ngược với thứ tự tiếng Việt.",
+      "examples": [
+        {
+          "zh": "你的头还疼吗？",
+          "py": "nǐ de tóu hái téng ma",
+          "vi": "Đầu bạn còn đau không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 433,
+      "word": "手",
+      "meaningsVi": [
+        "tay, bàn tay"
+      ],
+      "noteVi": "Gặp lại trong 「手机」 (điện thoại di động, nghĩa đen là 'máy cầm tay') và 「手表」 (đồng hồ đeo tay). 'Rửa tay' là 「洗手」.",
+      "examples": [
+        {
+          "zh": "你洗手了吗？",
+          "py": "nǐ xǐ shǒu le ma",
+          "vi": "Con rửa tay chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 467,
+      "word": "眼睛",
+      "meaningsVi": [
+        "mắt"
+      ],
+      "noteVi": "「睛」 đọc nhẹ: yǎnjing. Âm Hán Việt là 'nhãn tình'.",
+      "examples": [
+        {
+          "zh": "她的眼睛很大，很漂亮。",
+          "py": "tā de yǎn jing hěn dà hěn piào liang",
+          "vi": "Mắt cô ấy to và rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 440,
+      "word": "疼",
+      "meaningsVi": [
+        "đau"
+      ],
+      "noteVi": "「疼」 là tính từ, đứng **sau** chỗ đau: 头疼, 手疼, 眼睛疼. Không nói 疼头. Các từ 「很」, 「有点儿」, 「不」 đặt trước 「疼」: 头有点儿疼.",
+      "examples": [
+        {
+          "zh": "我的手很疼，不能写字。",
+          "py": "wǒ de shǒu hěn téng bù néng xiě zì",
+          "vi": "Tay tôi đau lắm, không viết chữ được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 436,
+      "word": "舒服",
+      "meaningsVi": [
+        "dễ chịu, thoải mái",
+        "khỏe trong người (thường dùng 不舒服: khó chịu, thấy mệt, hơi ốm)"
+      ],
+      "noteVi": "「不舒服」 là cách nói nhẹ nhàng khi thấy mệt, hơi ốm: 我有点儿不舒服. Bác sĩ hay hỏi: 你哪儿不舒服？ (Bạn khó chịu ở đâu?). 「服」 đọc nhẹ: shūfu.",
+      "examples": [
+        {
+          "zh": "这个椅子很舒服。",
+          "py": "zhè ge yǐ zi hěn shū fu",
+          "vi": "Cái ghế này ngồi rất thoải mái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 388,
+      "word": "累",
+      "meaningsVi": [
+        "mệt"
+      ],
+      "noteVi": "「累」 là mệt vì làm nhiều, đi nhiều; mệt vì ốm thì hay nói 「不舒服」. 'Mệt quá!' là 「太累了！」.",
+      "examples": [
+        {
+          "zh": "今天工作太多了，我很累。",
+          "py": "jīn tiān gōng zuò tài duō le wǒ hěn lèi",
+          "vi": "Hôm nay nhiều việc quá, tôi rất mệt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 468,
+      "word": "药",
+      "meaningsVi": [
+        "thuốc"
+      ],
+      "noteVi": "'Uống thuốc' nói 「吃药」 (nghĩa đen là 'ăn thuốc'), không dùng 「喝」 với thuốc viên. Âm Hán Việt là 'dược'.",
+      "examples": [
+        {
+          "zh": "你吃药了吗？",
+          "py": "nǐ chī yào le ma",
+          "vi": "Bạn uống thuốc chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 469,
+      "word": "药店",
+      "meaningsVi": [
+        "hiệu thuốc, nhà thuốc"
+      ],
+      "examples": [
+        {
+          "zh": "我去药店买药。",
+          "py": "wǒ qù yào diàn mǎi yào",
+          "vi": "Tôi đi hiệu thuốc mua thuốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 311,
+      "word": "别",
+      "meaningsVi": [
+        "đừng (khuyên, cấm)"
+      ],
+      "noteVi": "「别」 nghĩa như 「不要」 (bài 12 HSK1), đứng trước động từ: 别去, 别笑. Không dùng 「别」 để kể việc mình không làm: 'Tôi không đi' là 我不去.",
+      "examples": [
+        {
+          "zh": "你生病了，别去上班了。",
+          "py": "nǐ shēng bìng le bié qù shàng bān le",
+          "vi": "Bạn ốm rồi, đừng đi làm nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 338,
+      "word": "动",
+      "meaningsVi": [
+        "động đậy, cử động"
+      ],
+      "noteVi": "Hay gặp trong lời nhắc 「别动！」 (Đứng yên! / Đừng động đậy!).",
+      "examples": [
+        {
+          "zh": "你的手能动吗？",
+          "py": "nǐ de shǒu néng dòng ma",
+          "vi": "Tay bạn cử động được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 463,
+      "word": "笑",
+      "meaningsVi": [
+        "cười",
+        "cười (ai), chê cười"
+      ],
+      "noteVi": "Cười ai, cười cái gì: 「笑」 + tân ngữ: 你笑什么？ (Bạn cười gì thế?), 别笑我 (Đừng cười tôi).",
+      "examples": [
+        {
+          "zh": "你笑什么？",
+          "py": "nǐ xiào shén me",
+          "vi": "Bạn cười gì thế?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 382,
+      "word": "可能",
+      "meaningsVi": [
+        "có lẽ, có thể (đoán khả năng)",
+        "khả năng; 不可能: không thể nào"
+      ],
+      "noteVi": "Khác 'có thể' của tiếng Việt: 「可能」 chỉ dùng để đoán khả năng (có lẽ). 'Có thể' theo nghĩa biết làm là 「会」, có điều kiện làm là 「能」, được phép là 「可以」.",
+      "examples": [
+        {
+          "zh": "他今天可能不来了。",
+          "py": "tā jīn tiān kě néng bù lái le",
+          "vi": "Hôm nay có lẽ anh ấy không đến nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 453,
+      "word": "为什么",
+      "meaningsVi": [
+        "tại sao, vì sao"
+      ],
+      "noteVi": "Đứng sau chủ ngữ, trước động từ (hoặc ở đầu câu). Câu có 「为什么」 không thêm 「吗」. Trả lời bằng 「因为……」.",
+      "examples": [
+        {
+          "zh": "你为什么不吃饭？",
+          "py": "nǐ wèi shén me bù chī fàn",
+          "vi": "Sao bạn không ăn cơm?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 475,
+      "word": "因为",
+      "meaningsVi": [
+        "vì, bởi vì, do"
+      ],
+      "noteVi": "Đứng trước nguyên nhân; hay đi với 「所以」: 因为……，所以…… (Vì … nên …).",
+      "examples": [
+        {
+          "zh": "他没来，因为他生病了。",
+          "py": "tā méi lái yīn wèi tā shēng bìng le",
+          "vi": "Anh ấy không đến, vì anh ấy bị ốm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 439,
+      "word": "所以",
+      "meaningsVi": [
+        "cho nên, vì vậy, nên"
+      ],
+      "noteVi": "Đứng **đầu** vế chỉ kết quả, trước chủ ngữ: ……，所以我没去. Âm Hán Việt là 'sở dĩ' nhưng nghĩa là 'cho nên'; đừng nhầm với 'sở dĩ … là vì' của tiếng Việt (câu đó lại giống 「之所以……是因为……」, học ở cấp cao hơn).",
+      "examples": [
+        {
+          "zh": "外边下雨了，所以我们不出门了。",
+          "py": "wài bian xià yǔ le suǒ yǐ wǒ men bù chū mén le",
+          "vi": "Ngoài trời mưa rồi, nên chúng tôi không ra ngoài nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 74,
+      "titleVi": "Động từ năng nguyện 「可能」: có lẽ, có thể",
+      "summaryVi": "「可能」 + động từ/tính từ: đoán một việc có khả năng xảy ra (他可能生病了 — Có lẽ anh ấy ốm rồi).",
+      "explanationVi": [
+        "「可能」 dùng khi người nói **đoán**, không chắc chắn: 他可能生病了 (Có lẽ anh ấy bị ốm rồi), 明天可能下雨 (Mai có thể sẽ mưa). 「可能」 đứng sau chủ ngữ, trước động từ hoặc tính từ; cũng có thể đứng ở đầu câu: 可能他不知道.",
+        "Phủ định: 「可能不」 + động từ là 'có lẽ không': 他可能不来了 (Có lẽ anh ấy không đến nữa). Còn 「不可能」 là 'không thể nào': 他不可能知道. Thêm 「很」 để nói khả năng lớn: 他很可能不知道 (Rất có thể anh ấy không biết).",
+        "Chú ý: 'có thể' của tiếng Việt có nhiều nghĩa, tiếng Trung tách ra: **có khả năng** (đoán) là 「可能」; **biết làm** là 「会」 (我会说汉语); **có điều kiện làm** là 「能」 (我今天能来); **được phép** là 「可以」 (你可以坐这儿). Đừng dùng 「可以」 để đoán: nói 明天可能下雨, không nói 明天可以下雨."
+      ],
+      "patterns": [
+        "Chủ ngữ + 可能 + động từ/tính từ",
+        "可能 + chủ ngữ + động từ",
+        "Chủ ngữ + 可能不 + động từ (có lẽ không)",
+        "Chủ ngữ + 不可能 + động từ (không thể nào)"
+      ],
+      "examples": [
+        {
+          "zh": "他今天没来上课，可能生病了。",
+          "py": "tā jīn tiān méi lái shàng kè kě néng shēng bìng le",
+          "vi": "Hôm nay cậu ấy không đến lớp, có lẽ bị ốm rồi."
+        },
+        {
+          "zh": "天气不好，明天可能下雨。",
+          "py": "tiān qì bù hǎo míng tiān kě néng xià yǔ",
+          "vi": "Thời tiết xấu, ngày mai có thể sẽ mưa."
+        },
+        {
+          "zh": "可能他不知道这件事。",
+          "py": "kě néng tā bù zhī dào zhè jiàn shì",
+          "vi": "Có lẽ anh ấy không biết chuyện này."
+        },
+        {
+          "zh": "我没告诉她，她不可能知道。",
+          "py": "wǒ méi gào su tā tā bù kě néng zhī dào",
+          "vi": "Tôi không nói với cô ấy, cô ấy không thể nào biết được."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "明天可以下雨。",
+          "right": "明天可能下雨。",
+          "noteVi": "Đoán khả năng thì dùng 「可能」. 「可以」 là 'được phép', không dùng để đoán."
+        },
+        {
+          "wrong": "我可能说汉语。",
+          "right": "我会说汉语。",
+          "noteVi": "Muốn nói 'Tôi có thể (biết) nói tiếng Trung' thì dùng 「会」. Câu 我可能说汉语 không sai ngữ pháp nhưng chỉ có nghĩa 'có lẽ tôi sẽ nói tiếng Trung', không phải ý này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 76,
+      "titleVi": "Đại từ nghi vấn 「为什么」: tại sao",
+      "summaryVi": "「为什么」 hỏi lý do, đứng trước động từ (hoặc ở đầu câu); câu trả lời thường bắt đầu bằng 「因为」.",
+      "explanationVi": [
+        "「为什么」 (tại sao, vì sao) dùng để hỏi **lý do**. Nó đứng sau chủ ngữ, trước động từ: 你为什么不吃饭？ Cũng có thể đặt ở đầu câu: 为什么你不吃饭？ Không đặt 「为什么」 ở cuối câu.",
+        "Giống các câu hỏi với 「什么」, 「哪儿」, câu có 「为什么」 **không thêm** 「吗」. Câu trả lời thường bắt đầu bằng 「因为」: ——你为什么不去？——因为我很累。",
+        "Phân biệt: 你怎么了？ hỏi 'Bạn làm sao thế?' (có chuyện gì xảy ra với bạn), còn 「为什么」 hỏi lý do của một việc cụ thể: 你为什么笑？ (Sao bạn cười?)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 为什么 + (不/没) + động từ …？",
+        "为什么 + chủ ngữ + động từ …？",
+        "——因为……。"
+      ],
+      "examples": [
+        {
+          "zh": "你为什么笑？——因为我很高兴。",
+          "py": "nǐ wèi shén me xiào yīn wèi wǒ hěn gāo xìng",
+          "vi": "Sao bạn cười? — Vì tôi vui."
+        },
+        {
+          "zh": "她昨天为什么没来上课？",
+          "py": "tā zuó tiān wèi shén me méi lái shàng kè",
+          "vi": "Hôm qua tại sao cô ấy không đến lớp?"
+        },
+        {
+          "zh": "为什么你每天都这么累？",
+          "py": "wèi shén me nǐ měi tiān dōu zhè me lèi",
+          "vi": "Tại sao ngày nào bạn cũng mệt thế?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你为什么不吃饭吗？",
+          "right": "你为什么不吃饭？",
+          "noteVi": "Câu đã có 「为什么」 thì không thêm 「吗」."
+        },
+        {
+          "wrong": "你不吃药为什么？",
+          "right": "你为什么不吃药？",
+          "noteVi": "「为什么」 đứng trước động từ (hoặc ở đầu câu), không đứng cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 88,
+      "titleVi": "Phó từ phủ định 「别」: đừng",
+      "summaryVi": "「别」 + động từ là 'đừng …', dùng để khuyên hoặc cấm người khác; nghĩa giống 「不要」.",
+      "explanationVi": [
+        "「别」 là phó từ phủ định, nghĩa là **'đừng'**. Nó đứng trước động từ: 别去 (đừng đi), 别笑 (đừng cười), 别告诉他 (đừng nói với anh ấy). Nghĩa giống 「不要」 đã học ở HSK1, nhưng ngắn gọn hơn và rất hay dùng khi nói.",
+        "So sánh ba từ phủ định: 「不」 nói ý muốn, thói quen hoặc kể việc (我不去 — Tôi không đi); 「没」 kể việc đã không xảy ra (我没去 — Tôi đã không đi); 「别」 chỉ dùng khi **khuyên, cấm, dặn dò** (你别去 — Bạn đừng đi).",
+        "Vì là lời khuyên, chủ ngữ của 「别」 thường là 「你」, 「你们」 (hoặc bỏ đi). Với 「我们」 thì thành lời rủ: 我们别去了 (Chúng ta đừng đi nữa). Không dùng 「别」 để kể về mình: 'Tôi không đi' là 我不去, không phải 我别去."
+      ],
+      "patterns": [
+        "(你/你们) + 别 + động từ",
+        "我们 + 别 + động từ (rủ: chúng ta đừng …)"
+      ],
+      "examples": [
+        {
+          "zh": "你别动，我看一下你的手。",
+          "py": "nǐ bié dòng wǒ kàn yí xià nǐ de shǒu",
+          "vi": "Bạn đừng cử động, để tôi xem tay bạn một chút."
+        },
+        {
+          "zh": "别告诉妈妈，好吗？",
+          "py": "bié gào su mā ma hǎo ma",
+          "vi": "Đừng nói với mẹ, được không?"
+        },
+        {
+          "zh": "外边很冷，我们别出门了。",
+          "py": "wài bian hěn lěng wǒ men bié chū mén le",
+          "vi": "Ngoài trời lạnh lắm, chúng ta đừng ra ngoài nữa."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我今天别去学校。",
+          "right": "我今天不去学校。",
+          "noteVi": "Kể việc của mình (không đi) thì dùng 「不」. 「别」 chỉ dùng để khuyên, cấm người khác hoặc để rủ 'chúng ta đừng …'."
+        },
+        {
+          "wrong": "你不告诉他！",
+          "right": "你别告诉他！",
+          "noteVi": "Muốn dặn 'Bạn đừng nói với anh ấy!' phải dùng 「别」 (hoặc 「不要」). 「你不告诉他」 chỉ là câu kể 'bạn không nói với anh ấy', không phải lời dặn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 97,
+      "titleVi": "Giới từ 「因为」 + danh từ: vì (cái gì)",
+      "summaryVi": "「因为」 + danh từ/cụm danh từ nói nguyên nhân, đặt ở đầu câu hoặc ngay sau chủ ngữ: 因为工作，爸爸很少回家.",
+      "explanationVi": [
+        "「因为」 có thể đứng trước một **danh từ** (hoặc cụm danh từ) để nói nguyên nhân, giống 'vì', 'do', 'tại' của tiếng Việt: 因为工作 (vì công việc), 因为这件事 (vì chuyện này), 因为你 (vì bạn). Lúc này 「因为」 là giới từ.",
+        "Cụm 「因为 + danh từ」 đứng **đầu câu** (thường có dấu phẩy sau nó) hoặc **sau chủ ngữ, trước động từ**: 因为工作，爸爸很少回家 / 爸爸因为工作很少回家.",
+        "Tiếng Việt hay để nguyên nhân ở cuối: 'Bố ít về nhà **vì công việc**'. Tiếng Trung không đặt 「因为 + danh từ」 ở cuối câu như vậy. Khi nguyên nhân là cả một vế câu có động từ (因为他生病了), 「因为」 là liên từ: xem điểm 「因为……，所以……」."
+      ],
+      "patterns": [
+        "因为 + danh từ，chủ ngữ + vị ngữ",
+        "Chủ ngữ + 因为 + danh từ + vị ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "因为工作，爸爸很少回家吃饭。",
+          "py": "yīn wèi gōng zuò bà ba hěn shǎo huí jiā chī fàn",
+          "vi": "Vì công việc, bố ít khi về nhà ăn cơm."
+        },
+        {
+          "zh": "因为这件事，她很不高兴。",
+          "py": "yīn wèi zhè jiàn shì tā hěn bù gāo xìng",
+          "vi": "Vì chuyện này, cô ấy rất buồn."
+        },
+        {
+          "zh": "我因为一个中国朋友，开始学汉语。",
+          "py": "wǒ yīn wèi yí gè zhōng guó péng you kāi shǐ xué hàn yǔ",
+          "vi": "Vì một người bạn Trung Quốc mà tôi bắt đầu học tiếng Trung."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "爸爸很少回家因为工作。",
+          "right": "因为工作，爸爸很少回家。",
+          "noteVi": "Đừng đặt 「因为 + danh từ」 ở cuối câu như tiếng Việt ('… vì công việc'); hãy đặt nó ở đầu câu hoặc ngay sau chủ ngữ: 爸爸因为工作很少回家."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 125,
+      "titleVi": "Câu vị ngữ chủ-vị: 我头疼, 他身体很好",
+      "summaryVi": "Vị ngữ của câu là cả một cụm 'chủ ngữ nhỏ + vị ngữ nhỏ': 我 | 头疼 (Tôi đau đầu), 奶奶 | 身体很好 (Bà sức khỏe rất tốt).",
+      "explanationVi": [
+        "Trong câu 我头疼, chủ ngữ lớn là 「我」; phần còn lại 「头疼」 tự nó là một câu nhỏ: 头 (chủ ngữ nhỏ) + 疼 (vị ngữ nhỏ). Kiểu câu này gọi là câu vị ngữ chủ-vị. Chủ ngữ nhỏ thường là **một phần** hoặc **một mặt** của chủ ngữ lớn: 头, 眼睛, 手, 身体 của một người; 东西 của một cửa hàng.",
+        "Tiếng Việt cũng có kiểu câu này: 'Bà tôi **sức khỏe rất tốt**', 'Cửa hàng này **đồ rất rẻ**' (这个商店东西很便宜). Nhưng khi nói đau ở đâu, tiếng Việt nói 'đau đầu', 'đau tay' (đau + chỗ đau), còn tiếng Trung nói 头疼, 手疼 (chỗ đau + 疼). Không nói 我疼头.",
+        "Các từ 「很」, 「有点儿」, 「不」, 「太」 đứng ngay trước vị ngữ nhỏ: 我头**有点儿**疼, 他身体**不太**好. Hỏi: 你头疼吗？ / 你身体怎么样？ / 你哪儿不舒服？"
+      ],
+      "patterns": [
+        "Chủ ngữ lớn + chủ ngữ nhỏ + vị ngữ",
+        "Người + 头/手/眼睛 + (很/有点儿/不) + 疼",
+        "Người + 身体 + 很好/不太好/怎么样"
+      ],
+      "examples": [
+        {
+          "zh": "我今天头有点儿疼。",
+          "py": "wǒ jīn tiān tóu yǒu diǎn r téng",
+          "vi": "Hôm nay tôi hơi đau đầu."
+        },
+        {
+          "zh": "我奶奶身体很好。",
+          "py": "wǒ nǎi nai shēn tǐ hěn hǎo",
+          "vi": "Bà tôi sức khỏe rất tốt."
+        },
+        {
+          "zh": "这个商店东西很便宜。",
+          "py": "zhè ge shāng diàn dōng xi hěn pián yi",
+          "vi": "Cửa hàng này đồ rất rẻ."
+        },
+        {
+          "zh": "你哪儿不舒服？——我眼睛不舒服。",
+          "py": "nǐ nǎ r bù shū fu wǒ yǎn jing bù shū fu",
+          "vi": "Bạn khó chịu ở đâu? — Tôi bị khó chịu ở mắt."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我疼头。",
+          "right": "我头疼。",
+          "noteVi": "Dịch từng chữ 'đau đầu' là sai: chỗ đau (头) đứng trước, 「疼」 đứng sau."
+        },
+        {
+          "wrong": "我不舒服眼睛。",
+          "right": "我眼睛不舒服。",
+          "noteVi": "Bộ phận cơ thể (眼睛) là chủ ngữ nhỏ, phải đứng trước 「不舒服」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 127,
+      "titleVi": "Câu cầu khiến với 「别」: 别动！ 别笑了！",
+      "summaryVi": "「别 + động từ！」 để khuyên, cấm; 「别 + động từ + 了！」 bảo ngừng một việc đang làm hoặc định làm ('đừng … nữa').",
+      "explanationVi": [
+        "Câu cầu khiến với 「别」 bảo người nghe **đừng** làm việc gì. Chủ ngữ 「你」, 「你们」 có thể bỏ, giống tiếng Việt: 别动！ (Đừng động đậy!), 你别去！ (Bạn đừng đi!).",
+        "「别 + động từ + 了」 là 'đừng … nữa': bảo ngừng một việc **đang làm** hoặc **định làm**: 别笑了！ (Đừng cười nữa! — người kia đang cười), 你别去了 (Bạn đừng đi nữa — người kia định đi). 「了」 đứng cuối câu, giống chữ 'nữa' của tiếng Việt.",
+        "Muốn nhẹ nhàng, lịch sự hơn: thêm 「请」 ở đầu (请别在这儿打电话) hoặc thêm 「……，好吗？」 ở cuối (别告诉他，好吗？). Một lời dặn quan tâm hay gặp: 别太累了！ (Đừng làm việc quá sức nhé!).",
+        "Lời cấm, lời dặn không dùng 「不」: 请不说话 là sai, phải nói 请别说话 hoặc 请不要说话."
+      ],
+      "patterns": [
+        "(你/你们) + 别 + động từ (+ tân ngữ)！",
+        "别 + động từ + 了！ (đừng … nữa)",
+        "请别 + động từ",
+        "别太 + tính từ + 了！"
+      ],
+      "examples": [
+        {
+          "zh": "别笑了！我说的是真的。",
+          "py": "bié xiào le wǒ shuō de shì zhēn de",
+          "vi": "Đừng cười nữa! Tôi nói thật đấy."
+        },
+        {
+          "zh": "你身体不好，别太累了。",
+          "py": "nǐ shēn tǐ bù hǎo bié tài lèi le",
+          "vi": "Sức khỏe bạn không tốt, đừng làm việc quá sức nhé."
+        },
+        {
+          "zh": "请别在这儿打电话。",
+          "py": "qǐng bié zài zhè r dǎ diàn huà",
+          "vi": "Xin đừng gọi điện thoại ở đây."
+        },
+        {
+          "zh": "别动！医生在看你的眼睛。",
+          "py": "bié dòng yī shēng zài kàn nǐ de yǎn jing",
+          "vi": "Đừng động đậy! Bác sĩ đang khám mắt cho bạn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "请不说话。",
+          "right": "请别说话。",
+          "noteVi": "Lời cấm, lời nhắc dùng 「别」 hoặc 「不要」, không dùng 「不」."
+        },
+        {
+          "wrong": "不动！",
+          "right": "别动！",
+          "noteVi": "「不动」 chỉ là 'không động đậy'. Muốn bảo 'Đừng động đậy!' phải dùng 「别」 (hoặc 「不要」): 别动！ / 不要动！"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 140,
+      "titleVi": "Câu ghép nhân quả: 因为……，所以……",
+      "summaryVi": "「因为」 + nguyên nhân，「所以」 + kết quả — giống 'Vì … nên …' của tiếng Việt.",
+      "explanationVi": [
+        "Vế đầu nói **nguyên nhân** với 「因为」, vế sau nói **kết quả** với 「所以」: 因为我生病了，所以没去上课 (Vì tôi bị ốm nên không đi học). Thứ tự giống hệt 'Vì … nên …' của tiếng Việt.",
+        "Có thể dùng cả hai từ, hoặc chỉ một trong hai: 因为下雨了，我们没出门 / 下雨了，所以我们没出门. 「所以」 luôn đứng **đầu** vế sau, trước chủ ngữ: ……，所以我没去 (không nói ……，我所以没去). 「因为」 đứng trước hoặc sau chủ ngữ của vế đầu đều được: 因为他很忙 / 他因为很忙.",
+        "Muốn nói kết quả trước, nguyên nhân sau thì dùng 「……，因为……」 và **bỏ** 「所以」: 我没去上课，因为我生病了. Không nói 所以……，因为…….",
+        "Trả lời câu hỏi 「为什么」 thì dùng 「因为」, không dùng 「所以」: ——你为什么不吃饭？——因为我不舒服。"
+      ],
+      "patterns": [
+        "因为 + nguyên nhân，所以 + kết quả",
+        "Nguyên nhân，所以 + kết quả",
+        "Kết quả，因为 + nguyên nhân"
+      ],
+      "examples": [
+        {
+          "zh": "因为昨天晚上工作到十二点，所以我今天很累。",
+          "py": "yīn wèi zuó tiān wǎn shang gōng zuò dào shí èr diǎn suǒ yǐ wǒ jīn tiān hěn lèi",
+          "vi": "Vì tối qua làm việc đến 12 giờ nên hôm nay tôi rất mệt."
+        },
+        {
+          "zh": "因为他经常笑，所以大家都喜欢他。",
+          "py": "yīn wèi tā jīng cháng xiào suǒ yǐ dà jiā dōu xǐ huan tā",
+          "vi": "Vì anh ấy hay cười nên ai cũng thích anh ấy."
+        },
+        {
+          "zh": "外边很冷，所以你要多穿衣服。",
+          "py": "wài bian hěn lěng suǒ yǐ nǐ yào duō chuān yī fu",
+          "vi": "Ngoài trời lạnh, nên bạn phải mặc nhiều áo vào."
+        },
+        {
+          "zh": "他今天没来上班，因为他身体不舒服。",
+          "py": "tā jīn tiān méi lái shàng bān yīn wèi tā shēn tǐ bù shū fu",
+          "vi": "Hôm nay anh ấy không đi làm, vì anh ấy thấy không khỏe."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "所以我没去上课，因为我生病了。",
+          "right": "因为我生病了，所以我没去上课。",
+          "noteVi": "Nguyên nhân (因为) nói trước, kết quả (所以) nói sau. Nếu muốn nói kết quả trước thì bỏ 「所以」: 我没去上课，因为我生病了。"
+        },
+        {
+          "wrong": "因为我很累，我所以想休息。",
+          "right": "因为我很累，所以我想休息。",
+          "noteVi": "「所以」 đứng đầu vế sau, trước chủ ngữ 「我」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-05-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ cơ thể, sức khỏe với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "头",
+          "đầu"
+        ],
+        [
+          "手",
+          "tay"
+        ],
+        [
+          "眼睛",
+          "mắt"
+        ],
+        [
+          "身体",
+          "cơ thể, sức khỏe"
+        ],
+        [
+          "药",
+          "thuốc"
+        ],
+        [
+          "药店",
+          "hiệu thuốc"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-05-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "疼",
+          "đau"
+        ],
+        [
+          "累",
+          "mệt"
+        ],
+        [
+          "舒服",
+          "dễ chịu, thoải mái"
+        ],
+        [
+          "笑",
+          "cười"
+        ],
+        [
+          "动",
+          "cử động"
+        ],
+        [
+          "别",
+          "đừng"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-05-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đau đầu.)",
+      "options": [
+        "我头疼。",
+        "我疼头。",
+        "头我疼。"
+      ],
+      "answer": 0,
+      "explainVi": "Chỗ đau (头) đứng trước, 「疼」 đứng sau: 我头疼.",
+      "grammar": [
+        125
+      ]
+    },
+    {
+      "id": "hsk2-05-e04",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "医生，我",
+      "after": "有点儿疼。",
+      "answers": [
+        "眼睛"
+      ],
+      "options": [
+        "眼睛",
+        "药店",
+        "笑"
+      ],
+      "vi": "Thưa bác sĩ, mắt tôi hơi đau.",
+      "grammar": [
+        125
+      ]
+    },
+    {
+      "id": "hsk2-05-e05",
+      "type": "order",
+      "vi": "Bà tôi sức khỏe rất tốt.",
+      "tiles": [
+        "我奶奶",
+        "身体",
+        "很",
+        "好"
+      ],
+      "answers": [
+        "我奶奶身体很好"
+      ],
+      "explainVi": "Chủ ngữ lớn (我奶奶) + chủ ngữ nhỏ (身体) + vị ngữ (很好).",
+      "grammar": [
+        125
+      ]
+    },
+    {
+      "id": "hsk2-05-e06",
+      "type": "choice",
+      "promptVi": "「你为什么不吃药？」 nghĩa là gì?",
+      "options": [
+        "Tại sao bạn không uống thuốc?",
+        "Bạn uống thuốc gì?",
+        "Bạn uống thuốc ở đâu?"
+      ],
+      "answer": 0,
+      "grammar": [
+        76
+      ]
+    },
+    {
+      "id": "hsk2-05-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Sao bạn không uống nước?)",
+      "options": [
+        "你为什么不喝水？",
+        "你为什么不喝水吗？",
+        "你不喝水为什么？"
+      ],
+      "answer": 0,
+      "explainVi": "「为什么」 đứng trước động từ; câu đã có 「为什么」 thì không thêm 「吗」.",
+      "grammar": [
+        76
+      ]
+    },
+    {
+      "id": "hsk2-05-e08",
+      "type": "order",
+      "vi": "Tại sao hôm nay bạn không đi làm?",
+      "tiles": [
+        "你",
+        "今天",
+        "为什么",
+        "不去",
+        "上班"
+      ],
+      "answers": [
+        "你今天为什么不去上班",
+        "你为什么今天不去上班",
+        "今天你为什么不去上班",
+        "为什么你今天不去上班",
+        "为什么今天你不去上班"
+      ],
+      "explainVi": "「为什么」 đứng sau chủ ngữ, trước động từ, hoặc ở đầu câu; không đứng cuối câu.",
+      "grammar": [
+        76
+      ]
+    },
+    {
+      "id": "hsk2-05-e09",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "因为外边下雨了，",
+      "after": "我们不出门了。",
+      "answers": [
+        "所以"
+      ],
+      "options": [
+        "所以",
+        "因为",
+        "为什么"
+      ],
+      "vi": "Vì ngoài trời mưa nên chúng tôi không ra ngoài nữa.",
+      "grammar": [
+        140
+      ]
+    },
+    {
+      "id": "hsk2-05-e10",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Vì tôi mệt nên tôi muốn nghỉ ngơi.)",
+      "options": [
+        "因为我很累，所以我想休息。",
+        "因为我很累，我所以想休息。",
+        "所以我很累，因为我想休息。"
+      ],
+      "answer": 0,
+      "explainVi": "Nguyên nhân (因为) trước, kết quả (所以) sau; 「所以」 đứng đầu vế sau, trước chủ ngữ.",
+      "grammar": [
+        140
+      ]
+    },
+    {
+      "id": "hsk2-05-e11",
+      "type": "order",
+      "vi": "Vì anh ấy bị ốm nên hôm nay không đến.",
+      "tiles": [
+        "因为",
+        "他",
+        "生病了",
+        "所以",
+        "今天",
+        "没来"
+      ],
+      "answers": [
+        "因为他生病了所以今天没来",
+        "他因为生病了所以今天没来"
+      ],
+      "grammar": [
+        140
+      ]
+    },
+    {
+      "id": "hsk2-05-e12",
+      "type": "translate",
+      "vi": "Vì tôi mệt nên tôi muốn nghỉ ngơi một chút.",
+      "answers": [
+        "因为我(很)累，所以(我)想休息(一下)。",
+        "我因为(很)累，所以想休息(一下)。",
+        "我(很)累，所以(我)想休息(一下)。"
+      ],
+      "examples": [
+        {
+          "answer": "因为我很累，所以我想休息一下。",
+          "score": 100
+        },
+        {
+          "answer": "我很累，所以想休息。",
+          "score": 100
+        },
+        {
+          "answer": "所以我很累，因为我想休息。",
+          "score": 0,
+          "note": "Đảo ngược nguyên nhân và kết quả"
+        },
+        {
+          "answer": "因为我很累，我所以想休息。",
+          "score": 0,
+          "note": "「所以」 phải đứng trước chủ ngữ"
+        }
+      ],
+      "grammar": [
+        140
+      ]
+    },
+    {
+      "id": "hsk2-05-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "小明没来上课，",
+      "after": "身体不舒服。",
+      "answers": [
+        "可能"
+      ],
+      "options": [
+        "可能",
+        "可以",
+        "会"
+      ],
+      "vi": "Tiểu Minh không đến lớp, có lẽ là không khỏe.",
+      "explainVi": "Đoán khả năng dùng 「可能」.",
+      "grammar": [
+        74
+      ]
+    },
+    {
+      "id": "hsk2-05-e14",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Ngày mai có thể sẽ mưa.)",
+      "options": [
+        "明天可能下雨。",
+        "明天可以下雨。",
+        "明天下雨可能。"
+      ],
+      "answer": 0,
+      "explainVi": "Đoán khả năng dùng 「可能」, đặt trước động từ. 「可以」 là 'được phép'.",
+      "grammar": [
+        74
+      ]
+    },
+    {
+      "id": "hsk2-05-e15",
+      "type": "translate",
+      "vi": "Có lẽ anh ấy không biết chuyện này.",
+      "answers": [
+        "他可能不知道这件事。",
+        "可能他不知道这件事。",
+        "这件事他可能不知道。"
+      ],
+      "examples": [
+        {
+          "answer": "他可能不知道这件事。",
+          "score": 100
+        },
+        {
+          "answer": "可能他不知道这件事。",
+          "score": 100
+        },
+        {
+          "answer": "他不可能知道这件事。",
+          "score": 0,
+          "note": "不可能 là 'không thể nào', nghĩa khác"
+        },
+        {
+          "answer": "他可以不知道这件事。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        74
+      ]
+    },
+    {
+      "id": "hsk2-05-e16",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "他为什么没来？",
+        "promptVi": "Tại sao anh ấy không đến? (Bạn không chắc, chỉ đoán là anh ấy bị ốm.)",
+        "answers": [
+          "(因为)(他)可能生病了。",
+          "可能他生病了。",
+          "(他)可能病了。"
+        ],
+        "examples": [
+          {
+            "answer": "他可能生病了。",
+            "score": 100
+          },
+          {
+            "answer": "可能他生病了。",
+            "score": 100
+          },
+          {
+            "answer": "因为他可能生病了。",
+            "score": 100
+          },
+          {
+            "answer": "他可以生病了。",
+            "score": 0,
+            "note": "Đoán khả năng phải dùng 可能"
+          }
+        ]
+      },
+      "grammar": [
+        74,
+        76
+      ]
+    },
+    {
+      "id": "hsk2-05-e17",
+      "type": "choice",
+      "promptVi": "Bạn muốn nói 'Đừng cười!'. Câu nào đúng?",
+      "options": [
+        "别笑！",
+        "不笑！",
+        "没笑！"
+      ],
+      "answer": 0,
+      "explainVi": "Lời cấm, lời khuyên 'đừng' dùng 「别」.",
+      "grammar": [
+        88,
+        127
+      ]
+    },
+    {
+      "id": "hsk2-05-e18",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你生病了，",
+      "after": "去上班了。",
+      "answers": [
+        "别"
+      ],
+      "options": [
+        "别",
+        "不",
+        "没"
+      ],
+      "vi": "Bạn ốm rồi, đừng đi làm nữa.",
+      "grammar": [
+        88,
+        127
+      ]
+    },
+    {
+      "id": "hsk2-05-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hôm nay tôi không đi học.)",
+      "options": [
+        "我今天不去上学。",
+        "我今天别去上学。",
+        "我今天没去上学了。"
+      ],
+      "answer": 0,
+      "explainVi": "Kể việc của mình dùng 「不」; 「别」 chỉ dùng để khuyên, cấm người khác.",
+      "grammar": [
+        88
+      ]
+    },
+    {
+      "id": "hsk2-05-e20",
+      "type": "translate",
+      "vi": "Đừng động đậy!",
+      "answers": [
+        "(你)别动！",
+        "(你)不要动！"
+      ],
+      "examples": [
+        {
+          "answer": "别动！",
+          "score": 100
+        },
+        {
+          "answer": "不要动！",
+          "score": 100
+        },
+        {
+          "answer": "你别动！",
+          "score": 100
+        },
+        {
+          "answer": "不动！",
+          "score": 0,
+          "note": "不动 là 'không động đậy', không phải lời cấm"
+        }
+      ],
+      "grammar": [
+        127
+      ]
+    },
+    {
+      "id": "hsk2-05-e21",
+      "type": "translate",
+      "vi": "Đừng cười nữa!",
+      "answers": [
+        "(你)别笑了！",
+        "(你)不要笑了！"
+      ],
+      "examples": [
+        {
+          "answer": "别笑了！",
+          "score": 100
+        },
+        {
+          "answer": "不要笑了！",
+          "score": 100
+        },
+        {
+          "answer": "别笑！",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 了 thì mất nghĩa 'nữa'"
+        },
+        {
+          "answer": "不笑了！",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        127
+      ]
+    },
+    {
+      "id": "hsk2-05-e22",
+      "type": "order",
+      "vi": "Xin đừng gọi điện thoại ở đây.",
+      "tiles": [
+        "请",
+        "别",
+        "在这儿",
+        "打电话"
+      ],
+      "answers": [
+        "请别在这儿打电话"
+      ],
+      "explainVi": "「请」 ở đầu câu cho lịch sự; 「别」 đứng trước cụm 「在这儿 + động từ」.",
+      "grammar": [
+        127,
+        88
+      ]
+    },
+    {
+      "id": "hsk2-05-e23",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Vì công việc, bố ít khi về nhà.)",
+      "options": [
+        "因为工作，爸爸很少回家。",
+        "爸爸很少回家因为工作。",
+        "爸爸很少因为回家工作。"
+      ],
+      "answer": 0,
+      "explainVi": "「因为 + danh từ」 đứng đầu câu hoặc ngay sau chủ ngữ, không đứng cuối câu.",
+      "grammar": [
+        97
+      ]
+    },
+    {
+      "id": "hsk2-05-e24",
+      "type": "order",
+      "vi": "Vì chuyện này, cô ấy rất buồn.",
+      "tiles": [
+        "因为",
+        "这件事",
+        "她",
+        "很不高兴"
+      ],
+      "answers": [
+        "因为这件事她很不高兴",
+        "她因为这件事很不高兴"
+      ],
+      "grammar": [
+        97
+      ]
+    },
+    {
+      "id": "hsk2-05-e25",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我",
+      "after": "一个中国朋友，开始学汉语。",
+      "answers": [
+        "因为"
+      ],
+      "options": [
+        "因为",
+        "所以",
+        "为什么"
+      ],
+      "vi": "Vì một người bạn Trung Quốc mà tôi bắt đầu học tiếng Trung.",
+      "grammar": [
+        97
+      ]
+    },
+    {
+      "id": "hsk2-05-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你为什么没来上课？",
+        "promptVi": "Tại sao bạn không đến lớp? (Giả sử bạn bị ốm.)",
+        "answers": [
+          "(因为)(我)生病了。",
+          "(因为)(我)(身体)不舒服。"
+        ],
+        "examples": [
+          {
+            "answer": "因为我生病了。",
+            "score": 100
+          },
+          {
+            "answer": "我生病了。",
+            "score": 100
+          },
+          {
+            "answer": "因为我身体不舒服。",
+            "score": 100
+          },
+          {
+            "answer": "因为我生病。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "所以我生病了。",
+            "score": 0,
+            "note": "Trả lời 为什么 dùng 因为, không dùng 所以"
+          }
+        ]
+      },
+      "grammar": [
+        76,
+        140
+      ]
+    },
+    {
+      "id": "hsk2-05-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你怎么了？",
+        "promptVi": "Bạn làm sao thế? (Giả sử bạn đau đầu.)",
+        "answers": [
+          "(我)(的)头(很)疼。",
+          "(我)(的)头[有点儿|非常|太]疼(了)。"
+        ],
+        "examples": [
+          {
+            "answer": "我头疼。",
+            "score": 100
+          },
+          {
+            "answer": "我头有点儿疼。",
+            "score": 100
+          },
+          {
+            "answer": "我的头很疼。",
+            "score": 100
+          },
+          {
+            "answer": "我疼头。",
+            "score": 0,
+            "note": "Dịch từng chữ 'đau đầu'"
+          },
+          {
+            "answer": "我手疼。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        125
+      ]
+    },
+    {
+      "id": "hsk2-05-e28",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你的药在哪儿？",
+        "promptVi": "Thuốc của bạn ở đâu? (Trong hình: thuốc ở trong cặp sách.)",
+        "picture": "🎒💊",
+        "expected": {
+          "places": [
+            "书包",
+            "包"
+          ],
+          "localizer": "里",
+          "sentence": "我的药在书包里。"
+        },
+        "examples": [
+          {
+            "answer": "我的药在书包里。",
+            "score": 100
+          },
+          {
+            "answer": "在包里。",
+            "score": 100
+          },
+          {
+            "answer": "书包里。",
+            "score": 100
+          },
+          {
+            "answer": "药在书包。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "在里书包。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ],
+            "note": "Dịch từng chữ 'ở trong cặp'"
+          },
+          {
+            "answer": "在桌子上。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

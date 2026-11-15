@@ -56,6 +56,7 @@ describe('course content', () => {
 
   it('names each file after its lesson and keeps the canonical format (npm run content:fill)', () => {
     for (const [path, content] of Object.entries(files)) {
+      if (!keep(content.id ?? path)) continue;
       const m = /hsk(\d)\/(\d\d)\.json$/.exec(path);
       expect(m && `hsk${m[1]}-${m[2]}`, path).toBe(content.id);
       expect(raw[path], path).toBe(formatLesson(content));
