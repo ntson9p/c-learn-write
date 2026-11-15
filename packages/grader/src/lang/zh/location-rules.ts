@@ -109,6 +109,9 @@ function placeOrder(doc: ZhDoc, m: LocationMention, inner: readonly Issue[], ctx
   if (ZAI_LIST.some((w) => before.endsWith(w))) return undefined; // 住在河内, 放在桌子上
   const verb = firstActionVerb(doc.text, clause.start, m.zai);
   if (!verb) return undefined;
+  // 我买的本子在书包里: the verb is inside a 的-phrase that names the subject,
+  // and 在 + place is the predicate. Stay silent whenever 的 follows the verb.
+  if (doc.text.slice(verb.end, m.zai).includes('的')) return undefined;
 
   // The moved phrase carries the corrections found inside it (再 -> 在, 里家 -> 家里).
   const phraseStart = m.zai + 1;

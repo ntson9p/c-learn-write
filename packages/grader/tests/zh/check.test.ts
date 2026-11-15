@@ -37,3 +37,12 @@ describe('places after motion verbs', () => {
     expect(checkZhSentence('书在桌子。').issues.map((i) => i.code)).toEqual(['missing_localizer']);
   });
 });
+
+describe('place_order: a verb inside a 的-phrase', () => {
+  it('stays silent when the verb modifies the subject', () => {
+    for (const s of ['我买的本子在书包里。', '我昨天买的笔在桌子上。', '老师教的词在本子上。', '他学汉语的学校在北京。']) {
+      expect(checkZhSentence(s).issues, s).toEqual([]);
+    }
+    expect(checkZhSentence('我吃饭在家。').issues.map((i) => i.code)).toEqual(['place_order']);
+  });
+});
