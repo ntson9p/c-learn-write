@@ -2,7 +2,15 @@
 
 Web app giúp **người Việt** học từ vựng và ngữ pháp tiếng Trung từ con số 0 tới **HSK3**, theo **đề cương thi HSK mới (2025)**. Bài tự luận được chấm bằng **luật ngôn ngữ, không dùng AI**: cùng một câu trả lời luôn cho cùng một kết quả, kèm nhận xét tiếng Việt và câu đã sửa.
 
-> **Trạng thái:** HSK1 đã có đủ nội dung (15 bài, 300 từ, 70 điểm ngữ pháp, 361 bài tập); HSK2 và HSK3 đang được soạn. Toàn bộ nội dung là **bản nháp do Claude soạn, chưa được giáo viên duyệt**; app hiện nhãn "Chưa duyệt" trên từng mục. Xem [docs/review-notes.md](docs/review-notes.md).
+> **Trạng thái:** đã có đủ nội dung HSK1–HSK3 theo đề cương: 45 bài, 1000 từ, 244 điểm ngữ pháp, 1238 bài tập soạn sẵn (cộng bài tập từ vựng tự sinh).
+>
+> | Cấp | Bài | Từ | Điểm ngữ pháp | Bài tập |
+> |---|---|---|---|---|
+> | HSK1 | 15 | 300 | 70 | 361 |
+> | HSK2 | 10 | 200 | 78 | 301 |
+> | HSK3 | 20 | 500 | 96 | 576 |
+>
+> Toàn bộ nội dung là **bản nháp do Claude soạn, chưa được giáo viên duyệt**; app hiện nhãn "Chưa duyệt" trên từng mục. Xem [docs/review-notes.md](docs/review-notes.md).
 
 ## Ứng dụng có gì
 

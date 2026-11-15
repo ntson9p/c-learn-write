@@ -1,6 +1,6 @@
 # Ghi chú cho giáo viên duyệt nội dung
 
-Toàn bộ nội dung khóa học hiện là **bản nháp do Claude soạn** (một phần do các agent Claude soạn song song). Danh sách dưới đây gom những điểm người soạn **chưa chắc chắn** và đề nghị giáo viên xem trước. Cách duyệt bằng bảng tính ở [content-guide.md](content-guide.md#5-giáo-viên-duyệt-bằng-bảng-tính).
+Toàn bộ nội dung khóa học (45 bài HSK1–3) hiện là **bản nháp do Claude soạn** (nhiều bài do các agent Claude soạn song song; mỗi bài đều qua bộ kiểm tra nội dung trước khi commit). Danh sách dưới đây gom những điểm người soạn **chưa chắc chắn** và đề nghị giáo viên xem trước. Cách duyệt bằng bảng tính ở [content-guide.md](content-guide.md#5-giáo-viên-duyệt-bằng-bảng-tính).
 
 ## HSK1
 
@@ -58,6 +58,23 @@ Một số câu được ghi là "sai" thật ra **đúng ngữ pháp nhưng sai
 - Một số câu hỏi `model` cho 80 điểm khi câu trả lời đúng nhưng không dùng cấu trúc đang luyện (我很饿, 打扫干净了, 我感冒了).
 - Ghi chú về 层 so sánh cách đánh số tầng ở Trung Quốc với miền Bắc và miền Nam Việt Nam; ghi chú 屋子 là từ của miền Bắc Trung Quốc.
 
+### Bài 09–12
+
+- **Cách hiểu nghĩa con:** điểm 181 (动补短语2) được hiểu là bổ ngữ kết quả bằng tính từ hoặc động từ (看清楚, 听明白, 写对). 为你高兴 xếp vào 为1 (điểm 172), không phải 为2 (điểm 174).
+- **Không khai báo hình vị:** dạng tách của 生气 (生我的气, 生什么气) không qua kiểm soát từ vựng vì 生 và 气 đứng riêng không có trong đề cương. Các dạng này chỉ xuất hiện trong ghi chú tiếng Việt; bài tập dùng 担心什么.
+- **Câu "sai" còn bàn được:** 我看来他生病了, 他不是会生气的, 你不是喜欢吃饺子呢？, 他学习很努力为了考上大学 (một số người chấp nhận 为了 ở cuối câu), 我把一本书送给她了, 你生气什么啊 (ghi chú nói 什么 phải chen vào giữa: 生什么气). Câu 老师，您哭什么啊 đúng ngữ pháp; ghi chú chỉ nói là thiếu lễ phép.
+- **Độ tự nhiên:** 可以向老师问, 我把课文读了三遍.
+- Pinyin đã sửa tay: 得 (de/děi), 还 huán (trả), 地 de, 过 guo; trong bổ ngữ khả năng 不 ghi bù (看不懂).
+
+### Bài 13–16
+
+- **Cách hiểu nghĩa con (người soạn tự đoán):** 才2, 才3 và 就4 (điểm 170): 才 + số lượng là "mới (có)…, chỉ" (才八点); 才 nhấn mạnh hoặc bác lại (这才是…, 我才不…呢); 就 thể hiện ý chí cứng rắn (我就要 / 我就不).
+- **Hình vị khai báo thêm:** 成 (điểm 154, có trong nội dung chính thức qua 完成), để viết 完不成 / 完得成.
+- **Câu "sai" chỉ sai ý định** (ghi chú đã nói rõ): 太远了，我不能看见, 我们先开会，以后一起去吃饭. **Có thể quá khắt khe:** 一般来说，昨天的会议… (chỉ sai về nghĩa), 外面下起来雨了 (nghe thấy trong khẩu ngữ).
+- **Chấm khi thiếu cấu trúc đang luyện:** câu dịch yêu cầu 被, 得很 hoặc 一……也 cho 80 điểm nếu câu trả lời đúng nhưng không dùng cấu trúc đó (giống bài 06).
+- **Giới hạn từ vựng:** 假 đứng riêng và 棵 không có trong đề cương, nên bài không tách 请假 thành 请半天假 và không dùng 一棵树; 张 đến bài 17 mới dạy nên không có 一张卡; 份 không có trong đề cương nên câu đếm dùng 银行 (家) và 伞 (把) thay vì 报纸.
+- Pinyin đã sửa tay: 得 (de/děi), 只 zhǐ, 没 méi, 过 guo.
+
 ### Bài 17–20
 
 - **Hình vị khai báo thêm:** 所 (điểm 160, cho 一所学校); 结, 婚, 澡, 假 (điểm 153, cho 结了婚, 结过婚, 洗了个澡, 放了三天假). Bốn chữ này có trong nội dung chính thức của điểm 153. Hệ quả: từ bài này về sau, các chữ đó qua được kiểm soát từ vựng.
@@ -73,3 +90,6 @@ Một số câu được ghi là "sai" thật ra **đúng ngữ pháp nhưng sai
 - 地铁站在学校 khi hình là "trước cổng trường": nay vẫn được chấm đúng nội dung nhưng gắn cờ "cần giáo viên xem lại" (bỏ phương vị từ chỉ hướng như 前, 后, 旁边 làm đổi nơi chốn).
 - 三米饭 bị đọc là "3 mét"; 三个碗米饭 bị coi là sai nội dung; 面条儿, 药店 chưa có trong bảng từ của bộ chấm; 笔 chỉ nhận 支/枝 (题 nay nhận cả 个).
 - Trợ từ 了 đặt sai chỗ chỉ bị trừ 30 điểm (thừa + thiếu từ).
+- Lượng từ 口 ngoài câu hỏi đếm không còn bị kiểm tra, vì 一口 còn nghĩa là "một ngụm, một miếng" (喝了一口茶). Trong câu hỏi đếm, 两口咖啡 khi hình là hai cốc vẫn bị sửa thành 杯.
+- 在手机看书 (thiếu 上) chưa bị bắt: 手机 và 电脑 chưa có trong danh sách đồ vật cần phương vị từ.
+- Đã sửa trong lúc soạn HSK3 (mỗi lỗi có test): 运动员在体育馆里 bị báo sai trật tự; 喝了一口茶 bị báo sai lượng từ; 在手机上 bị đọc thành 在手 + 机上.
