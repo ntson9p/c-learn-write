@@ -11,6 +11,9 @@ export interface RouteDef {
 
 export const ROUTES: readonly RouteDef[] = [
   { pattern: '/', tab: 'learn', load: () => import('./pages/home') },
+  { pattern: '/lesson/:id', tab: 'learn', load: () => import('./pages/lesson') },
+  { pattern: '/word/:no', tab: 'dict', load: () => import('./pages/word') },
+  { pattern: '/grammar/:no', tab: 'learn', load: () => import('./pages/grammar') },
   { pattern: '/review', tab: 'review', load: () => import('./pages/review') },
   { pattern: '/dict', tab: 'dict', load: () => import('./pages/dictionary') },
   { pattern: '/progress', tab: 'progress', load: () => import('./pages/progress') },

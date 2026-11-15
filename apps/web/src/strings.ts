@@ -14,6 +14,14 @@ export const T = {
   back: 'Quay lại',
   draftBadge: 'Chưa duyệt',
   draftHint: 'Nội dung này là bản nháp, chưa được giáo viên duyệt.',
+  speak: (text: string) => `Nghe: ${text}`,
+  lessonLabel: (level: number, order: number) => `HSK${level} · Bài ${order}`,
+
+  /** Parts of speech of the syllabus. */
+  pos: {
+    名: 'danh từ', 动: 'động từ', 形: 'tính từ', 副: 'phó từ', 代: 'đại từ', 数: 'số từ', 量: 'lượng từ', 数量: 'số lượng từ',
+    介: 'giới từ', 连: 'liên từ', 助: 'trợ từ', 叹: 'thán từ', 前缀: 'tiền tố', 后缀: 'hậu tố',
+  } as Record<string, string>,
 
   nav: {
     label: 'Điều hướng chính',
@@ -27,13 +35,83 @@ export const T = {
   home: {
     title: 'Lộ trình học',
     intro: 'Học từ con số 0 tới HSK3 theo đề cương thi HSK mới (2025): mỗi bài có từ mới, ngữ pháp và bài tập.',
+    levels: 'Chọn cấp',
     levelWords: (n: number) => `${n} từ mới`,
     levelGrammar: (n: number) => `${n} điểm ngữ pháp`,
     comingSoon: 'Nội dung của cấp này đang được soạn.',
+    state: {
+      writing: 'Đang soạn',
+      locked: 'Chưa mở',
+      open: 'Bắt đầu',
+      started: 'Đang học',
+      completed: 'Đã xong',
+    },
+    skipAhead: 'Học vượt',
+    skipConfirm: 'Bài này mở khi bạn đạt 80% bài kiểm tra của bài trước. Bạn vẫn muốn học vượt?',
+    bestScore: (n: number) => `Điểm kiểm tra: ${n}%`,
+    dueToday: (n: number) => `${n} thẻ cần ôn hôm nay`,
+    goReview: 'Ôn ngay',
   },
 
-  review: { title: 'Ôn tập', empty: 'Chưa có từ nào để ôn. Hãy học bài đầu tiên.' },
-  dict: { title: 'Từ điển' },
+  lesson: {
+    notFound: 'Không tìm thấy bài học này.',
+    writing: 'Bài này đang được soạn, bạn quay lại sau nhé.',
+    goals: 'Sau bài này bạn có thể',
+    words: (n: number) => `Từ mới (${n})`,
+    grammar: (n: number) => `Ngữ pháp (${n})`,
+    practice: 'Luyện tập',
+    practiceIntro: (n: number) => `${n} bài tập: trắc nghiệm, điền từ, sắp xếp câu, dịch và trả lời câu hỏi.`,
+    startPractice: 'Làm bài tập',
+    quiz: 'Kiểm tra cuối bài',
+    quizIntro: 'Đạt từ 80% trở lên để mở bài tiếp theo.',
+    startQuiz: 'Làm bài kiểm tra',
+    addCards: 'Thêm các từ vào thẻ ôn tập',
+    cardsAdded: (n: number) => (n > 0 ? `Đã thêm ${n} từ vào ôn tập.` : 'Các từ của bài đã có trong ôn tập.'),
+  },
+
+  word: {
+    notFound: 'Không tìm thấy từ này.',
+    hanViet: 'Hán Việt',
+    meanings: 'Nghĩa',
+    note: 'Ghi chú',
+    examples: 'Ví dụ',
+    lesson: 'Học trong',
+    noContent: 'Từ này chưa có nội dung (nghĩa, ví dụ) vì bài học của nó đang được soạn.',
+    level: (n: number) => `HSK${n}`,
+    hanVietAmbiguous: 'Chữ này có nhiều âm Hán Việt; âm hiển thị cần giáo viên kiểm tra.',
+  },
+
+  grammar: {
+    notFound: 'Không tìm thấy điểm ngữ pháp này.',
+    official: 'Theo đề cương',
+    patterns: 'Mẫu câu',
+    examples: 'Ví dụ',
+    mistakes: 'Lỗi hay gặp',
+    wrong: 'Sai',
+    right: 'Đúng',
+  },
+
+  review: {
+    title: 'Ôn tập',
+    empty: 'Chưa có từ nào để ôn. Hãy mở một bài học và bấm "Thêm các từ vào thẻ ôn tập".',
+    nothingDue: 'Hôm nay bạn đã ôn xong. Hãy quay lại sau!',
+    summary: (due: number, fresh: number) => `${due} thẻ đến hạn ôn · ${fresh} từ mới hôm nay`,
+    start: 'Bắt đầu ôn',
+    show: 'Xem đáp án',
+    remaining: (n: number) => `Còn ${n} thẻ`,
+    ratings: { 1: 'Quên', 2: 'Khó', 3: 'Được', 4: 'Dễ' } as Record<1 | 2 | 3 | 4, string>,
+    done: (n: number) => `Xong! Bạn đã ôn ${n} lượt.`,
+    again: 'Ôn tiếp',
+    newBadge: 'Từ mới',
+  },
+
+  dict: {
+    title: 'Từ điển',
+    search: 'Tìm chữ Hán, pinyin, nghĩa tiếng Việt hoặc âm Hán Việt',
+    all: 'Tất cả',
+    count: (shown: number, total: number) => (shown < total ? `Hiện ${shown} trên ${total} từ` : `${total} từ`),
+    noResult: 'Không tìm thấy từ nào.',
+  },
   progress: { title: 'Tiến độ' },
 
   settings: {
