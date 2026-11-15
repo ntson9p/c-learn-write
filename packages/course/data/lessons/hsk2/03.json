@@ -1,0 +1,1576 @@
+{
+  "id": "hsk2-03",
+  "goalsVi": [
+    "Hỏi và nói về màu sắc, quần áo, đồ dùng khi đi mua sắm: 你要红色的还是白色的？",
+    "Đọc và nói giá tiền lớn với 「万」, nói số ước lượng với 「几」 và 「多」: 十几块, 一百多块, 两块多",
+    "Khen, so sánh, mặc cả: 最便宜, 好贵啊, 便宜一点儿吧, 贵五十块",
+    "Dùng cụm chữ 「的」 thay cho danh từ đã biết: 我要白色的, 这是我的"
+  ],
+  "words": [
+    {
+      "no": 466,
+      "word": "颜色",
+      "meaningsVi": [
+        "màu, màu sắc"
+      ],
+      "noteVi": "Hỏi màu: 「什么颜色？」. Chữ 「色」 (sắc) xuất hiện trong tên các màu: 白色, 黑色, 红色, 绿色.",
+      "examples": [
+        {
+          "zh": "你喜欢什么颜色？",
+          "py": "nǐ xǐ huan shén me yán sè",
+          "vi": "Bạn thích màu gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 303,
+      "word": "白色",
+      "meaningsVi": [
+        "màu trắng"
+      ],
+      "noteVi": "Trước danh từ thường thêm 「的」: 白色的衣服 (quần áo màu trắng). Chú ý thứ tự: màu đứng **trước** danh từ, ngược với tiếng Việt 'áo trắng'.",
+      "examples": [
+        {
+          "zh": "我想买一件白色的衣服。",
+          "py": "wǒ xiǎng mǎi yí jiàn bái sè de yī fu",
+          "vi": "Tôi muốn mua một bộ quần áo màu trắng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 353,
+      "word": "黑色",
+      "meaningsVi": [
+        "màu đen"
+      ],
+      "examples": [
+        {
+          "zh": "这条黑色的裤子很好看。",
+          "py": "zhè tiáo hēi sè de kù zi hěn hǎo kàn",
+          "vi": "Cái quần màu đen này rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 355,
+      "word": "红色",
+      "meaningsVi": [
+        "màu đỏ"
+      ],
+      "noteVi": "Ở Trung Quốc cũng như Việt Nam, màu đỏ là màu may mắn, hay dùng trong ngày Tết, đám cưới.",
+      "examples": [
+        {
+          "zh": "妈妈喜欢红色。",
+          "py": "mā ma xǐ huan hóng sè",
+          "vi": "Mẹ thích màu đỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 396,
+      "word": "绿色",
+      "meaningsVi": [
+        "màu xanh lá cây"
+      ],
+      "noteVi": "Chữ 'xanh' của tiếng Việt có thể là xanh lá cây hoặc xanh da trời. Chỉ xanh lá cây mới là 「绿色」.",
+      "examples": [
+        {
+          "zh": "我的书包是绿色的。",
+          "py": "wǒ de shū bāo shì lǜ sè de",
+          "vi": "Cặp sách của tôi màu xanh lá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 383,
+      "word": "裤子",
+      "meaningsVi": [
+        "quần"
+      ],
+      "noteVi": "Lượng từ là 「条」: 一条裤子 (một cái quần).",
+      "examples": [
+        {
+          "zh": "这条裤子多少钱？",
+          "py": "zhè tiáo kù zi duō shao qián",
+          "vi": "Cái quần này bao nhiêu tiền?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 434,
+      "word": "手表",
+      "meaningsVi": [
+        "đồng hồ đeo tay"
+      ],
+      "noteVi": "Lượng từ hay dùng là 「块」: 一块手表 (một chiếc đồng hồ).",
+      "examples": [
+        {
+          "zh": "这块手表很贵。",
+          "py": "zhè kuài shǒu biǎo hěn guì",
+          "vi": "Chiếc đồng hồ này rất đắt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 435,
+      "word": "书包",
+      "meaningsVi": [
+        "cặp sách, ba lô đi học"
+      ],
+      "examples": [
+        {
+          "zh": "我的书在书包里。",
+          "py": "wǒ de shū zài shū bāo lǐ",
+          "vi": "Sách của tôi ở trong cặp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 307,
+      "word": "包",
+      "meaningsVi": [
+        "túi, cặp, giỏ (danh từ)",
+        "gói, túi (lượng từ: 一包茶)",
+        "gói, bọc (động từ: 包饺子)"
+      ],
+      "noteVi": "Làm lượng từ, 「包」 đếm những thứ đựng trong gói, túi: 一包茶 (một gói trà). Đếm chính cái túi thì dùng 「个」: 一个包. 「包饺子」 là gói bánh chẻo (sủi cảo).",
+      "examples": [
+        {
+          "zh": "我买了两包茶。",
+          "py": "wǒ mǎi le liǎng bāo chá",
+          "vi": "Tôi mua hai gói trà."
+        },
+        {
+          "zh": "我们一起包饺子吧。",
+          "py": "wǒ men yì qǐ bāo jiǎo zi ba",
+          "vi": "Chúng mình cùng gói bánh chẻo nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 443,
+      "word": "条",
+      "meaningsVi": [
+        "(lượng từ cho vật dài, mềm) cái, con, chiếc: 一条裤子, 一条鱼"
+      ],
+      "examples": [
+        {
+          "zh": "我买了一条新裤子。",
+          "py": "wǒ mǎi le yì tiáo xīn kù zi",
+          "vi": "Tôi mua một cái quần mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 424,
+      "word": "商场",
+      "meaningsVi": [
+        "trung tâm thương mại, trung tâm mua sắm"
+      ],
+      "noteVi": "「商场」 lớn hơn 「商店」, bên trong có nhiều cửa hàng. Âm Hán Việt 'thương trường' trong tiếng Việt lại thường hiểu là 'chốn kinh doanh', đừng nhầm.",
+      "examples": [
+        {
+          "zh": "星期六我跟妈妈一起去商场。",
+          "py": "xīng qī liù wǒ gēn mā ma yì qǐ qù shāng chǎng",
+          "vi": "Thứ bảy tôi đi trung tâm thương mại cùng mẹ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 450,
+      "word": "网上",
+      "meaningsVi": [
+        "trên mạng"
+      ],
+      "noteVi": "Đọc wǎngshang. Hay dùng 「在网上 + động từ」: 在网上买东西 (mua đồ trên mạng). Cụm 「在网上」 đứng trước động từ.",
+      "examples": [
+        {
+          "zh": "我经常在网上买东西。",
+          "py": "wǒ jīng cháng zài wǎng shang mǎi dōng xi",
+          "vi": "Tôi thường mua đồ trên mạng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 357,
+      "word": "花",
+      "meaningsVi": [
+        "tiêu (tiền), tốn (thời gian)"
+      ],
+      "noteVi": "「花 + 钱/时间」: 花了很多钱 (tiêu nhiều tiền). 「花」 còn là danh từ 'hoa', sẽ học sau.",
+      "examples": [
+        {
+          "zh": "我这个月花了三千块。",
+          "py": "wǒ zhè ge yuè huā le sān qiān kuài",
+          "vi": "Tháng này tôi tiêu hết ba nghìn tệ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 449,
+      "word": "万",
+      "meaningsVi": [
+        "vạn, mười nghìn (10.000)"
+      ],
+      "noteVi": "Tiếng Trung đếm số lớn theo **vạn**: 一万 = 10.000, 十万 = 100.000. Tiếng Việt đếm theo nghìn, nên 'mười nghìn' phải nói là 一万, không nói 十千.",
+      "examples": [
+        {
+          "zh": "这个电脑一万块。",
+          "py": "zhè ge diàn nǎo yí wàn kuài",
+          "vi": "Cái máy tính này mười nghìn tệ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 314,
+      "word": "长",
+      "meaningsVi": [
+        "dài"
+      ],
+      "noteVi": "Nghĩa 'dài' đọc cháng. Chữ này còn đọc zhǎng (lớn lên), sẽ học sau.",
+      "examples": [
+        {
+          "zh": "这条裤子太长了。",
+          "py": "zhè tiáo kù zi tài cháng le",
+          "vi": "Cái quần này dài quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 312,
+      "word": "不错",
+      "meaningsVi": [
+        "khá tốt, không tệ, được đấy"
+      ],
+      "noteVi": "「不错」 là lời khen nhẹ, mang nghĩa tích cực: 'được đấy, khá đấy'. Đừng hiểu từng chữ là 'không sai'.",
+      "examples": [
+        {
+          "zh": "这件衣服不错，颜色也很好看。",
+          "py": "zhè jiàn yī fu bú cuò yán sè yě hěn hǎo kàn",
+          "vi": "Bộ quần áo này được đấy, màu cũng đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 498,
+      "word": "最",
+      "meaningsVi": [
+        "nhất"
+      ],
+      "noteVi": "「最」 đứng **trước** tính từ hoặc động từ chỉ tình cảm: 最好, 最喜欢. Tiếng Việt đặt 'nhất' ở sau ('đẹp nhất'), nên đừng nói 好看最.",
+      "examples": [
+        {
+          "zh": "我最喜欢绿色。",
+          "py": "wǒ zuì xǐ huan lǜ sè",
+          "vi": "Tôi thích màu xanh lá nhất."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 352,
+      "word": "还是",
+      "meaningsVi": [
+        "hay, hay là (trong câu hỏi lựa chọn)",
+        "vẫn, … thì hơn (phó từ, học ở bài 4)"
+      ],
+      "noteVi": "「A还是B？」 là câu hỏi để người nghe chọn một, không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "你要红色的还是白色的？",
+          "py": "nǐ yào hóng sè de hái shi bái sè de",
+          "vi": "Bạn lấy cái màu đỏ hay cái màu trắng?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 80,
+      "titleVi": "Số từ: 「万」, 「好多」, 「多」",
+      "summaryVi": "「万」 = mười nghìn (一万, 两万); 「好多」 = rất nhiều (好多人); 「多」 sau số tròn nghĩa là 'hơn, mấy' (二十多, 一万多).",
+      "explanationVi": [
+        "「万」 là **vạn** = 10.000. Số lớn trong tiếng Trung tính theo vạn: 一万 (10.000), 五万 (50.000), 十万 (100.000), 一百万 (1.000.000). Tiếng Việt đếm theo nghìn, nên khi đọc giá tiền lớn phải đổi: 'hai mươi nghìn' = 两万 (trước 「万」, số 2 thường nói 「两」).",
+        "「好多」 nghĩa là 'rất nhiều', giống 「很多」, hay dùng khi nói chuyện: 商场里有好多人. Sau 「好多」 có thể có lượng từ hoặc không: 好多人, 好多件衣服.",
+        "「多」 đứng sau số tròn chục, trăm, nghìn, vạn nghĩa là '**hơn**, … mấy': 二十多 (hai mươi mấy), 一万多 (hơn một vạn). Vị trí của 「多」 xem kỹ ở hai điểm 'số + 多 + lượng từ' và 'số + lượng từ + 多'.",
+        "「多」 một mình **không** đứng trước danh từ: không nói 多人; phải nói 很多人 hoặc 好多人."
+      ],
+      "patterns": [
+        "Số + 万 (一万 = 10.000)",
+        "好多 + (lượng từ +) danh từ",
+        "Số tròn + 多 (+ lượng từ)"
+      ],
+      "examples": [
+        {
+          "zh": "这个手机一万块。",
+          "py": "zhè ge shǒu jī yí wàn kuài",
+          "vi": "Cái điện thoại này mười nghìn tệ."
+        },
+        {
+          "zh": "商场里有好多人。",
+          "py": "shāng chǎng lǐ yǒu hǎo duō rén",
+          "vi": "Trong trung tâm thương mại có rất nhiều người."
+        },
+        {
+          "zh": "我买了好多东西。",
+          "py": "wǒ mǎi le hǎo duō dōng xi",
+          "vi": "Tôi mua rất nhiều đồ."
+        },
+        {
+          "zh": "这个大学有两万多个学生。",
+          "py": "zhè ge dà xué yǒu liǎng wàn duō gè xué shēng",
+          "vi": "Trường đại học này có hơn hai vạn sinh viên."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这个手机十千块。",
+          "right": "这个手机一万块。",
+          "noteVi": "Tiếng Trung không nói 十千; 10.000 là 一万."
+        },
+        {
+          "wrong": "商场里有多人。",
+          "right": "商场里有好多人。",
+          "noteVi": "「多」 không đứng một mình trước danh từ; dùng 「很多」 hoặc 「好多」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 82,
+      "titleVi": "Lượng từ mượn từ danh từ: 「包」 (gói, túi)",
+      "summaryVi": "Danh từ chỉ đồ đựng có thể mượn làm lượng từ: 一包茶 (một gói trà), giống 一杯水 (một cốc nước) đã học.",
+      "explanationVi": [
+        "Một số danh từ chỉ **đồ đựng** được mượn làm lượng từ, giống tiếng Việt 'một **cốc** nước', 'một **gói** trà'. HSK1 đã có 「杯」: 一杯水. Bài này học 「包」: 一包茶 (một gói trà), 一包东西 (một túi đồ).",
+        "Trật tự: **số + 包 + danh từ**: 两包茶. Tiếng Việt khi mua bán có thể nói 'trà hai gói', nhưng tiếng Trung luôn đặt số lượng **trước** danh từ.",
+        "「包」 đã là lượng từ nên không thêm 「个」: nói 两包茶, không nói 两个包茶. Nhưng đếm **cái túi** thì 「包」 là danh từ và cần lượng từ 「个」: 一个包 (một cái túi)."
+      ],
+      "patterns": [
+        "Số + 包 + danh từ",
+        "这/那 + 包 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我买了两包茶。",
+          "py": "wǒ mǎi le liǎng bāo chá",
+          "vi": "Tôi mua hai gói trà."
+        },
+        {
+          "zh": "这包东西是谁的？",
+          "py": "zhè bāo dōng xi shì shéi de",
+          "vi": "Túi đồ này là của ai?"
+        },
+        {
+          "zh": "妈妈从超市买了一包饺子。",
+          "py": "mā ma cóng chāo shì mǎi le yì bāo jiǎo zi",
+          "vi": "Mẹ mua một gói bánh chẻo ở siêu thị."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我买了两个包茶。",
+          "right": "我买了两包茶。",
+          "noteVi": "「包」 đã là lượng từ, không thêm 「个」."
+        },
+        {
+          "wrong": "我买了茶两包。",
+          "right": "我买了两包茶。",
+          "noteVi": "Số và lượng từ đứng trước danh từ, không đứng sau như kiểu 'trà hai gói'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 84,
+      "titleVi": "Phó từ chỉ mức độ: 多 (… biết bao), 好 (rất, quá), 最 (nhất)",
+      "summaryVi": "「最」 + tính từ: … nhất; 「好」 + tính từ: … quá (khẩu ngữ); 「多」 + tính từ + 啊: … biết bao!",
+      "explanationVi": [
+        "「最」 nghĩa là '**nhất**', đứng **trước** tính từ hoặc động từ chỉ tình cảm: 最贵 (đắt nhất), 最喜欢 (thích nhất). Tiếng Việt đặt 'nhất' **sau**, nên người Việt hay nói sai thành 贵最.",
+        "「好」 đứng trước tính từ nghĩa là 'rất, quá', có cảm xúc, hay dùng khi nói chuyện: 好贵啊 (đắt quá), 好长 (dài quá). 「好多」 (rất nhiều) cũng là cách dùng này.",
+        "「多」 + tính từ (+ 啊) trong câu cảm thán: '… biết bao, … làm sao': 这个书包多漂亮啊！ (Cái cặp này đẹp biết bao!).",
+        "Câu đã có 「最」, 「好」, 「多」 thì không thêm 「很」: không nói 很最好看."
+      ],
+      "patterns": [
+        "最 + tính từ/động từ chỉ tình cảm",
+        "好 + tính từ (+ 啊)",
+        "多 + tính từ + 啊！"
+      ],
+      "examples": [
+        {
+          "zh": "这三块手表，哪块最便宜？",
+          "py": "zhè sān kuài shǒu biǎo nǎ kuài zuì pián yi",
+          "vi": "Ba chiếc đồng hồ này, chiếc nào rẻ nhất?"
+        },
+        {
+          "zh": "我最喜欢白色。",
+          "py": "wǒ zuì xǐ huan bái sè",
+          "vi": "Tôi thích màu trắng nhất."
+        },
+        {
+          "zh": "这条裤子好长啊！",
+          "py": "zhè tiáo kù zi hǎo cháng a",
+          "vi": "Cái quần này dài quá!"
+        },
+        {
+          "zh": "你看，这个书包多漂亮啊！",
+          "py": "nǐ kàn zhè ge shū bāo duō piào liang a",
+          "vi": "Bạn xem, cái cặp này đẹp biết bao!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这件衣服漂亮最。",
+          "right": "这件衣服最漂亮。",
+          "noteVi": "「最」 đứng trước tính từ, không đứng sau như 'đẹp nhất' trong tiếng Việt."
+        },
+        {
+          "wrong": "这条裤子很最好看。",
+          "right": "这条裤子最好看。",
+          "noteVi": "「最」 đã chỉ mức cao nhất, không thêm 「很」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 105,
+      "titleVi": "Cụm chữ 「的」: 红色的, 我的, 新的 (cái màu đỏ, của tôi, cái mới)",
+      "summaryVi": "Từ hoặc cụm từ + 的 có thể đứng một mình thay cho danh từ đã biết: 我要红色的 (Tôi lấy cái màu đỏ), 这是我的 (Đây là của tôi).",
+      "explanationVi": [
+        "Khi người nghe đã biết đang nói về vật gì, có thể **bỏ danh từ** sau 「的」: 这件衣服是我的 (Bộ quần áo này là của tôi), 我要红色的 (Tôi lấy cái màu đỏ). Đó là cụm chữ 「的」.",
+        "Tiếng Việt dùng 'cái …', 'của …': 'cái màu đỏ', 'của tôi', 'cái mới'. Tiếng Trung chỉ cần 「红色的」, 「我的」, 「新的」, và **không được bỏ** 「的」: 这个书包是我 nghĩa là 'cái cặp này là tôi'.",
+        "Trước 「的」 có thể là đại từ (我的, 谁的), tính từ (大的, 新的), danh từ (红色的), hoặc động từ, cụm động từ (我买的: cái tôi mua, 在网上买的: cái mua trên mạng).",
+        "Hỏi 'của ai?' là 「谁的？」: 这个书包是谁的？"
+      ],
+      "patterns": [
+        "Đại từ/danh từ/tính từ/cụm động từ + 的 (thay cho danh từ đã biết)"
+      ],
+      "examples": [
+        {
+          "zh": "这个书包是谁的？——是我的。",
+          "py": "zhè ge shū bāo shì shéi de shì wǒ de",
+          "vi": "Cái cặp này của ai? — Của tôi."
+        },
+        {
+          "zh": "我不要黑色的，我要白色的。",
+          "py": "wǒ bú yào hēi sè de wǒ yào bái sè de",
+          "vi": "Tôi không lấy cái màu đen, tôi lấy cái màu trắng."
+        },
+        {
+          "zh": "大的五十块，小的三十块。",
+          "py": "dà de wǔ shí kuài xiǎo de sān shí kuài",
+          "vi": "Cái to năm mươi tệ, cái nhỏ ba mươi tệ."
+        },
+        {
+          "zh": "这是我在网上买的。",
+          "py": "zhè shì wǒ zài wǎng shang mǎi de",
+          "vi": "Đây là cái tôi mua trên mạng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这个书包是我。",
+          "right": "这个书包是我的。",
+          "noteVi": "Thiếu 「的」 thì câu thành 'cái cặp này là tôi'."
+        },
+        {
+          "wrong": "我要的红色。",
+          "right": "我要红色的。",
+          "noteVi": "「的」 đứng sau từ bổ nghĩa: 红色的 (cái màu đỏ)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 124,
+      "titleVi": "Tính từ + số lượng: 贵五十块, 便宜一点儿 (đắt hơn 50 tệ, rẻ hơn một chút)",
+      "summaryVi": "Đặt số lượng ngay sau tính từ để nói hơn/kém bao nhiêu: 白色的贵五十块, 便宜一点儿吧.",
+      "explanationVi": [
+        "Khi so sánh hai vật (hoặc so với điều mình muốn), đặt **số lượng ngay sau tính từ** để nói chênh lệch bao nhiêu: 白色的贵五十块 (Cái màu trắng đắt hơn 50 tệ), 这件长一点儿 (Cái này dài hơn một chút).",
+        "Tiếng Việt có chữ 'hơn': 'đắt **hơn** 50 tệ'. Tiếng Trung **không cần** từ nào ở giữa, cũng không dịch 'hơn' bằng 「多」: nói 贵五十块, không nói 贵多五十块. (Câu so sánh với 「比」 sẽ học sau.)",
+        "Khi mặc cả rất hay dùng: 便宜一点儿吧！ (Rẻ hơn một chút đi!), 便宜十块，可以吗？ 「一点儿」 đứng **sau** tính từ. Đừng nhầm với 「有点儿 + tính từ」 (hơi …, thường là chê): 有点儿贵 (hơi đắt).",
+        "Thêm 「了」 sau tính từ khi muốn nói 'quá mức cần một chút': 这条裤子长了一点儿 (Cái quần này dài quá một chút)."
+      ],
+      "patterns": [
+        "Tính từ + số lượng (五十块, 一点儿)",
+        "Tính từ + 了 + số lượng (quá mức cần)"
+      ],
+      "examples": [
+        {
+          "zh": "白色的贵一百块。",
+          "py": "bái sè de guì yì bǎi kuài",
+          "vi": "Cái màu trắng đắt hơn một trăm tệ."
+        },
+        {
+          "zh": "便宜一点儿吧！",
+          "py": "pián yi yì diǎn r ba",
+          "vi": "Rẻ hơn một chút đi!"
+        },
+        {
+          "zh": "这条裤子长了一点儿。",
+          "py": "zhè tiáo kù zi cháng le yì diǎn r",
+          "vi": "Cái quần này dài quá một chút."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "白色的贵多一百块。",
+          "right": "白色的贵一百块。",
+          "noteVi": "'Hơn' không dịch bằng 「多」; tính từ + số lượng là đủ."
+        },
+        {
+          "wrong": "这件一点儿便宜吧。",
+          "right": "这件便宜一点儿吧。",
+          "noteVi": "「一点儿」 đứng sau tính từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 126,
+      "titleVi": "Câu hỏi lựa chọn với 「还是」: … hay …?",
+      "summaryVi": "A 还是 B？ hỏi người nghe chọn một trong hai: 你要红色的还是白色的？ Câu này không thêm 「吗」.",
+      "explanationVi": [
+        "「还是」 nối hai khả năng để người nghe **chọn một**, giống 'hay, hay là' trong tiếng Việt: 你喝茶还是喝水？ (Bạn uống trà hay uống nước?).",
+        "Câu hỏi với 「还是」 đã là câu hỏi, **không thêm 「吗」** ở cuối. Muốn câu nhẹ nhàng hơn có thể thêm 「呢」: 你去还是不去呢？",
+        "Hỏi để chọn một thì dùng 「还是」, không dùng 「和」: 'Bạn thích màu đỏ hay màu trắng?' là 你喜欢红色还是白色？",
+        "Hai vế thường có cùng cấu trúc: 你今天去还是明天去？ Với 「是」: 你是老师还是学生？ (Bạn là giáo viên hay học sinh?)."
+      ],
+      "patterns": [
+        "(Chủ ngữ +) A + 还是 + B？",
+        "Chủ ngữ + 是 + A + 还是 + B？"
+      ],
+      "examples": [
+        {
+          "zh": "你要红色的还是白色的？",
+          "py": "nǐ yào hóng sè de hái shi bái sè de",
+          "vi": "Bạn lấy cái màu đỏ hay cái màu trắng?"
+        },
+        {
+          "zh": "我们去商场还是在网上买？",
+          "py": "wǒ men qù shāng chǎng hái shi zài wǎng shang mǎi",
+          "vi": "Chúng ta đi trung tâm thương mại hay mua trên mạng?"
+        },
+        {
+          "zh": "你今天去还是明天去？",
+          "py": "nǐ jīn tiān qù hái shi míng tiān qù",
+          "vi": "Bạn đi hôm nay hay ngày mai?"
+        },
+        {
+          "zh": "你是老师还是学生？",
+          "py": "nǐ shì lǎo shī hái shi xué shēng",
+          "vi": "Bạn là giáo viên hay học sinh?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你要红色的还是白色的吗？",
+          "right": "你要红色的还是白色的？",
+          "noteVi": "Câu hỏi với 「还是」 không thêm 「吗」."
+        },
+        {
+          "wrong": "你喜欢红色和白色？",
+          "right": "你喜欢红色还是白色？",
+          "noteVi": "Muốn người nghe chọn một trong hai thì dùng 「还是」; 「和」 chỉ nối hai danh từ trong câu kể."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 146,
+      "titleVi": "「几」 chỉ số ước lượng: vài, mấy",
+      "summaryVi": "Trong câu kể, 「几」 nghĩa là 'vài, mấy' (dưới 10): 几件衣服, 十几个人, 几十块, 几百个学生.",
+      "explanationVi": [
+        "Ở HSK1, 「几」 dùng để hỏi số lượng nhỏ: 你有几个孩子？ Trong **câu kể**, 「几」 nghĩa là 'vài, mấy' (một số nhỏ hơn 10): 我买了几件衣服 (Tôi mua vài bộ quần áo).",
+        "「几」 kết hợp với 十, 百, 千, 万: 十几 (mười mấy, từ 11 đến 19), 几十 (mấy chục), 几百 (mấy trăm), 几千, 几万: 十几个人, 几十块钱, 几百个学生.",
+        "Sau 「几」 phải có lượng từ, giống số đếm: 几件衣服, 几本书; không nói 几衣服.",
+        "Chú ý ngữ điệu: 你有几个中国朋友？ (lên giọng hỏi) là 'Bạn có **mấy** người bạn Trung Quốc?'; 我有几个中国朋友。 là 'Tôi có **vài** người bạn Trung Quốc.'"
+      ],
+      "patterns": [
+        "几 + lượng từ + danh từ (vài …)",
+        "十几 / 几十 / 几百 / 几千 / 几万 + lượng từ + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我在商场买了几件衣服。",
+          "py": "wǒ zài shāng chǎng mǎi le jǐ jiàn yī fu",
+          "vi": "Tôi mua vài bộ quần áo ở trung tâm thương mại."
+        },
+        {
+          "zh": "这个书包几十块钱，不贵。",
+          "py": "zhè ge shū bāo jǐ shí kuài qián bú guì",
+          "vi": "Cái cặp này mấy chục tệ thôi, không đắt."
+        },
+        {
+          "zh": "我有十几个外国朋友。",
+          "py": "wǒ yǒu shí jǐ gè wài guó péng you",
+          "vi": "Tôi có mười mấy người bạn nước ngoài."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我买了几衣服。",
+          "right": "我买了几件衣服。",
+          "noteVi": "Sau 「几」 cần lượng từ (件)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 147,
+      "titleVi": "Số + 多 + lượng từ: hơn (số tròn chục, trăm …)",
+      "summaryVi": "Với số tròn chục, trăm, nghìn, vạn, 「多」 đứng **sau số, trước lượng từ**: 二十多个人 (hai mươi mấy người), 一百多块 (hơn một trăm tệ).",
+      "explanationVi": [
+        "Khi con số là số tròn **10, 20, 100, 1000, 10000…**, thêm 「多」 **sau số, trước lượng từ** để chỉ 'hơn một chút': 二十多岁 (hai mươi mấy tuổi), 一百多块 (hơn một trăm tệ), 一万多块 (hơn một vạn tệ).",
+        "Tiếng Việt nói '**hơn** một trăm tệ' ('hơn' đứng trước số), tiếng Trung nói 一百**多**块 (「多」 đứng sau số). Không nói 多一百块.",
+        "Phần 'hơn' nhỏ hơn đơn vị của số: 二十多 là 21–29, 一百多 là 101–199.",
+        "Với số lẻ từ 1 đến 9 (一个, 五块…) thì 「多」 đứng sau lượng từ: xem điểm 'số + lượng từ + 多'."
+      ],
+      "patterns": [
+        "Số tròn (十, 二十, 一百, 一千, 一万…) + 多 + lượng từ (+ danh từ)"
+      ],
+      "examples": [
+        {
+          "zh": "这条裤子一百多块。",
+          "py": "zhè tiáo kù zi yì bǎi duō kuài",
+          "vi": "Cái quần này hơn một trăm tệ."
+        },
+        {
+          "zh": "商场里有三十多家商店。",
+          "py": "shāng chǎng lǐ yǒu sān shí duō jiā shāng diàn",
+          "vi": "Trong trung tâm thương mại có hơn ba mươi cửa hàng."
+        },
+        {
+          "zh": "我奶奶七十多岁了。",
+          "py": "wǒ nǎi nai qī shí duō suì le",
+          "vi": "Bà nội tôi đã hơn bảy mươi tuổi."
+        },
+        {
+          "zh": "我这个月花了两千多块。",
+          "py": "wǒ zhè ge yuè huā le liǎng qiān duō kuài",
+          "vi": "Tháng này tôi tiêu hơn hai nghìn tệ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这条裤子多一百块。",
+          "right": "这条裤子一百多块。",
+          "noteVi": "「多」 đứng sau số, không đứng trước như 'hơn' trong tiếng Việt."
+        },
+        {
+          "wrong": "我奶奶七十岁多了。",
+          "right": "我奶奶七十多岁了。",
+          "noteVi": "Với số tròn chục (七十), 「多」 đứng trước lượng từ 「岁」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 148,
+      "titleVi": "Số + lượng từ + 多: hơn (chưa đến một đơn vị)",
+      "summaryVi": "Với số từ 1 đến 9 (hoặc số không tròn), 「多」 đứng **sau lượng từ**: 一个多小时 (hơn một tiếng), 两块多 (hơn hai tệ).",
+      "explanationVi": [
+        "Khi phần 'hơn' **chưa đến một đơn vị** của lượng từ, 「多」 đứng **sau lượng từ**: 一个多小时 (hơn một tiếng, chưa tới hai tiếng), 两年多 (hơn hai năm), 两块多 (hơn hai tệ, tức hai tệ mấy hào).",
+        "So sánh: 十多块 là 'mười mấy tệ' (11–19 tệ), còn 十块多 là 'hơn mười tệ một chút' (10 tệ mấy hào). Vị trí của 「多」 làm đổi nghĩa.",
+        "Với 'tiếng', 'tháng' nhớ có 「个」, và 「多」 đứng sau 「个」: 一个多月 (hơn một tháng), 两个多小时 (hơn hai tiếng).",
+        "Mẹo: số lẻ 1–9 → số + lượng từ + 多 (两块多); số tròn chục, trăm → số + 多 + lượng từ (二十多块)."
+      ],
+      "patterns": [
+        "Số (1–9) + lượng từ + 多 (+ danh từ)"
+      ],
+      "examples": [
+        {
+          "zh": "我在商场等了一个多小时。",
+          "py": "wǒ zài shāng chǎng děng le yí gè duō xiǎo shí",
+          "vi": "Tôi đợi ở trung tâm thương mại hơn một tiếng."
+        },
+        {
+          "zh": "我学汉语学了两年多。",
+          "py": "wǒ xué hàn yǔ xué le liǎng nián duō",
+          "vi": "Tôi đã học tiếng Hán hơn hai năm."
+        },
+        {
+          "zh": "一个包子两块多。",
+          "py": "yí gè bāo zi liǎng kuài duō",
+          "vi": "Một cái bánh bao hơn hai tệ."
+        },
+        {
+          "zh": "她在北京住了一个多月。",
+          "py": "tā zài běi jīng zhù le yí gè duō yuè",
+          "vi": "Cô ấy sống ở Bắc Kinh hơn một tháng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我等了多一个小时。",
+          "right": "我等了一个多小时。",
+          "noteVi": "Dịch theo 'hơn một tiếng' của tiếng Việt là sai: 「多」 đứng sau 「个」."
+        },
+        {
+          "wrong": "她在北京住了一多个月。",
+          "right": "她在北京住了一个多月。",
+          "noteVi": "Với số lẻ (一), 「多」 đứng sau lượng từ 「个」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-03-e01",
+      "type": "match",
+      "promptVi": "Nối tên màu với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "白色",
+          "màu trắng"
+        ],
+        [
+          "黑色",
+          "màu đen"
+        ],
+        [
+          "红色",
+          "màu đỏ"
+        ],
+        [
+          "绿色",
+          "màu xanh lá"
+        ],
+        [
+          "颜色",
+          "màu sắc"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-03-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "裤子",
+          "quần"
+        ],
+        [
+          "手表",
+          "đồng hồ đeo tay"
+        ],
+        [
+          "书包",
+          "cặp sách"
+        ],
+        [
+          "商场",
+          "trung tâm thương mại"
+        ],
+        [
+          "网上",
+          "trên mạng"
+        ],
+        [
+          "不错",
+          "khá tốt"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-03-e03",
+      "type": "choice",
+      "promptVi": "「两万」 là bao nhiêu?",
+      "options": [
+        "20.000",
+        "2.000",
+        "200.000"
+      ],
+      "answer": 0,
+      "explainVi": "「万」 = 10.000, nên 两万 = 20.000.",
+      "grammar": [
+        80
+      ]
+    },
+    {
+      "id": "hsk2-03-e04",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "商场里有",
+      "after": "人。",
+      "answers": [
+        "好多"
+      ],
+      "options": [
+        "好多",
+        "多",
+        "最"
+      ],
+      "vi": "Trong trung tâm thương mại có rất nhiều người.",
+      "explainVi": "「多」 không đứng một mình trước danh từ; dùng 「好多」 hoặc 「很多」.",
+      "grammar": [
+        80
+      ]
+    },
+    {
+      "id": "hsk2-03-e05",
+      "type": "translate",
+      "vi": "Cái máy tính này mười nghìn tệ.",
+      "answers": [
+        "这个电脑一万块(钱)。",
+        "这个电脑一万元。"
+      ],
+      "examples": [
+        {
+          "answer": "这个电脑一万块。",
+          "score": 100
+        },
+        {
+          "answer": "这个电脑一万元。",
+          "score": 100
+        },
+        {
+          "answer": "这个电脑一千块。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        80
+      ]
+    },
+    {
+      "id": "hsk2-03-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi mua hai gói trà.)",
+      "options": [
+        "我买了两包茶。",
+        "我买了两个包茶。",
+        "我买了茶两包。"
+      ],
+      "answer": 0,
+      "explainVi": "「包」 đã là lượng từ: số + 包 + danh từ.",
+      "grammar": [
+        82
+      ]
+    },
+    {
+      "id": "hsk2-03-e07",
+      "type": "fill",
+      "promptVi": "Điền lượng từ thích hợp.",
+      "before": "妈妈从超市买了一",
+      "after": "饺子。",
+      "answers": [
+        "包"
+      ],
+      "options": [
+        "包",
+        "条",
+        "本"
+      ],
+      "vi": "Mẹ mua một gói bánh chẻo ở siêu thị.",
+      "grammar": [
+        82
+      ]
+    },
+    {
+      "id": "hsk2-03-e08",
+      "type": "translate",
+      "vi": "Tôi mua hai gói trà.",
+      "answers": [
+        "我买了两包茶。"
+      ],
+      "examples": [
+        {
+          "answer": "我买了两包茶。",
+          "score": 100
+        },
+        {
+          "answer": "我买了两个包茶。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "「包」 đã là lượng từ, thừa 「个」"
+        },
+        {
+          "answer": "我买了三包茶。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        82
+      ]
+    },
+    {
+      "id": "hsk2-03-e09",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这儿有几条裤子？",
+        "promptVi": "Ở đây có mấy cái quần? (Trong hình: 3 cái quần.)",
+        "picture": "👖👖👖",
+        "expected": {
+          "number": 3,
+          "noun": "裤子",
+          "sentence": "这儿有三条裤子。"
+        },
+        "examples": [
+          {
+            "answer": "这儿有三条裤子。",
+            "score": 100
+          },
+          {
+            "answer": "三条。",
+            "score": 100
+          },
+          {
+            "answer": "这儿有三个裤子。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "这儿有三裤子。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "这儿有两条裤子。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-03-e10",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几块手表？",
+        "promptVi": "Trên bàn có mấy chiếc đồng hồ? (Trong hình: 4 chiếc.)",
+        "picture": "⌚⌚⌚⌚",
+        "expected": {
+          "number": 4,
+          "noun": "手表",
+          "sentence": "桌子上有四块手表。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有四块手表。",
+            "score": 100
+          },
+          {
+            "answer": "有四块。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有四个手表。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有四本手表。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有四手表。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有三块手表。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-03-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi thích màu trắng nhất.)",
+      "options": [
+        "我最喜欢白色。",
+        "我喜欢白色最。",
+        "我喜欢最白色。"
+      ],
+      "answer": 0,
+      "explainVi": "「最」 đứng trước động từ chỉ tình cảm 「喜欢」.",
+      "grammar": [
+        84
+      ]
+    },
+    {
+      "id": "hsk2-03-e12",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "你看，这个书包",
+      "after": "漂亮啊！",
+      "answers": [
+        "多"
+      ],
+      "options": [
+        "多",
+        "几",
+        "一点儿"
+      ],
+      "vi": "Bạn xem, cái cặp này đẹp biết bao!",
+      "grammar": [
+        84
+      ]
+    },
+    {
+      "id": "hsk2-03-e13",
+      "type": "translate",
+      "vi": "Chiếc đồng hồ này đắt nhất.",
+      "answers": [
+        "这块手表最贵。",
+        "这个手表最贵。"
+      ],
+      "examples": [
+        {
+          "answer": "这块手表最贵。",
+          "score": 100
+        },
+        {
+          "answer": "这个手表最贵。",
+          "score": 100
+        },
+        {
+          "answer": "这块手表最便宜。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        84
+      ]
+    },
+    {
+      "id": "hsk2-03-e14",
+      "type": "choice",
+      "promptVi": "「我要红色的。」 nghĩa là gì?",
+      "options": [
+        "Tôi lấy cái màu đỏ.",
+        "Tôi muốn màu đỏ của tôi.",
+        "Tôi cần một chút màu đỏ."
+      ],
+      "answer": 0,
+      "grammar": [
+        105
+      ]
+    },
+    {
+      "id": "hsk2-03-e15",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这个书包是",
+      "after": "？",
+      "answers": [
+        "谁的"
+      ],
+      "options": [
+        "谁的",
+        "谁",
+        "什么"
+      ],
+      "vi": "Cái cặp sách này là của ai?",
+      "grammar": [
+        105
+      ]
+    },
+    {
+      "id": "hsk2-03-e16",
+      "type": "order",
+      "vi": "Tôi không lấy cái màu đen, tôi lấy cái màu trắng.",
+      "tiles": [
+        "我",
+        "不要",
+        "黑色的",
+        "我",
+        "要",
+        "白色的"
+      ],
+      "answers": [
+        "我不要黑色的我要白色的",
+        "我要白色的我不要黑色的"
+      ],
+      "grammar": [
+        105
+      ]
+    },
+    {
+      "id": "hsk2-03-e17",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "这个手机是谁的？",
+        "promptVi": "Cái điện thoại này là của ai? (Giả sử đó là điện thoại của bạn.)",
+        "answers": [
+          "(这个手机)是我的。",
+          "我的。"
+        ],
+        "examples": [
+          {
+            "answer": "是我的。",
+            "score": 100
+          },
+          {
+            "answer": "这个手机是我的。",
+            "score": 100
+          },
+          {
+            "answer": "我的。",
+            "score": 100
+          },
+          {
+            "answer": "这个手机是我。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ],
+            "note": "Thiếu 「的」"
+          },
+          {
+            "answer": "是他的。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        105
+      ]
+    },
+    {
+      "id": "hsk2-03-e18",
+      "type": "choice",
+      "promptVi": "Khi mặc cả, bạn muốn nói 'Rẻ hơn một chút đi!'. Câu nào đúng?",
+      "options": [
+        "便宜一点儿吧！",
+        "一点儿便宜吧！",
+        "有点儿便宜吧！"
+      ],
+      "answer": 0,
+      "explainVi": "「一点儿」 đứng sau tính từ. 「有点儿便宜」 nghĩa là 'hơi rẻ', không phải lời mặc cả.",
+      "grammar": [
+        124
+      ]
+    },
+    {
+      "id": "hsk2-03-e19",
+      "type": "translate",
+      "vi": "Cái màu trắng đắt hơn năm mươi tệ.",
+      "answers": [
+        "白色的贵五十块(钱)。",
+        "白色的贵五十元。"
+      ],
+      "examples": [
+        {
+          "answer": "白色的贵五十块。",
+          "score": 100
+        },
+        {
+          "answer": "白色的贵五十块钱。",
+          "score": 100
+        },
+        {
+          "answer": "白色的贵三十块。",
+          "score": 0
+        },
+        {
+          "answer": "白色的便宜五十块。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        124,
+        105
+      ]
+    },
+    {
+      "id": "hsk2-03-e20",
+      "type": "choice",
+      "promptVi": "「这条裤子长了一点儿。」 nghĩa là gì?",
+      "options": [
+        "Cái quần này dài quá một chút.",
+        "Cái quần này ngắn quá.",
+        "Cái quần này dài nhất."
+      ],
+      "answer": 0,
+      "grammar": [
+        124
+      ]
+    },
+    {
+      "id": "hsk2-03-e21",
+      "type": "choice",
+      "promptVi": "Câu hỏi nào đúng? (Bạn lấy cái màu đỏ hay cái màu trắng?)",
+      "options": [
+        "你要红色的还是白色的？",
+        "你要红色的还是白色的吗？",
+        "你要红色的和白色的吗？"
+      ],
+      "answer": 0,
+      "explainVi": "Câu hỏi lựa chọn dùng 「还是」 và không thêm 「吗」.",
+      "grammar": [
+        126
+      ]
+    },
+    {
+      "id": "hsk2-03-e22",
+      "type": "order",
+      "vi": "Chúng ta đi trung tâm thương mại hay mua trên mạng?",
+      "tiles": [
+        "我们",
+        "去商场",
+        "还是",
+        "在网上",
+        "买"
+      ],
+      "answers": [
+        "我们去商场还是在网上买",
+        "我们在网上买还是去商场"
+      ],
+      "grammar": [
+        126
+      ]
+    },
+    {
+      "id": "hsk2-03-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你喝茶还是喝水？",
+        "promptVi": "Bạn uống trà hay uống nước? (Giả sử bạn muốn uống trà.)",
+        "answers": [
+          "(我)喝茶。",
+          "茶。",
+          "我[要|想]喝茶。"
+        ],
+        "examples": [
+          {
+            "answer": "我喝茶。",
+            "score": 100
+          },
+          {
+            "answer": "茶。",
+            "score": 100
+          },
+          {
+            "answer": "我想喝茶。",
+            "score": 100
+          },
+          {
+            "answer": "我喝水。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        126
+      ]
+    },
+    {
+      "id": "hsk2-03-e24",
+      "type": "translate",
+      "vi": "Bạn là giáo viên hay học sinh?",
+      "answers": [
+        "你是[老师还是学生|学生还是老师]？"
+      ],
+      "examples": [
+        {
+          "answer": "你是老师还是学生？",
+          "score": 100
+        },
+        {
+          "answer": "你是学生还是老师？",
+          "score": 100
+        },
+        {
+          "answer": "你是老师还是医生？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        126
+      ]
+    },
+    {
+      "id": "hsk2-03-e25",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我在商场买了",
+      "after": "件衣服。",
+      "answers": [
+        "几"
+      ],
+      "options": [
+        "几",
+        "多",
+        "好"
+      ],
+      "vi": "Tôi mua vài bộ quần áo ở trung tâm thương mại.",
+      "grammar": [
+        146
+      ]
+    },
+    {
+      "id": "hsk2-03-e26",
+      "type": "choice",
+      "promptVi": "「我有十几个外国朋友。」 nghĩa là gì?",
+      "options": [
+        "Tôi có mười mấy người bạn nước ngoài.",
+        "Tôi có mười người bạn nước ngoài.",
+        "Tôi có mấy người bạn nước ngoài?"
+      ],
+      "answer": 0,
+      "explainVi": "「十几」 là mười mấy (từ 11 đến 19). Câu kết thúc bằng dấu chấm nên không phải câu hỏi.",
+      "grammar": [
+        146
+      ]
+    },
+    {
+      "id": "hsk2-03-e27",
+      "type": "translate",
+      "vi": "Hôm qua tôi đã mua vài quyển sách.",
+      "answers": [
+        "[我昨天|昨天我]买了几本书。"
+      ],
+      "examples": [
+        {
+          "answer": "我昨天买了几本书。",
+          "score": 100
+        },
+        {
+          "answer": "昨天我买了几本书。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天买几本书。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Việc đã xảy ra, tân ngữ có số lượng: cần 「了」"
+        },
+        {
+          "answer": "我昨天买了十本书。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        146
+      ]
+    },
+    {
+      "id": "hsk2-03-e28",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Cái quần này hơn một trăm tệ.)",
+      "options": [
+        "这条裤子一百多块。",
+        "这条裤子多一百块。",
+        "这条裤子一多百块。"
+      ],
+      "answer": 0,
+      "explainVi": "Số tròn trăm: 「多」 đứng sau số, trước lượng từ: 一百多块.",
+      "grammar": [
+        147
+      ]
+    },
+    {
+      "id": "hsk2-03-e29",
+      "type": "order",
+      "vi": "Trong trung tâm thương mại có hơn ba mươi cửa hàng.",
+      "tiles": [
+        "商场里",
+        "有",
+        "三十",
+        "多",
+        "家",
+        "商店"
+      ],
+      "answers": [
+        "商场里有三十多家商店"
+      ],
+      "grammar": [
+        147
+      ]
+    },
+    {
+      "id": "hsk2-03-e30",
+      "type": "translate",
+      "vi": "Ông nội tôi hơn bảy mươi tuổi rồi.",
+      "answers": [
+        "我爷爷七十多岁了。"
+      ],
+      "examples": [
+        {
+          "answer": "我爷爷七十多岁了。",
+          "score": 100
+        },
+        {
+          "answer": "我爷爷七十多岁。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 「了」 (rồi)"
+        },
+        {
+          "answer": "我爷爷七十岁了。",
+          "score": 0
+        },
+        {
+          "answer": "我爷爷八十多岁了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        147
+      ]
+    },
+    {
+      "id": "hsk2-03-e31",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我在商场等了一个",
+      "after": "小时。",
+      "answers": [
+        "多"
+      ],
+      "options": [
+        "多",
+        "几",
+        "好"
+      ],
+      "vi": "Tôi đợi ở trung tâm thương mại hơn một tiếng.",
+      "grammar": [
+        148
+      ]
+    },
+    {
+      "id": "hsk2-03-e32",
+      "type": "order",
+      "vi": "Cô ấy sống ở Bắc Kinh hơn một tháng.",
+      "tiles": [
+        "她",
+        "在北京",
+        "住了",
+        "一个",
+        "多",
+        "月"
+      ],
+      "answers": [
+        "她在北京住了一个多月"
+      ],
+      "explainVi": "Số lẻ (一): 「多」 đứng sau lượng từ 「个」: 一个多月.",
+      "grammar": [
+        148
+      ]
+    },
+    {
+      "id": "hsk2-03-e33",
+      "type": "translate",
+      "vi": "Tôi đã học tiếng Hán hơn hai năm.",
+      "answers": [
+        "我学了两年多(的)汉语(了)。",
+        "我学汉语学了两年多(了)。",
+        "我学汉语两年多了。"
+      ],
+      "examples": [
+        {
+          "answer": "我学了两年多汉语。",
+          "score": 100
+        },
+        {
+          "answer": "我学汉语学了两年多了。",
+          "score": 100
+        },
+        {
+          "answer": "我学汉语两年多了。",
+          "score": 100
+        },
+        {
+          "answer": "我学了二十多年汉语。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        148,
+        123
+      ]
+    }
+  ]
+}
