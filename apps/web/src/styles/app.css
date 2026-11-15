@@ -849,3 +849,146 @@ input[type='search'] {
 .rating.r3 {
   border-color: var(--good);
 }
+
+/* Exercises */
+.progress-bar {
+  height: 6px;
+  margin: 4px 0 8px;
+  border-radius: 999px;
+  background: var(--surface-2);
+  overflow: hidden;
+}
+.progress-bar span {
+  display: block;
+  height: 100%;
+  background: var(--accent);
+}
+.ex-prompt {
+  margin-top: 0;
+  font-weight: 600;
+}
+.ex-zh {
+  font-size: 1.5rem;
+  margin: 8px 0;
+}
+.ex-zh-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.ex-vi {
+  font-size: 1.15rem;
+}
+.options {
+  display: grid;
+  gap: 8px;
+  margin: 12px 0;
+}
+.options.inline {
+  display: flex;
+  flex-wrap: wrap;
+}
+.option {
+  min-height: 48px;
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  background: var(--surface);
+  color: var(--text);
+  font: inherit;
+  font-size: 1.05rem;
+  text-align: left;
+  cursor: pointer;
+}
+.option.picked {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+.option.right {
+  border-color: var(--good);
+  background: var(--good-soft);
+  color: var(--good);
+}
+.option.wrong {
+  border-color: var(--bad);
+  background: var(--bad-soft);
+  color: var(--bad);
+}
+.option:disabled {
+  cursor: default;
+}
+.fill-line .blank {
+  display: inline-block;
+  min-width: 2.5em;
+  margin: 0 4px;
+  border-bottom: 2px solid var(--accent);
+  text-align: center;
+}
+.order-line {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  min-height: 56px;
+  margin: 8px 0;
+  padding: 8px;
+  border: 2px dashed var(--border);
+  border-radius: 12px;
+}
+.tile-pool {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 8px 0;
+}
+.tile {
+  min-width: 48px;
+  min-height: 48px;
+  padding: 6px 12px;
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  background: var(--surface-2);
+  color: var(--text);
+  font: inherit;
+  font-size: 1.3rem;
+  cursor: pointer;
+}
+.tile.placed {
+  background: var(--accent-soft);
+  border-color: var(--accent);
+}
+.match-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+}
+.match-col {
+  display: grid;
+  gap: 8px;
+  align-content: start;
+}
+.feedback {
+  margin-top: 12px;
+  padding: 12px;
+  border-radius: 12px;
+}
+.feedback.good {
+  background: var(--good-soft);
+}
+.feedback.bad {
+  background: var(--bad-soft);
+}
+.verdict-line {
+  margin-top: 0;
+}
+.ime-hint {
+  flex-basis: 100%;
+  margin: 4px 0 0;
+  font-size: 0.85rem;
+}
+.answer-form {
+  flex-wrap: wrap;
+}
+.score-line {
+  font-size: 1.4rem;
+  font-weight: 700;
+}
