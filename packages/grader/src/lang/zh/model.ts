@@ -45,6 +45,8 @@ const TRAILING_PARTICLES = new Set(['啊', '呀', '哦', '啦', '嘛', '喔']);
 const LIGHT_WORDS = new Set(['是', '的', '了', '很', '也', '都', '就', '还', '个', '呢', '吧', '啊', '呀']);
 /** Characters that change the meaning; an edit on them is never tolerated. */
 const CRITICAL = new Set(['不', '没', '别', '无', '非', '未', '吗', '否']);
+/** Same pinyin but opposite or very different meanings: never a typing slip (买 mua / 卖 bán). */
+const MEANINGFUL_HOMOPHONES: readonly (readonly [string, string])[] = [['买', '卖']];
 
 /** Splits a normalized text into comparable units (characters and numbers). */
 export function unitize(text: string): Unit[] {
@@ -89,6 +91,7 @@ function isHomophonePair(a: Unit, b: Unit): boolean {
   if (a.surface.length !== 1 || b.surface.length !== 1) return false;
   if (a.kind === 'number' && b.kind === 'number') return false; // 四 vs 十 are different answers
   if (CRITICAL.has(a.surface) || CRITICAL.has(b.surface)) return false;
+  if (MEANINGFUL_HOMOPHONES.some(([x, y]) => (a.surface === x && b.surface === y) || (a.surface === y && b.surface === x))) return false;
   return isHomophone(a.surface, b.surface);
 }
 

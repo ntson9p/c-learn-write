@@ -110,3 +110,11 @@ describe('gradeZhModel', () => {
     expect(gradeZhModel(thing, 'apple').content.message).toBe('Hãy trả lời bằng chữ Hán.');
   });
 });
+
+describe('model: homophones that change the meaning', () => {
+  const q: ModelQuestion = { id: 'buy', lang: 'zh', type: 'model', prompt: '你想做什么？', answers: ['我想买一个新手机。'] };
+  it('does not take 卖 for a typo of 买', () => {
+    expect(gradeZhModel(q, '我想卖一个新手机。').score).toBe(0);
+    expect(gradeZhModel(q, '我想买一个新手机。').score).toBe(100);
+  });
+});
