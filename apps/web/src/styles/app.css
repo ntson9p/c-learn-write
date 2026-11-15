@@ -689,6 +689,7 @@ input:not([type]) {
   gap: 8px;
 }
 .hanzi-big {
+  margin: 0;
   font-size: 3.4rem;
   line-height: 1.2;
 }

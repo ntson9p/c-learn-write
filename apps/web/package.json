@@ -28,6 +28,7 @@
     "fake-indexeddb": "6.2.7",
     "playwright": "1.63.0",
     "vite-plugin-pwa": "2.0.0",
-    "hanzi-writer-data": "2.0.1"
+    "hanzi-writer-data": "2.0.1",
+    "axe-core": "4.14.0"
   }
 }

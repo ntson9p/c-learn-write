@@ -20,9 +20,9 @@ export default function WordPage({ params }: PageProps) {
     <section class="page word-page">
       <div class="card word-head">
         <div class="word-main">
-          <span class="zh hanzi-big" lang="zh-CN">
+          <h1 class="zh hanzi-big" lang="zh-CN">
             {official.word}
-          </span>
+          </h1>
           <SpeakButton text={official.word} />
         </div>
         <p class="pinyin-big">{official.pinyin}</p>
