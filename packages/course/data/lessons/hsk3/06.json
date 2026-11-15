@@ -1,0 +1,1455 @@
+{
+  "id": "hsk3-06",
+  "goalsVi": [
+    "Nói về nhà ở, đồ đạc và việc nhà: 房子, 小区, 邻居, 冰箱, 空调, 打扫, 干净…",
+    "Dùng câu chữ 「把」 để nói đặt, chuyển một đồ vật đến đâu: 我把箱子放在门口了",
+    "Dùng câu chữ 「把」 với bổ ngữ để nói kết quả việc làm: 把房间打扫干净, 把沙发搬进来",
+    "Kể ở đâu có thêm hoặc bớt đi người, vật: 楼上搬来了一位新邻居, 楼上搬走了一位邻居"
+  ],
+  "words": [
+    {
+      "no": 508,
+      "word": "搬",
+      "meaningsVi": [
+        "khiêng, bê, chuyển (vật nặng, to)",
+        "dọn, chuyển (nhà, chỗ ở)"
+      ],
+      "noteVi": "Dùng cho đồ to, nặng phải bê đi: 搬箱子, 搬沙发. Cầm đồ nhỏ thì dùng 「拿」. Khiêng không nổi: 搬不动.",
+      "examples": [
+        {
+          "zh": "你能帮我搬一下箱子吗？",
+          "py": "nǐ néng bāng wǒ bān yí xià xiāng zi ma",
+          "vi": "Bạn giúp tôi khiêng cái hòm một chút được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 509,
+      "word": "搬家",
+      "meaningsVi": [
+        "chuyển nhà, dọn nhà"
+      ],
+      "noteVi": "「搬家」 là động từ + tân ngữ (搬 + 家), nên có thể tách ra: 我搬过三次家 (Tôi đã chuyển nhà ba lần). Không nói 搬家到…; nói 搬到 + nơi mới: 我们搬到河内了.",
+      "examples": [
+        {
+          "zh": "我们下个月搬家。",
+          "py": "wǒ men xià gè yuè bān jiā",
+          "vi": "Tháng sau chúng tôi chuyển nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 623,
+      "word": "房子",
+      "meaningsVi": [
+        "nhà, căn nhà (công trình để ở)"
+      ],
+      "noteVi": "「房子」 là cả căn nhà; một phòng trong nhà là 「房间」. Chú ý: 「家」 là gia đình, tổ ấm; 「房子」 là ngôi nhà (vật chất): 买房子 (mua nhà), 回家 (về nhà).",
+      "examples": [
+        {
+          "zh": "他们在河内买了新房子。",
+          "py": "tā men zài hé nèi mǎi le xīn fáng zi",
+          "vi": "Họ đã mua nhà mới ở Hà Nội."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 879,
+      "word": "屋子",
+      "meaningsVi": [
+        "phòng, gian phòng",
+        "nhà (khẩu ngữ)"
+      ],
+      "noteVi": "Khẩu ngữ, hay dùng ở miền Bắc Trung Quốc, nghĩa gần với 「房间」: 屋子里 = 房间里.",
+      "examples": [
+        {
+          "zh": "屋子里有点儿脏，我们打扫一下吧。",
+          "py": "wū zi lǐ yǒu diǎn r zāng wǒ men dǎ sǎo yí xià ba",
+          "vi": "Trong phòng hơi bẩn, chúng ta dọn dẹp một chút đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 835,
+      "word": "室",
+      "meaningsVi": [
+        "phòng (thường trong từ ghép: 教室, 卧室)"
+      ],
+      "noteVi": "「室」 ít đứng một mình; hay gặp trong từ ghép: 教室 (lớp học), 卧室 (phòng ngủ), 办公室 (văn phòng). Quảng cáo nhà hay viết 两室一厅: hai phòng ngủ, một phòng khách.",
+      "examples": [
+        {
+          "zh": "我们的教室在三层。",
+          "py": "wǒ men de jiào shì zài sān céng",
+          "vi": "Lớp học của chúng tôi ở tầng ba."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 897,
+      "word": "小区",
+      "meaningsVi": [
+        "khu dân cư, khu chung cư"
+      ],
+      "noteVi": "Ở Trung Quốc, 小区 là một khu có nhiều tòa nhà ở, có cổng, có bảo vệ, giống 'khu chung cư' hay 'khu đô thị' ở Việt Nam.",
+      "examples": [
+        {
+          "zh": "我家住在一个很大的小区里。",
+          "py": "wǒ jiā zhù zài yí gè hěn dà de xiǎo qū lǐ",
+          "vi": "Nhà tôi ở trong một khu chung cư rất lớn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 758,
+      "word": "邻居",
+      "meaningsVi": [
+        "hàng xóm, láng giềng"
+      ],
+      "noteVi": "Hán Việt 'lân cư' (người ở bên cạnh). Lượng từ: 一位邻居, 一个邻居.",
+      "examples": [
+        {
+          "zh": "我们的邻居是一位老师。",
+          "py": "wǒ men de lín jū shì yí wèi lǎo shī",
+          "vi": "Hàng xóm của chúng tôi là một thầy giáo."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 549,
+      "word": "层",
+      "meaningsVi": [
+        "tầng (lượng từ)"
+      ],
+      "noteVi": "Hỏi: 你家住在几层？ (Nhà bạn ở tầng mấy?). Khẩu ngữ cũng hay dùng 「楼」: 八楼 = 八层. Chú ý: tầng một của Trung Quốc (一层) là tầng trệt, tức 'tầng một' ở miền Bắc Việt Nam.",
+      "examples": [
+        {
+          "zh": "我家住在八层。",
+          "py": "wǒ jiā zhù zài bā céng",
+          "vi": "Nhà tôi ở tầng tám."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 594,
+      "word": "电梯",
+      "meaningsVi": [
+        "thang máy"
+      ],
+      "noteVi": "Nghĩa đen: 'thang điện'. Đi thang máy: 坐电梯.",
+      "examples": [
+        {
+          "zh": "这个楼有电梯吗？",
+          "py": "zhè ge lóu yǒu diàn tī ma",
+          "vi": "Tòa nhà này có thang máy không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 761,
+      "word": "楼梯",
+      "meaningsVi": [
+        "cầu thang"
+      ],
+      "noteVi": "Đi cầu thang bộ: 走楼梯. So sánh: 坐电梯 (đi thang máy).",
+      "examples": [
+        {
+          "zh": "电梯坏了，我们走楼梯上去吧。",
+          "py": "diàn tī huài le wǒ men zǒu lóu tī shàng qù ba",
+          "vi": "Thang máy hỏng rồi, chúng ta đi cầu thang lên đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 875,
+      "word": "卫生间",
+      "meaningsVi": [
+        "nhà vệ sinh, phòng vệ sinh"
+      ],
+      "noteVi": "Cùng nghĩa với 「洗手间」 (HSK2). Hán Việt 'vệ sinh gian' rất giống tiếng Việt.",
+      "examples": [
+        {
+          "zh": "请问，卫生间在哪儿？",
+          "py": "qǐng wèn wèi shēng jiān zài nǎ r",
+          "vi": "Xin hỏi, nhà vệ sinh ở đâu ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 822,
+      "word": "沙发",
+      "meaningsVi": [
+        "ghế sofa, ghế xô-pha"
+      ],
+      "noteVi": "Phiên âm từ 'sofa'. Là đồ vật nên chỉ chỗ phải có phương vị từ: 在沙发上.",
+      "examples": [
+        {
+          "zh": "猫在沙发上睡觉。",
+          "py": "māo zài shā fā shàng shuì jiào",
+          "vi": "Con mèo ngủ trên ghế sofa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 536,
+      "word": "冰箱",
+      "meaningsVi": [
+        "tủ lạnh"
+      ],
+      "noteVi": "Nghĩa đen: 'hòm băng' (冰 + 箱). Đồ để trong tủ lạnh: 冰箱里.",
+      "examples": [
+        {
+          "zh": "冰箱里有很多水果。",
+          "py": "bīng xiāng lǐ yǒu hěn duō shuǐ guǒ",
+          "vi": "Trong tủ lạnh có rất nhiều hoa quả."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 739,
+      "word": "空调",
+      "meaningsVi": [
+        "máy điều hòa"
+      ],
+      "noteVi": "Bật điều hòa: 开空调; tắt điều hòa: 关空调. Hán Việt 'không điều' (điều hòa không khí).",
+      "examples": [
+        {
+          "zh": "屋子里太热了，开空调吧。",
+          "py": "wū zi lǐ tài rè le kāi kōng tiáo ba",
+          "vi": "Trong phòng nóng quá, bật điều hòa đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 886,
+      "word": "洗衣机",
+      "meaningsVi": [
+        "máy giặt"
+      ],
+      "noteVi": "洗 (giặt) + 衣 (quần áo) + 机 (máy).",
+      "examples": [
+        {
+          "zh": "洗衣机坏了，我们去买一个新的吧。",
+          "py": "xǐ yī jī huài le wǒ men qù mǎi yí gè xīn de ba",
+          "vi": "Máy giặt hỏng rồi, chúng ta đi mua cái mới đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 588,
+      "word": "灯",
+      "meaningsVi": [
+        "đèn"
+      ],
+      "noteVi": "Bật đèn: 开灯; tắt đèn: 关灯. Đèn giao thông là 红绿灯 (bài 7).",
+      "examples": [
+        {
+          "zh": "出门的时候，别忘了关灯。",
+          "py": "chū mén de shí hou bié wàng le guān dēng",
+          "vi": "Lúc ra khỏi nhà, đừng quên tắt đèn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 893,
+      "word": "箱子",
+      "meaningsVi": [
+        "cái hòm, thùng, va li"
+      ],
+      "noteVi": "Chỉ chung các loại hộp lớn, thùng, va li. Đồ bên trong: 箱子里.",
+      "examples": [
+        {
+          "zh": "箱子里都是书。",
+          "py": "xiāng zi lǐ dōu shì shū",
+          "vi": "Trong thùng toàn là sách."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 990,
+      "word": "子",
+      "meaningsVi": [
+        "hậu tố tạo danh từ, đọc nhẹ (桌子, 箱子, 房子)"
+      ],
+      "noteVi": "「子」 đứng sau một chữ để tạo danh từ, không mang nghĩa 'con', đọc nhẹ là zi: 桌子, 椅子, 箱子, 房子, 屋子, 盘子, 筷子, 勺子. Nhiều chữ phải có 「子」 mới đứng một mình được: nói 一张桌子, không nói 一张桌.",
+      "examples": [
+        {
+          "zh": "桌子上有一个箱子。",
+          "py": "zhuō zi shàng yǒu yí gè xiāng zi",
+          "vi": "Trên bàn có một cái hòm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 506,
+      "word": "把",
+      "meaningsVi": [
+        "giới từ 「把」: đưa tân ngữ lên trước động từ (xem ngữ pháp)",
+        "lượng từ cho đồ có tay cầm: 一把椅子, 一把勺子"
+      ],
+      "noteVi": "Là giới từ: 我把箱子放在门口了 (Tôi để cái hòm ở cửa rồi). Là lượng từ: dùng cho đồ vật có chỗ cầm, tay vịn: 一把椅子 (một cái ghế), 一把勺子 (một cái thìa).",
+      "examples": [
+        {
+          "zh": "我把箱子放在门口了。",
+          "py": "wǒ bǎ xiāng zi fàng zài mén kǒu le",
+          "vi": "Tôi để cái hòm ở cửa rồi."
+        },
+        {
+          "zh": "这把椅子是新的。",
+          "py": "zhè bǎ yǐ zi shì xīn de",
+          "vi": "Cái ghế này là ghế mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 624,
+      "word": "放",
+      "meaningsVi": [
+        "đặt, để",
+        "cho vào, bỏ vào (gia vị…)"
+      ],
+      "noteVi": "Đặt ở đâu: 放在 + nơi chốn. Có tân ngữ thì thường dùng câu chữ 把: 把书放在桌子上; không nói 放书在桌子上.",
+      "examples": [
+        {
+          "zh": "你的书我放在桌子上了。",
+          "py": "nǐ de shū wǒ fàng zài zhuō zi shàng le",
+          "vi": "Sách của bạn tôi để trên bàn rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 652,
+      "word": "关",
+      "meaningsVi": [
+        "đóng (cửa)",
+        "tắt (đèn, máy)"
+      ],
+      "noteVi": "Tiếng Việt dùng hai từ 'đóng' và 'tắt', tiếng Trung chỉ cần 「关」: 关门 (đóng cửa), 关灯 (tắt đèn), 关空调 (tắt điều hòa). Ngược lại là 「开」: 开门, 开灯.",
+      "examples": [
+        {
+          "zh": "请关一下门。",
+          "py": "qǐng guān yí xià mén",
+          "vi": "Làm ơn đóng cửa lại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 571,
+      "word": "打扫",
+      "meaningsVi": [
+        "quét dọn, dọn dẹp"
+      ],
+      "noteVi": "Dọn dẹp nơi chốn: 打扫房间, 打扫卫生间. Kết quả: 打扫干净.",
+      "examples": [
+        {
+          "zh": "周末我们一起打扫房间吧。",
+          "py": "zhōu mò wǒ men yì qǐ dǎ sǎo fáng jiān ba",
+          "vi": "Cuối tuần chúng ta cùng dọn phòng nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 821,
+      "word": "扫",
+      "meaningsVi": [
+        "quét"
+      ],
+      "noteVi": "Quét nhà là 扫地 (quét sàn).",
+      "examples": [
+        {
+          "zh": "我每天都扫地。",
+          "py": "wǒ měi tiān dōu sǎo dì",
+          "vi": "Ngày nào tôi cũng quét nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 589,
+      "word": "地",
+      "meaningsVi": [
+        "mặt đất, sàn nhà"
+      ],
+      "noteVi": "Nghĩa này đọc là dì: 地上 (trên sàn, dưới đất), 扫地 (quét nhà). Khi là trợ từ đứng trước động từ (一个一个地进来) thì đọc nhẹ là de.",
+      "examples": [
+        {
+          "zh": "地上很脏，我扫一下。",
+          "py": "dì shàng hěn zāng wǒ sǎo yí xià",
+          "vi": "Sàn bẩn quá, để tôi quét một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 636,
+      "word": "干净",
+      "meaningsVi": [
+        "sạch, sạch sẽ"
+      ],
+      "noteVi": "Hay làm bổ ngữ kết quả: 洗干净 (giặt/rửa sạch), 打扫干净 (dọn sạch). Chữ 「干」 ở đây đọc gān.",
+      "examples": [
+        {
+          "zh": "我的房间很干净。",
+          "py": "wǒ de fáng jiān hěn gān jìng",
+          "vi": "Phòng tôi rất sạch sẽ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 963,
+      "word": "脏",
+      "meaningsVi": [
+        "bẩn, dơ"
+      ],
+      "noteVi": "Ngược nghĩa với 「干净」. Bị bẩn: 脏了.",
+      "examples": [
+        {
+          "zh": "你的衣服脏了，快去洗洗吧。",
+          "py": "nǐ de yī fu zāng le kuài qù xǐ xǐ ba",
+          "vi": "Quần áo của bạn bẩn rồi, mau đi giặt đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 504,
+      "word": "安静",
+      "meaningsVi": [
+        "yên tĩnh, yên lặng"
+      ],
+      "noteVi": "Nói về nơi chốn (这个小区很安静) hoặc yêu cầu giữ trật tự: 请安静！",
+      "examples": [
+        {
+          "zh": "这个小区很安静。",
+          "py": "zhè ge xiǎo qū hěn ān jìng",
+          "vi": "Khu chung cư này rất yên tĩnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 619,
+      "word": "方便",
+      "meaningsVi": [
+        "thuận tiện, tiện lợi"
+      ],
+      "noteVi": "Hán Việt 'phương tiện', nhưng tiếng Trung là tính từ 'thuận tiện', không phải danh từ 'phương tiện (giao thông)'. 方便面 là mì ăn liền.",
+      "examples": [
+        {
+          "zh": "这儿离地铁站很近，住在这儿很方便。",
+          "py": "zhè r lí dì tiě zhàn hěn jìn zhù zài zhè r hěn fāng biàn",
+          "vi": "Ở đây gần ga tàu điện ngầm, sống ở đây rất tiện."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 215,
+      "titleVi": "Câu chữ 「把」 (1): 把 + vật + động từ + 在/到 + nơi chốn",
+      "summaryVi": "Chủ ngữ + 把 + vật + 放/搬… + 在/到 + nơi chốn: nói đặt, chuyển một vật **xác định** đến đâu (我把箱子放在门口了).",
+      "explanationVi": [
+        "Câu chữ 「把」 dùng khi chủ ngữ **tác động** lên một vật cụ thể và làm vật đó thay đổi (đổi chỗ, đổi trạng thái). 「把」 đưa vật (tân ngữ) lên **trước** động từ: 我**把箱子**放在门口了 (Tôi để cái hòm ở cửa rồi). Tiếng Việt không có từ tương ứng: ta chỉ nói 'để cái hòm ở cửa'.",
+        "Khi nói đặt, chuyển vật **đến một chỗ**, sau động từ là 「在/到 + nơi chốn」: 把书放在桌子上, 把沙发搬到楼上. Dịch thẳng theo tiếng Việt thành 放箱子在门口 là **sai**: sau động từ không thể vừa có tân ngữ vừa có 在 + nơi chốn. Phải dùng 「把」: 我把箱子放在门口了.",
+        "Vật sau 「把」 là thứ **đã xác định** (người nghe biết là cái nào): 这个箱子, 我的书, 沙发. 「在」 hay dùng khi vật nằm yên ở chỗ mới (放在, 坐在); 「到」 nhấn mạnh **di chuyển đến** (搬到, 拿到). Nơi chốn là đồ vật thì nhớ thêm phương vị từ: 放在沙发上.",
+        "Phủ định (没, 不, 别) và động từ năng nguyện (要, 想, 能…) đứng **trước** 「把」: 我没把牛奶放在冰箱里, 你能把沙发搬到这儿吗？"
+      ],
+      "patterns": [
+        "Chủ ngữ + 把 + tân ngữ + động từ + 在/到 + nơi chốn (+ 了)",
+        "Chủ ngữ + 没/别/能/要… + 把 + tân ngữ + động từ + 在/到 + nơi chốn"
+      ],
+      "examples": [
+        {
+          "zh": "我把箱子放在沙发旁边了。",
+          "py": "wǒ bǎ xiāng zi fàng zài shā fā páng biān le",
+          "vi": "Tôi để cái hòm cạnh ghế sofa rồi."
+        },
+        {
+          "zh": "请把沙发搬到房间里。",
+          "py": "qǐng bǎ shā fā bān dào fáng jiān lǐ",
+          "vi": "Làm ơn khiêng ghế sofa vào trong phòng."
+        },
+        {
+          "zh": "你把手机放在哪儿了？",
+          "py": "nǐ bǎ shǒu jī fàng zài nǎ r le",
+          "vi": "Bạn để điện thoại ở đâu rồi?"
+        },
+        {
+          "zh": "我没把牛奶放在冰箱里。",
+          "py": "wǒ méi bǎ niú nǎi fàng zài bīng xiāng lǐ",
+          "vi": "Tôi không để sữa vào tủ lạnh."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我放箱子在门口了。",
+          "right": "我把箱子放在门口了。",
+          "noteVi": "Dịch thẳng 'để cái hòm ở cửa' là sai: dùng 「把」 đưa 箱子 lên trước động từ.",
+          "issue": "place_order"
+        },
+        {
+          "wrong": "我把箱子没放在门口。",
+          "right": "我没把箱子放在门口。",
+          "noteVi": "「没」 đứng trước 「把」, không đứng trước động từ."
+        },
+        {
+          "wrong": "我把手机放在沙发。",
+          "right": "我把手机放在沙发上。",
+          "noteVi": "「沙发」 là đồ vật, phải thêm phương vị từ mới thành nơi chốn.",
+          "issue": "missing_localizer"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 217,
+      "titleVi": "Câu chữ 「把」 (2): 把 + vật + động từ + bổ ngữ",
+      "summaryVi": "Chủ ngữ + 把 + vật + động từ + bổ ngữ kết quả/xu hướng/trạng thái: nói việc làm khiến vật **ra sao** (把房间打扫干净了, 把沙发搬进来, 把地扫得很干净).",
+      "explanationVi": [
+        "Sau động từ trong câu chữ 「把」 phải có **kết quả** của hành động. Ba loại hay gặp: bổ ngữ kết quả (把房间打扫**干净**, 把灯关**上**, 把牛奶喝**完**), bổ ngữ xu hướng (把沙发搬**进来**, 把箱子拿**出去**), bổ ngữ trạng thái với 得 (把地扫**得很干净**).",
+        "Động từ **không** đứng trơ một mình ở cuối câu chữ 「把」: không nói 我把房间打扫. Tiếng Việt 'Tôi dọn phòng sạch rồi' có 'sạch' đứng sau tân ngữ; tiếng Trung đưa tân ngữ lên sau 「把」, còn 干净 bám liền sau động từ: 我把房间打扫干净了.",
+        "「了」 đứng **sau cả cụm động từ + bổ ngữ**: 打扫干净了, không chen vào giữa (打扫了干净). Phủ định dùng 「没」 trước 「把」: 我没把房间打扫干净. Lời nhờ, lời dặn hay dùng 请/别 + 把…: 出门的时候请把灯关上.",
+        "Khi nào dùng 「把」? Khi muốn nói **xử lý** một vật xác định và kết quả của việc đó. Nếu chỉ kể một hành động, không có kết quả (我周末打扫房间), thì không cần 「把」."
+      ],
+      "patterns": [
+        "Chủ ngữ + 把 + tân ngữ + động từ + bổ ngữ kết quả (+ 了)",
+        "Chủ ngữ + 把 + tân ngữ + động từ + 进来/出去/上去… (+ 了)",
+        "Chủ ngữ + 把 + tân ngữ + động từ + 得 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "我已经把房间打扫干净了。",
+          "py": "wǒ yǐ jīng bǎ fáng jiān dǎ sǎo gān jìng le",
+          "vi": "Tôi đã dọn phòng sạch sẽ rồi."
+        },
+        {
+          "zh": "出门的时候，请把灯关上。",
+          "py": "chū mén de shí hou qǐng bǎ dēng guān shàng",
+          "vi": "Khi ra ngoài, làm ơn tắt đèn."
+        },
+        {
+          "zh": "我们把沙发搬进来了。",
+          "py": "wǒ men bǎ shā fā bān jìn lái le",
+          "vi": "Chúng tôi đã khiêng ghế sofa vào rồi."
+        },
+        {
+          "zh": "妈妈把衣服洗得很干净。",
+          "py": "mā ma bǎ yī fu xǐ de hěn gān jìng",
+          "vi": "Mẹ giặt quần áo rất sạch."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我把房间打扫。",
+          "right": "我把房间打扫干净了。",
+          "noteVi": "Câu chữ 「把」 phải có kết quả sau động từ (干净, 好, 完, 进来…)."
+        },
+        {
+          "wrong": "我把房间打扫了干净。",
+          "right": "我把房间打扫干净了。",
+          "noteVi": "「了」 đứng sau bổ ngữ kết quả, không chen giữa động từ và bổ ngữ."
+        },
+        {
+          "wrong": "我把房间没打扫干净。",
+          "right": "我没把房间打扫干净。",
+          "noteVi": "「没」 đứng trước 「把」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 226,
+      "titleVi": "Câu tồn hiện: ở đâu xuất hiện ai, cái gì (楼上搬来了一位新邻居)",
+      "summaryVi": "Nơi chốn + động từ + 来/过来/进来… + 了 + số lượng + người/vật: nói ở một nơi **xuất hiện** thêm người hay vật mới.",
+      "explanationVi": [
+        "Câu tồn hiện kể ở một nơi **có thêm** người hoặc vật mới. Thứ tự: **nơi chốn** đứng đầu → động từ + bổ ngữ xu hướng hoặc kết quả (来, 过来, 进来…) → 了 → số lượng + người/vật: 楼上搬来了一位新邻居 (Tầng trên mới chuyển đến một người hàng xóm mới), 前边走过来一个人 (Phía trước có một người đi lại).",
+        "Người, vật xuất hiện là thứ **mới, chưa xác định**, nên thường có số lượng (一个, 两位, 很多…), không dùng 这/那: không nói 楼上搬来了那位邻居. Muốn nói về người đã biết thì dùng câu bình thường: 那位邻居搬来了.",
+        "Tiếng Việt thường nói 'Có một người đi lại', 'Tầng trên có người mới chuyển đến'. Người Việt hay thêm 「在」 ở đầu câu (在楼上…); trong câu tồn hiện, nơi chốn đứng đầu làm chủ ngữ, **không** cần 「在」.",
+        "Câu này giống câu 'nơi chốn + 有' (HSK1) và 'nơi chốn + động từ + 着' (HSK2: 沙发上坐着一只猫), nhưng nói về một **thay đổi** (có người, vật mới xuất hiện), nên dùng 「了」."
+      ],
+      "patterns": [
+        "Nơi chốn + động từ + 来/过来/进来/出来… + 了 + số lượng + người/vật"
+      ],
+      "examples": [
+        {
+          "zh": "楼上搬来了一位新邻居。",
+          "py": "lóu shàng bān lái le yí wèi xīn lín jū",
+          "vi": "Tầng trên mới chuyển đến một người hàng xóm mới."
+        },
+        {
+          "zh": "前边走过来一个人。",
+          "py": "qián biān zǒu guò lái yí gè rén",
+          "vi": "Phía trước có một người đi lại đây."
+        },
+        {
+          "zh": "教室里走进来两个学生。",
+          "py": "jiào shì lǐ zǒu jìn lái liǎng gè xué shēng",
+          "vi": "Có hai học sinh bước vào lớp."
+        },
+        {
+          "zh": "我们小区最近搬来了很多年轻人。",
+          "py": "wǒ men xiǎo qū zuì jìn bān lái le hěn duō nián qīng rén",
+          "vi": "Dạo này khu chung cư chúng tôi có rất nhiều người trẻ chuyển đến."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "在楼上搬来了一位新邻居。",
+          "right": "楼上搬来了一位新邻居。",
+          "noteVi": "Câu tồn hiện bắt đầu bằng nơi chốn, không thêm 「在」 ở đầu câu."
+        },
+        {
+          "wrong": "楼上搬来了那位邻居。",
+          "right": "楼上搬来了一位新邻居。",
+          "noteVi": "Người, vật xuất hiện phải là thứ chưa xác định (一位, 两个…), không dùng 那."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 227,
+      "titleVi": "Câu tồn hiện: ở đâu mất đi ai, cái gì (楼上搬走了一位邻居)",
+      "summaryVi": "Nơi chốn + động từ + 走 + 了 + số lượng + người/vật: nói ở một nơi **bớt đi**, mất đi người hay vật.",
+      "explanationVi": [
+        "Ngược với câu xuất hiện, câu này nói ở một nơi **bớt đi** người hoặc vật. Thứ tự giống hệt: nơi chốn → động từ + bổ ngữ kết quả (thường là 「走」) → 了 → số lượng + người/vật: 楼上搬走了一位邻居 (Tầng trên có một người hàng xóm đã chuyển đi), 房间里搬走了两把椅子 (Trong phòng đã bị khiêng đi hai cái ghế).",
+        "「走」 sau động từ là bổ ngữ kết quả, nghĩa là 'rời khỏi chỗ cũ': 搬走 (chuyển đi), 拿走 (cầm đi), 开走 (lái đi), 飞走 (bay đi). 「了」 đứng **sau** 「走」: 搬走了, không nói 搬了走.",
+        "So sánh: 楼上搬**来**了一位邻居 (có người chuyển đến) — 楼上搬**走**了一位邻居 (có người chuyển đi). Chỉ khác một chữ mà nghĩa ngược nhau. Cũng như câu xuất hiện, đầu câu không thêm 「在」 và người, vật là thứ chưa xác định."
+      ],
+      "patterns": [
+        "Nơi chốn + động từ + 走 + 了 + số lượng + người/vật"
+      ],
+      "examples": [
+        {
+          "zh": "上个月，楼上搬走了一位邻居。",
+          "py": "shàng gè yuè lóu shàng bān zǒu le yí wèi lín jū",
+          "vi": "Tháng trước, tầng trên có một người hàng xóm chuyển đi."
+        },
+        {
+          "zh": "房间里搬走了两把椅子。",
+          "py": "fáng jiān lǐ bān zǒu le liǎng bǎ yǐ zi",
+          "vi": "Trong phòng đã bị khiêng đi hai cái ghế."
+        },
+        {
+          "zh": "我们小区搬走了好几个老邻居。",
+          "py": "wǒ men xiǎo qū bān zǒu le hǎo jǐ gè lǎo lín jū",
+          "vi": "Khu chung cư của chúng tôi đã có mấy người hàng xóm cũ chuyển đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "楼上搬了走一位邻居。",
+          "right": "楼上搬走了一位邻居。",
+          "noteVi": "「了」 đứng sau bổ ngữ 「走」, không chen giữa 搬 và 走."
+        },
+        {
+          "wrong": "在房间里搬走了两把椅子。",
+          "right": "房间里搬走了两把椅子。",
+          "noteVi": "Nơi chốn đứng đầu câu tồn hiện không thêm 「在」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-06-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "冰箱",
+          "tủ lạnh"
+        ],
+        [
+          "空调",
+          "điều hòa"
+        ],
+        [
+          "洗衣机",
+          "máy giặt"
+        ],
+        [
+          "沙发",
+          "ghế sofa"
+        ],
+        [
+          "电梯",
+          "thang máy"
+        ],
+        [
+          "楼梯",
+          "cầu thang"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-06-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "干净",
+          "sạch"
+        ],
+        [
+          "脏",
+          "bẩn"
+        ],
+        [
+          "安静",
+          "yên tĩnh"
+        ],
+        [
+          "方便",
+          "thuận tiện"
+        ],
+        [
+          "邻居",
+          "hàng xóm"
+        ],
+        [
+          "小区",
+          "khu chung cư"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-06-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi để cái hòm ở cửa rồi.)",
+      "options": [
+        "我把箱子放在门口了。",
+        "我放箱子在门口了。",
+        "我把放箱子在门口了。"
+      ],
+      "answer": 0,
+      "explainVi": "Không nói 放箱子在门口: dùng 「把」 đưa 箱子 lên trước động từ 放.",
+      "grammar": [
+        215
+      ]
+    },
+    {
+      "id": "hsk3-06-e04",
+      "type": "order",
+      "vi": "Tôi để cái hòm cạnh ghế sofa rồi.",
+      "tiles": [
+        "我",
+        "把",
+        "箱子",
+        "放在",
+        "沙发",
+        "旁边",
+        "了"
+      ],
+      "answers": [
+        "我把箱子放在沙发旁边了"
+      ],
+      "grammar": [
+        215
+      ]
+    },
+    {
+      "id": "hsk3-06-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "请把沙发搬",
+      "after": "房间里。",
+      "answers": [
+        "到"
+      ],
+      "options": [
+        "到",
+        "从",
+        "给"
+      ],
+      "vi": "Làm ơn khiêng ghế sofa vào trong phòng.",
+      "explainVi": "把 + vật + 搬到 + nơi chốn: chuyển vật đến đâu.",
+      "grammar": [
+        215
+      ]
+    },
+    {
+      "id": "hsk3-06-e06",
+      "type": "translate",
+      "vi": "Bạn để cái hòm ở cửa đi.",
+      "answers": [
+        "(你)把箱子放(在)门口吧。",
+        "请(你)把箱子放(在)门口。"
+      ],
+      "examples": [
+        {
+          "answer": "你把箱子放在门口吧。",
+          "score": 100
+        },
+        {
+          "answer": "请把箱子放在门口。",
+          "score": 100
+        },
+        {
+          "answer": "你把箱子放门口吧。",
+          "score": 100,
+          "note": "Khẩu ngữ có thể bỏ 在"
+        },
+        {
+          "answer": "你放箱子在门口吧。",
+          "score": 80,
+          "issues": [
+            "place_order"
+          ],
+          "note": "Dịch thẳng theo tiếng Việt, cần dùng 把"
+        },
+        {
+          "answer": "你把箱子放在门里吧。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        215
+      ]
+    },
+    {
+      "id": "hsk3-06-e07",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你把手机放在哪儿了？",
+        "promptVi": "Bạn để điện thoại ở đâu rồi? (Trong hình: điện thoại ở trên ghế sofa.)",
+        "expected": {
+          "places": [
+            "沙发"
+          ],
+          "localizer": "上",
+          "sentence": "我把手机放在沙发上了。"
+        },
+        "examples": [
+          {
+            "answer": "我把手机放在沙发上了。",
+            "score": 100
+          },
+          {
+            "answer": "放在沙发上了。",
+            "score": 100
+          },
+          {
+            "answer": "在沙发上。",
+            "score": 100
+          },
+          {
+            "answer": "我放手机在沙发上。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ],
+            "note": "Cần dùng 把: 我把手机放在沙发上"
+          },
+          {
+            "answer": "我把手机放在沙发。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "我把手机放在床上了。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        215
+      ]
+    },
+    {
+      "id": "hsk3-06-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đã dọn phòng sạch rồi.)",
+      "options": [
+        "我把房间打扫干净了。",
+        "我把房间打扫了干净。",
+        "我把房间打扫。"
+      ],
+      "answer": 0,
+      "explainVi": "Sau động từ phải có kết quả (干净), và 「了」 đứng sau cả cụm 打扫干净.",
+      "grammar": [
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e09",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "妈妈把衣服洗得很",
+      "after": "。",
+      "answers": [
+        "干净"
+      ],
+      "options": [
+        "干净",
+        "脏",
+        "安静"
+      ],
+      "vi": "Mẹ giặt quần áo rất sạch.",
+      "grammar": [
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e10",
+      "type": "order",
+      "vi": "Chúng tôi đã khiêng ghế sofa vào rồi.",
+      "tiles": [
+        "我们",
+        "把",
+        "沙发",
+        "搬",
+        "进来",
+        "了"
+      ],
+      "answers": [
+        "我们把沙发搬进来了"
+      ],
+      "grammar": [
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi chưa dọn phòng sạch.)",
+      "options": [
+        "我没把房间打扫干净。",
+        "我把房间没打扫干净。",
+        "我把没房间打扫干净。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định 「没」 đứng trước 「把」.",
+      "grammar": [
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e12",
+      "type": "translate",
+      "vi": "Tôi quét nhà sạch rồi.",
+      "answers": [
+        "我(已经)把地扫干净了。"
+      ],
+      "examples": [
+        {
+          "answer": "我把地扫干净了。",
+          "score": 100
+        },
+        {
+          "answer": "我已经把地扫干净了。",
+          "score": 100
+        },
+        {
+          "answer": "我把地扫了干净。",
+          "score": 70,
+          "issues": [
+            "extra_word",
+            "missing_word"
+          ],
+          "note": "「了」 phải đứng sau 扫干净"
+        },
+        {
+          "answer": "我没把地扫干净。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "出门的时候，请把灯",
+      "after": "上。",
+      "answers": [
+        "关"
+      ],
+      "options": [
+        "关",
+        "开",
+        "放"
+      ],
+      "vi": "Khi ra ngoài, làm ơn tắt đèn.",
+      "grammar": [
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e14",
+      "type": "translate",
+      "vi": "Chúng tôi đã khiêng ghế sofa lên tầng trên rồi.",
+      "answers": [
+        "我们把沙发搬[上去|到楼上(去)]了。"
+      ],
+      "examples": [
+        {
+          "answer": "我们把沙发搬上去了。",
+          "score": 100
+        },
+        {
+          "answer": "我们把沙发搬到楼上了。",
+          "score": 100
+        },
+        {
+          "answer": "我们把沙发搬到楼上去了。",
+          "score": 100
+        },
+        {
+          "answer": "我们把沙发搬下去了。",
+          "score": 0,
+          "note": "下去 là đi xuống"
+        }
+      ],
+      "grammar": [
+        215,
+        217
+      ]
+    },
+    {
+      "id": "hsk3-06-e15",
+      "type": "order",
+      "vi": "Tầng trên mới chuyển đến một người hàng xóm mới.",
+      "tiles": [
+        "楼上",
+        "搬来了",
+        "一位",
+        "新",
+        "邻居"
+      ],
+      "answers": [
+        "楼上搬来了一位新邻居"
+      ],
+      "explainVi": "Nơi chốn đứng đầu, người mới xuất hiện đứng cuối câu.",
+      "grammar": [
+        226
+      ]
+    },
+    {
+      "id": "hsk3-06-e16",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Phía trước có một người đi lại đây.)",
+      "options": [
+        "前边走过来一个人。",
+        "在前边走过来一个人。",
+        "前边一个人过来走。"
+      ],
+      "answer": 0,
+      "explainVi": "Câu tồn hiện: nơi chốn (không có 在) + động từ + 过来 + số lượng + người.",
+      "grammar": [
+        226
+      ]
+    },
+    {
+      "id": "hsk3-06-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我家旁边",
+      "after": "了一位新邻居。",
+      "answers": [
+        "搬来"
+      ],
+      "options": [
+        "搬来",
+        "搬走",
+        "搬家"
+      ],
+      "vi": "Bên cạnh nhà tôi mới chuyển đến một người hàng xóm mới.",
+      "grammar": [
+        226
+      ]
+    },
+    {
+      "id": "hsk3-06-e18",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "上个月，楼上",
+      "after": "了一位邻居，现在那儿没有人住。",
+      "answers": [
+        "搬走"
+      ],
+      "options": [
+        "搬走",
+        "搬来",
+        "搬家"
+      ],
+      "vi": "Tháng trước, tầng trên có một người hàng xóm chuyển đi, bây giờ ở đó không có ai.",
+      "grammar": [
+        227
+      ]
+    },
+    {
+      "id": "hsk3-06-e19",
+      "type": "choice",
+      "promptVi": "「房间里搬走了两把椅子。」 nghĩa là gì?",
+      "options": [
+        "Trong phòng đã bị khiêng đi hai cái ghế.",
+        "Có người khiêng hai cái ghế vào phòng.",
+        "Trong phòng có hai cái ghế."
+      ],
+      "answer": 0,
+      "explainVi": "搬走 là khiêng đi, chuyển đi khỏi chỗ cũ; 搬来/搬进来 mới là mang đến.",
+      "grammar": [
+        227
+      ]
+    },
+    {
+      "id": "hsk3-06-e20",
+      "type": "order",
+      "vi": "Khu chung cư của chúng tôi đã có mấy người hàng xóm cũ chuyển đi.",
+      "tiles": [
+        "我们小区",
+        "搬",
+        "走了",
+        "好几个",
+        "老邻居"
+      ],
+      "answers": [
+        "我们小区搬走了好几个老邻居"
+      ],
+      "grammar": [
+        227
+      ]
+    },
+    {
+      "id": "hsk3-06-e21",
+      "type": "translate",
+      "vi": "Tầng dưới mới chuyển đến một người hàng xóm.",
+      "answers": [
+        "楼下搬来了[一位|一个](新)邻居。"
+      ],
+      "examples": [
+        {
+          "answer": "楼下搬来了一位新邻居。",
+          "score": 100
+        },
+        {
+          "answer": "楼下搬来了一个邻居。",
+          "score": 100
+        },
+        {
+          "answer": "楼下搬走了一位邻居。",
+          "score": 0,
+          "note": "搬走 là chuyển đi, nghĩa ngược lại"
+        }
+      ],
+      "grammar": [
+        226
+      ]
+    },
+    {
+      "id": "hsk3-06-e22",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tầng trên có một người hàng xóm đã chuyển đi.)",
+      "options": [
+        "楼上搬走了一位邻居。",
+        "楼上搬了走一位邻居。",
+        "在楼上搬走了一位邻居。"
+      ],
+      "answer": 0,
+      "explainVi": "「了」 đứng sau 搬走; đầu câu không thêm 「在」.",
+      "grammar": [
+        227
+      ]
+    },
+    {
+      "id": "hsk3-06-e23",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "房间里有几把椅子？",
+        "promptVi": "Trong phòng có mấy cái ghế? (Trong hình: 4 cái ghế.)",
+        "picture": "🪑🪑🪑🪑",
+        "expected": {
+          "number": 4,
+          "noun": "椅子",
+          "sentence": "房间里有四把椅子。"
+        },
+        "examples": [
+          {
+            "answer": "房间里有四把椅子。",
+            "score": 100
+          },
+          {
+            "answer": "有四把。",
+            "score": 100
+          },
+          {
+            "answer": "四张椅子。",
+            "score": 100,
+            "note": "椅子 cũng dùng được lượng từ 张"
+          },
+          {
+            "answer": "房间里有四个椅子。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "房间里有四椅子。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "房间里有三把椅子。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-06-e24",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "牛奶在哪儿？",
+        "promptVi": "Sữa ở đâu? (Trong hình: sữa ở trong tủ lạnh.)",
+        "expected": {
+          "places": [
+            "冰箱"
+          ],
+          "localizer": "里",
+          "sentence": "牛奶在冰箱里。"
+        },
+        "examples": [
+          {
+            "answer": "牛奶在冰箱里。",
+            "score": 100
+          },
+          {
+            "answer": "在冰箱里。",
+            "score": 100
+          },
+          {
+            "answer": "我把牛奶放在冰箱里了。",
+            "score": 100
+          },
+          {
+            "answer": "牛奶在冰箱。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "牛奶在里冰箱。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "在冰箱上。",
+            "score": 20,
+            "note": "Trên nóc tủ lạnh, không phải trong tủ lạnh"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-06-e25",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你家住在几层？",
+        "promptVi": "Nhà bạn ở tầng mấy? (Giả sử nhà bạn ở tầng 8.)",
+        "answers": [
+          "([我家|我])(住)在八[层|楼]。",
+          "八[层|楼]。",
+          "([我家|我])(住)在第八层。"
+        ],
+        "examples": [
+          {
+            "answer": "我家住在八层。",
+            "score": 100
+          },
+          {
+            "answer": "八楼。",
+            "score": 100
+          },
+          {
+            "answer": "我住在八层。",
+            "score": 100
+          },
+          {
+            "answer": "我家住在九层。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-06-e26",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我家楼里没有",
+      "after": "，我每天走楼梯上楼。",
+      "answers": [
+        "电梯"
+      ],
+      "options": [
+        "电梯",
+        "空调",
+        "冰箱"
+      ],
+      "vi": "Tòa nhà của tôi không có thang máy, ngày nào tôi cũng đi cầu thang bộ lên."
+    },
+    {
+      "id": "hsk3-06-e27",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你的衣服",
+      "after": "了，快去洗洗吧。",
+      "answers": [
+        "脏"
+      ],
+      "options": [
+        "脏",
+        "干净",
+        "安静"
+      ],
+      "vi": "Quần áo của bạn bẩn rồi, mau đi giặt đi."
+    },
+    {
+      "id": "hsk3-06-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "房间打扫干净了吗？",
+        "promptVi": "Phòng đã dọn sạch chưa? (Trả lời: tôi đã dọn sạch phòng rồi — hãy dùng 把.)",
+        "answers": [
+          "(我)(已经)把房间打扫干净了。",
+          {
+            "text": "(房间)(已经)打扫干净了。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我把房间打扫干净了。",
+            "score": 100
+          },
+          {
+            "answer": "已经把房间打扫干净了。",
+            "score": 100
+          },
+          {
+            "answer": "打扫干净了。",
+            "score": 80,
+            "note": "Đúng nhưng chưa dùng 把"
+          },
+          {
+            "answer": "我把房间打扫了干净。",
+            "score": 70,
+            "issues": [
+              "extra_word",
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "我没把房间打扫干净。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        217
+      ]
+    }
+  ]
+}

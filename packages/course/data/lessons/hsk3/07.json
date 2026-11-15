@@ -1,0 +1,1353 @@
+{
+  "id": "hsk3-07",
+  "goalsVi": [
+    "Hỏi đường và chỉ đường: 请问，去火车站怎样走？— 一直向前走，到了路口向右走",
+    "Nói phương hướng, vị trí: 学校东边, 医院和学校中间, 越南的北方",
+    "Dùng 「向」 chỉ hướng của hành động và 「怎样」 hỏi cách làm, hỏi ý kiến",
+    "Nói về đường phố, thành phố: 街, 马路, 路口, 红绿灯, 附近, 小心…"
+  ],
+  "words": [
+    {
+      "no": 597,
+      "word": "东",
+      "meaningsVi": [
+        "đông, phía đông"
+      ],
+      "noteVi": "Phía đông của một chỗ: 学校东边, 学校东面. Đi về hướng đông: 向东走. Chú ý: 东西 đọc dōngxi là 'đồ vật'; chỉ khi đọc dōng xī mới là 'đông và tây'.",
+      "examples": [
+        {
+          "zh": "从这儿向东走五分钟就到了。",
+          "py": "cóng zhè r xiàng dōng zǒu wǔ fēn zhōng jiù dào le",
+          "vi": "Từ đây đi về hướng đông năm phút là tới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 776,
+      "word": "南",
+      "meaningsVi": [
+        "nam, phía nam"
+      ],
+      "noteVi": "越南 (Việt Nam) có chữ 「南」. Phía nam: 南边, 南面.",
+      "examples": [
+        {
+          "zh": "越南在中国的南边。",
+          "py": "yuè nán zài zhōng guó de nán biān",
+          "vi": "Việt Nam ở phía nam Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 880,
+      "word": "西",
+      "meaningsVi": [
+        "tây, phía tây"
+      ],
+      "noteVi": "Phía tây: 西边, 西面. Chữ 「西」 cũng có trong 西瓜 (dưa hấu: 'dưa từ phương tây').",
+      "examples": [
+        {
+          "zh": "书店在学校西边。",
+          "py": "shū diàn zài xué xiào xī biān",
+          "vi": "Hiệu sách ở phía tây trường học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 517,
+      "word": "北",
+      "meaningsVi": [
+        "bắc, phía bắc"
+      ],
+      "noteVi": "北京 (Bắc Kinh) là 'kinh đô phía bắc'. Phía bắc của một chỗ: 北边, 北面.",
+      "examples": [
+        {
+          "zh": "河内在胡志明市的北边。",
+          "py": "hé nèi zài hú zhì míng shì de běi biān",
+          "vi": "Hà Nội ở phía bắc Thành phố Hồ Chí Minh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 598,
+      "word": "东北",
+      "meaningsVi": [
+        "đông bắc",
+        "vùng Đông Bắc (Trung Quốc)"
+      ],
+      "noteVi": "Thứ tự giống tiếng Việt: Đông Bắc. 东北 còn là tên vùng Đông Bắc Trung Quốc; 东北人 là người vùng này.",
+      "examples": [
+        {
+          "zh": "我朋友是东北人。",
+          "py": "wǒ péng you shì dōng běi rén",
+          "vi": "Bạn tôi là người vùng Đông Bắc (Trung Quốc)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 600,
+      "word": "东南",
+      "meaningsVi": [
+        "đông nam"
+      ],
+      "examples": [
+        {
+          "zh": "上海在北京的东南方向。",
+          "py": "shàng hǎi zài běi jīng de dōng nán fāng xiàng",
+          "vi": "Thượng Hải ở về hướng đông nam của Bắc Kinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 881,
+      "word": "西北",
+      "meaningsVi": [
+        "tây bắc"
+      ],
+      "examples": [
+        {
+          "zh": "我们学校在城市的西北边。",
+          "py": "wǒ men xué xiào zài chéng shì de xī běi biān",
+          "vi": "Trường chúng tôi ở phía tây bắc thành phố."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 884,
+      "word": "西南",
+      "meaningsVi": [
+        "tây nam"
+      ],
+      "examples": [
+        {
+          "zh": "中国的西南有很多好玩儿的地方。",
+          "py": "zhōng guó de xī nán yǒu hěn duō hǎo wán r de dì fang",
+          "vi": "Vùng tây nam Trung Quốc có rất nhiều nơi thú vị."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 518,
+      "word": "北方",
+      "meaningsVi": [
+        "miền Bắc, phương Bắc",
+        "phía bắc"
+      ],
+      "noteVi": "Thường chỉ một **vùng lớn** của đất nước: 中国的北方, 越南的北方. Vị trí so với một chỗ nhỏ (ngôi nhà, trường học) dùng 北边.",
+      "examples": [
+        {
+          "zh": "北京在中国的北方。",
+          "py": "běi jīng zài zhōng guó de běi fāng",
+          "vi": "Bắc Kinh ở miền Bắc Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 777,
+      "word": "南方",
+      "meaningsVi": [
+        "miền Nam, phương Nam",
+        "phía nam"
+      ],
+      "noteVi": "南方人: người miền Nam. Ngược nghĩa với 北方.",
+      "examples": [
+        {
+          "zh": "我是南方人，不太习惯北方的天气。",
+          "py": "wǒ shì nán fāng rén bú tài xí guàn běi fāng de tiān qì",
+          "vi": "Tôi là người miền Nam, không quen lắm với thời tiết miền Bắc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 599,
+      "word": "东方",
+      "meaningsVi": [
+        "phương Đông",
+        "phía đông"
+      ],
+      "noteVi": "Hay dùng để chỉ phương Đông (châu Á) về văn hóa, con người: 东方人. Hướng đông của một chỗ cụ thể thường nói 东边.",
+      "examples": [
+        {
+          "zh": "东方人和西方人的习惯不一样。",
+          "py": "dōng fāng rén hé xī fāng rén de xí guàn bù yí yàng",
+          "vi": "Thói quen của người phương Đông và người phương Tây không giống nhau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 882,
+      "word": "西方",
+      "meaningsVi": [
+        "phương Tây",
+        "phía tây"
+      ],
+      "noteVi": "西方人 là người phương Tây (châu Âu, châu Mỹ).",
+      "examples": [
+        {
+          "zh": "很多西方人喜欢吃中国菜。",
+          "py": "hěn duō xī fāng rén xǐ huan chī zhōng guó cài",
+          "vi": "Nhiều người phương Tây thích ăn món Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 982,
+      "word": "中间",
+      "meaningsVi": [
+        "ở giữa, chính giữa"
+      ],
+      "noteVi": "Ở giữa hai chỗ: A 和 B 中间 (中间 đứng **cuối**, ngược với tiếng Việt 'ở giữa A và B'). Giữa đường: 马路中间.",
+      "examples": [
+        {
+          "zh": "超市在医院和学校中间。",
+          "py": "chāo shì zài yī yuàn hé xué xiào zhōng jiān",
+          "vi": "Siêu thị ở giữa bệnh viện và trường học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 622,
+      "word": "方向",
+      "meaningsVi": [
+        "hướng, phương hướng"
+      ],
+      "noteVi": "Đi nhầm hướng: 走错方向. Hỏi hướng: 哪个方向？",
+      "examples": [
+        {
+          "zh": "我们走错方向了。",
+          "py": "wǒ men zǒu cuò fāng xiàng le",
+          "vi": "Chúng ta đi nhầm hướng rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 592,
+      "word": "地图",
+      "meaningsVi": [
+        "bản đồ"
+      ],
+      "noteVi": "Xem trên bản đồ: 地图上 (đồ vật, cần 「上」). Lượng từ là 张 (sẽ học sau).",
+      "examples": [
+        {
+          "zh": "你看，地图上的这个地方就是河内。",
+          "py": "nǐ kàn dì tú shàng de zhè ge dì fang jiù shì hé nèi",
+          "vi": "Bạn xem, chỗ này trên bản đồ chính là Hà Nội."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 591,
+      "word": "地方",
+      "meaningsVi": [
+        "chỗ, nơi, địa điểm",
+        "chỗ, điểm (của một việc)"
+      ],
+      "noteVi": "Đọc dìfang (方 đọc nhẹ). Hán Việt 'địa phương' dễ gây hiểu nhầm: 地方 thường chỉ là **chỗ, nơi** (这个地方 = chỗ này), không phải 'địa phương' theo nghĩa tiếng Việt.",
+      "examples": [
+        {
+          "zh": "这个地方很安静。",
+          "py": "zhè ge dì fang hěn ān jìng",
+          "vi": "Chỗ này rất yên tĩnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 633,
+      "word": "附近",
+      "meaningsVi": [
+        "gần đây, quanh đây, lân cận"
+      ],
+      "noteVi": "Đứng **sau** danh từ: 学校附近 (gần trường học, quanh trường). Tiếng Việt nói 'gần trường', thứ tự ngược lại. 附近 đứng một mình nghĩa là 'quanh đây': 附近有超市吗？",
+      "examples": [
+        {
+          "zh": "我家附近有一个超市。",
+          "py": "wǒ jiā fù jìn yǒu yí gè chāo shì",
+          "vi": "Gần nhà tôi có một siêu thị."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 707,
+      "word": "街",
+      "meaningsVi": [
+        "phố, đường phố"
+      ],
+      "noteVi": "Trên phố: 街上. Đi dạo phố, đi mua sắm: 上街.",
+      "examples": [
+        {
+          "zh": "这条街上有很多饭馆。",
+          "py": "zhè tiáo jiē shàng yǒu hěn duō fàn guǎn",
+          "vi": "Trên con phố này có rất nhiều quán ăn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 765,
+      "word": "马路",
+      "meaningsVi": [
+        "đường lớn, đường cái (cho xe chạy)"
+      ],
+      "noteVi": "Hán Việt 'mã lộ', nhưng không liên quan đến ngựa: 马路 chỉ là đường lớn trong thành phố. Sang đường: 过马路.",
+      "examples": [
+        {
+          "zh": "过马路的时候要小心。",
+          "py": "guò mǎ lù de shí hou yào xiǎo xīn",
+          "vi": "Khi sang đường phải cẩn thận."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 763,
+      "word": "路口",
+      "meaningsVi": [
+        "ngã tư, ngã ba, giao lộ"
+      ],
+      "noteVi": "Ngã tư nói rõ là 十字路口. Khi chỉ đường: 到了路口向左走 (đến ngã tư thì rẽ trái).",
+      "examples": [
+        {
+          "zh": "到了前边的路口，向右走。",
+          "py": "dào le qián biān de lù kǒu xiàng yòu zǒu",
+          "vi": "Đến ngã tư phía trước thì rẽ phải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 762,
+      "word": "路边",
+      "meaningsVi": [
+        "lề đường, bên đường"
+      ],
+      "examples": [
+        {
+          "zh": "路边有很多卖水果的。",
+          "py": "lù biān yǒu hěn duō mài shuǐ guǒ de",
+          "vi": "Bên đường có rất nhiều người bán hoa quả."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 670,
+      "word": "红绿灯",
+      "meaningsVi": [
+        "đèn giao thông, đèn xanh đèn đỏ"
+      ],
+      "noteVi": "Tiếng Việt nói 'đèn xanh đèn đỏ', tiếng Trung nói 'đèn đỏ xanh' (红 + 绿 + 灯).",
+      "examples": [
+        {
+          "zh": "过了红绿灯，再向左走就到了。",
+          "py": "guò le hóng lǜ dēng zài xiàng zuǒ zǒu jiù dào le",
+          "vi": "Qua đèn giao thông, rẽ trái là tới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 717,
+      "word": "经过",
+      "meaningsVi": [
+        "đi qua, đi ngang qua",
+        "quá trình, diễn biến (danh từ)"
+      ],
+      "noteVi": "经过 + nơi chốn: 经过一个超市 (đi ngang qua một siêu thị). Hán Việt 'kinh quá'.",
+      "examples": [
+        {
+          "zh": "从我家去学校要经过一个超市。",
+          "py": "cóng wǒ jiā qù xué xiào yào jīng guò yí gè chāo shì",
+          "vi": "Từ nhà tôi đến trường phải đi ngang qua một siêu thị."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 894,
+      "word": "向",
+      "meaningsVi": [
+        "về phía, hướng về (giới từ)",
+        "hướng về, quay về (động từ)"
+      ],
+      "noteVi": "向 + hướng đứng **trước** động từ: 向前走 (đi về phía trước), 向左走 (rẽ trái). Gần nghĩa với 「往」 (HSK2).",
+      "examples": [
+        {
+          "zh": "你一直向前走，到了路口向右走。",
+          "py": "nǐ yì zhí xiàng qián zǒu dào le lù kǒu xiàng yòu zǒu",
+          "vi": "Bạn cứ đi thẳng, đến ngã tư thì rẽ phải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 966,
+      "word": "站",
+      "meaningsVi": [
+        "đứng"
+      ],
+      "noteVi": "Đây là 站 động từ (đứng); 站 danh từ là 'trạm, ga' (HSK2: 车站). Đứng ở đâu: 站在 + nơi chốn.",
+      "examples": [
+        {
+          "zh": "他站在路口等你。",
+          "py": "tā zhàn zài lù kǒu děng nǐ",
+          "vi": "Anh ấy đứng ở ngã tư đợi bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 898,
+      "word": "小心",
+      "meaningsVi": [
+        "cẩn thận, coi chừng"
+      ],
+      "noteVi": "Dùng để nhắc nhở: 小心！ (Cẩn thận!), 小心车！ (Coi chừng xe!). Hán Việt 'tiểu tâm', không phải 'nhỏ mọn'.",
+      "examples": [
+        {
+          "zh": "小心车！",
+          "py": "xiǎo xīn chē",
+          "vi": "Coi chừng xe!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 560,
+      "word": "城市",
+      "meaningsVi": [
+        "thành phố, đô thị"
+      ],
+      "examples": [
+        {
+          "zh": "上海是一个很大的城市。",
+          "py": "shàng hǎi shì yí gè hěn dà de chéng shì",
+          "vi": "Thượng Hải là một thành phố rất lớn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 965,
+      "word": "怎样",
+      "meaningsVi": [
+        "thế nào, như thế nào, bằng cách nào"
+      ],
+      "noteVi": "怎样 + động từ hỏi cách làm (怎样走); 怎样 ở cuối câu hỏi tình trạng (这个城市怎样？). Trang trọng hơn 怎么, 怎么样 một chút.",
+      "examples": [
+        {
+          "zh": "请问，去火车站怎样走？",
+          "py": "qǐng wèn qù huǒ chē zhàn zěn yàng zǒu",
+          "vi": "Xin hỏi, đến ga tàu đi thế nào ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 151,
+      "titleVi": "Từ chỉ phương hướng: 东, 南, 西, 北, 北方, 南方, 东方, 西方, 中间",
+      "summaryVi": "东, 南, 西, 北 (+ 边/面) đặt **sau** danh từ để chỉ hướng so với một chỗ (学校东边); 北方, 南方 chỉ miền, vùng lớn; 中间 dùng trong 'A 和 B 中间'.",
+      "explanationVi": [
+        "Bốn hướng: 东 (đông), 南 (nam), 西 (tây), 北 (bắc). Hướng ghép: 东北, 东南, 西北, 西南 — đông/tây đứng trước như tiếng Việt (Đông Bắc, Tây Nam). Khi chỉ đường, người Trung Quốc (nhất là ở miền Bắc) hay dùng hướng: 向东走, 往北走.",
+        "Giống 上, 下, 里, 外 (HSK1), từ chỉ hướng đứng **sau** danh từ, thường thêm 边 hoặc 面: 学校东边 (phía đông trường học), 河内的北边 (phía bắc Hà Nội). Tiếng Việt nói 'phía đông trường học', thứ tự **ngược lại**. 东边学校 lại có nghĩa là 'ngôi trường ở phía đông'.",
+        "北方, 南方 chỉ **miền, vùng lớn** của một nước: 中国的北方 (miền Bắc Trung Quốc), 我是南方人 (tôi là người miền Nam). Vị trí so với một chỗ nhỏ (ngôi nhà, trường học) thì dùng 北边, 南边: 我家在学校北边, không nói 学校北方. 东方, 西方 hay chỉ phương Đông, phương Tây (văn hóa, con người): 西方人.",
+        "「中间」 là ở giữa: A 和 B 中间 (giữa A và B), 马路中间 (giữa đường). Tiếng Việt nói 'ở **giữa** bệnh viện và trường học', còn tiếng Trung nói 在医院和学校**中间** — 中间 đứng cuối."
+      ],
+      "patterns": [
+        "Danh từ + (的) + 东/南/西/北 + 边/面",
+        "Tên nước + 的 + 北方/南方",
+        "A 和 B + (的) + 中间"
+      ],
+      "examples": [
+        {
+          "zh": "超市在学校东边。",
+          "py": "chāo shì zài xué xiào dōng biān",
+          "vi": "Siêu thị ở phía đông trường học."
+        },
+        {
+          "zh": "河内在越南的北方，胡志明市在越南的南方。",
+          "py": "hé nèi zài yuè nán de běi fāng hú zhì míng shì zài yuè nán de nán fāng",
+          "vi": "Hà Nội ở miền Bắc Việt Nam, Thành phố Hồ Chí Minh ở miền Nam Việt Nam."
+        },
+        {
+          "zh": "书店在医院和学校中间。",
+          "py": "shū diàn zài yī yuàn hé xué xiào zhōng jiān",
+          "vi": "Hiệu sách ở giữa bệnh viện và trường học."
+        },
+        {
+          "zh": "日本在中国的东边。",
+          "py": "rì běn zài zhōng guó de dōng biān",
+          "vi": "Nhật Bản ở phía đông Trung Quốc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "超市在东边学校。",
+          "right": "超市在学校东边。",
+          "noteVi": "Dịch theo thứ tự 'phía đông trường học' là sai: từ chỉ hướng đứng sau danh từ. (东边学校 chỉ đúng khi muốn nói 'ngôi trường ở phía đông'.)"
+        },
+        {
+          "wrong": "超市在中间医院和学校。",
+          "right": "超市在医院和学校中间。",
+          "noteVi": "「中间」 đứng sau 'A 和 B', không đứng trước như 'ở giữa' trong tiếng Việt."
+        },
+        {
+          "wrong": "我家在学校北方。",
+          "right": "我家在学校北边。",
+          "noteVi": "「北方」 chỉ miền, vùng lớn; vị trí so với một chỗ nhỏ như trường học dùng 「北边」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 155,
+      "titleVi": "Đại từ nghi vấn 「怎样」",
+      "summaryVi": "「怎样」 hỏi cách làm (怎样走: đi thế nào) hoặc hỏi tình trạng, ý kiến (这个城市怎样？); nghĩa như 怎么, 怎么样 nhưng trang trọng hơn.",
+      "explanationVi": [
+        "「怎样」 có hai cách dùng chính. Thứ nhất, đứng **trước động từ** để hỏi **cách làm**: 怎样走？ (đi thế nào?), 怎样写？ (viết thế nào?) — giống 怎么 + động từ. Thứ hai, đứng **cuối câu** hoặc làm vị ngữ để hỏi **tình trạng, ý kiến**: 你觉得这个城市怎样？ — giống 怎么样.",
+        "Về sắc thái: 怎么, 怎么样 dùng nhiều trong khẩu ngữ; 「怎样」 trang trọng hơn một chút, hay gặp trong sách, biển hướng dẫn, đề bài (怎样学好汉语). Nói chuyện hằng ngày dùng 怎么 cũng hoàn toàn đúng.",
+        "Chú ý: 「怎么」 còn hỏi **lý do** (sao lại…): 你怎么没来？ (Sao bạn không đến?). 「怎样」 **không** có nghĩa này: không nói 你怎样没来？"
+      ],
+      "patterns": [
+        "怎样 + động từ？ (hỏi cách làm)",
+        "Chủ ngữ + 怎样？ / 你觉得 + … + 怎样？ (hỏi tình trạng, ý kiến)"
+      ],
+      "examples": [
+        {
+          "zh": "你觉得这个城市怎样？",
+          "py": "nǐ jué de zhè ge chéng shì zěn yàng",
+          "vi": "Bạn thấy thành phố này thế nào?"
+        },
+        {
+          "zh": "你是怎样学汉语的？",
+          "py": "nǐ shì zěn yàng xué hàn yǔ de",
+          "vi": "Bạn đã học tiếng Trung bằng cách nào?"
+        },
+        {
+          "zh": "从这儿到机场怎样去最方便？",
+          "py": "cóng zhè r dào jī chǎng zěn yàng qù zuì fāng biàn",
+          "vi": "Từ đây ra sân bay đi thế nào là tiện nhất?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你怎样没来上课？",
+          "right": "你怎么没来上课？",
+          "noteVi": "Hỏi lý do ('sao lại…') chỉ dùng 「怎么」, không dùng 「怎样」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 173,
+      "titleVi": "Giới từ 「向」 chỉ hướng: 向前走, 向左走",
+      "summaryVi": "向 + hướng/nơi chốn đứng **trước** động từ, chỉ hướng của hành động: 向前走 (đi về phía trước), 向右走 (rẽ phải), 向这边看 (nhìn về phía này).",
+      "explanationVi": [
+        "「向」 + từ chỉ hướng hoặc nơi chốn tạo thành cụm giới từ, đứng **trước động từ**, cho biết hành động hướng về đâu: 向前走 (đi về phía trước), 向左走 (đi sang trái, rẽ trái), 向东走 (đi về hướng đông), 向这边看 (nhìn về phía này).",
+        "Tiếng Việt đặt hướng **sau** động từ: 'đi thẳng', 'rẽ trái', 'nhìn sang phải'. Tiếng Trung đặt **trước**: 一直向前走 (cứ đi thẳng), 向左走 (rẽ trái), 向右看 (nhìn sang phải). Không nói 走前, 走左.",
+        "「向」 và 「往」 (HSK2) đều chỉ hướng, khi chỉ đường thường thay nhau được: 向前走 = 往前走. 「往」 nghiêng về khẩu ngữ và sự di chuyển; 「向」 dùng được cả khi không di chuyển, chỉ hướng của mặt, mắt…: 请大家向这边看. Sau 「向」 có thể là từ một âm tiết (前, 左, 东) hoặc hai âm tiết (前边, 东边)."
+      ],
+      "patterns": [
+        "向 + 前/后/左/右/东/南/西/北 (+ 边) + động từ",
+        "一直 + 向 + 前 + 走"
+      ],
+      "examples": [
+        {
+          "zh": "你一直向前走，就能看到超市。",
+          "py": "nǐ yì zhí xiàng qián zǒu jiù néng kàn dào chāo shì",
+          "vi": "Bạn cứ đi thẳng về phía trước là sẽ thấy siêu thị."
+        },
+        {
+          "zh": "出门向右走，经过一个路口就到了。",
+          "py": "chū mén xiàng yòu zǒu jīng guò yí gè lù kǒu jiù dào le",
+          "vi": "Ra khỏi cửa rẽ phải, đi qua một ngã tư là tới."
+        },
+        {
+          "zh": "请大家向这边看。",
+          "py": "qǐng dà jiā xiàng zhè biān kàn",
+          "vi": "Mời mọi người nhìn về phía này."
+        },
+        {
+          "zh": "向南走五分钟就到了。",
+          "py": "xiàng nán zǒu wǔ fēn zhōng jiù dào le",
+          "vi": "Đi về hướng nam năm phút là tới."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你走前，到了路口再走左。",
+          "right": "你向前走，到了路口再向左走。",
+          "noteVi": "Dịch theo thứ tự tiếng Việt 'đi thẳng', 'rẽ trái' là sai: 「向 + hướng」 đứng trước động từ 「走」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 213,
+      "titleVi": "Câu hỏi 「怎样 + động từ」: hỏi cách làm",
+      "summaryVi": "怎样 + động từ hỏi làm việc gì bằng cách nào: 去火车站怎样走？ (Đến ga tàu đi thế nào?), 这个字怎样写？ (Chữ này viết thế nào?)",
+      "explanationVi": [
+        "Muốn hỏi **cách** làm một việc, đặt 「怎样」 **ngay trước động từ**: 去火车站怎样走？ 这个汉字怎样写？ 这个菜怎样做？ Câu trả lời nói cách làm cụ thể: 一直向前走, 坐地铁去…",
+        "Tiếng Việt đặt 'thế nào' ở **cuối**: 'Đến ga tàu **đi thế nào**?', 'Chữ này **viết thế nào**?'. Dịch từng chữ thành 去火车站走怎样？ là **sai**: 怎样 phải đứng trước động từ (怎样走, 怎样写).",
+        "Hỏi đường có hai cách hay gặp: 去 + nơi chốn + 怎样/怎么走？ (去医院怎样走？) hoặc 请问，+ nơi chốn + 在哪儿？ Hỏi cách đã làm trong quá khứ thì dùng 「是……的」: 你们是怎样来的？— 我们是坐地铁来的."
+      ],
+      "patterns": [
+        "(去 + nơi chốn) + 怎样 + động từ？",
+        "Chủ ngữ + 是 + 怎样 + động từ + 的？"
+      ],
+      "examples": [
+        {
+          "zh": "请问，去地铁站怎样走？",
+          "py": "qǐng wèn qù dì tiě zhàn zěn yàng zǒu",
+          "vi": "Xin hỏi, đến ga tàu điện ngầm đi thế nào ạ?"
+        },
+        {
+          "zh": "这个汉字怎样写？",
+          "py": "zhè ge hàn zì zěn yàng xiě",
+          "vi": "Chữ Hán này viết thế nào?"
+        },
+        {
+          "zh": "他们是怎样来的？——坐地铁来的。",
+          "py": "tā men shì zěn yàng lái de zuò dì tiě lái de",
+          "vi": "Họ đến bằng gì? — Đi tàu điện ngầm đến."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "去火车站走怎样？",
+          "right": "去火车站怎样走？",
+          "noteVi": "「怎样」 đứng trước động từ, không đứng cuối câu như 'đi thế nào' trong tiếng Việt."
+        },
+        {
+          "wrong": "这个字写怎样？",
+          "right": "这个字怎样写？",
+          "noteVi": "Hỏi cách viết: 怎样 + 写, không phải 写 + 怎样."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-07-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ hướng với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "东",
+          "đông"
+        ],
+        [
+          "南",
+          "nam"
+        ],
+        [
+          "西",
+          "tây"
+        ],
+        [
+          "北",
+          "bắc"
+        ],
+        [
+          "中间",
+          "ở giữa"
+        ],
+        [
+          "北方",
+          "miền Bắc"
+        ]
+      ],
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "地图",
+          "bản đồ"
+        ],
+        [
+          "马路",
+          "đường lớn"
+        ],
+        [
+          "路口",
+          "ngã tư"
+        ],
+        [
+          "红绿灯",
+          "đèn giao thông"
+        ],
+        [
+          "街",
+          "phố"
+        ],
+        [
+          "城市",
+          "thành phố"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-07-e03",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "东北",
+          "đông bắc"
+        ],
+        [
+          "西南",
+          "tây nam"
+        ],
+        [
+          "东南",
+          "đông nam"
+        ],
+        [
+          "西北",
+          "tây bắc"
+        ],
+        [
+          "东方",
+          "phương Đông"
+        ],
+        [
+          "西方",
+          "phương Tây"
+        ]
+      ],
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Siêu thị ở phía đông trường học.)",
+      "options": [
+        "超市在学校东边。",
+        "超市在东边学校。",
+        "超市东边在学校。"
+      ],
+      "answer": 0,
+      "explainVi": "Từ chỉ hướng đứng sau danh từ: 学校东边 (phía đông trường học).",
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "书店在医院和学校",
+      "after": "。",
+      "answers": [
+        "中间"
+      ],
+      "options": [
+        "中间",
+        "附近",
+        "东边"
+      ],
+      "vi": "Hiệu sách ở giữa bệnh viện và trường học.",
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e06",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "超市在哪儿？",
+        "promptVi": "Siêu thị ở đâu? (Trong hình: siêu thị ở giữa bệnh viện và trường học.)",
+        "expected": {
+          "places": [
+            "医院",
+            "学校"
+          ],
+          "localizer": "中间",
+          "sentence": "超市在医院和学校中间。"
+        },
+        "examples": [
+          {
+            "answer": "超市在医院和学校中间。",
+            "score": 100
+          },
+          {
+            "answer": "在学校和医院中间。",
+            "score": 100
+          },
+          {
+            "answer": "在医院和学校的中间。",
+            "score": 100
+          },
+          {
+            "answer": "超市在中间医院和学校。",
+            "score": 20,
+            "note": "中间 phải đứng sau 'A 和 B'"
+          },
+          {
+            "answer": "超市在医院旁边。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hà Nội ở miền Bắc Việt Nam.)",
+      "options": [
+        "河内在越南的北方。",
+        "河内在北方的越南。",
+        "越南的北方在河内。"
+      ],
+      "answer": 0,
+      "explainVi": "Nước + 的 + 北方: miền Bắc của nước đó.",
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Nhà tôi ở phía bắc trường học.)",
+      "options": [
+        "我家在学校北边。",
+        "我家在学校北方。",
+        "我家在北边学校。"
+      ],
+      "answer": 0,
+      "explainVi": "So với một chỗ nhỏ (trường học) dùng 北边; 北方 chỉ miền, vùng lớn.",
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e09",
+      "type": "order",
+      "vi": "Nhà tôi ở giữa trường học và siêu thị.",
+      "tiles": [
+        "我家",
+        "在",
+        "学校",
+        "和",
+        "超市",
+        "中间"
+      ],
+      "answers": [
+        "我家在学校和超市中间",
+        "我家在超市和学校中间"
+      ],
+      "explainVi": "「中间」 đứng cuối, sau 'A 和 B'.",
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e10",
+      "type": "translate",
+      "vi": "Hiệu sách ở phía tây trường học.",
+      "answers": [
+        "书店在学校(的)西[边|面]。"
+      ],
+      "examples": [
+        {
+          "answer": "书店在学校西边。",
+          "score": 100
+        },
+        {
+          "answer": "书店在学校的西面。",
+          "score": 100
+        },
+        {
+          "answer": "书店在西边学校。",
+          "score": 0,
+          "note": "Dịch theo thứ tự tiếng Việt: 西边 phải đứng sau 学校"
+        },
+        {
+          "answer": "书店在学校东边。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        151
+      ]
+    },
+    {
+      "id": "hsk3-07-e11",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "书店在哪儿？",
+        "promptVi": "Hiệu sách ở đâu? (Trong hình: hiệu sách ở gần trường học.)",
+        "expected": {
+          "places": [
+            "学校"
+          ],
+          "localizer": "附近",
+          "sentence": "书店在学校附近。"
+        },
+        "examples": [
+          {
+            "answer": "书店在学校附近。",
+            "score": 100
+          },
+          {
+            "answer": "学校附近。",
+            "score": 100
+          },
+          {
+            "answer": "书店在附近学校。",
+            "score": 20,
+            "note": "附近 phải đứng sau 学校 (gần trường học)"
+          },
+          {
+            "answer": "书店在学校里。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-07-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你一直",
+      "after": "前走，就能看到超市。",
+      "answers": [
+        "向"
+      ],
+      "options": [
+        "向",
+        "在",
+        "给"
+      ],
+      "vi": "Bạn cứ đi thẳng về phía trước là sẽ thấy siêu thị.",
+      "grammar": [
+        173
+      ]
+    },
+    {
+      "id": "hsk3-07-e13",
+      "type": "order",
+      "vi": "Đến ngã tư thì rẽ phải.",
+      "tiles": [
+        "到了",
+        "路口",
+        "向",
+        "右",
+        "走"
+      ],
+      "answers": [
+        "到了路口向右走"
+      ],
+      "explainVi": "「向右」 đứng trước động từ 「走」.",
+      "grammar": [
+        173
+      ]
+    },
+    {
+      "id": "hsk3-07-e14",
+      "type": "choice",
+      "promptVi": "「向东走」 nghĩa là gì?",
+      "options": [
+        "Đi về hướng đông.",
+        "Từ phía đông đi lại.",
+        "Đi dạo ở phía đông."
+      ],
+      "answer": 0,
+      "grammar": [
+        173
+      ]
+    },
+    {
+      "id": "hsk3-07-e15",
+      "type": "translate",
+      "vi": "Bạn cứ đi thẳng về phía trước.",
+      "answers": [
+        "(你)一直[向|往]前走。",
+        {
+          "text": "(你)[向|往]前走。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "你一直向前走。",
+          "score": 100
+        },
+        {
+          "answer": "一直往前走。",
+          "score": 100
+        },
+        {
+          "answer": "你向前走。",
+          "score": 90,
+          "note": "Thiếu 一直 (cứ thẳng)"
+        },
+        {
+          "answer": "你一直走前。",
+          "score": 0,
+          "note": "Hướng phải đứng trước động từ: 向前走"
+        },
+        {
+          "answer": "你一直向后走。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        173
+      ]
+    },
+    {
+      "id": "hsk3-07-e16",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "请问，去火车站怎样走？",
+        "promptVi": "Xin hỏi, đến ga tàu đi thế nào? (Hãy chỉ đường: cứ đi thẳng, đến ngã tư thì rẽ trái.)",
+        "answers": [
+          "(你)一直[向|往]前走，到了路口([再|就])[向|往]左(走)(就到了)。"
+        ],
+        "examples": [
+          {
+            "answer": "一直向前走，到了路口向左走。",
+            "score": 100
+          },
+          {
+            "answer": "你一直往前走，到了路口往左走就到了。",
+            "score": 100
+          },
+          {
+            "answer": "一直向前走，到了路口再向左走。",
+            "score": 100
+          },
+          {
+            "answer": "一直走前，到了路口走左。",
+            "score": 0,
+            "note": "Dịch theo thứ tự tiếng Việt: phải nói 向前走, 向左走"
+          },
+          {
+            "answer": "一直向前走，到了路口向右走。",
+            "score": 0,
+            "note": "Rẽ phải, không phải rẽ trái"
+          }
+        ]
+      },
+      "grammar": [
+        173,
+        213
+      ]
+    },
+    {
+      "id": "hsk3-07-e17",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng: 你昨天＿没来上课？ (Sao hôm qua bạn không đến lớp?)",
+      "zh": "你昨天＿没来上课？",
+      "options": [
+        "怎么",
+        "怎样",
+        "什么"
+      ],
+      "answer": 0,
+      "explainVi": "Hỏi lý do 'sao lại' chỉ dùng 「怎么」; 「怎样」 chỉ hỏi cách làm hoặc tình trạng.",
+      "grammar": [
+        155
+      ]
+    },
+    {
+      "id": "hsk3-07-e18",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "请问，去机场",
+      "after": "走？",
+      "answers": [
+        "怎样"
+      ],
+      "options": [
+        "怎样",
+        "什么",
+        "哪儿"
+      ],
+      "vi": "Xin hỏi, ra sân bay đi thế nào ạ?",
+      "grammar": [
+        213,
+        155
+      ]
+    },
+    {
+      "id": "hsk3-07-e19",
+      "type": "order",
+      "vi": "Chữ Hán này viết thế nào?",
+      "tiles": [
+        "这个",
+        "汉字",
+        "怎样",
+        "写"
+      ],
+      "answers": [
+        "这个汉字怎样写"
+      ],
+      "explainVi": "「怎样」 đứng ngay trước động từ 「写」.",
+      "grammar": [
+        213
+      ]
+    },
+    {
+      "id": "hsk3-07-e20",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Đến ga tàu đi thế nào?)",
+      "options": [
+        "去火车站怎样走？",
+        "去火车站走怎样？",
+        "怎样去火车站走？"
+      ],
+      "answer": 0,
+      "explainVi": "怎样 + động từ: 怎样走. Không đặt 怎样 ở cuối câu như tiếng Việt 'đi thế nào'.",
+      "grammar": [
+        213
+      ]
+    },
+    {
+      "id": "hsk3-07-e21",
+      "type": "translate",
+      "vi": "Xin hỏi, đến bệnh viện đi thế nào ạ?",
+      "answers": [
+        "请问，去医院[怎样|怎么]走？",
+        {
+          "text": "去医院[怎样|怎么]走？",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "请问，去医院怎样走？",
+          "score": 100
+        },
+        {
+          "answer": "请问，去医院怎么走？",
+          "score": 100
+        },
+        {
+          "answer": "去医院怎么走？",
+          "score": 90,
+          "note": "Thiếu 「请问」 nên chưa lịch sự"
+        },
+        {
+          "answer": "请问，去医院走怎样？",
+          "score": 0,
+          "note": "「怎样」 phải đứng trước 「走」"
+        }
+      ],
+      "grammar": [
+        213,
+        155
+      ]
+    },
+    {
+      "id": "hsk3-07-e22",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你觉得这个城市怎样？",
+        "promptVi": "Bạn thấy thành phố này thế nào? (Giả sử bạn thấy thành phố này vừa sạch vừa yên tĩnh.)",
+        "answers": [
+          "(我觉得)(这个城市)又干净又安静。",
+          "(我觉得)(这个城市)[很|非常|挺]干净，[也很|而且很]安静。"
+        ],
+        "examples": [
+          {
+            "answer": "我觉得这个城市又干净又安静。",
+            "score": 100
+          },
+          {
+            "answer": "又干净又安静。",
+            "score": 100
+          },
+          {
+            "answer": "很干净，也很安静。",
+            "score": 100
+          },
+          {
+            "answer": "这个城市不干净。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        155
+      ]
+    },
+    {
+      "id": "hsk3-07-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "从我家去学校要",
+      "after": "一个超市。",
+      "answers": [
+        "经过"
+      ],
+      "options": [
+        "经过",
+        "附近",
+        "方向"
+      ],
+      "vi": "Từ nhà tôi đến trường phải đi ngang qua một siêu thị."
+    },
+    {
+      "id": "hsk3-07-e24",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "过马路的时候要",
+      "after": "。",
+      "answers": [
+        "小心"
+      ],
+      "options": [
+        "小心",
+        "安静",
+        "方便"
+      ],
+      "vi": "Khi sang đường phải cẩn thận."
+    },
+    {
+      "id": "hsk3-07-e25",
+      "type": "choice",
+      "promptVi": "「这个地方很安静。」 nghĩa là gì?",
+      "options": [
+        "Chỗ này rất yên tĩnh.",
+        "Người địa phương này rất trầm lặng.",
+        "Hướng này rất yên tĩnh."
+      ],
+      "answer": 0,
+      "explainVi": "「地方」 là 'chỗ, nơi', không phải 'địa phương' theo nghĩa tiếng Việt."
+    },
+    {
+      "id": "hsk3-07-e26",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他",
+      "after": "在路口等你。",
+      "answers": [
+        "站"
+      ],
+      "options": [
+        "站",
+        "住",
+        "放"
+      ],
+      "vi": "Anh ấy đứng ở ngã tư đợi bạn."
+    },
+    {
+      "id": "hsk3-07-e27",
+      "type": "order",
+      "vi": "Mời mọi người nhìn về phía này.",
+      "tiles": [
+        "请",
+        "大家",
+        "向",
+        "这边",
+        "看"
+      ],
+      "answers": [
+        "请大家向这边看"
+      ],
+      "grammar": [
+        173
+      ]
+    }
+  ]
+}

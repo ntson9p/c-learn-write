@@ -1,0 +1,1545 @@
+{
+  "id": "hsk3-05",
+  "goalsVi": [
+    "Gọi món, nói về đồ ăn, đồ uống và bát đĩa: 菜单, 饮料, 碗, 盘子, 筷子, 勺子",
+    "Nói đói, no, khát và khen món ăn thật mạnh với 「极了」, 「坏了」: 好吃极了, 饿坏了",
+    "Dùng 碗, 盘 làm lượng từ (一碗米饭, 一盘饺子) và nói 'từng… một' bằng 一个一个, 一口一口",
+    "Dùng đại từ nghi vấn không để hỏi: 什么都想吃, 想吃什么就点什么, 你想喝点什么吗？",
+    "Nối hai ý bằng 「又……又……」 và 「不但……而且……」; dùng 一定, 当然, 其实 cho tự nhiên"
+  ],
+  "words": [
+    {
+      "no": 545,
+      "word": "菜单",
+      "meaningsVi": [
+        "thực đơn"
+      ],
+      "noteVi": "Âm Hán Việt 'thái đơn': 「菜」 là món ăn, 「单」 là tờ giấy ghi danh sách. Gọi món là 「点菜」.",
+      "examples": [
+        {
+          "zh": "请给我看看菜单。",
+          "py": "qǐng gěi wǒ kàn kàn cài dān",
+          "vi": "Làm ơn cho tôi xem thực đơn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 553,
+      "word": "尝",
+      "meaningsVi": [
+        "nếm, ăn thử"
+      ],
+      "noteVi": "Hay dùng dạng lặp 「尝尝」 hoặc 「尝一下」 khi mời ai ăn thử: 你尝尝！ Khác với 「试」 (thử quần áo, thử làm việc gì).",
+      "examples": [
+        {
+          "zh": "这是我做的蛋糕，你尝一下吧。",
+          "py": "zhè shì wǒ zuò de dàn gāo nǐ cháng yí xià ba",
+          "vi": "Đây là bánh tôi làm, bạn ăn thử đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 610,
+      "word": "饿",
+      "meaningsVi": [
+        "đói"
+      ],
+      "noteVi": "「饿」 là tính từ: 我很饿, 我饿了 (tôi đói rồi). Không nói 我有饿.",
+      "examples": [
+        {
+          "zh": "我饿了，我们去吃饭吧。",
+          "py": "wǒ è le wǒ men qù chī fàn ba",
+          "vi": "Tôi đói rồi, chúng ta đi ăn cơm đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 515,
+      "word": "饱",
+      "meaningsVi": [
+        "no"
+      ],
+      "noteVi": "Hay đi sau 「吃」 làm bổ ngữ kết quả: 吃饱了 (ăn no rồi). Ngược nghĩa với 「饿」.",
+      "examples": [
+        {
+          "zh": "谢谢，我已经吃饱了。",
+          "py": "xiè xie wǒ yǐ jīng chī bǎo le",
+          "vi": "Cảm ơn, tôi ăn no rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 734,
+      "word": "渴",
+      "meaningsVi": [
+        "khát"
+      ],
+      "noteVi": "Cách dùng giống 「饿」: 我渴了, 我有点儿渴. 「渴」 có bộ thủy (氵) vì liên quan đến nước.",
+      "examples": [
+        {
+          "zh": "我有点儿渴，想喝点水。",
+          "py": "wǒ yǒu diǎn r kě xiǎng hē diǎn shuǐ",
+          "vi": "Tôi hơi khát, muốn uống chút nước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 689,
+      "word": "鸡",
+      "meaningsVi": [
+        "gà, con gà"
+      ],
+      "noteVi": "Thịt gà là 「鸡肉」 (鸡 + 肉), trứng gà là 「鸡蛋」. Lượng từ của con gà là 「只」: 一只鸡.",
+      "examples": [
+        {
+          "zh": "奶奶家有很多鸡。",
+          "py": "nǎi nai jiā yǒu hěn duō jī",
+          "vi": "Nhà bà nội có rất nhiều gà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 850,
+      "word": "糖",
+      "meaningsVi": [
+        "đường (để nêm)",
+        "kẹo"
+      ],
+      "noteVi": "Cho đường vào đồ uống là 「加糖」. Âm Hán Việt 'đường' trùng với 'đường' (con đường) trong tiếng Việt, nhưng 「糖」 chỉ có nghĩa là đường ăn, kẹo.",
+      "examples": [
+        {
+          "zh": "你的咖啡要加糖吗？",
+          "py": "nǐ de kā fēi yào jiā táng ma",
+          "vi": "Cà phê của bạn có cho đường không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 855,
+      "word": "甜",
+      "meaningsVi": [
+        "ngọt"
+      ],
+      "examples": [
+        {
+          "zh": "这个西瓜很甜。",
+          "py": "zhè ge xī guā hěn tián",
+          "vi": "Quả dưa hấu này rất ngọt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 695,
+      "word": "加",
+      "meaningsVi": [
+        "thêm, cho thêm",
+        "cộng (phép tính)"
+      ],
+      "noteVi": "加 + thứ được thêm: 加糖 (cho đường), 加冰 (cho đá), 再加一碗米饭 (thêm một bát cơm nữa). Trong phép tính: 二加三是五.",
+      "examples": [
+        {
+          "zh": "请再加一碗米饭。",
+          "py": "qǐng zài jiā yì wǎn mǐ fàn",
+          "vi": "Làm ơn cho thêm một bát cơm nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 580,
+      "word": "蛋糕",
+      "meaningsVi": [
+        "bánh ngọt, bánh gatô, bánh kem"
+      ],
+      "noteVi": "「蛋」 là trứng, 「糕」 là bánh: bánh làm từ trứng. Bánh sinh nhật là 生日蛋糕.",
+      "examples": [
+        {
+          "zh": "今天是妈妈的生日，我们买了一个蛋糕。",
+          "py": "jīn tiān shì mā ma de shēng rì wǒ men mǎi le yí gè dàn gāo",
+          "vi": "Hôm nay là sinh nhật mẹ, chúng tôi đã mua một chiếc bánh kem."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 534,
+      "word": "冰",
+      "meaningsVi": [
+        "đá, nước đá, băng"
+      ],
+      "noteVi": "冰水 là nước đá (nước lạnh có đá), 加冰 là cho đá. Âm Hán Việt 'băng'.",
+      "examples": [
+        {
+          "zh": "天气太热了，我想喝冰水。",
+          "py": "tiān qì tài rè le wǒ xiǎng hē bīng shuǐ",
+          "vi": "Trời nóng quá, tôi muốn uống nước đá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 535,
+      "word": "冰激凌",
+      "meaningsVi": [
+        "kem (que, ốc quế, cốc)"
+      ],
+      "noteVi": "Phiên âm từ tiếng Anh 'ice cream': 「冰」 (ice) + 激凌 (đọc gần 'cream'). Cũng viết 冰淇淋.",
+      "examples": [
+        {
+          "zh": "孩子们都喜欢吃冰激凌。",
+          "py": "hái zi men dōu xǐ huan chī bīng jī líng",
+          "vi": "Bọn trẻ đều thích ăn kem."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 620,
+      "word": "方便面",
+      "meaningsVi": [
+        "mì ăn liền, mì tôm"
+      ],
+      "noteVi": "Nghĩa đen là 'mì tiện lợi' (方便 + 面). Người Việt hay gọi là 'mì tôm'.",
+      "examples": [
+        {
+          "zh": "昨天晚上太忙了，我就吃了一碗方便面。",
+          "py": "zuó tiān wǎn shang tài máng le wǒ jiù chī le yì wǎn fāng biàn miàn",
+          "vi": "Tối qua bận quá, tôi chỉ ăn một bát mì tôm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 866,
+      "word": "外卖",
+      "meaningsVi": [
+        "đồ ăn giao tận nơi, đồ ăn mang đi",
+        "bán mang đi (động từ)"
+      ],
+      "noteVi": "Gọi đồ ăn về nhà nói 「点外卖」 hoặc 「叫外卖」. Hán Việt 'ngoại mại': bán ra bên ngoài.",
+      "examples": [
+        {
+          "zh": "今天我们不做饭了，点外卖吧。",
+          "py": "jīn tiān wǒ men bú zuò fàn le diǎn wài mài ba",
+          "vi": "Hôm nay chúng mình không nấu cơm nữa, gọi đồ ăn về đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 938,
+      "word": "饮料",
+      "meaningsVi": [
+        "đồ uống, nước uống"
+      ],
+      "noteVi": "「饮料」 thường chỉ nước ngọt, nước trái cây… Trà, cà phê, bia cũng có thể gọi chung là 饮料.",
+      "examples": [
+        {
+          "zh": "你想喝什么饮料？",
+          "py": "nǐ xiǎng hē shén me yǐn liào",
+          "vi": "Bạn muốn uống gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 742,
+      "word": "矿泉水",
+      "meaningsVi": [
+        "nước khoáng"
+      ],
+      "noteVi": "Hán Việt 'khoáng tuyền thủy': nước suối khoáng. Chai nước bán ở cửa hàng thường gọi là 矿泉水.",
+      "examples": [
+        {
+          "zh": "我平时只喝矿泉水。",
+          "py": "wǒ píng shí zhǐ hē kuàng quán shuǐ",
+          "vi": "Bình thường tôi chỉ uống nước khoáng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 720,
+      "word": "酒",
+      "meaningsVi": [
+        "rượu, đồ uống có cồn"
+      ],
+      "noteVi": "「酒」 chỉ chung các loại đồ uống có cồn: 啤酒 (bia), 红酒 (rượu vang đỏ), 白酒 (rượu trắng). 喝酒 là uống rượu.",
+      "examples": [
+        {
+          "zh": "我爸爸不喝酒。",
+          "py": "wǒ bà ba bù hē jiǔ",
+          "vi": "Bố tôi không uống rượu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 794,
+      "word": "啤酒",
+      "meaningsVi": [
+        "bia"
+      ],
+      "noteVi": "「啤」 là phiên âm 'bia' (beer) + 「酒」.",
+      "examples": [
+        {
+          "zh": "天气热的时候，他喜欢喝冰啤酒。",
+          "py": "tiān qì rè de shí hou tā xǐ huan hē bīng pí jiǔ",
+          "vi": "Lúc trời nóng, anh ấy thích uống bia lạnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 871,
+      "word": "碗",
+      "meaningsVi": [
+        "bát, chén",
+        "bát (lượng từ: một bát cơm)"
+      ],
+      "noteVi": "Là danh từ: 一个碗 (một cái bát). Là lượng từ: 一碗米饭 (một bát cơm), không thêm 「个」.",
+      "examples": [
+        {
+          "zh": "我吃了两碗米饭，已经饱了。",
+          "py": "wǒ chī le liǎng wǎn mǐ fàn yǐ jīng bǎo le",
+          "vi": "Tôi ăn hai bát cơm, no rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 792,
+      "word": "盘子",
+      "meaningsVi": [
+        "đĩa (để đựng thức ăn)"
+      ],
+      "noteVi": "「盘子」 là cái đĩa (đồ vật): 一个盘子. Khi làm lượng từ chỉ dùng 「盘」: 一盘饺子 (một đĩa sủi cảo).",
+      "examples": [
+        {
+          "zh": "桌子上有很多盘子。",
+          "py": "zhuō zi shàng yǒu hěn duō pán zi",
+          "vi": "Trên bàn có rất nhiều đĩa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 741,
+      "word": "筷子",
+      "meaningsVi": [
+        "đũa"
+      ],
+      "noteVi": "Một đôi đũa là 一双筷子 (lượng từ 双, bài 4).",
+      "examples": [
+        {
+          "zh": "你会用筷子吗？",
+          "py": "nǐ huì yòng kuài zi ma",
+          "vi": "Bạn có biết dùng đũa không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 825,
+      "word": "勺子",
+      "meaningsVi": [
+        "thìa, muỗng"
+      ],
+      "examples": [
+        {
+          "zh": "孩子还小，用勺子吃饭。",
+          "py": "hái zi hái xiǎo yòng sháo zi chī fàn",
+          "vi": "Đứa bé còn nhỏ, ăn cơm bằng thìa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 924,
+      "word": "一定",
+      "meaningsVi": [
+        "nhất định, chắc chắn (phó từ)",
+        "nhất định, cố định (tính từ)"
+      ],
+      "noteVi": "Đứng trước động từ: 你一定要尝尝 (bạn nhất định phải nếm thử). Chú ý: 不一定 là 'chưa chắc', còn 一定不 là 'chắc chắn không'. Đọc 'yídìng' (一 đổi thanh trước thanh 4).",
+      "examples": [
+        {
+          "zh": "你一定要尝尝我妈妈做的饺子。",
+          "py": "nǐ yí dìng yào cháng cháng wǒ mā ma zuò de jiǎo zi",
+          "vi": "Bạn nhất định phải ăn thử sủi cảo mẹ tôi làm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 581,
+      "word": "当然",
+      "meaningsVi": [
+        "đương nhiên, tất nhiên"
+      ],
+      "noteVi": "Có thể đứng một mình để trả lời: 当然！ hoặc đứng trước động từ, tính từ: 当然喜欢.",
+      "examples": [
+        {
+          "zh": "你喜欢吃中国菜吗？——当然喜欢！",
+          "py": "nǐ xǐ huan chī zhōng guó cài ma dāng rán xǐ huan",
+          "vi": "Bạn có thích món Trung Quốc không? — Tất nhiên là thích!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 797,
+      "word": "其实",
+      "meaningsVi": [
+        "thực ra, thật ra"
+      ],
+      "noteVi": "Dùng khi nói sự thật khác với điều người ta nghĩ hoặc vừa nói. Thường đứng đầu vế câu hoặc sau chủ ngữ.",
+      "examples": [
+        {
+          "zh": "他说他不饿，其实他饿坏了。",
+          "py": "tā shuō tā bú è qí shí tā è huài le",
+          "vi": "Anh ấy nói là không đói, thật ra đói lả rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 538,
+      "word": "不但",
+      "meaningsVi": [
+        "không những, không chỉ"
+      ],
+      "noteVi": "Hay đi với 「而且」 ở vế sau: 不但……而且…… (xem phần ngữ pháp). Đọc 'búdàn' (不 đổi thanh trước thanh 4).",
+      "examples": [
+        {
+          "zh": "这个蛋糕不但好看，而且很好吃。",
+          "py": "zhè ge dàn gāo bú dàn hǎo kàn ér qiě hěn hǎo chī",
+          "vi": "Chiếc bánh này không những đẹp mà còn rất ngon."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 611,
+      "word": "而且",
+      "meaningsVi": [
+        "mà còn, hơn nữa, vả lại"
+      ],
+      "noteVi": "Có thể dùng một mình để thêm ý: ……，而且…… (…, hơn nữa…). Không dùng 「但是」 thay cho 「而且」.",
+      "examples": [
+        {
+          "zh": "这家饭馆的菜很好吃，而且不贵。",
+          "py": "zhè jiā fàn guǎn de cài hěn hǎo chī ér qiě bú guì",
+          "vi": "Món ăn của quán này rất ngon, hơn nữa lại không đắt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 156,
+      "titleVi": "Đại từ nghi vấn chỉ 'bất cứ': 什么都, 谁都, 想吃什么就点什么",
+      "summaryVi": "Đại từ nghi vấn + 都/也 nghĩa là 'bất cứ… cũng' (他什么都吃); cùng một đại từ nghi vấn ở hai vế chỉ cùng một người, một vật (想吃什么就点什么).",
+      "explanationVi": [
+        "Đại từ nghi vấn (什么, 谁, 哪儿, 怎么…) không chỉ dùng để hỏi. Đặt trước 「都」 hoặc 「也」, nó mang nghĩa **bất cứ, mọi**: 什么都 (cái gì cũng), 谁都 (ai cũng), 哪儿都 (đâu cũng). Câu như vậy **không** phải câu hỏi, không thêm 「吗」.",
+        "Thứ tự giống tiếng Việt 'cái gì **cũng** ăn': đại từ nghi vấn + 都/也 + động từ: 他什么都吃. Dù 什么 là tân ngữ, nó vẫn phải **đứng trước** 「都」 và động từ. Đừng đặt 「都」 ngay sau chủ ngữ như thói quen: 我都想吃什么 lại thành câu hỏi 'tôi muốn ăn những gì?'.",
+        "Câu phủ định hay dùng 「也」 hoặc 「都」 đều được: 我哪儿也不想去 = 我哪儿都不想去 (Tôi chẳng muốn đi đâu cả). Thiếu 都/也 thì câu sai: không nói 我哪儿不想去.",
+        "Cách thứ hai: **cùng một đại từ nghi vấn** xuất hiện ở hai vế, chỉ cùng một người hay vật; vế sau thường có 「就」: 你想吃什么就点什么 (Bạn muốn ăn gì thì gọi món đó), 谁先到谁点菜 (Ai đến trước thì người đó gọi món). Tiếng Việt cũng có lối nói 'gì… nấy', 'ai… người ấy'."
+      ],
+      "patterns": [
+        "Đại từ nghi vấn + 都/也 + (不/没) + động từ",
+        "… đại từ nghi vấn …，(就) … cùng đại từ nghi vấn …"
+      ],
+      "examples": [
+        {
+          "zh": "我饿坏了，现在什么都想吃。",
+          "py": "wǒ è huài le xiàn zài shén me dōu xiǎng chī",
+          "vi": "Tôi đói lả rồi, bây giờ cái gì cũng muốn ăn."
+        },
+        {
+          "zh": "这种蛋糕谁都喜欢。",
+          "py": "zhè zhǒng dàn gāo shéi dōu xǐ huan",
+          "vi": "Loại bánh này ai cũng thích."
+        },
+        {
+          "zh": "周末我哪儿都不想去，只想在家休息。",
+          "py": "zhōu mò wǒ nǎ r dōu bù xiǎng qù zhǐ xiǎng zài jiā xiū xi",
+          "vi": "Cuối tuần tôi chẳng muốn đi đâu cả, chỉ muốn ở nhà nghỉ ngơi."
+        },
+        {
+          "zh": "你想吃什么就点什么，今天我请你。",
+          "py": "nǐ xiǎng chī shén me jiù diǎn shén me jīn tiān wǒ qǐng nǐ",
+          "vi": "Bạn muốn ăn gì thì gọi món đó, hôm nay tôi mời."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我哪儿不想去。",
+          "right": "我哪儿都不想去。",
+          "noteVi": "Nghĩa 'không… đâu cả' cần có 「都」 hoặc 「也」 sau đại từ nghi vấn."
+        },
+        {
+          "wrong": "他都什么吃。",
+          "right": "他什么都吃。",
+          "noteVi": "「都」 đứng sau 「什么」, ngay trước động từ — giống tiếng Việt 'cái gì **cũng** ăn'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 157,
+      "titleVi": "Đại từ nghi vấn chỉ 'một cái gì đó, ai đó, đâu đó'",
+      "summaryVi": "Trong câu hỏi có 「吗」, câu phủ định hoặc lời đề nghị, 什么, 谁, 哪儿 có thể chỉ một thứ không xác định: 你想喝点什么吗？ (Bạn có muốn uống chút gì không?)",
+      "explanationVi": [
+        "Đại từ nghi vấn còn chỉ một người, vật, nơi **không xác định**, không cần nói rõ là ai, cái gì: 什么 = cái gì đó, 谁 = ai đó, 哪儿 = đâu đó. Tiếng Việt cũng vậy: trong 'Bạn có muốn ăn **gì** không?', chữ 'gì' không hỏi một món cụ thể.",
+        "Hay gặp nhất trong câu hỏi có 「吗」. So sánh: 你想喝什么？ (Bạn muốn uống **gì**? — người nghe phải nói tên đồ uống) và 你想喝点什么吗？ (Bạn có muốn uống chút gì **không**? — trả lời 想 hoặc 不想). Có 「吗」 thì đại từ nghi vấn không còn dùng để hỏi nữa. 「点」 ở đây là 「一点儿」 nói tắt.",
+        "Trong câu phủ định, 不/没 + động từ + 什么 nghĩa là 'chẳng… gì (mấy)': 我不太饿，不想吃什么. Trong lời rủ, đề nghị: 我们去吃点什么吧 (Mình đi ăn chút gì đi)."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + (点) + 什么 + 吗？",
+        "有 + 谁/什么 + … + 吗？",
+        "不/没 + động từ + 什么"
+      ],
+      "examples": [
+        {
+          "zh": "你想喝点什么吗？",
+          "py": "nǐ xiǎng hē diǎn shén me ma",
+          "vi": "Bạn có muốn uống chút gì không?"
+        },
+        {
+          "zh": "家里有什么吃的吗？",
+          "py": "jiā lǐ yǒu shén me chī de ma",
+          "vi": "Ở nhà có gì ăn không?"
+        },
+        {
+          "zh": "中午我吃得很饱，晚上不想吃什么了。",
+          "py": "zhōng wǔ wǒ chī de hěn bǎo wǎn shang bù xiǎng chī shén me le",
+          "vi": "Trưa nay tôi ăn rất no, tối chẳng muốn ăn gì nữa."
+        },
+        {
+          "zh": "刚才有谁来找我吗？",
+          "py": "gāng cái yǒu shéi lái zhǎo wǒ ma",
+          "vi": "Vừa nãy có ai đến tìm tôi không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你想吃什么？",
+          "right": "你想吃点什么吗？",
+          "noteVi": "Câu bên trái không sai ngữ pháp, nhưng nghĩa là 'Bạn muốn ăn gì?' (hỏi tên món). Muốn hỏi 'Bạn có muốn ăn chút gì không?' thì phải thêm 「吗」 (thường thêm cả 「点」)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 161,
+      "titleVi": "Mượn danh từ làm lượng từ: 一碗米饭, 一盘饺子",
+      "summaryVi": "Danh từ chỉ đồ đựng như 碗 (bát), 盘 (đĩa), 杯 (cốc) có thể làm lượng từ: số + 碗/盘/杯 + danh từ.",
+      "explanationVi": [
+        "Nhiều danh từ chỉ đồ đựng được 'mượn' làm lượng từ để đếm thứ đựng bên trong: 一**碗**米饭 (một bát cơm), 两**盘**饺子 (hai đĩa sủi cảo), 三**杯**茶 (ba cốc trà). Cấu trúc giống hệt tiếng Việt 'một **bát** cơm', nên rất dễ nhớ.",
+        "Khi làm lượng từ, 碗, 盘 đứng **ngay sau số** (hoặc sau 这, 那), không thêm 「个」: 一碗米饭, 这碗米饭; không nói 一个碗米饭. 「盘」 thường chỉ dùng làm lượng từ; cái đĩa (đồ vật) là 「盘子」: 一个盘子 (một cái đĩa) khác 一盘菜 (một đĩa thức ăn).",
+        "So sánh: 两个碗 là **hai cái bát** (đồ vật), 两碗米饭 là **hai bát cơm** (thức ăn). Hỏi số lượng dùng 几碗, 几盘: 你要几碗米饭？"
+      ],
+      "patterns": [
+        "Số + 碗/盘/杯 + danh từ",
+        "这/那 + (số) + 碗/盘 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我要一碗米饭和一盘饺子。",
+          "py": "wǒ yào yì wǎn mǐ fàn hé yì pán jiǎo zi",
+          "vi": "Cho tôi một bát cơm và một đĩa sủi cảo."
+        },
+        {
+          "zh": "他饿坏了，一个人吃了三碗面条儿。",
+          "py": "tā è huài le yí gè rén chī le sān wǎn miàn tiáo r",
+          "vi": "Anh ấy đói lả, một mình ăn hết ba bát mì."
+        },
+        {
+          "zh": "桌子上有两盘水果。",
+          "py": "zhuō zi shàng yǒu liǎng pán shuǐ guǒ",
+          "vi": "Trên bàn có hai đĩa hoa quả."
+        },
+        {
+          "zh": "这碗米饭是你的。",
+          "py": "zhè wǎn mǐ fàn shì nǐ de",
+          "vi": "Bát cơm này là của bạn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我要一个碗米饭。",
+          "right": "我要一碗米饭。",
+          "noteVi": "「碗」 làm lượng từ thì đứng ngay sau số, không thêm 「个」. 一个碗 là 'một cái bát' (đồ vật)."
+        },
+        {
+          "wrong": "我们点了两饺子。",
+          "right": "我们点了两盘饺子。",
+          "noteVi": "Giữa số và danh từ phải có lượng từ.",
+          "issue": "missing_measure_word"
+        }
+      ],
+      "morphemes": [
+        "盘"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 182,
+      "titleVi": "Lặp số lượng: 一个一个, 一口一口 (từng… một)",
+      "summaryVi": "Một + lượng từ lặp lại (一个一个, 一口一口) đứng trước động từ, chỉ làm lần lượt từng cái, từng người, giống tiếng Việt 'từng… một'.",
+      "explanationVi": [
+        "Lặp cụm 'số + lượng từ' (thường là số 一) để nói việc làm **lần lượt từng cái, từng người**: 一个一个 (từng cái một, từng người một), 一口一口 (từng miếng một), 一碗一碗 (từng bát một).",
+        "Cụm lặp làm trạng ngữ, đứng **trước động từ**, thường có 「地」: 孩子们一个一个地进来了. Tiếng Việt nói 'đi vào **từng người một**' (sau động từ), còn tiếng Trung phải nói 一个一个地进来 (trước động từ). Đây là lỗi người Việt hay mắc.",
+        "Trong khẩu ngữ hay rút gọn thành 一个个: 孩子们一个个都很高兴 (đứa nào cũng vui). Ở HSK3, hãy nắm chắc cách dùng trước động từ."
+      ],
+      "patterns": [
+        "一 + lượng từ + 一 + lượng từ + (地) + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "请大家一个一个地说。",
+          "py": "qǐng dà jiā yí gè yí gè de shuō",
+          "vi": "Mời mọi người lần lượt từng người nói."
+        },
+        {
+          "zh": "孩子们一个一个地进来了。",
+          "py": "hái zi men yí gè yí gè de jìn lái le",
+          "vi": "Bọn trẻ lần lượt từng đứa đi vào."
+        },
+        {
+          "zh": "奶奶一口一口地吃着蛋糕。",
+          "py": "nǎi nai yì kǒu yì kǒu de chī zhe dàn gāo",
+          "vi": "Bà đang ăn bánh từng miếng một."
+        },
+        {
+          "zh": "饺子要一个一个地包。",
+          "py": "jiǎo zi yào yí gè yí gè de bāo",
+          "vi": "Sủi cảo phải gói từng cái một."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他们进来一个一个。",
+          "right": "他们一个一个地进来。",
+          "noteVi": "Dịch theo thứ tự tiếng Việt 'vào từng người một' là sai: cụm lặp đứng trước động từ."
+        },
+        {
+          "wrong": "奶奶吃蛋糕一口一口。",
+          "right": "奶奶一口一口地吃蛋糕。",
+          "noteVi": "「一口一口」 đứng trước động từ 「吃」, không đứng cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 211,
+      "titleVi": "Bổ ngữ mức độ 「极了」, 「坏了」: …tuyệt, …lả, …quá đi mất",
+      "summaryVi": "Tính từ (hoặc động từ tâm lý) + 极了/坏了 chỉ mức độ rất cao: 好吃极了 (ngon tuyệt), 饿坏了 (đói lả).",
+      "explanationVi": [
+        "「极了」 đặt **sau** tính từ (hoặc động từ chỉ cảm xúc như 喜欢) để nói mức độ cao nhất: 好吃极了 (ngon tuyệt), 甜极了 (ngọt lịm), 高兴极了 (vui vô cùng). Dùng được cho cả nghĩa tốt lẫn nghĩa xấu: 累极了, 热极了.",
+        "「坏了」 cũng đặt sau tính từ/động từ, thường chỉ cảm giác **khó chịu** của cơ thể hoặc cảm xúc rất mạnh: 饿坏了 (đói lả), 渴坏了 (khát khô cổ), 累坏了 (mệt rã rời), 高兴坏了 (vui phát điên). 「坏了」 **không** đi với tính từ khen như 好吃, 漂亮: không nói 好吃坏了.",
+        "Giống tiếng Việt 'ngon **quá**', 'đói **lắm**', từ chỉ mức độ đứng sau. Nhưng đã có 极了, 坏了 thì **không** thêm 很, 非常, 太 trước tính từ: nói 好吃极了, không nói 很好吃极了. Đừng nhầm với 「极」 đứng trước tính từ (bài 4: 极好, 极少): 「极了」 luôn đứng **sau**."
+      ],
+      "patterns": [
+        "Tính từ/động từ tâm lý + 极了",
+        "Tính từ/động từ + 坏了 (cảm giác khó chịu, cảm xúc mạnh)"
+      ],
+      "examples": [
+        {
+          "zh": "你做的蛋糕好吃极了！",
+          "py": "nǐ zuò de dàn gāo hǎo chī jí le",
+          "vi": "Bánh bạn làm ngon tuyệt!"
+        },
+        {
+          "zh": "我今天没吃早饭，饿坏了。",
+          "py": "wǒ jīn tiān méi chī zǎo fàn è huài le",
+          "vi": "Hôm nay tôi không ăn sáng, đói lả rồi."
+        },
+        {
+          "zh": "听说要去中国留学，他高兴坏了。",
+          "py": "tīng shuō yào qù zhōng guó liú xué tā gāo xìng huài le",
+          "vi": "Nghe nói sắp được đi du học Trung Quốc, cậu ấy vui phát điên."
+        },
+        {
+          "zh": "天气热极了，我们去吃冰激凌吧。",
+          "py": "tiān qì rè jí le wǒ men qù chī bīng jī líng ba",
+          "vi": "Trời nóng kinh khủng, chúng mình đi ăn kem đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这个菜很好吃极了。",
+          "right": "这个菜好吃极了。",
+          "noteVi": "Có 「极了」 thì không thêm 「很」 trước tính từ."
+        },
+        {
+          "wrong": "这个蛋糕极好吃了。",
+          "right": "这个蛋糕好吃极了。",
+          "noteVi": "「极了」 đứng liền sau tính từ, không tách 「极」 ra phía trước."
+        },
+        {
+          "wrong": "这件衣服漂亮坏了。",
+          "right": "这件衣服漂亮极了。",
+          "noteVi": "「坏了」 không đi với tính từ khen như 漂亮, 好吃; hãy dùng 「极了」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 233,
+      "titleVi": "又……又……: vừa… vừa…",
+      "summaryVi": "Chủ ngữ + 又 + A + 又 + B: chủ ngữ có cùng lúc hai đặc điểm hoặc làm cả hai việc (又便宜又好吃: vừa rẻ vừa ngon).",
+      "explanationVi": [
+        "「又……又……」 nối hai tính từ hoặc hai động từ, nói chủ ngữ **có cả hai đặc điểm**: 这个西瓜又大又甜 (Quả dưa hấu này vừa to vừa ngọt), 我又饿又渴 (Tôi vừa đói vừa khát). Hai đặc điểm thường **cùng chiều**: cùng tốt (又便宜又好吃) hoặc cùng xấu (又贵又不好吃).",
+        "「又」 là phó từ nên đứng **sau chủ ngữ**, trước tính từ/động từ: 我又饿又渴, không nói 又我饿又渴. Sau 「又」 thường dùng tính từ đứng một mình, không cần 「很」.",
+        "Chú ý: 'vừa… vừa…' tiếng Việt còn chỉ hai hành động **diễn ra cùng lúc** (vừa ăn vừa xem TV). Nghĩa đó tiếng Trung dùng 「一边……一边……」 (bài 2): 我们一边吃饭一边看电视. Còn 「又……又……」 nhấn mạnh **có cả hai**.",
+        "So với 「不但……而且……」: 又……又…… chỉ liệt kê hai ý ngang hàng; 不但……而且…… có ý tăng tiến (không những… mà còn…). Đừng trộn hai khung này trong một câu."
+      ],
+      "patterns": [
+        "Chủ ngữ + 又 + tính từ/động từ + 又 + tính từ/động từ"
+      ],
+      "examples": [
+        {
+          "zh": "这家饭馆的菜又便宜又好吃。",
+          "py": "zhè jiā fàn guǎn de cài yòu pián yi yòu hǎo chī",
+          "vi": "Món ăn của quán này vừa rẻ vừa ngon."
+        },
+        {
+          "zh": "走了一下午，我又饿又渴。",
+          "py": "zǒu le yí xià wǔ wǒ yòu è yòu kě",
+          "vi": "Đi bộ cả buổi chiều, tôi vừa đói vừa khát."
+        },
+        {
+          "zh": "这个西瓜又大又甜。",
+          "py": "zhè ge xī guā yòu dà yòu tián",
+          "vi": "Quả dưa hấu này vừa to vừa ngọt."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "又我饿又渴。",
+          "right": "我又饿又渴。",
+          "noteVi": "「又」 là phó từ, phải đứng sau chủ ngữ."
+        },
+        {
+          "wrong": "这家饭馆又便宜，而且好吃。",
+          "right": "这家饭馆又便宜又好吃。",
+          "noteVi": "Không trộn hai khung câu: dùng 又……又…… hoặc 不但……而且……"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 235,
+      "titleVi": "不但……而且……: không những… mà còn…",
+      "summaryVi": "不但 + A，而且 + B: không những A mà còn B; vế sau thêm một ý (thường mạnh hơn), hay đi với 也, 还.",
+      "explanationVi": [
+        "「不但……而且……」 giống 'không những… mà còn…' trong tiếng Việt: vế sau **thêm** một ý, thường mạnh hơn vế trước. Vế sau hay có 「也」 hoặc 「还」: 他不但会做饭，而且还做得很好吃.",
+        "Vị trí của 「不但」 phụ thuộc vào chủ ngữ. Hai vế **cùng một chủ ngữ**: chủ ngữ đứng đầu, 「不但」 đứng sau chủ ngữ: 这家饭馆不但便宜，而且好吃. Hai vế **khác chủ ngữ**: 「不但」 đứng trước chủ ngữ thứ nhất, 「而且」 đứng trước chủ ngữ thứ hai: 不但我喜欢，而且我妹妹也喜欢.",
+        "「而且」 cũng dùng một mình, nghĩa là 'hơn nữa': 这个蛋糕很好吃，而且不贵. Đừng dùng 「但是」 thay cho 「而且」: chữ 'mà' trong 'mà còn' không có nghĩa 'nhưng'."
+      ],
+      "patterns": [
+        "Chủ ngữ + 不但 + A，而且 + (也/还) + B",
+        "不但 + chủ ngữ 1 + …，而且 + chủ ngữ 2 + 也 + …"
+      ],
+      "examples": [
+        {
+          "zh": "这家饭馆的菜不但好吃，而且很便宜。",
+          "py": "zhè jiā fàn guǎn de cài bú dàn hǎo chī ér qiě hěn pián yi",
+          "vi": "Món ăn của quán này không những ngon mà còn rất rẻ."
+        },
+        {
+          "zh": "他不但会做中国菜，而且做得很好。",
+          "py": "tā bú dàn huì zuò zhōng guó cài ér qiě zuò de hěn hǎo",
+          "vi": "Anh ấy không những biết nấu món Trung Quốc mà còn nấu rất giỏi."
+        },
+        {
+          "zh": "不但我喜欢吃冰激凌，而且我妹妹也喜欢。",
+          "py": "bú dàn wǒ xǐ huan chī bīng jī líng ér qiě wǒ mèi mei yě xǐ huan",
+          "vi": "Không chỉ tôi thích ăn kem mà em gái tôi cũng thích."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "不但他会做饭，而且做得很好吃。",
+          "right": "他不但会做饭，而且做得很好吃。",
+          "noteVi": "Hai vế cùng chủ ngữ 「他」 thì 「不但」 đứng sau chủ ngữ."
+        },
+        {
+          "wrong": "这个菜不但好吃，但是很便宜。",
+          "right": "这个菜不但好吃，而且很便宜。",
+          "noteVi": "'Mà còn' là 「而且」, không phải 「但是」 (nhưng)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-05-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "碗",
+          "bát"
+        ],
+        [
+          "盘子",
+          "đĩa"
+        ],
+        [
+          "筷子",
+          "đũa"
+        ],
+        [
+          "勺子",
+          "thìa"
+        ],
+        [
+          "菜单",
+          "thực đơn"
+        ],
+        [
+          "饮料",
+          "đồ uống"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-05-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "饿",
+          "đói"
+        ],
+        [
+          "饱",
+          "no"
+        ],
+        [
+          "渴",
+          "khát"
+        ],
+        [
+          "甜",
+          "ngọt"
+        ],
+        [
+          "尝",
+          "nếm thử"
+        ],
+        [
+          "加",
+          "thêm"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-05-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Món này ngon tuyệt!)",
+      "options": [
+        "这个菜好吃极了！",
+        "这个菜很好吃极了！",
+        "这个菜极了好吃！"
+      ],
+      "answer": 0,
+      "explainVi": "「极了」 đứng sau tính từ, và không thêm 「很」 khi đã có 「极了」.",
+      "grammar": [
+        211
+      ]
+    },
+    {
+      "id": "hsk3-05-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你做的蛋糕好吃",
+      "after": "了！",
+      "answers": [
+        "极"
+      ],
+      "options": [
+        "极",
+        "坏",
+        "很"
+      ],
+      "vi": "Bánh bạn làm ngon tuyệt!",
+      "explainVi": "「坏了」 không đi với tính từ khen như 好吃; dùng 「极了」.",
+      "grammar": [
+        211
+      ]
+    },
+    {
+      "id": "hsk3-05-e05",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "我要一",
+      "after": "米饭。",
+      "answers": [
+        "碗"
+      ],
+      "options": [
+        "碗",
+        "本",
+        "只"
+      ],
+      "vi": "Cho tôi một bát cơm.",
+      "grammar": [
+        161
+      ]
+    },
+    {
+      "id": "hsk3-05-e06",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "我们点了两",
+      "after": "饺子。",
+      "answers": [
+        "盘"
+      ],
+      "options": [
+        "盘",
+        "件",
+        "双"
+      ],
+      "vi": "Chúng tôi gọi hai đĩa sủi cảo.",
+      "grammar": [
+        161
+      ]
+    },
+    {
+      "id": "hsk3-05-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy ăn ba bát cơm.)",
+      "options": [
+        "他吃了三碗米饭。",
+        "他吃了三个碗米饭。",
+        "他吃了米饭三碗。"
+      ],
+      "answer": 0,
+      "explainVi": "「碗」 làm lượng từ, đứng ngay sau số và trước danh từ, không thêm 「个」.",
+      "grammar": [
+        161
+      ]
+    },
+    {
+      "id": "hsk3-05-e08",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几碗米饭？",
+        "promptVi": "Trên bàn có mấy bát cơm? (Trong hình: 3 bát cơm.)",
+        "picture": "🍚🍚🍚",
+        "expected": {
+          "number": 3,
+          "noun": "米饭",
+          "sentence": "桌子上有三碗米饭。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有三碗米饭。",
+            "score": 100
+          },
+          {
+            "answer": "有三碗。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有三个米饭。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有三本米饭。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有两碗米饭。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        161
+      ]
+    },
+    {
+      "id": "hsk3-05-e09",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几盘菜？",
+        "promptVi": "Trên bàn có mấy đĩa thức ăn? (Trong hình: 2 đĩa.)",
+        "picture": "🥗🥗",
+        "expected": {
+          "number": 2,
+          "noun": "菜",
+          "sentence": "桌子上有两盘菜。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有两盘菜。",
+            "score": 100
+          },
+          {
+            "answer": "两盘。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有二盘菜。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "桌子上有两菜。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有三盘菜。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        161
+      ]
+    },
+    {
+      "id": "hsk3-05-e10",
+      "type": "order",
+      "vi": "Bọn trẻ lần lượt từng đứa đi vào.",
+      "tiles": [
+        "孩子们",
+        "一个",
+        "一个",
+        "地",
+        "进来了"
+      ],
+      "answers": [
+        "孩子们一个一个地进来了"
+      ],
+      "explainVi": "Cụm lặp 一个一个 đứng trước động từ, không đứng cuối câu như tiếng Việt.",
+      "grammar": [
+        182
+      ]
+    },
+    {
+      "id": "hsk3-05-e11",
+      "type": "choice",
+      "promptVi": "「请大家一个一个地说。」 nghĩa là gì?",
+      "options": [
+        "Mời mọi người lần lượt từng người nói.",
+        "Mời mọi người cùng nói một lúc.",
+        "Mời một người nói."
+      ],
+      "answer": 0,
+      "grammar": [
+        182
+      ]
+    },
+    {
+      "id": "hsk3-05-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "奶奶一口",
+      "after": "地吃着蛋糕。",
+      "answers": [
+        "一口"
+      ],
+      "options": [
+        "一口",
+        "一个",
+        "两口"
+      ],
+      "vi": "Bà đang ăn bánh từng miếng một.",
+      "grammar": [
+        182
+      ]
+    },
+    {
+      "id": "hsk3-05-e13",
+      "type": "translate",
+      "vi": "Các em lần lượt từng người một vào nhé.",
+      "answers": [
+        "(请)你们一个一个(地)进来(吧)。",
+        "(请)大家一个一个(地)进来(吧)。"
+      ],
+      "examples": [
+        {
+          "answer": "你们一个一个地进来吧。",
+          "score": 100
+        },
+        {
+          "answer": "请大家一个一个进来。",
+          "score": 100
+        },
+        {
+          "answer": "你们进来一个一个吧。",
+          "score": 0,
+          "note": "Dịch theo thứ tự tiếng Việt: cụm lặp phải đứng trước động từ"
+        }
+      ],
+      "grammar": [
+        182
+      ]
+    },
+    {
+      "id": "hsk3-05-e14",
+      "type": "choice",
+      "promptVi": "「他什么都吃。」 nghĩa là gì?",
+      "options": [
+        "Anh ấy cái gì cũng ăn.",
+        "Anh ấy ăn những gì?",
+        "Anh ấy không ăn gì cả."
+      ],
+      "answer": 0,
+      "explainVi": "什么 + 都 nghĩa là 'bất cứ cái gì cũng'; câu này không phải câu hỏi.",
+      "grammar": [
+        156
+      ]
+    },
+    {
+      "id": "hsk3-05-e15",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我饿坏了，现在",
+      "after": "都想吃。",
+      "answers": [
+        "什么"
+      ],
+      "options": [
+        "什么",
+        "谁",
+        "哪儿"
+      ],
+      "vi": "Tôi đói lả rồi, bây giờ cái gì cũng muốn ăn.",
+      "grammar": [
+        156,
+        211
+      ]
+    },
+    {
+      "id": "hsk3-05-e16",
+      "type": "order",
+      "vi": "Ai cũng thích ăn kem.",
+      "tiles": [
+        "谁",
+        "都",
+        "喜欢",
+        "吃",
+        "冰激凌"
+      ],
+      "answers": [
+        "谁都喜欢吃冰激凌"
+      ],
+      "grammar": [
+        156
+      ]
+    },
+    {
+      "id": "hsk3-05-e17",
+      "type": "translate",
+      "vi": "Bạn muốn ăn gì thì gọi món đó.",
+      "answers": [
+        "你想吃什么就点什么。",
+        "你想吃什么(你)就吃什么。"
+      ],
+      "examples": [
+        {
+          "answer": "你想吃什么就点什么。",
+          "score": 100
+        },
+        {
+          "answer": "你想吃什么就吃什么。",
+          "score": 100
+        },
+        {
+          "answer": "你想吃什么？",
+          "score": 0,
+          "note": "Đây là câu hỏi, không phải 'gì… nấy'"
+        }
+      ],
+      "grammar": [
+        156
+      ]
+    },
+    {
+      "id": "hsk3-05-e18",
+      "type": "choice",
+      "promptVi": "Bạn muốn hỏi khách: 'Bạn có muốn uống chút gì không?' Câu nào đúng?",
+      "options": [
+        "你想喝点什么吗？",
+        "你想喝什么？",
+        "你想喝什么都？"
+      ],
+      "answer": 0,
+      "explainVi": "Có 「吗」 thì 什么 chỉ 'chút gì đó', câu hỏi có/không. 你想喝什么？ là hỏi tên đồ uống.",
+      "grammar": [
+        157
+      ]
+    },
+    {
+      "id": "hsk3-05-e19",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "家里有",
+      "after": "吃的吗？",
+      "answers": [
+        "什么"
+      ],
+      "options": [
+        "什么",
+        "谁",
+        "怎么"
+      ],
+      "vi": "Ở nhà có gì ăn không?",
+      "grammar": [
+        157
+      ]
+    },
+    {
+      "id": "hsk3-05-e20",
+      "type": "choice",
+      "promptVi": "「我不太饿，不想吃什么。」 nghĩa là gì?",
+      "options": [
+        "Tôi không đói lắm, chẳng muốn ăn gì.",
+        "Tôi không đói lắm, muốn ăn gì?",
+        "Tôi rất đói, cái gì cũng muốn ăn."
+      ],
+      "answer": 0,
+      "explainVi": "Trong câu phủ định, 不想吃什么 nghĩa là 'chẳng muốn ăn gì', không phải câu hỏi.",
+      "grammar": [
+        157
+      ]
+    },
+    {
+      "id": "hsk3-05-e21",
+      "type": "order",
+      "vi": "Quả dưa hấu này vừa to vừa ngọt.",
+      "tiles": [
+        "这个",
+        "西瓜",
+        "又",
+        "大",
+        "又",
+        "甜"
+      ],
+      "answers": [
+        "这个西瓜又大又甜",
+        "这个西瓜又甜又大"
+      ],
+      "grammar": [
+        233
+      ]
+    },
+    {
+      "id": "hsk3-05-e22",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "走了一下午，我又饿又",
+      "after": "。",
+      "answers": [
+        "渴"
+      ],
+      "options": [
+        "渴",
+        "饱",
+        "甜"
+      ],
+      "vi": "Đi bộ cả buổi chiều, tôi vừa đói vừa khát.",
+      "explainVi": "Hai đặc điểm trong 又……又…… phải cùng có ở chủ ngữ: đói thì không thể no.",
+      "grammar": [
+        233
+      ]
+    },
+    {
+      "id": "hsk3-05-e23",
+      "type": "translate",
+      "vi": "Món ăn của quán này vừa rẻ vừa ngon.",
+      "answers": [
+        "这家饭馆的菜又便宜又好吃。",
+        "这家饭馆的菜又好吃又便宜。",
+        "这个饭馆的菜又[便宜又好吃|好吃又便宜]。"
+      ],
+      "examples": [
+        {
+          "answer": "这家饭馆的菜又便宜又好吃。",
+          "score": 100
+        },
+        {
+          "answer": "这家饭馆的菜又好吃又便宜。",
+          "score": 100
+        },
+        {
+          "answer": "又这家饭馆的菜便宜又好吃。",
+          "score": 0
+        },
+        {
+          "answer": "这家饭馆的菜又贵又好吃。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        233
+      ]
+    },
+    {
+      "id": "hsk3-05-e24",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng: 这个蛋糕不但好看，＿很好吃。",
+      "zh": "这个蛋糕不但好看，＿很好吃。",
+      "options": [
+        "而且",
+        "但是",
+        "又"
+      ],
+      "answer": 0,
+      "explainVi": "不但…… đi với 而且……: không những… mà còn…; 但是 là 'nhưng'.",
+      "grammar": [
+        235
+      ]
+    },
+    {
+      "id": "hsk3-05-e25",
+      "type": "order",
+      "vi": "Quán này không những rẻ mà còn rất ngon.",
+      "tiles": [
+        "这家饭馆",
+        "不但",
+        "便宜",
+        "而且",
+        "很好吃"
+      ],
+      "answers": [
+        "这家饭馆不但便宜而且很好吃",
+        "这家饭馆不但很好吃而且便宜"
+      ],
+      "explainVi": "Cùng một chủ ngữ thì 「不但」 đứng sau chủ ngữ.",
+      "grammar": [
+        235
+      ]
+    },
+    {
+      "id": "hsk3-05-e26",
+      "type": "translate",
+      "vi": "Không chỉ tôi thích ăn kem mà em gái tôi cũng thích.",
+      "answers": [
+        "不但我喜欢吃冰激凌，而且我妹妹也喜欢(吃)。"
+      ],
+      "examples": [
+        {
+          "answer": "不但我喜欢吃冰激凌，而且我妹妹也喜欢。",
+          "score": 100
+        },
+        {
+          "answer": "不但我喜欢吃冰激凌，而且我妹妹也喜欢吃。",
+          "score": 100
+        },
+        {
+          "answer": "不但我喜欢吃冰激凌，但是我妹妹也喜欢。",
+          "score": 0,
+          "note": "'Mà còn' là 而且, không phải 但是"
+        }
+      ],
+      "grammar": [
+        235
+      ]
+    },
+    {
+      "id": "hsk3-05-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你饿吗？",
+        "promptVi": "Bạn có đói không? (Giả sử bạn chưa ăn gì từ sáng, đói lắm: hãy dùng 极了 hoặc 坏了.)",
+        "answers": [
+          "(我)饿[极|坏]了。",
+          {
+            "text": "(我)[很|非常]饿(了)。",
+            "score": 80
+          },
+          {
+            "text": "(我)太饿了。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我饿坏了。",
+            "score": 100
+          },
+          {
+            "answer": "饿极了。",
+            "score": 100
+          },
+          {
+            "answer": "我很饿。",
+            "score": 80,
+            "note": "Đúng nhưng chưa dùng 极了/坏了"
+          },
+          {
+            "answer": "我不饿。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        211
+      ]
+    },
+    {
+      "id": "hsk3-05-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你想吃什么？",
+        "promptVi": "Bạn muốn ăn gì? (Giả sử bạn đói quá, món gì cũng muốn ăn.)",
+        "answers": [
+          "(我)什么都想吃。",
+          "(我)什么都[可以|行]。"
+        ],
+        "examples": [
+          {
+            "answer": "我什么都想吃。",
+            "score": 100
+          },
+          {
+            "answer": "什么都可以。",
+            "score": 100
+          },
+          {
+            "answer": "我都想吃什么。",
+            "score": 0,
+            "note": "「都」 phải đứng sau 「什么」"
+          }
+        ]
+      },
+      "grammar": [
+        156
+      ]
+    },
+    {
+      "id": "hsk3-05-e29",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "大家都说这个菜很好吃，",
+      "after": "我不太喜欢。",
+      "answers": [
+        "其实"
+      ],
+      "options": [
+        "其实",
+        "当然",
+        "一定"
+      ],
+      "vi": "Mọi người đều nói món này rất ngon, thật ra tôi không thích lắm."
+    },
+    {
+      "id": "hsk3-05-e30",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你",
+      "after": "要尝尝这个菜，好吃极了！",
+      "answers": [
+        "一定"
+      ],
+      "options": [
+        "一定",
+        "其实",
+        "而且"
+      ],
+      "vi": "Bạn nhất định phải nếm thử món này, ngon tuyệt!"
+    }
+  ]
+}

@@ -1,0 +1,1407 @@
+{
+  "id": "hsk3-08",
+  "goalsVi": [
+    "Nói về sức khỏe, bệnh tật và bộ phận cơ thể: 感冒, 发烧, 检查, 住院, 脸, 耳朵, 腿, 脚…",
+    "Khuyên bảo, nói điều cần làm với 应该, 该, 得, 需要, 必须, 愿意 và phủ định đúng bằng 不用, 不必",
+    "Nói mức độ chắc chắn với 一定, 大概, 好像 và 'gần như' với 几乎, 差不多",
+    "Nói 'đến lúc phải… rồi' với 「该……了」: 该吃药了, 该你了",
+    "Dùng hành động, tính chất làm chủ ngữ: 每天锻炼对身体很好"
+  ],
+  "words": [
+    {
+      "no": 537,
+      "word": "病人",
+      "meaningsVi": [
+        "người bệnh, bệnh nhân"
+      ],
+      "noteVi": "Hán Việt 'bệnh nhân', nghĩa giống tiếng Việt.",
+      "examples": [
+        {
+          "zh": "医生每天要看很多病人。",
+          "py": "yī shēng měi tiān yào kàn hěn duō bìng rén",
+          "vi": "Mỗi ngày bác sĩ phải khám rất nhiều bệnh nhân."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 988,
+      "word": "住院",
+      "meaningsVi": [
+        "nằm viện, nhập viện"
+      ],
+      "noteVi": "住 (ở) + 院 (bệnh viện). Động từ + tân ngữ nên có thể tách: 住了三天院 (nằm viện ba ngày).",
+      "examples": [
+        {
+          "zh": "我奶奶住院了，我们去医院看她吧。",
+          "py": "wǒ nǎi nai zhù yuàn le wǒ men qù yī yuàn kàn tā ba",
+          "vi": "Bà tôi nằm viện rồi, chúng ta vào viện thăm bà đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 564,
+      "word": "出院",
+      "meaningsVi": [
+        "ra viện, xuất viện"
+      ],
+      "noteVi": "Ngược nghĩa với 「住院」.",
+      "examples": [
+        {
+          "zh": "医生说你下个星期就能出院了。",
+          "py": "yī shēng shuō nǐ xià gè xīng qī jiù néng chū yuàn le",
+          "vi": "Bác sĩ nói tuần sau bạn có thể ra viện rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 615,
+      "word": "发烧",
+      "meaningsVi": [
+        "sốt, bị sốt"
+      ],
+      "noteVi": "发烧 là động từ: 我发烧了 (tôi bị sốt rồi), 有点儿发烧 (hơi sốt). Không cần thêm 'bị' như tiếng Việt.",
+      "examples": [
+        {
+          "zh": "我有点儿发烧，头也很疼。",
+          "py": "wǒ yǒu diǎn r fā shāo tóu yě hěn téng",
+          "vi": "Tôi hơi sốt, đầu cũng rất đau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 638,
+      "word": "感冒",
+      "meaningsVi": [
+        "bị cảm (động từ)",
+        "bệnh cảm, cảm cúm (danh từ)"
+      ],
+      "noteVi": "Hán Việt 'cảm mạo'. Là động từ: 我感冒了 (tôi bị cảm rồi); là danh từ: 我的感冒好了 (tôi khỏi cảm rồi).",
+      "examples": [
+        {
+          "zh": "天气冷了，小心感冒。",
+          "py": "tiān qì lěng le xiǎo xīn gǎn mào",
+          "vi": "Trời lạnh rồi, cẩn thận kẻo bị cảm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 698,
+      "word": "检查",
+      "meaningsVi": [
+        "kiểm tra",
+        "khám (bệnh)"
+      ],
+      "noteVi": "Khám sức khỏe: 检查身体. Bác sĩ khám cho ai: 医生给他检查. Hay dùng 检查一下 cho nhẹ nhàng.",
+      "examples": [
+        {
+          "zh": "明天我要去医院检查身体。",
+          "py": "míng tiān wǒ yào qù yī yuàn jiǎn chá shēn tǐ",
+          "vi": "Mai tôi phải đi bệnh viện khám sức khỏe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 702,
+      "word": "健康",
+      "meaningsVi": [
+        "khỏe mạnh (tính từ)",
+        "sức khỏe (danh từ)"
+      ],
+      "noteVi": "Hán Việt 'kiện khang'. Tính từ: 身体很健康 (cơ thể khỏe mạnh). Danh từ: 对健康好 (tốt cho sức khỏe).",
+      "examples": [
+        {
+          "zh": "爷爷八十岁了，身体还很健康。",
+          "py": "yé ye bā shí suì le shēn tǐ hái hěn jiàn kāng",
+          "vi": "Ông nội tám mươi tuổi rồi mà vẫn rất khỏe mạnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 608,
+      "word": "锻炼",
+      "meaningsVi": [
+        "rèn luyện, tập thể dục"
+      ],
+      "noteVi": "Tập thể dục: 锻炼身体 hoặc chỉ 锻炼. Hán Việt 'đoán luyện' (rèn).",
+      "examples": [
+        {
+          "zh": "我每天早上都去锻炼身体。",
+          "py": "wǒ měi tiān zǎo shang dōu qù duàn liàn shēn tǐ",
+          "vi": "Sáng nào tôi cũng đi tập thể dục."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 989,
+      "word": "注意",
+      "meaningsVi": [
+        "chú ý, để ý, giữ gìn"
+      ],
+      "noteVi": "注意身体: giữ gìn sức khỏe (lời dặn hay gặp). 注意 + việc cần để ý: 注意休息, 注意安全.",
+      "examples": [
+        {
+          "zh": "天冷了，要注意身体。",
+          "py": "tiān lěng le yào zhù yì shēn tǐ",
+          "vi": "Trời lạnh rồi, phải giữ gìn sức khỏe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 556,
+      "word": "常见",
+      "meaningsVi": [
+        "thường gặp, phổ biến"
+      ],
+      "noteVi": "Gồm 常 (thường) + 见 (gặp), dùng như tính từ: 常见的病 (bệnh thường gặp), 这种病很常见.",
+      "examples": [
+        {
+          "zh": "感冒是一种常见的病。",
+          "py": "gǎn mào shì yì zhǒng cháng jiàn de bìng",
+          "vi": "Cảm là một bệnh thường gặp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 750,
+      "word": "脸",
+      "meaningsVi": [
+        "mặt, khuôn mặt"
+      ],
+      "noteVi": "Rửa mặt: 洗脸. Trên mặt: 脸上.",
+      "examples": [
+        {
+          "zh": "我每天早上起床以后先刷牙、洗脸。",
+          "py": "wǒ měi tiān zǎo shang qǐ chuáng yǐ hòu xiān shuā yá xǐ liǎn",
+          "vi": "Sáng nào tôi cũng đánh răng, rửa mặt trước tiên sau khi ngủ dậy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 995,
+      "word": "嘴",
+      "meaningsVi": [
+        "miệng, mồm"
+      ],
+      "noteVi": "Khẩu ngữ dùng 「嘴」; 「口」 (HSK1) hay gặp trong từ ghép và lượng từ (三口人).",
+      "examples": [
+        {
+          "zh": "我的嘴有点儿疼，不想吃东西。",
+          "py": "wǒ de zuǐ yǒu diǎn r téng bù xiǎng chī dōng xi",
+          "vi": "Miệng tôi hơi đau, không muốn ăn gì."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 612,
+      "word": "耳朵",
+      "meaningsVi": [
+        "tai"
+      ],
+      "noteVi": "Chữ 「朵」 đọc nhẹ: ěrduo. 耳朵不好 là tai nghe kém.",
+      "examples": [
+        {
+          "zh": "奶奶的耳朵不太好，你得慢一点儿说。",
+          "py": "nǎi nai de ěr duo bú tài hǎo nǐ děi màn yì diǎn r shuō",
+          "vi": "Tai bà không được tốt lắm, bạn phải nói chậm một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 864,
+      "word": "腿",
+      "meaningsVi": [
+        "chân (phần từ hông đến cổ chân), cẳng chân, đùi"
+      ],
+      "noteVi": "Tiếng Việt 'chân' gồm cả hai phần; tiếng Trung tách ra: 腿 (cẳng chân, đùi) và 脚 (bàn chân).",
+      "examples": [
+        {
+          "zh": "昨天走了很多路，今天腿很疼。",
+          "py": "zuó tiān zǒu le hěn duō lù jīn tiān tuǐ hěn téng",
+          "vi": "Hôm qua đi bộ nhiều, hôm nay đau chân quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 705,
+      "word": "脚",
+      "meaningsVi": [
+        "bàn chân"
+      ],
+      "noteVi": "Phần từ cổ chân trở xuống, chỗ đi giày. So sánh với 「腿」.",
+      "examples": [
+        {
+          "zh": "我的脚太大了，买不到合适的鞋。",
+          "py": "wǒ de jiǎo tài dà le mǎi bú dào hé shì de xié",
+          "vi": "Chân tôi to quá, không mua được giày vừa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 912,
+      "word": "需要",
+      "meaningsVi": [
+        "cần, cần phải (động từ)",
+        "nhu cầu (danh từ)"
+      ],
+      "noteVi": "需要 + động từ (需要休息) hoặc + danh từ (需要一些药). Phủ định: 不需要.",
+      "examples": [
+        {
+          "zh": "你需要多休息。",
+          "py": "nǐ xū yào duō xiū xi",
+          "vi": "Bạn cần nghỉ ngơi nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 939,
+      "word": "应该",
+      "meaningsVi": [
+        "nên, cần phải (lời khuyên, điều hợp lý)"
+      ],
+      "noteVi": "Đứng trước động từ: 应该多喝水. Phủ định: 不应该 (không nên).",
+      "examples": [
+        {
+          "zh": "你感冒了，应该多喝水。",
+          "py": "nǐ gǎn mào le yīng gāi duō hē shuǐ",
+          "vi": "Bạn bị cảm rồi, nên uống nhiều nước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 635,
+      "word": "该",
+      "meaningsVi": [
+        "nên (như 应该, khẩu ngữ)",
+        "đến lúc, đến lượt (该……了)"
+      ],
+      "noteVi": "该 = 应该 nhưng ngắn gọn, khẩu ngữ: 你不该喝那么多酒. Cấu trúc 该……了: đến lúc phải… rồi (该吃药了), đến lượt ai (该你了).",
+      "examples": [
+        {
+          "zh": "你不该喝那么多酒。",
+          "py": "nǐ bù gāi hē nà me duō jiǔ",
+          "vi": "Bạn không nên uống nhiều rượu như thế."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 587,
+      "word": "得",
+      "meaningsVi": [
+        "phải (khẩu ngữ)"
+      ],
+      "noteVi": "Nghĩa này đọc **děi**, đứng trước động từ: 我得去医院. Phủ định không nói 不得, mà nói 不用. Chữ 得 còn đọc de (trợ từ: 做得很好) và dé (được: 得到).",
+      "examples": [
+        {
+          "zh": "我明天早上得去医院。",
+          "py": "wǒ míng tiān zǎo shang děi qù yī yuàn",
+          "vi": "Sáng mai tôi phải đi bệnh viện."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 525,
+      "word": "必须",
+      "meaningsVi": [
+        "nhất thiết phải, bắt buộc phải"
+      ],
+      "noteVi": "Mạnh hơn 应该, 得. Là phó từ, đứng trước động từ. Phủ định: 不用, 不必 (không nói 不必须).",
+      "examples": [
+        {
+          "zh": "这个药你必须每天吃三次。",
+          "py": "zhè ge yào nǐ bì xū měi tiān chī sān cì",
+          "vi": "Thuốc này bạn nhất thiết phải uống mỗi ngày ba lần."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 957,
+      "word": "愿意",
+      "meaningsVi": [
+        "bằng lòng, sẵn lòng, chịu (làm gì)"
+      ],
+      "noteVi": "Nói về ý muốn làm một việc người khác đề nghị hoặc việc không dễ: 他不愿意去医院 (anh ấy không chịu đi viện). Muốn ăn, muốn đi chơi đơn giản thì dùng 想.",
+      "examples": [
+        {
+          "zh": "他不愿意去医院。",
+          "py": "tā bú yuàn yì qù yī yuàn",
+          "vi": "Anh ấy không chịu đi bệnh viện."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 543,
+      "word": "不用",
+      "meaningsVi": [
+        "không cần, không phải"
+      ],
+      "noteVi": "Đọc 'búyòng'. 不用 + động từ: 不用吃药. Đứng một mình để từ chối lịch sự: 不用了，谢谢. 不用谢 = 不客气.",
+      "examples": [
+        {
+          "zh": "你的病好了，不用再吃药了。",
+          "py": "nǐ de bìng hǎo le bú yòng zài chī yào le",
+          "vi": "Bạn khỏi bệnh rồi, không cần uống thuốc nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 976,
+      "word": "只能",
+      "meaningsVi": [
+        "chỉ có thể, đành phải"
+      ],
+      "noteVi": "只 (chỉ) + 能 (có thể): không còn cách nào khác. Đặt trước động từ: 只能在家休息.",
+      "examples": [
+        {
+          "zh": "我的腿疼，只能在家休息。",
+          "py": "wǒ de tuǐ téng zhǐ néng zài jiā xiū xi",
+          "vi": "Tôi đau chân, đành phải ở nhà nghỉ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 996,
+      "word": "最好",
+      "meaningsVi": [
+        "tốt nhất là, tốt hơn hết là"
+      ],
+      "noteVi": "Phó từ đứng trước động từ để khuyên: 你最好别去. Khác với 最好 tính từ 'tốt nhất' (这个最好).",
+      "examples": [
+        {
+          "zh": "你发烧了，最好别去上班。",
+          "py": "nǐ fā shāo le zuì hǎo bié qù shàng bān",
+          "vi": "Bạn bị sốt rồi, tốt nhất là đừng đi làm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 665,
+      "word": "好像",
+      "meaningsVi": [
+        "hình như, dường như (phó từ)",
+        "giống như (động từ)"
+      ],
+      "noteVi": "Nói điều mình thấy, cảm thấy nhưng chưa chắc: 他好像感冒了. Có thể đứng sau chủ ngữ hoặc đầu câu.",
+      "examples": [
+        {
+          "zh": "我好像在哪儿见过这位医生。",
+          "py": "wǒ hǎo xiàng zài nǎ r jiàn guo zhè wèi yī shēng",
+          "vi": "Hình như tôi đã gặp vị bác sĩ này ở đâu đó."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 687,
+      "word": "几乎",
+      "meaningsVi": [
+        "hầu như, gần như"
+      ],
+      "noteVi": "Hay đi với 都, 每, 没, 不: 几乎每天都…, 几乎没睡觉. Hán Việt 'cơ hồ'.",
+      "examples": [
+        {
+          "zh": "他几乎每天都锻炼身体。",
+          "py": "tā jī hū měi tiān dōu duàn liàn shēn tǐ",
+          "vi": "Hầu như ngày nào anh ấy cũng tập thể dục."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 964,
+      "word": "怎么办",
+      "meaningsVi": [
+        "làm thế nào bây giờ, phải làm sao"
+      ],
+      "noteVi": "Dùng khi gặp chuyện khó, hỏi cách giải quyết: 怎么办？ Có thể nói 我该怎么办？ (Tôi nên làm gì bây giờ?).",
+      "examples": [
+        {
+          "zh": "明天有考试，可是我发烧了，怎么办？",
+          "py": "míng tiān yǒu kǎo shì kě shì wǒ fā shāo le zěn me bàn",
+          "vi": "Mai có bài thi mà tôi lại bị sốt, làm sao bây giờ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 152,
+      "titleVi": "Động từ năng nguyện: 需要, 该, 应该, 愿意, 得 (děi)",
+      "summaryVi": "需要 (cần), 应该/该 (nên), 得 (phải), 愿意 (bằng lòng, sẵn lòng) đứng trước động từ chính; mỗi từ có cách phủ định riêng (得 → 不用).",
+      "explanationVi": [
+        "Động từ năng nguyện đứng **trước động từ chính**, giống tiếng Việt 'nên đi', 'phải đi': 你应该多休息, 我得去医院, 病人需要多休息, 他不愿意住院. Từ chỉ thời gian có thể đứng trước chủ ngữ hoặc giữa chủ ngữ và động từ năng nguyện: 明天我得去医院 / 我明天得去医院.",
+        "Nghĩa: 「应该」, 「该」 là **nên** (lời khuyên, điều hợp lý); 「该」 ngắn, khẩu ngữ hơn. 「得」 (đọc **děi**) là **phải** (cần thiết, không tránh được), rất khẩu ngữ. 「需要」 là **cần**, đi được với cả động từ và danh từ: 我需要一些药. 「愿意」 là **bằng lòng, sẵn lòng** làm việc gì (thường là việc được đề nghị hoặc việc không dễ): 他愿意帮我. Muốn ăn, muốn đi chơi đơn giản thì dùng 想, 要.",
+        "Phủ định: 不应该, 不该 (không nên), 不需要 (không cần), 不愿意 (không chịu, không muốn). Riêng 「得」 **không** phủ định bằng 不得; 'không phải' là 「不用」: 明天我得上班 → 明天我不用上班. (不得 là từ trang trọng nghĩa là 'không được phép'.)",
+        "Chú ý chữ 得 có ba cách đọc: **děi** (phải: 我得走了), **de** (trợ từ: 做得很好), **dé** (được: 得到)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 应该/该/得/需要/愿意 + động từ",
+        "Chủ ngữ + 不应该/不该/不需要/不愿意 + động từ",
+        "得 + động từ → phủ định: 不用 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "你感冒了，应该多喝水，多休息。",
+          "py": "nǐ gǎn mào le yīng gāi duō hē shuǐ duō xiū xi",
+          "vi": "Bạn bị cảm rồi, nên uống nhiều nước, nghỉ ngơi nhiều."
+        },
+        {
+          "zh": "我明天早上得去医院检查身体。",
+          "py": "wǒ míng tiān zǎo shang děi qù yī yuàn jiǎn chá shēn tǐ",
+          "vi": "Sáng mai tôi phải đi bệnh viện khám sức khỏe."
+        },
+        {
+          "zh": "病人需要多休息。",
+          "py": "bìng rén xū yào duō xiū xi",
+          "vi": "Bệnh nhân cần nghỉ ngơi nhiều."
+        },
+        {
+          "zh": "他不愿意住院，想回家。",
+          "py": "tā bú yuàn yì zhù yuàn xiǎng huí jiā",
+          "vi": "Anh ấy không chịu nằm viện, muốn về nhà."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "明天我不得上班。",
+          "right": "明天我不用上班。",
+          "noteVi": "Phủ định của 「得」 (phải) là 「不用」. 不得 là từ trang trọng nghĩa là 'không được phép', nên câu trái sai với nghĩa 'mai tôi không phải đi làm'."
+        },
+        {
+          "wrong": "我愿意吃冰激凌。",
+          "right": "我想吃冰激凌。",
+          "noteVi": "「愿意」 là sẵn lòng làm việc gì (thường là việc người khác đề nghị). Câu trái nghe rất lạ với nghĩa 'tôi muốn ăn kem'; muốn ăn, muốn uống thì dùng 「想」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 169,
+      "titleVi": "Phó từ tình thái: 大概, 必须, 差不多, 一定, 好像, 几乎",
+      "summaryVi": "Các phó từ đứng trước động từ/tính từ, cho biết người nói chắc chắn đến đâu (一定, 大概, 好像), sự bắt buộc (必须) hoặc 'gần như' (几乎, 差不多).",
+      "explanationVi": [
+        "Mức độ chắc chắn, từ cao xuống thấp: 「一定」 (chắc chắn: 他一定是生病了), 「大概」 (chắc là, có lẽ: 他大概明天出院), 「好像」 (hình như: 他好像不舒服). 「好像」 dựa vào điều mình thấy, cảm thấy; 「大概」 là phỏng đoán, ước chừng, dùng được cả với con số: 大概三天.",
+        "「几乎」 và 「差不多」 đều là 'gần như, hầu như': 几乎每天都锻炼, 我的病差不多好了. 「几乎」 nhấn mạnh 'chỉ thiếu một chút là toàn bộ', hay đi với 都, 每, 没, 不: 我几乎没睡觉. 「差不多」 khẩu ngữ hơn.",
+        "「必须」 là **bắt buộc phải**, mạnh hơn 应该, 得: 你必须住院. Phủ định không nói 不必须, mà dùng 不用 hoặc 不必 (xem điểm ngữ pháp sau).",
+        "Vị trí: các phó từ này đứng **sau chủ ngữ, trước động từ/tính từ** (好像, 大概 cũng có thể đứng đầu câu). Tiếng Việt có khi đặt 'chắc chắn' ở cuối ('Mai tôi đi, chắc chắn'), tiếng Trung thì không: 明天我一定去. Chú ý: 不一定 là 'chưa chắc', còn 一定不 là 'chắc chắn không'."
+      ],
+      "patterns": [
+        "Chủ ngữ + 一定/大概/好像/必须/几乎/差不多 + động từ/tính từ",
+        "几乎/差不多 + 每…都/没/不…"
+      ],
+      "examples": [
+        {
+          "zh": "你这么累，一定是昨天睡得太晚了。",
+          "py": "nǐ zhè me lèi yí dìng shì zuó tiān shuì de tài wǎn le",
+          "vi": "Bạn mệt thế này, chắc chắn là hôm qua ngủ muộn quá."
+        },
+        {
+          "zh": "他今天没来上课，好像生病了。",
+          "py": "tā jīn tiān méi lái shàng kè hǎo xiàng shēng bìng le",
+          "vi": "Hôm nay cậu ấy không đến lớp, hình như bị ốm rồi."
+        },
+        {
+          "zh": "医生说我大概三天以后就能出院。",
+          "py": "yī shēng shuō wǒ dà gài sān tiān yǐ hòu jiù néng chū yuàn",
+          "vi": "Bác sĩ nói chắc khoảng ba ngày nữa là tôi có thể ra viện."
+        },
+        {
+          "zh": "感冒很常见，几乎每个人都感冒过。",
+          "py": "gǎn mào hěn cháng jiàn jī hū měi gè rén dōu gǎn mào guo",
+          "vi": "Cảm rất thường gặp, hầu như ai cũng từng bị cảm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "明天我去医院一定。",
+          "right": "明天我一定去医院。",
+          "noteVi": "「一定」 là phó từ, đứng trước động từ; không đặt ở cuối câu như 'chắc chắn' trong tiếng Việt."
+        },
+        {
+          "wrong": "他明天一定不来。",
+          "right": "他明天不一定来。",
+          "noteVi": "Câu trái đúng ngữ pháp nhưng nghĩa là 'chắc chắn mai anh ấy không đến'. Muốn nói 'mai anh ấy chưa chắc đến' thì phải dùng 「不一定」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 171,
+      "titleVi": "Phó từ phủ định 「不用」, 「不必」: không cần, không phải",
+      "summaryVi": "不用/不必 + động từ: không cần, không phải làm gì; đây là cách phủ định của 得 và 必须.",
+      "explanationVi": [
+        "「不用」 và 「不必」 đứng trước động từ, nghĩa là **không cần, không phải**: 你不用住院 (Bạn không cần nằm viện), 你不必每天都来 (Bạn không cần ngày nào cũng đến). 「不用」 dùng nhiều trong khẩu ngữ; 「不必」 trang trọng hơn một chút.",
+        "Đây là cách phủ định của 得 (phải) và 必须 (bắt buộc phải): 我得去 → 我不用去; 你必须住院 → 你不用住院 / 你不必住院. Không nói 不必须, cũng không dùng 不得 với nghĩa 'không phải'.",
+        "「不用」 còn đứng một mình để từ chối lịch sự: 不用了，谢谢 (Không cần đâu, cảm ơn); 不用谢 (Không có gì) giống 不客气.",
+        "Phân biệt với 「别」, 「不要」 (đừng): 你不用吃药 (bạn không cần uống thuốc — uống cũng chẳng sao) khác 你别吃药 (bạn đừng uống thuốc — khuyên, cấm)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 不用/不必 + động từ",
+        "不用了，谢谢。"
+      ],
+      "examples": [
+        {
+          "zh": "医生说我不用住院，在家休息就行。",
+          "py": "yī shēng shuō wǒ bú yòng zhù yuàn zài jiā xiū xi jiù xíng",
+          "vi": "Bác sĩ nói tôi không cần nằm viện, nghỉ ở nhà là được."
+        },
+        {
+          "zh": "你不必每天都来医院看我。",
+          "py": "nǐ bú bì měi tiān dōu lái yī yuàn kàn wǒ",
+          "vi": "Bạn không cần ngày nào cũng vào viện thăm tôi."
+        },
+        {
+          "zh": "不用了，谢谢！",
+          "py": "bú yòng le xiè xie",
+          "vi": "Không cần đâu, cảm ơn!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你不必须住院。",
+          "right": "你不必住院。",
+          "noteVi": "Phủ định của 「必须」 là 「不必」 hoặc 「不用」, không nói 不必须."
+        },
+        {
+          "wrong": "你不用喝酒，医生说你不能喝。",
+          "right": "你别喝酒，医生说你不能喝。",
+          "noteVi": "「不用」 là 'không cần' (làm cũng được). Muốn khuyên, cấm 'đừng làm' thì dùng 「别」; câu trái sai với nghĩa định nói."
+        }
+      ],
+      "morphemes": [
+        "不必"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 200,
+      "titleVi": "「该……了」: đến lúc phải… rồi, đến lượt ai rồi",
+      "summaryVi": "(Chủ ngữ +) 该 + động từ + 了: đã đến lúc làm việc gì (该吃药了: đến giờ uống thuốc rồi); 该 + người + 了: đến lượt ai (该你了).",
+      "explanationVi": [
+        "「该……了」 nói **đã đến lúc** phải làm một việc, thường vì đã tới giờ: 十一点了，该睡觉了 (Mười một giờ rồi, phải đi ngủ thôi), 该吃药了 (Đến giờ uống thuốc rồi). Tiếng Việt hay nói 'đến giờ… rồi', '… thôi'.",
+        "Cấu trúc: (chủ ngữ +) 该 + động từ (+ tân ngữ) + 了. 「了」 ở **cuối câu** cho biết tình huống mới: đã tới lúc. 「该」 đi thẳng với động từ; đừng dịch từng chữ 'đến giờ' mà chen 时间 vào (该吃药时间了 là sai). Muốn dùng 时间 thì nói 吃药的时间到了.",
+        "该 + người + 了: **đến lượt** ai: 该你了 (Đến lượt bạn rồi), 下一个该谁了？ (Tiếp theo đến lượt ai?).",
+        "So sánh: 你该休息了 (đã đến lúc bạn phải nghỉ — vì đã muộn, đã làm lâu) và 你应该多休息 (lời khuyên chung: bạn nên nghỉ ngơi nhiều)."
+      ],
+      "patterns": [
+        "(Chủ ngữ +) 该 + động từ (+ tân ngữ) + 了",
+        "该 + người + 了 (đến lượt ai)"
+      ],
+      "examples": [
+        {
+          "zh": "十一点了，我该睡觉了。",
+          "py": "shí yī diǎn le wǒ gāi shuì jiào le",
+          "vi": "Mười một giờ rồi, tôi phải đi ngủ thôi."
+        },
+        {
+          "zh": "八点了，你该吃药了。",
+          "py": "bā diǎn le nǐ gāi chī yào le",
+          "vi": "Tám giờ rồi, đến giờ bạn uống thuốc rồi."
+        },
+        {
+          "zh": "好了，下一个该你了。",
+          "py": "hǎo le xià yí gè gāi nǐ le",
+          "vi": "Xong rồi, tiếp theo đến lượt bạn."
+        },
+        {
+          "zh": "已经五点了，我们该回家了。",
+          "py": "yǐ jīng wǔ diǎn le wǒ men gāi huí jiā le",
+          "vi": "Đã năm giờ rồi, chúng ta phải về nhà thôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "该吃药时间了。",
+          "right": "该吃药了。",
+          "noteVi": "Dịch từng chữ 'đến giờ uống thuốc' là sai: 「该」 đi thẳng với động từ, không thêm 时间."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 202,
+      "titleVi": "Động từ, tính từ (và cụm của chúng) làm chủ ngữ",
+      "summaryVi": "Động từ, cụm động từ hoặc tính từ có thể đứng đầu câu làm chủ ngữ mà không cần thêm từ nào: 每天锻炼对身体很好, 累一点儿没关系.",
+      "explanationVi": [
+        "Trong tiếng Trung, một **hành động** (động từ, cụm động từ) hay một **tính chất** (tính từ) có thể đứng đầu câu làm chủ ngữ, giống như danh từ: 跑步是我的爱好 (Chạy bộ là sở thích của tôi), 每天锻炼对身体很好 (Tập thể dục mỗi ngày rất tốt cho sức khỏe), 累一点儿没关系 (Mệt một chút cũng không sao).",
+        "Tiếng Việt cũng nói được 'Chạy bộ rất tốt', nhưng nhiều khi thêm 'việc': 'Việc tập thể dục…'. Tiếng Trung **không** cần thêm gì; đừng dịch 'việc' thành 事 hay 事情.",
+        "Vị ngữ của loại câu này hay là: tính từ (很好, 很方便), 对 + danh từ + 好/不好 (tốt/không tốt cho…), 是 + danh từ (跑步是我的爱好), 没关系…",
+        "Trạng ngữ trong cụm động từ chủ ngữ vẫn đứng **trước** động từ: 每天锻炼 (tập mỗi ngày), 多喝水 (uống nhiều nước). Không dịch theo thứ tự tiếng Việt thành 锻炼每天."
+      ],
+      "patterns": [
+        "Động từ/cụm động từ + vị ngữ (很好, 对……好, 是……)",
+        "Tính từ/cụm tính từ + vị ngữ (没关系, 就好…)"
+      ],
+      "examples": [
+        {
+          "zh": "每天锻炼对身体很好。",
+          "py": "měi tiān duàn liàn duì shēn tǐ hěn hǎo",
+          "vi": "Tập thể dục mỗi ngày rất tốt cho cơ thể."
+        },
+        {
+          "zh": "多喝水对身体好。",
+          "py": "duō hē shuǐ duì shēn tǐ hǎo",
+          "vi": "Uống nhiều nước tốt cho cơ thể."
+        },
+        {
+          "zh": "累一点儿没关系，身体健康就好。",
+          "py": "lèi yì diǎn r méi guān xi shēn tǐ jiàn kāng jiù hǎo",
+          "vi": "Mệt một chút cũng không sao, sức khỏe tốt là được."
+        },
+        {
+          "zh": "跑步是我的爱好。",
+          "py": "pǎo bù shì wǒ de ài hào",
+          "vi": "Chạy bộ là sở thích của tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "锻炼每天对身体很好。",
+          "right": "每天锻炼对身体很好。",
+          "noteVi": "'Mỗi ngày' (每天) đứng trước động từ 锻炼, kể cả khi cả cụm làm chủ ngữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-08-e01",
+      "type": "match",
+      "promptVi": "Nối bộ phận cơ thể với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "脸",
+          "mặt"
+        ],
+        [
+          "嘴",
+          "miệng"
+        ],
+        [
+          "耳朵",
+          "tai"
+        ],
+        [
+          "腿",
+          "cẳng chân"
+        ],
+        [
+          "脚",
+          "bàn chân"
+        ],
+        [
+          "眼睛",
+          "mắt"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-08-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "发烧",
+          "sốt"
+        ],
+        [
+          "感冒",
+          "bị cảm"
+        ],
+        [
+          "检查",
+          "khám, kiểm tra"
+        ],
+        [
+          "住院",
+          "nằm viện"
+        ],
+        [
+          "出院",
+          "ra viện"
+        ],
+        [
+          "病人",
+          "bệnh nhân"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-08-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn nên nghỉ ngơi nhiều.)",
+      "options": [
+        "你应该多休息。",
+        "你多休息应该。",
+        "你应该休息多。"
+      ],
+      "answer": 0,
+      "explainVi": "「应该」 đứng trước động từ; 「多」 (nhiều) cũng đứng trước động từ: 多休息.",
+      "grammar": [
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你发烧了，",
+      "after": "去医院看看。",
+      "answers": [
+        "应该"
+      ],
+      "options": [
+        "应该",
+        "几乎",
+        "不用"
+      ],
+      "vi": "Bạn bị sốt rồi, nên đi bệnh viện khám.",
+      "grammar": [
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你的感冒好了，",
+      "after": "再吃药了。",
+      "answers": [
+        "不用"
+      ],
+      "options": [
+        "不用",
+        "必须",
+        "应该"
+      ],
+      "vi": "Bạn khỏi cảm rồi, không cần uống thuốc nữa.",
+      "grammar": [
+        171
+      ]
+    },
+    {
+      "id": "hsk3-08-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Mai tôi không phải đi làm.)",
+      "options": [
+        "明天我不用上班。",
+        "明天我不得上班。",
+        "明天我得不上班。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định của 得 (phải) là 不用; 不得 nghĩa là 'không được phép'.",
+      "grammar": [
+        171,
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "十一点了，我",
+      "after": "睡觉了。",
+      "answers": [
+        "该"
+      ],
+      "options": [
+        "该",
+        "几乎",
+        "不用"
+      ],
+      "vi": "Mười một giờ rồi, tôi phải đi ngủ thôi.",
+      "grammar": [
+        200
+      ]
+    },
+    {
+      "id": "hsk3-08-e08",
+      "type": "order",
+      "vi": "Đến giờ bạn uống thuốc rồi.",
+      "tiles": [
+        "你",
+        "该",
+        "吃",
+        "药",
+        "了"
+      ],
+      "answers": [
+        "你该吃药了"
+      ],
+      "grammar": [
+        200
+      ]
+    },
+    {
+      "id": "hsk3-08-e09",
+      "type": "translate",
+      "vi": "Đến giờ uống thuốc rồi.",
+      "answers": [
+        "(你)该吃药了。",
+        {
+          "text": "你应该吃药了。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "该吃药了。",
+          "score": 100
+        },
+        {
+          "answer": "你该吃药了。",
+          "score": 100
+        },
+        {
+          "answer": "你应该吃药了。",
+          "score": 90,
+          "note": "Hiểu được, nhưng 'đến giờ… rồi' nói tự nhiên là 该……了"
+        },
+        {
+          "answer": "该吃药时间了。",
+          "score": 0,
+          "note": "Không chen 时间 vào: 该吃药了"
+        },
+        {
+          "answer": "你该吃饭了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        200
+      ]
+    },
+    {
+      "id": "hsk3-08-e10",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng: 他今天没来上课，＿生病了。",
+      "zh": "他今天没来上课，＿生病了。",
+      "options": [
+        "好像",
+        "必须",
+        "愿意"
+      ],
+      "answer": 0,
+      "explainVi": "「好像」 (hình như): đoán dựa vào điều mình thấy.",
+      "grammar": [
+        169
+      ]
+    },
+    {
+      "id": "hsk3-08-e11",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他",
+      "after": "每天都锻炼身体。",
+      "answers": [
+        "几乎"
+      ],
+      "options": [
+        "几乎",
+        "需要",
+        "愿意"
+      ],
+      "vi": "Hầu như ngày nào anh ấy cũng tập thể dục.",
+      "grammar": [
+        169
+      ]
+    },
+    {
+      "id": "hsk3-08-e12",
+      "type": "choice",
+      "promptVi": "Câu nào có nghĩa 'Mai anh ấy chưa chắc đến'?",
+      "options": [
+        "他明天不一定来。",
+        "他明天一定不来。",
+        "他明天一定来。"
+      ],
+      "answer": 0,
+      "explainVi": "不一定 là 'chưa chắc'; 一定不 là 'chắc chắn không'.",
+      "grammar": [
+        169
+      ]
+    },
+    {
+      "id": "hsk3-08-e13",
+      "type": "order",
+      "vi": "Bạn bắt buộc phải đi bệnh viện kiểm tra.",
+      "tiles": [
+        "你",
+        "必须",
+        "去",
+        "医院",
+        "检查",
+        "一下"
+      ],
+      "answers": [
+        "你必须去医院检查一下"
+      ],
+      "grammar": [
+        169
+      ]
+    },
+    {
+      "id": "hsk3-08-e14",
+      "type": "translate",
+      "vi": "Bạn phải đi bệnh viện kiểm tra.",
+      "answers": [
+        "你[必须|得|一定要]去医院检查(一下)。",
+        {
+          "text": "你应该去医院检查(一下)。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "你必须去医院检查一下。",
+          "score": 100
+        },
+        {
+          "answer": "你得去医院检查。",
+          "score": 100
+        },
+        {
+          "answer": "你一定要去医院检查一下。",
+          "score": 100
+        },
+        {
+          "answer": "你应该去医院检查一下。",
+          "score": 90,
+          "note": "应该 là 'nên', nhẹ hơn 'phải'"
+        },
+        {
+          "answer": "你不用去医院检查。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        169,
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e15",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他不",
+      "after": "住院，想回家休息。",
+      "answers": [
+        "愿意"
+      ],
+      "options": [
+        "愿意",
+        "应该",
+        "必须"
+      ],
+      "vi": "Anh ấy không chịu nằm viện, muốn về nhà nghỉ.",
+      "grammar": [
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e16",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "病人",
+      "after": "多休息。",
+      "answers": [
+        "需要"
+      ],
+      "options": [
+        "需要",
+        "几乎",
+        "不用"
+      ],
+      "vi": "Bệnh nhân cần nghỉ ngơi nhiều.",
+      "grammar": [
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e17",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tập thể dục mỗi ngày rất tốt cho cơ thể.)",
+      "options": [
+        "每天锻炼对身体很好。",
+        "锻炼每天对身体很好。",
+        "对身体很好每天锻炼。"
+      ],
+      "answer": 0,
+      "explainVi": "Cả cụm 每天锻炼 làm chủ ngữ; 每天 đứng trước động từ.",
+      "grammar": [
+        202
+      ]
+    },
+    {
+      "id": "hsk3-08-e18",
+      "type": "order",
+      "vi": "Uống nhiều nước tốt cho cơ thể.",
+      "tiles": [
+        "多",
+        "喝水",
+        "对",
+        "身体",
+        "好"
+      ],
+      "answers": [
+        "多喝水对身体好"
+      ],
+      "grammar": [
+        202
+      ]
+    },
+    {
+      "id": "hsk3-08-e19",
+      "type": "translate",
+      "vi": "Chạy bộ rất tốt cho sức khỏe.",
+      "answers": [
+        "跑步对[身体|健康][很|非常]好。"
+      ],
+      "examples": [
+        {
+          "answer": "跑步对身体很好。",
+          "score": 100
+        },
+        {
+          "answer": "跑步对健康非常好。",
+          "score": 100
+        },
+        {
+          "answer": "跑步是对身体很好。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Không cần 是 trước vị ngữ tính từ"
+        },
+        {
+          "answer": "跑步对身体不好。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        202
+      ]
+    },
+    {
+      "id": "hsk3-08-e20",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "医生，我需要住院吗？",
+        "promptVi": "Bạn là bác sĩ. Hãy trả lời bệnh nhân: không cần nằm viện, về nhà nghỉ ngơi là được.",
+        "answers": [
+          "(你)不[用|需要|必]住院。",
+          "不[用|需要](住院)，(你)回家休息[就行|就可以](了)。",
+          "不[用|需要]。"
+        ],
+        "examples": [
+          {
+            "answer": "你不用住院。",
+            "score": 100
+          },
+          {
+            "answer": "不需要。",
+            "score": 100
+          },
+          {
+            "answer": "不必住院。",
+            "score": 100
+          },
+          {
+            "answer": "不用住院，回家休息就行了。",
+            "score": 100
+          },
+          {
+            "answer": "你需要住院。",
+            "score": 0
+          },
+          {
+            "answer": "你不得住院。",
+            "score": 0,
+            "note": "不得 là 'không được phép', không phải 'không cần'"
+          }
+        ]
+      },
+      "grammar": [
+        171,
+        152
+      ]
+    },
+    {
+      "id": "hsk3-08-e21",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "十二点了，我们该做什么了？",
+        "promptVi": "Mười hai giờ trưa rồi, chúng ta phải làm gì? (Gợi ý: đến giờ ăn trưa rồi.)",
+        "answers": [
+          "(我们)该吃[午饭|饭]了。"
+        ],
+        "examples": [
+          {
+            "answer": "我们该吃午饭了。",
+            "score": 100
+          },
+          {
+            "answer": "该吃饭了。",
+            "score": 100
+          },
+          {
+            "answer": "该吃午饭时间了。",
+            "score": 0,
+            "note": "Không chen 时间 vào: 该吃午饭了"
+          },
+          {
+            "answer": "该睡觉了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        200
+      ]
+    },
+    {
+      "id": "hsk3-08-e22",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你怎么了？",
+        "promptVi": "Bạn sao thế? (Giả sử: bạn thấy hình như mình bị cảm rồi — hãy dùng 好像.)",
+        "answers": [
+          "(我)好像感冒了。",
+          {
+            "text": "(我)感冒了。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我好像感冒了。",
+            "score": 100
+          },
+          {
+            "answer": "好像感冒了。",
+            "score": 100
+          },
+          {
+            "answer": "我感冒了。",
+            "score": 80,
+            "note": "Đúng nhưng chưa dùng 好像"
+          },
+          {
+            "answer": "我好像发烧了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        169
+      ]
+    },
+    {
+      "id": "hsk3-08-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "天冷了，你要",
+      "after": "身体。",
+      "answers": [
+        "注意"
+      ],
+      "options": [
+        "注意",
+        "检查",
+        "愿意"
+      ],
+      "vi": "Trời lạnh rồi, bạn phải giữ gìn sức khỏe."
+    },
+    {
+      "id": "hsk3-08-e24",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "明天有考试，可是我发烧了，",
+      "after": "？",
+      "answers": [
+        "怎么办"
+      ],
+      "options": [
+        "怎么办",
+        "怎么样",
+        "为什么"
+      ],
+      "vi": "Mai có bài thi mà tôi lại bị sốt, làm sao bây giờ?"
+    },
+    {
+      "id": "hsk3-08-e25",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你感冒了，",
+      "after": "在家休息一天。",
+      "answers": [
+        "最好"
+      ],
+      "options": [
+        "最好",
+        "几乎",
+        "差不多"
+      ],
+      "vi": "Bạn bị cảm rồi, tốt nhất là ở nhà nghỉ một ngày."
+    },
+    {
+      "id": "hsk3-08-e26",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的腿很疼，不能去上课，",
+      "after": "在家休息。",
+      "answers": [
+        "只能"
+      ],
+      "options": [
+        "只能",
+        "愿意",
+        "几乎"
+      ],
+      "vi": "Chân tôi đau lắm, không đi học được, đành ở nhà nghỉ."
+    },
+    {
+      "id": "hsk3-08-e27",
+      "type": "choice",
+      "promptVi": "「累一点儿没关系。」 nghĩa là gì?",
+      "options": [
+        "Mệt một chút cũng không sao.",
+        "Một chút cũng không mệt.",
+        "Không mệt chút nào."
+      ],
+      "answer": 0,
+      "explainVi": "Cụm tính từ 累一点儿 (mệt một chút) làm chủ ngữ của 没关系.",
+      "grammar": [
+        202
+      ]
+    },
+    {
+      "id": "hsk3-08-e28",
+      "type": "translate",
+      "vi": "Không cần đâu, cảm ơn!",
+      "answers": [
+        "不用(了)，谢谢。",
+        "谢谢，不用了。",
+        {
+          "text": "不要了，谢谢。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "不用了，谢谢！",
+          "score": 100
+        },
+        {
+          "answer": "不用，谢谢。",
+          "score": 100
+        },
+        {
+          "answer": "谢谢，不用了。",
+          "score": 100
+        },
+        {
+          "answer": "不要了，谢谢。",
+          "score": 90,
+          "note": "不要 là 'không lấy', dùng được nhưng 'không cần' là 不用"
+        }
+      ],
+      "grammar": [
+        171
+      ]
+    }
+  ]
+}
