@@ -16,19 +16,25 @@
 
 ## 1b. Tiến độ triển khai kế hoạch (cập nhật sau mỗi bước lớn)
 
-Cập nhật lần cuối: 2026-11-15. Nhánh `claude/gifted-euler-v75r1k`; CI GitHub Actions (`.github/workflows/ci.yml`) chạy xanh.
+Cập nhật lần cuối: 2026-11-15. Nhánh `claude/gifted-euler-v75r1k`; CI GitHub Actions (`.github/workflows/ci.yml`) chạy xanh. `npm run check`: 394 test.
 
 | Giai đoạn | Trạng thái |
 |---|---|
 | 0–1. Tiếp nhận, khảo sát, quyết định | Xong; `docs/plan.md` đã được duyệt |
-| 2. Nền tảng | Gần xong. **Đường dẫn đã đổi**: `src/`, `tests/`, `questions/`, `demo/` của bộ chấm nay ở `packages/grader/` (package `@c-learn-write/grader`). App PWA ở `apps/web` (Preact 10 + Vite 8, vite-plugin-pwa, idb, hash router, chuỗi tiếng Việt ở `apps/web/src/strings.ts`). `npm run check` = kiểm tra kiểu mọi workspace + Vitest (326 test); `npm run e2e` = build + Playwright (3 test) |
-| 3. Dữ liệu | Đang làm. `packages/course`: `sources/` (đề cương HSK 2025 cấp 1–3 và âm Hán Việt, tải bằng `npm run sources:fetch -w @c-learn-write/course`, khóa commit). Việc tiếp theo: module pinyin (tách âm tiết theo chữ), script `data:build` (nguồn → JSON + âm Hán Việt), kiểu dữ liệu và bộ kiểm tra, kiểm soát từ vựng, xuất/nhập bảng tính duyệt, xếp HSK1 thành ~15 bài và soạn nội dung |
-| 4–9 | Chưa làm |
+| 2. Nền tảng | Xong. Bộ chấm ở `packages/grader` (`@c-learn-write/grader`), nội dung ở `packages/course`, app PWA ở `apps/web` (Preact 10 + Vite 8, vite-plugin-pwa, idb, hash router, chuỗi tiếng Việt ở `apps/web/src/strings.ts`). `npm run e2e` = build + Playwright |
+| 3. Dữ liệu | Xong cho HSK1. `packages/course`: nguồn khóa commit (`sources/`), dữ liệu đề cương (`data/hsk/`), chương trình (`data/curriculum.json`), 15 bài HSK1 (`data/lessons/hsk1/`), bộ kiểm tra (`src/validate.ts`), công cụ: `content:brief`, `content:fill`, `review:export`, `review:import`. Hướng dẫn: [content-guide.md](content-guide.md); điểm cần giáo viên xem: [review-notes.md](review-notes.md) |
+| 4. Từ vựng | Xong: thẻ từ, FSRS (ts-fsrs 6.0.0), giọng đọc thiết bị, từ điển, sao lưu |
+| 5. Ngữ pháp và bài tập | Xong cho HSK1: trang ngữ pháp, 6 dạng bài tập + bài tập từ vựng tự sinh; bộ chấm sửa 3 lỗi báo nhầm/chấm sai phát hiện khi soạn |
+| 6. Kiểm tra và tiến độ | Xong: kiểm tra cuối bài (≥ 80% mở bài sau), kiểm tra cấp, trang tiến độ |
+| 7. Phát hành HSK1 | Đang làm: workflow `deploy.yml` (chỉ chạy tay) đã có; còn README, rà khả năng truy cập/hiệu năng; **hỏi chủ dự án trước khi triển khai** |
+| 8. HSK2 + luyện viết | Luyện viết (hanzi-writer, 250 chữ) xong; chương trình và nội dung HSK2 đang làm |
+| 9. HSK3 | Chưa làm |
 
 Lưu ý khi làm tiếp:
 - Script Node trong `packages/course/scripts` chạy thẳng file `.ts` (Node 22.18+ tự bỏ kiểu); import tương đối phải ghi đuôi `.ts`.
-- **Bộ lọc nội dung của Claude** đã hai lần chặn câu trả lời đúng lúc sắp viết ra bảng âm tiết pinyin chuẩn (có lẽ vì trùng văn bản phổ biến). Đừng gõ tay các danh sách chuẩn dài; hãy sinh chúng từ dữ liệu (ví dụ từ thư viện pinyin-pro). Commit và push sau mỗi bước nhỏ vì tiến trình có thể bị khởi động lại.
+- **Bộ lọc nội dung của Claude** đã hai lần chặn câu trả lời đúng lúc sắp viết ra bảng âm tiết pinyin chuẩn (có lẽ vì trùng văn bản phổ biến). Đừng gõ tay các danh sách chuẩn dài; hãy sinh chúng từ dữ liệu. Commit và push sau mỗi bước nhỏ vì tiến trình có thể bị khởi động lại.
 - Không đưa câu ví dụ chính thức (例句) của đề cương vào repo.
+- Soạn bài song song bằng agent: mỗi agent chỉ ghi file bài của mình, chạy `content:fill -- <bài>` và `CONTENT_FILTER=<bài> npx vitest run --project course`; người điều phối kiểm tra và commit. Khi commit lúc agent còn đang ghi, chạy `CONTENT_FILTER=<các bài sẽ commit> npm run check` và chỉ commit khi lệnh thoát thành công.
 
 ## 2. Làm việc với chủ dự án (quan trọng)
 
