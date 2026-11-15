@@ -19,6 +19,18 @@ export const DATA_SOURCES: DataSource[] = [
     license: 'Danh sách được dùng như dữ kiện; bản chép máy đọc được ofou/hsk theo giấy phép MIT',
     url: 'https://www.chinesetest.cn/HSK',
   },
+  {
+    name: 'hanviet-pinyin-wordlist (Phong Phan)',
+    use: 'Âm Hán Việt của các chữ',
+    license: 'MIT',
+    url: 'https://github.com/ph0ngp/hanviet-pinyin-wordlist',
+  },
+  {
+    name: 'pinyin-pro, opencc-js',
+    use: 'Pinyin, chữ đồng âm, chuyển phồn thể sang giản thể (trong bộ chấm)',
+    license: 'MIT; dữ liệu OpenCC theo Apache-2.0',
+    url: 'https://github.com/zh-lx/pinyin-pro',
+  },
 ];
 
 export default function AboutPage(_props: PageProps) {
