@@ -131,6 +131,13 @@ Danh sách khởi đầu do Claude soạn, **chưa được giáo viên kiểm t
 - `npm run check` = kiểm tra kiểu TypeScript + test.
 - Tốc độ: khoảng 0,1 ms mỗi câu trả lời (sau lần chấm đầu tiên, vốn phải nạp từ điển pinyin).
 
+## Thay đổi khi đưa bộ chấm vào web app (2026-11-15)
+
+- **API mới:** `checkZhSentence(text)` chạy các luật trên một câu, ngoài mọi câu hỏi. Web app dùng nó để giải thích bài sắp xếp câu khi người học xếp sai (我吃饭在家 → `place_order`). Khóa học dùng nó để kiểm tra rằng không câu đúng nào bị báo lỗi. `segments(normalized, issues)` (tô màu chỗ sai) và `normalizeZh` cũng được xuất ra.
+- **Không đọc nhầm từ ghép:** bộ chấm biết các từ nhiều chữ của HSK1–3 (`data/words.json`, sinh từ dữ liệu khóa học bằng `npm run data:build -w @c-learn-write/course`, có test giữ đồng bộ). Khi một từ dài hơn của đề cương bắt đầu bằng danh từ vừa nhận ra (书店 so với 书) và bảng danh từ không có dữ liệu cho từ đó, danh từ được coi là "lạ" và các luật im lặng. Trước đây câu đúng 学校外边有一个书店 bị báo sai lượng từ.
+- **Danh từ sau một từ lạ:** với câu hỏi đếm, danh từ cần đếm đứng sau 1–2 chữ lạ (两个女医生) được nhận đúng nội dung nhưng gắn cờ `needsReview`, vì có thể là một từ khác (熊猫 không phải 猫).
+- **Đồng âm đổi nghĩa:** 买 / 卖 cùng pinyin nhưng nghĩa ngược nhau, nên không bao giờ được coi là gõ nhầm.
+
 ## Hướng phát triển
 
 1. Nhờ giáo viên duyệt dữ liệu ở danh sách trên; bổ sung danh từ, nơi chốn và động từ theo giáo trình.
