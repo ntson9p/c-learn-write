@@ -1,0 +1,868 @@
+{
+  "id": "hsk1-01",
+  "goalsVi": [
+    "Chào hỏi, cảm ơn, xin lỗi và tạm biệt bằng tiếng Trung",
+    "Nói tên mình và hỏi tên người khác",
+    "Nói ai là học sinh, ai là giáo viên; hỏi có/không bằng 「吗」"
+  ],
+  "words": [
+    {
+      "no": 146,
+      "word": "你",
+      "meaningsVi": [
+        "bạn, anh, chị, em (ngôi thứ hai)"
+      ],
+      "noteVi": "Tiếng Trung chỉ có một từ 「你」 cho người đang nói chuyện với mình, không phân biệt anh, chị, em như tiếng Việt.",
+      "examples": [
+        {
+          "zh": "你是学生吗？",
+          "py": "nǐ shì xué shēng ma",
+          "vi": "Bạn là học sinh à?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 221,
+      "word": "我",
+      "meaningsVi": [
+        "tôi, mình, em (ngôi thứ nhất)"
+      ],
+      "examples": [
+        {
+          "zh": "我是学生。",
+          "py": "wǒ shì xué shēng",
+          "vi": "Tôi là học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 200,
+      "word": "他",
+      "meaningsVi": [
+        "anh ấy, ông ấy, cậu ấy (nam)"
+      ],
+      "noteVi": "「他」 (nam) và 「她」 (nữ) đọc giống nhau: tā. Khi viết mới phân biệt được.",
+      "examples": [
+        {
+          "zh": "他是老师。",
+          "py": "tā shì lǎo shī",
+          "vi": "Anh ấy là giáo viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 204,
+      "word": "她",
+      "meaningsVi": [
+        "chị ấy, cô ấy, bà ấy (nữ)"
+      ],
+      "examples": [
+        {
+          "zh": "她叫玛丽。",
+          "py": "tā jiào mǎ lì",
+          "vi": "Cô ấy tên là Mary."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 150,
+      "word": "您",
+      "meaningsVi": [
+        "ông, bà, thầy, cô (cách gọi lịch sự thay cho 「你」)"
+      ],
+      "noteVi": "Dùng 「您」 với người lớn tuổi, thầy cô, khách hàng để tỏ ý kính trọng.",
+      "examples": [
+        {
+          "zh": "您是王老师吗？",
+          "py": "nín shì wáng lǎo shī ma",
+          "vi": "Thầy là thầy Vương phải không ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 147,
+      "word": "你好",
+      "meaningsVi": [
+        "xin chào, chào bạn"
+      ],
+      "noteVi": "Người được chào cũng đáp lại bằng 「你好」. Chào thầy cô thì nói 「老师好」.",
+      "examples": [
+        {
+          "zh": "你好！我叫大卫。",
+          "py": "nǐ hǎo wǒ jiào dà wèi",
+          "vi": "Chào bạn! Tôi tên là David."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 71,
+      "word": "好",
+      "meaningsVi": [
+        "tốt, hay, khỏe",
+        "(dùng trong lời chào) chào"
+      ],
+      "examples": [
+        {
+          "zh": "老师好！",
+          "py": "lǎo shī hǎo",
+          "vi": "Em chào thầy/cô ạ!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 188,
+      "word": "是",
+      "meaningsVi": [
+        "là",
+        "vâng, đúng (khi trả lời)"
+      ],
+      "noteVi": "「是」 nối hai danh từ (Tôi là học sinh). Không dùng 「是」 trước tính từ: 'Tôi khỏe' không nói là 「我是好」.",
+      "examples": [
+        {
+          "zh": "我是学生，他是老师。",
+          "py": "wǒ shì xué shēng tā shì lǎo shī",
+          "vi": "Tôi là học sinh, anh ấy là giáo viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 13,
+      "word": "不",
+      "meaningsVi": [
+        "không"
+      ],
+      "noteVi": "「不」 đứng trước động từ: 不是 (không phải là). Trước một âm tiết thanh 4, 「不」 đọc thanh 2: 不是 bú shì.",
+      "examples": [
+        {
+          "zh": "我不是老师。",
+          "py": "wǒ bú shì lǎo shī",
+          "vi": "Tôi không phải là giáo viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 115,
+      "word": "吗",
+      "meaningsVi": [
+        "(trợ từ hỏi cuối câu) … không?, … à?, … phải không?"
+      ],
+      "noteVi": "Thêm 「吗」 vào cuối một câu kể là được câu hỏi có/không.",
+      "examples": [
+        {
+          "zh": "她是老师吗？",
+          "py": "tā shì lǎo shī ma",
+          "vi": "Cô ấy là giáo viên à?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 91,
+      "word": "叫",
+      "meaningsVi": [
+        "tên là, gọi là",
+        "gọi"
+      ],
+      "examples": [
+        {
+          "zh": "我叫安娜。",
+          "py": "wǒ jiào ān nà",
+          "vi": "Tôi tên là Anna."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 182,
+      "word": "什么",
+      "meaningsVi": [
+        "gì, cái gì"
+      ],
+      "noteVi": "「什么」 đứng đúng vào chỗ của thứ cần hỏi, giống chữ 'gì' trong tiếng Việt. Câu có 「什么」 thì không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "你叫什么名字？",
+          "py": "nǐ jiào shén me míng zi",
+          "vi": "Bạn tên là gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 128,
+      "word": "名字",
+      "meaningsVi": [
+        "tên"
+      ],
+      "examples": [
+        {
+          "zh": "她叫什么名字？",
+          "py": "tā jiào shén me míng zi",
+          "vi": "Cô ấy tên là gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 107,
+      "word": "老师",
+      "meaningsVi": [
+        "thầy giáo, cô giáo, giáo viên"
+      ],
+      "noteVi": "Gọi thầy cô bằng họ + 「老师」: 王老师 (thầy/cô Vương). Không cần thêm 'thầy' hay 'cô' như tiếng Việt.",
+      "examples": [
+        {
+          "zh": "王老师好！",
+          "py": "wáng lǎo shī hǎo",
+          "vi": "Em chào thầy Vương ạ!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 248,
+      "word": "学生",
+      "meaningsVi": [
+        "học sinh, sinh viên"
+      ],
+      "noteVi": "Âm Hán Việt là 'học sinh', nhưng 「学生」 dùng cho cả sinh viên đại học.",
+      "examples": [
+        {
+          "zh": "她是学生吗？",
+          "py": "tā shì xué shēng ma",
+          "vi": "Cô ấy là học sinh à?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 241,
+      "word": "谢谢",
+      "meaningsVi": [
+        "cảm ơn"
+      ],
+      "examples": [
+        {
+          "zh": "谢谢老师！",
+          "py": "xiè xie lǎo shī",
+          "vi": "Em cảm ơn thầy/cô ạ!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 14,
+      "word": "不客气",
+      "meaningsVi": [
+        "không có gì, đừng khách sáo (đáp lại lời cảm ơn)"
+      ],
+      "examples": [
+        {
+          "zh": "谢谢你！——不客气。",
+          "py": "xiè xie nǐ bú kè qi",
+          "vi": "Cảm ơn bạn! — Không có gì."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 271,
+      "word": "再见",
+      "meaningsVi": [
+        "tạm biệt, hẹn gặp lại"
+      ],
+      "examples": [
+        {
+          "zh": "老师，再见！",
+          "py": "lǎo shī zài jiàn",
+          "vi": "Em chào thầy/cô, hẹn gặp lại ạ!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 45,
+      "word": "对不起",
+      "meaningsVi": [
+        "xin lỗi"
+      ],
+      "examples": [
+        {
+          "zh": "对不起，我不是王老师。",
+          "py": "duì bu qǐ wǒ bú shì wáng lǎo shī",
+          "vi": "Xin lỗi, tôi không phải là thầy Vương."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 120,
+      "word": "没关系",
+      "meaningsVi": [
+        "không sao, không có gì (đáp lại lời xin lỗi)"
+      ],
+      "examples": [
+        {
+          "zh": "对不起！——没关系。",
+          "py": "duì bu qǐ méi guān xi",
+          "vi": "Xin lỗi! — Không sao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 42,
+      "titleVi": "Câu có vị ngữ là động từ",
+      "summaryVi": "Chủ ngữ + động từ + tân ngữ, giống trật tự tiếng Việt: 我叫大卫。",
+      "explanationVi": [
+        "Câu đơn giản nhất của tiếng Trung có trật tự giống tiếng Việt: **chủ ngữ + động từ + tân ngữ**.",
+        "Trong câu 「我叫大卫」, 「我」 (tôi) là chủ ngữ, 「叫」 (tên là) là động từ, 「大卫」 là tân ngữ.",
+        "Động từ tiếng Trung không đổi hình thức theo người nói hay theo thời gian: 我叫, 你叫, 他叫 đều giống nhau."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我叫大卫。",
+          "py": "wǒ jiào dà wèi",
+          "vi": "Tôi tên là David."
+        },
+        {
+          "zh": "她叫玛丽。",
+          "py": "tā jiào mǎ lì",
+          "vi": "Cô ấy tên là Mary."
+        },
+        {
+          "zh": "你叫什么名字？",
+          "py": "nǐ jiào shén me míng zi",
+          "vi": "Bạn tên là gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 46,
+      "titleVi": "Câu kể",
+      "summaryVi": "Câu kể nói một sự việc, kết thúc bằng 「。」; phủ định bằng 「不」 đặt trước động từ.",
+      "explanationVi": [
+        "Câu kể dùng để thông báo một sự việc. Cuối câu viết dấu chấm tròn 「。」.",
+        "Muốn phủ định, đặt 「不」 ngay **trước động từ**: 我是老师 → 我**不**是老师 (Tôi không phải là giáo viên)."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + tân ngữ。",
+        "Chủ ngữ + 不 + động từ + tân ngữ。"
+      ],
+      "examples": [
+        {
+          "zh": "我是学生。",
+          "py": "wǒ shì xué shēng",
+          "vi": "Tôi là học sinh."
+        },
+        {
+          "zh": "我不是老师。",
+          "py": "wǒ bú shì lǎo shī",
+          "vi": "Tôi không phải là giáo viên."
+        },
+        {
+          "zh": "他叫小明。",
+          "py": "tā jiào xiǎo míng",
+          "vi": "Cậu ấy tên là Tiểu Minh."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我是学生不。",
+          "right": "我不是学生。",
+          "noteVi": "「不」 không đứng cuối câu; nó đứng trước động từ mà nó phủ định."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 47,
+      "titleVi": "Câu hỏi có/không với 「吗」",
+      "summaryVi": "Thêm 「吗」 vào cuối câu kể để hỏi có/không: 你是学生吗？",
+      "explanationVi": [
+        "Muốn hỏi có/không, chỉ cần thêm 「吗」 vào **cuối** câu kể và đổi dấu chấm thành dấu hỏi. Trật tự các từ giữ nguyên.",
+        "Trả lời bằng 「是」 (đúng vậy) hoặc 「不是」 (không phải), thường nói thành câu đầy đủ: 「是，我是学生。」, 「不是，我是老师。」",
+        "Câu đã có từ để hỏi như 「什么」 thì **không** thêm 「吗」."
+      ],
+      "patterns": [
+        "Câu kể + 吗？"
+      ],
+      "examples": [
+        {
+          "zh": "你是老师吗？",
+          "py": "nǐ shì lǎo shī ma",
+          "vi": "Bạn là giáo viên à?"
+        },
+        {
+          "zh": "她叫玛丽吗？",
+          "py": "tā jiào mǎ lì ma",
+          "vi": "Cô ấy tên là Mary phải không?"
+        },
+        {
+          "zh": "您是王老师吗？",
+          "py": "nín shì wáng lǎo shī ma",
+          "vi": "Thầy là thầy Vương phải không ạ?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你叫什么名字吗？",
+          "right": "你叫什么名字？",
+          "noteVi": "Câu đã có 「什么」 để hỏi thì không thêm 「吗」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 52,
+      "titleVi": "Câu chữ 「是」: A là B",
+      "summaryVi": "A 是 B: nói ai, cái gì là gì. Phủ định: A 不是 B.",
+      "explanationVi": [
+        "「是」 nối hai danh từ hoặc đại từ, giống chữ 'là' trong tiếng Việt: 我是学生 (Tôi là học sinh).",
+        "Phủ định là 「不是」 (không phải là); 「不」 luôn đứng trước 「是」.",
+        "「是」 không dùng trước tính từ. Cách nói 'Tôi khỏe' sẽ học ở bài 2."
+      ],
+      "patterns": [
+        "A + 是 + B",
+        "A + 不是 + B"
+      ],
+      "examples": [
+        {
+          "zh": "我是学生。",
+          "py": "wǒ shì xué shēng",
+          "vi": "Tôi là học sinh."
+        },
+        {
+          "zh": "他不是老师。",
+          "py": "tā bú shì lǎo shī",
+          "vi": "Anh ấy không phải là giáo viên."
+        },
+        {
+          "zh": "他是学生，我是老师。",
+          "py": "tā shì xué shēng wǒ shì lǎo shī",
+          "vi": "Cậu ấy là học sinh, tôi là giáo viên."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我学生。",
+          "right": "我是学生。",
+          "noteVi": "Giữa hai danh từ phải có 「是」, như chữ 'là' trong tiếng Việt.",
+          "issue": "missing_word"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-01-e01",
+      "type": "match",
+      "promptVi": "Nối câu tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "你好",
+          "xin chào"
+        ],
+        [
+          "谢谢",
+          "cảm ơn"
+        ],
+        [
+          "再见",
+          "tạm biệt"
+        ],
+        [
+          "对不起",
+          "xin lỗi"
+        ],
+        [
+          "没关系",
+          "không sao"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-01-e02",
+      "type": "choice",
+      "promptVi": "「老师」 nghĩa là gì?",
+      "options": [
+        "giáo viên",
+        "học sinh",
+        "tên"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "hsk1-01-e03",
+      "type": "choice",
+      "promptVi": "Câu hỏi nào đúng?",
+      "options": [
+        "你是学生吗？",
+        "你是吗学生？",
+        "吗你是学生？"
+      ],
+      "answer": 0,
+      "explainVi": "「吗」 đứng ở cuối câu.",
+      "grammar": [
+        47
+      ]
+    },
+    {
+      "id": "hsk1-01-e04",
+      "type": "fill",
+      "promptVi": "Điền từ để câu thành câu hỏi.",
+      "before": "你是老师",
+      "after": "？",
+      "answers": [
+        "吗"
+      ],
+      "options": [
+        "吗",
+        "不",
+        "是"
+      ],
+      "vi": "Bạn là giáo viên à?",
+      "grammar": [
+        47
+      ]
+    },
+    {
+      "id": "hsk1-01-e05",
+      "type": "order",
+      "vi": "Tôi là học sinh.",
+      "tiles": [
+        "是",
+        "学生",
+        "我"
+      ],
+      "answers": [
+        "我是学生"
+      ],
+      "grammar": [
+        52
+      ]
+    },
+    {
+      "id": "hsk1-01-e06",
+      "type": "order",
+      "vi": "Tôi không phải là giáo viên.",
+      "tiles": [
+        "老师",
+        "不",
+        "我",
+        "是"
+      ],
+      "answers": [
+        "我不是老师"
+      ],
+      "explainVi": "「不」 đứng trước 「是」.",
+      "grammar": [
+        46
+      ]
+    },
+    {
+      "id": "hsk1-01-e07",
+      "type": "order",
+      "vi": "Cô ấy tên là Mary.",
+      "tiles": [
+        "玛丽",
+        "她",
+        "叫"
+      ],
+      "answers": [
+        "她叫玛丽"
+      ],
+      "grammar": [
+        42
+      ]
+    },
+    {
+      "id": "hsk1-01-e08",
+      "type": "translate",
+      "vi": "Anh ấy là giáo viên.",
+      "answers": [
+        "他是老师。"
+      ],
+      "examples": [
+        {
+          "answer": "他是老师。",
+          "score": 100
+        },
+        {
+          "answer": "他老师。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "他不是老师。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        52
+      ]
+    },
+    {
+      "id": "hsk1-01-e09",
+      "type": "translate",
+      "vi": "Tôi không phải là học sinh.",
+      "answers": [
+        "我不是学生。"
+      ],
+      "examples": [
+        {
+          "answer": "我不是学生。",
+          "score": 100
+        },
+        {
+          "answer": "我是学生。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        46
+      ]
+    },
+    {
+      "id": "hsk1-01-e10",
+      "type": "translate",
+      "vi": "Tôi tên là David (大卫).",
+      "answers": [
+        "我叫大卫。",
+        {
+          "text": "我是大卫。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "我叫大卫。",
+          "score": 100
+        },
+        {
+          "answer": "我是大卫。",
+          "score": 90
+        }
+      ],
+      "grammar": [
+        42
+      ]
+    },
+    {
+      "id": "hsk1-01-e11",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你是学生吗？",
+        "promptVi": "Bạn là học sinh à? (Giả sử bạn là học sinh.)",
+        "answers": [
+          "(是，)(我)是学生。",
+          "是。"
+        ],
+        "examples": [
+          {
+            "answer": "是，我是学生。",
+            "score": 100
+          },
+          {
+            "answer": "我是学生。",
+            "score": 100
+          },
+          {
+            "answer": "我不是学生。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        47
+      ]
+    },
+    {
+      "id": "hsk1-01-e12",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你叫什么名字？",
+        "promptVi": "Bạn tên là gì? (Giả sử bạn tên là Mary: 玛丽.)",
+        "answers": [
+          "(我)叫玛丽。",
+          "玛丽。",
+          {
+            "text": "我是玛丽。",
+            "score": 90
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我叫玛丽。",
+            "score": 100
+          },
+          {
+            "answer": "玛丽。",
+            "score": 100
+          },
+          {
+            "answer": "我叫安娜。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        42
+      ]
+    },
+    {
+      "id": "hsk1-01-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我不是老师。",
+        "我是不老师。",
+        "不我是老师。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định của 「是」 là 「不是」.",
+      "grammar": [
+        52
+      ]
+    },
+    {
+      "id": "hsk1-01-e14",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我",
+      "after": "是老师。",
+      "answers": [
+        "不"
+      ],
+      "options": [
+        "不",
+        "吗",
+        "好"
+      ],
+      "vi": "Tôi không phải là giáo viên.",
+      "grammar": [
+        46
+      ]
+    },
+    {
+      "id": "hsk1-01-e15",
+      "type": "choice",
+      "promptVi": "「你叫什么名字？」 nghĩa là gì?",
+      "options": [
+        "Bạn tên là gì?",
+        "Bạn là ai?",
+        "Bạn có khỏe không?"
+      ],
+      "answer": 0,
+      "grammar": [
+        42
+      ]
+    },
+    {
+      "id": "hsk1-01-e16",
+      "type": "order",
+      "vi": "Bạn là giáo viên à?",
+      "tiles": [
+        "吗",
+        "老师",
+        "你",
+        "是"
+      ],
+      "answers": [
+        "你是老师吗"
+      ],
+      "grammar": [
+        47
+      ]
+    },
+    {
+      "id": "hsk1-01-e17",
+      "type": "translate",
+      "vi": "Cô ấy là học sinh phải không?",
+      "answers": [
+        "她是学生吗？"
+      ],
+      "examples": [
+        {
+          "answer": "她是学生吗？",
+          "score": 100
+        },
+        {
+          "answer": "她是学生。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        47
+      ]
+    }
+  ]
+}
