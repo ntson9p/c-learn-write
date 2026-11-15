@@ -1,0 +1,1343 @@
+{
+  "id": "hsk3-16",
+  "goalsVi": [
+    "Nói về kỳ nghỉ và kế hoạch đi xa: 放假, 假期, 休假, 打算, 外地, 游客, 宾馆, 护照, 行李…",
+    "Nói về phương tiện và chuyến đi: 坐高铁, 坐船, 骑自行车, 司机, 一辆汽车, 出发, 起飞, 晚点, 检票",
+    "Thể hiện thái độ bằng phó từ ngữ khí 当然, 其实, 终于, 才, 就: 当然想！, 其实他是越南人, 飞机终于起飞了, 才八点, 我才不坐船呢",
+    "Nói một việc bắt đầu từ lúc nào với 「从……起」: 从下个月起，我骑自行车上班",
+    "Tả cách thức đi kèm với 'động từ 1 + 着 + động từ 2' (走着去, 带着行李出发) và nêu các khả năng với 「或者……，或者……」"
+  ],
+  "words": [
+    {
+      "no": 625,
+      "word": "放假",
+      "meaningsVi": [
+        "được nghỉ (lễ, học, Tết — theo lịch chung)"
+      ],
+      "noteVi": "「放假」 là nghỉ theo lịch chung của trường, cơ quan: 学校放假了. Xin nghỉ riêng là 「请假」 (bài 13); người đi làm nghỉ phép theo chế độ là 「休假」. 「放假」 là động từ + tân ngữ, số ngày chen vào giữa: 放三天假. 「假」 đọc jià, không đọc jiǎ (giả).",
+      "examples": [
+        {
+          "zh": "我们学校下星期放假。",
+          "py": "wǒ men xué xiào xià xīng qī fàng jià",
+          "vi": "Trường chúng tôi tuần sau được nghỉ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 696,
+      "word": "假期",
+      "meaningsVi": [
+        "kỳ nghỉ"
+      ],
+      "noteVi": "「假」 đọc jià. Trong kỳ nghỉ: 假期里 hoặc 假期的时候.",
+      "examples": [
+        {
+          "zh": "假期里你打算去哪儿旅游？",
+          "py": "jià qī lǐ nǐ dǎ suàn qù nǎ r lǚ yóu",
+          "vi": "Kỳ nghỉ này bạn định đi du lịch ở đâu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 911,
+      "word": "休假",
+      "meaningsVi": [
+        "nghỉ phép (người đi làm, theo chế độ)"
+      ],
+      "noteVi": "So sánh: 「休息」 là nghỉ ngơi (cho đỡ mệt); 「休假」 là nghỉ phép nhiều ngày theo chế độ của cơ quan.",
+      "examples": [
+        {
+          "zh": "我爸爸下个月休假，我们打算一起去旅游。",
+          "py": "wǒ bà ba xià gè yuè xiū jià wǒ men dǎ suàn yì qǐ qù lǚ yóu",
+          "vi": "Tháng sau bố tôi nghỉ phép, cả nhà định cùng đi du lịch."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 572,
+      "word": "打算",
+      "meaningsVi": [
+        "dự định, định (động từ)",
+        "dự định, kế hoạch (danh từ)"
+      ],
+      "noteVi": "Động từ: 打算 + việc định làm: 我打算去北京. Danh từ: 你有什么打算？ So với 「想」 (muốn — ý thích) và 「准备」 (chuẩn bị, sắp làm — đã sắp xếp), 「打算」 là đã nghĩ tới, có kế hoạch nhưng chưa chắc chắn. 「打」 ở đây không có nghĩa 'đánh'.",
+      "examples": [
+        {
+          "zh": "放假以后，你有什么打算？",
+          "py": "fàng jià yǐ hòu nǐ yǒu shén me dǎ suàn",
+          "vi": "Nghỉ rồi thì bạn có dự định gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 505,
+      "word": "安全",
+      "meaningsVi": [
+        "an toàn"
+      ],
+      "noteVi": "Lời dặn người đi xa: 路上注意安全！ (Đi đường cẩn thận nhé!). Phủ định: 不安全.",
+      "examples": [
+        {
+          "zh": "晚上一个人出去不太安全。",
+          "py": "wǎn shang yí gè rén chū qù bú tài ān quán",
+          "vi": "Buổi tối đi ra ngoài một mình không an toàn lắm."
+        },
+        {
+          "zh": "路上注意安全！",
+          "py": "lù shang zhù yì ān quán",
+          "vi": "Đi đường cẩn thận nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 865,
+      "word": "外地",
+      "meaningsVi": [
+        "nơi khác, tỉnh khác (không phải nơi mình sống)"
+      ],
+      "noteVi": "「外地」 là nơi khác trong cùng một nước; 「外国」 là nước ngoài. 外地人 = người từ nơi khác đến.",
+      "examples": [
+        {
+          "zh": "放假的时候，很多外地人都回家了。",
+          "py": "fàng jià de shí hou hěn duō wài dì rén dōu huí jiā le",
+          "vi": "Khi được nghỉ, nhiều người từ nơi khác đến đều về quê."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 944,
+      "word": "游客",
+      "meaningsVi": [
+        "du khách, khách du lịch"
+      ],
+      "noteVi": "「游客」 là người đi chơi, tham quan; 「客人」 (bài 12) là khách đến nhà, khách của cửa hàng.",
+      "examples": [
+        {
+          "zh": "夏天来这里的游客特别多。",
+          "py": "xià tiān lái zhè lǐ de yóu kè tè bié duō",
+          "vi": "Mùa hè du khách đến đây đặc biệt đông."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 533,
+      "word": "宾馆",
+      "meaningsVi": [
+        "khách sạn, nhà khách"
+      ],
+      "noteVi": "「宾馆」 và 「酒店」 (HSK2) đều là khách sạn; 「酒店」 hay dùng cho khách sạn hiện đại, lớn. Âm Hán Việt 'tân quán'.",
+      "examples": [
+        {
+          "zh": "我们住的宾馆离火车站很近。",
+          "py": "wǒ men zhù de bīn guǎn lí huǒ chē zhàn hěn jìn",
+          "vi": "Khách sạn chúng tôi ở rất gần ga tàu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 674,
+      "word": "护照",
+      "meaningsVi": [
+        "hộ chiếu"
+      ],
+      "noteVi": "Làm hộ chiếu: 办护照 (办 — bài 13). Âm Hán Việt 'hộ chiếu' trùng nghĩa.",
+      "examples": [
+        {
+          "zh": "出国以前，我得先办护照。",
+          "py": "chū guó yǐ qián wǒ děi xiān bàn hù zhào",
+          "vi": "Trước khi ra nước ngoài, tôi phải làm hộ chiếu trước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 909,
+      "word": "行李",
+      "meaningsVi": [
+        "hành lý"
+      ],
+      "noteVi": "「行」 đọc xíng, 「李」 đọc nhẹ: xíngli. Lượng từ: 件 (两件行李). Mang hành lý: 带行李.",
+      "examples": [
+        {
+          "zh": "你的行李太多了，我帮你拿吧。",
+          "py": "nǐ de xíng li tài duō le wǒ bāng nǐ ná ba",
+          "vi": "Hành lý của bạn nhiều quá, để tôi xách giúp nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 562,
+      "word": "出发",
+      "meaningsVi": [
+        "xuất phát, khởi hành, lên đường"
+      ],
+      "noteVi": "Từ đâu: 从 + nơi chốn + 出发; mấy giờ: 几点出发？",
+      "examples": [
+        {
+          "zh": "我们明天早上七点从学校出发。",
+          "py": "wǒ men míng tiān zǎo shang qī diǎn cóng xué xiào chū fā",
+          "vi": "Bảy giờ sáng mai chúng ta xuất phát từ trường."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 802,
+      "word": "起飞",
+      "meaningsVi": [
+        "(máy bay) cất cánh"
+      ],
+      "examples": [
+        {
+          "zh": "飞机几点起飞？",
+          "py": "fēi jī jǐ diǎn qǐ fēi",
+          "vi": "Máy bay mấy giờ cất cánh?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 869,
+      "word": "晚点",
+      "meaningsVi": [
+        "(xe, tàu, máy bay) trễ giờ, chậm chuyến"
+      ],
+      "noteVi": "Chỉ dùng cho phương tiện chạy theo giờ; người đến muộn thì dùng 「迟到」 (bài 11). Chú ý 「晚一点儿」 là 'muộn hơn một chút', khác 「晚点」.",
+      "examples": [
+        {
+          "zh": "因为下雨，我们的飞机晚点了。",
+          "py": "yīn wèi xià yǔ wǒ men de fēi jī wǎn diǎn le",
+          "vi": "Vì trời mưa nên máy bay của chúng tôi bị trễ giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 699,
+      "word": "检票",
+      "meaningsVi": [
+        "soát vé, kiểm vé"
+      ],
+      "noteVi": "Ở ga tàu, bến xe hay nghe: 开始检票了 (bắt đầu soát vé rồi).",
+      "examples": [
+        {
+          "zh": "火车开始检票了，我们快走吧。",
+          "py": "huǒ chē kāi shǐ jiǎn piào le wǒ men kuài zǒu ba",
+          "vi": "Tàu bắt đầu soát vé rồi, chúng ta đi nhanh lên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 644,
+      "word": "高铁",
+      "meaningsVi": [
+        "tàu cao tốc, đường sắt cao tốc"
+      ],
+      "noteVi": "Đi tàu cao tốc: 坐高铁. Trong câu ví dụ, 「只要」 nghĩa là 'chỉ mất, chỉ cần (thời gian)', khác mẫu 只要……就…… ở bài 13.",
+      "examples": [
+        {
+          "zh": "从北京到上海，坐高铁只要四个多小时。",
+          "py": "cóng běi jīng dào shàng hǎi zuò gāo tiě zhǐ yào sì gè duō xiǎo shí",
+          "vi": "Từ Bắc Kinh đến Thượng Hải, đi tàu cao tốc chỉ mất hơn bốn tiếng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 567,
+      "word": "船",
+      "meaningsVi": [
+        "thuyền, tàu thủy"
+      ],
+      "noteVi": "Đi thuyền: 坐船; lên thuyền: 上船. Lượng từ: 条 (一条船).",
+      "examples": [
+        {
+          "zh": "我们是坐船来的。",
+          "py": "wǒ men shì zuò chuán lái de",
+          "vi": "Chúng tôi đi thuyền đến đấy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 803,
+      "word": "汽车",
+      "meaningsVi": [
+        "ô tô, xe hơi"
+      ],
+      "noteVi": "「汽」 là hơi, 「汽车」 là xe hơi (Hán Việt 'khí xa'). Lượng từ: 辆. Nói chung chung thường chỉ dùng 「车」: 开车.",
+      "examples": [
+        {
+          "zh": "他家有两辆汽车。",
+          "py": "tā jiā yǒu liǎng liàng qì chē",
+          "vi": "Nhà anh ấy có hai chiếc ô tô."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 991,
+      "word": "自行车",
+      "meaningsVi": [
+        "xe đạp"
+      ],
+      "noteVi": "Đi xe đạp: 骑自行车 (dùng 骑, không dùng 坐 hay 开). Hán Việt 'tự hành xa' (xe tự đi).",
+      "examples": [
+        {
+          "zh": "我每天骑自行车上班。",
+          "py": "wǒ měi tiān qí zì xíng chē shàng bān",
+          "vi": "Hằng ngày tôi đạp xe đi làm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 800,
+      "word": "骑",
+      "meaningsVi": [
+        "đi, cưỡi (xe đạp, xe máy, ngựa — loại ngồi dạng chân)"
+      ],
+      "noteVi": "Người Việt nói 'đi xe đạp', 'đi xe máy'; tiếng Trung dùng 「骑」: 骑自行车. Ô tô, tàu, máy bay thì dùng 坐 (đi, ngồi) hoặc 开 (lái): 坐公交车, 开汽车.",
+      "examples": [
+        {
+          "zh": "我妹妹五岁就会骑自行车了。",
+          "py": "wǒ mèi mei wǔ suì jiù huì qí zì xíng chē le",
+          "vi": "Em gái tôi mới năm tuổi đã biết đi xe đạp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 847,
+      "word": "司机",
+      "meaningsVi": [
+        "tài xế, người lái xe"
+      ],
+      "noteVi": "出租车司机 (tài xế taxi), 公交车司机 (tài xế xe buýt).",
+      "examples": [
+        {
+          "zh": "出租车司机说，二十分钟就能到机场。",
+          "py": "chū zū chē sī jī shuō èr shí fēn zhōng jiù néng dào jī chǎng",
+          "vi": "Tài xế taxi nói hai mươi phút là đến sân bay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 754,
+      "word": "辆",
+      "meaningsVi": [
+        "chiếc (lượng từ cho xe)"
+      ],
+      "noteVi": "Dùng cho các loại xe: 一辆汽车, 两辆自行车, 三辆出租车. Hỏi: 几辆车？",
+      "examples": [
+        {
+          "zh": "我想买一辆新自行车。",
+          "py": "wǒ xiǎng mǎi yí liàng xīn zì xíng chē",
+          "vi": "Tôi muốn mua một chiếc xe đạp mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 607,
+      "word": "段",
+      "meaningsVi": [
+        "đoạn (đường, bài)",
+        "khoảng (thời gian)"
+      ],
+      "noteVi": "一段路 (một đoạn đường), 一段时间 (một khoảng thời gian): 这段时间我很忙 (Dạo này tôi rất bận).",
+      "examples": [
+        {
+          "zh": "这段路不太安全，开车要小心。",
+          "py": "zhè duàn lù bú tài ān quán kāi chē yào xiǎo xīn",
+          "vi": "Đoạn đường này không an toàn lắm, lái xe phải cẩn thận."
+        },
+        {
+          "zh": "这段时间我很忙。",
+          "py": "zhè duàn shí jiān wǒ hěn máng",
+          "vi": "Khoảng thời gian này tôi rất bận."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 983,
+      "word": "终于",
+      "meaningsVi": [
+        "cuối cùng (thì) cũng, rốt cuộc"
+      ],
+      "noteVi": "Dùng khi việc mong đợi xảy ra sau một thời gian dài; thường có 「了」. Khác 「最后」 (cuối cùng, sau cùng — chỉ thứ tự). Xem phần ngữ pháp.",
+      "examples": [
+        {
+          "zh": "等了两个小时，飞机终于起飞了。",
+          "py": "děng le liǎng gè xiǎo shí fēi jī zhōng yú qǐ fēi le",
+          "vi": "Đợi hai tiếng, cuối cùng máy bay cũng cất cánh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 170,
+      "titleVi": "Phó từ ngữ khí: 当然, 其实, 终于, 才, 就",
+      "summaryVi": "当然 (tất nhiên), 其实 (thật ra), 终于 (cuối cùng thì), 才 (mới — thấy ít, sớm; '… mới là', '… đâu'), 就 (cứ, nhất định) cho biết thái độ của người nói.",
+      "explanationVi": [
+        "Phó từ ngữ khí cho biết **thái độ** của người nói, thường đứng sau chủ ngữ, trước động từ (riêng 当然, 其实 cũng hay đứng đầu câu). 「当然」 = 'tất nhiên, dĩ nhiên': điều đó hiển nhiên, khỏi phải hỏi: 你想去吗？——当然想！ 「其实」 = 'thật ra': nói sự thật **trái với** điều người ta nghĩ hoặc vẻ bề ngoài: 大家都以为他是中国人，其实他是越南人.",
+        "「终于」 = 'cuối cùng thì cũng': sau một thời gian dài chờ đợi, cố gắng, việc mong muốn đã xảy ra; người nói thấy nhẹ nhõm. Cuối câu thường có 「了」: 等了三个小时，飞机终于起飞了. 「才」 chỉ thời gian muộn (bài 2: 他十点才起床) mang ý chê muộn và không có 了; 「终于」 nhấn mạnh **mong đợi đã thành**. Đừng nhầm với 「最后」 (sau cùng — chỉ thứ tự): 我们先去北京，最后去上海.",
+        "「才」 ngữ khí có hai cách dùng: (1) 才 + số lượng, thời gian: người nói thấy **ít, sớm, nhỏ**: 才八点，还早呢 (Mới tám giờ, còn sớm mà), 他才五岁 (Cậu bé mới năm tuổi); câu này **không** có 「了」. (2) Nhấn mạnh, phản bác: 这才是我的护照 (Đây mới là hộ chiếu của tôi); 我才不坐船呢！(Tôi chẳng thèm đi thuyền đâu!), thường có 「呢」 ở cuối.",
+        "「就」 ngữ khí ở bài này thể hiện **ý muốn kiên quyết**, có khi bướng bỉnh: 'cứ, nhất định': 你别说了，我就要坐高铁去！(Anh đừng nói nữa, tôi cứ đi tàu cao tốc!), 我就不去！(Tôi nhất định không đi!). Khi nói, nhấn giọng vào 「就」. Ở HSK2 đã gặp 「就」 khẳng định 'chính là' (我就是王老师); cả hai đều là cách nhấn mạnh."
+      ],
+      "patterns": [
+        "当然 + động từ/tính từ: 当然可以, 当然想",
+        "……，其实 + sự thật",
+        "Chủ ngữ + 终于 + động từ + 了",
+        "才 + số lượng/thời gian (không có 了)",
+        "Chủ ngữ + 才 + 不 + động từ + 呢 / Chủ ngữ + 就 + 要/不 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "你想跟我们一起去吗？——当然想！",
+          "py": "nǐ xiǎng gēn wǒ men yì qǐ qù ma dāng rán xiǎng",
+          "vi": "Bạn có muốn đi cùng chúng tôi không? — Tất nhiên là muốn!"
+        },
+        {
+          "zh": "大家都以为他是中国人，其实他是越南人。",
+          "py": "dà jiā dōu yǐ wéi tā shì zhōng guó rén qí shí tā shì yuè nán rén",
+          "vi": "Mọi người đều tưởng anh ấy là người Trung Quốc, thật ra anh ấy là người Việt Nam."
+        },
+        {
+          "zh": "等了三个小时，飞机终于起飞了。",
+          "py": "děng le sān gè xiǎo shí fēi jī zhōng yú qǐ fēi le",
+          "vi": "Đợi ba tiếng, cuối cùng máy bay cũng cất cánh."
+        },
+        {
+          "zh": "才八点，还早呢。",
+          "py": "cái bā diǎn hái zǎo ne",
+          "vi": "Mới tám giờ, còn sớm mà."
+        },
+        {
+          "zh": "我才不坐船呢，我就要坐高铁去！",
+          "py": "wǒ cái bú zuò chuán ne wǒ jiù yào zuò gāo tiě qù",
+          "vi": "Tôi chẳng thèm đi thuyền đâu, tôi cứ đi tàu cao tốc!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "才八点了，还早呢。",
+          "right": "才八点，还早呢。",
+          "noteVi": "「才 + thời gian」 (người nói thấy còn sớm) không dùng 「了」."
+        },
+        {
+          "wrong": "等了三个小时，飞机终于起飞。",
+          "right": "等了三个小时，飞机终于起飞了。",
+          "noteVi": "「终于」 nói việc mong đợi đã xảy ra, cần 「了」."
+        },
+        {
+          "wrong": "我们先去北京，终于去上海。",
+          "right": "我们先去北京，最后去上海。",
+          "noteVi": "Chỉ thứ tự (trước tiên, sau cùng) dùng 「最后」; 「终于」 là 'cuối cùng thì cũng' sau khi chờ đợi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 193,
+      "titleVi": "「从……起」: kể từ … (trở đi)",
+      "summaryVi": "从 + thời điểm + 起: từ lúc đó trở đi, một việc bắt đầu và kéo dài về sau (从下个月起，我每天骑自行车上班).",
+      "explanationVi": [
+        "「从 + thời điểm + 起」 nghĩa là 'kể từ … (trở đi)': một việc, một thói quen, một quy định **bắt đầu** từ thời điểm đó và kéo dài về sau: 从下个月起，我每天骑自行车上班 (Kể từ tháng sau, ngày nào tôi cũng đạp xe đi làm). 「起」 ở đây là 'bắt đầu'.",
+        "Cụm 「从……起」 đứng **đầu câu** hoặc **sau chủ ngữ**, trước động từ: 从明天起，我们放假 / 我从今天起每天锻炼身体. Nghĩa giống 「从……开始」 (从明天开始); 「从……起」 gọn hơn, hơi trang trọng.",
+        "Tiếng Việt chỉ cần nói 'từ ngày mai, …'; tiếng Trung **phải có** 「起」 (hoặc 「开始」) ở sau: không nói 从明天，我们放假. Cũng đừng nhầm 「起」 với 「起来」: không nói 从明天起来. Tiếng Việt còn hay để 'từ hôm nay' ở cuối câu; tiếng Trung đặt cụm này trước động từ.",
+        "So với 「从……到……」 (HSK2): 从……到…… nêu cả điểm đầu và điểm cuối (从八点到十点); 从……起 chỉ nêu điểm bắt đầu, không nói khi nào kết thúc."
+      ],
+      "patterns": [
+        "从 + thời điểm + 起，chủ ngữ + động từ…",
+        "Chủ ngữ + 从 + thời điểm + 起 + động từ…"
+      ],
+      "examples": [
+        {
+          "zh": "从下个月起，我每天骑自行车上班。",
+          "py": "cóng xià gè yuè qǐ wǒ měi tiān qí zì xíng chē shàng bān",
+          "vi": "Kể từ tháng sau, ngày nào tôi cũng đạp xe đi làm."
+        },
+        {
+          "zh": "从明天起，我们放假。",
+          "py": "cóng míng tiān qǐ wǒ men fàng jià",
+          "vi": "Từ ngày mai, chúng tôi được nghỉ."
+        },
+        {
+          "zh": "我从今天起每天锻炼身体。",
+          "py": "wǒ cóng jīn tiān qǐ měi tiān duàn liàn shēn tǐ",
+          "vi": "Kể từ hôm nay, ngày nào tôi cũng tập thể dục."
+        },
+        {
+          "zh": "从这个星期起，高铁票可以在网上买。",
+          "py": "cóng zhè ge xīng qī qǐ gāo tiě piào kě yǐ zài wǎng shang mǎi",
+          "vi": "Kể từ tuần này, vé tàu cao tốc có thể mua trên mạng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "从明天，我每天锻炼身体。",
+          "right": "从明天起，我每天锻炼身体。",
+          "noteVi": "Nói 'từ … trở đi' phải có 「起」 (hoặc 「开始」) sau mốc thời gian."
+        },
+        {
+          "wrong": "从明天起来，我们放假。",
+          "right": "从明天起，我们放假。",
+          "noteVi": "Mẫu câu là 「从……起」, không phải 「起来」."
+        },
+        {
+          "wrong": "我每天锻炼身体从今天起。",
+          "right": "我从今天起每天锻炼身体。",
+          "noteVi": "Cụm 「从……起」 đứng trước động từ, không để ở cuối câu như tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 220,
+      "titleVi": "Câu liên động với 「着」: động từ 1 + 着 + động từ 2",
+      "summaryVi": "Động từ 1 + 着 (+ tân ngữ) + động từ 2: động tác 1 là cách thức, trạng thái đi kèm khi làm việc chính (走着去, 带着行李出发, 骑着自行车去学校).",
+      "explanationVi": [
+        "Trong mẫu **động từ 1 + 着 + động từ 2**, việc chính là động từ 2; 'động từ 1 + 着' cho biết việc chính được làm **trong trạng thái nào, theo cách nào**, hai việc diễn ra cùng lúc: 我们走着去吧 (Chúng ta đi bộ đến đó nhé), 他带着行李出发了 (Anh ấy mang theo hành lý lên đường), 他骑着自行车去学校 (Cậu ấy đạp xe đến trường).",
+        "「着」 đứng **ngay sau động từ 1**; nếu động từ 1 có tân ngữ thì tân ngữ đứng sau 「着」: 带着行李, 拿着地图, 开着车. Không nói 带行李着, 走去着. 「了」 (nếu có) đặt sau động từ 2 hoặc cuối câu: 他带着行李出发了.",
+        "Tiếng Việt chỉ đặt hai động từ cạnh nhau: 'cười nói', 'ngồi xem tivi', 'mang hành lý lên đường'. Tiếng Trung cần 「着」 sau động từ 1: 笑着说, 坐着看电视 (HSK2 đã gặp). Ở HSK3, mẫu này mở rộng sang động từ có tân ngữ và các tình huống đi lại: 拿着护照, 带着孩子, 开着车.",
+        "So sánh: 「一边 A，一边 B」 là hai hành động **ngang nhau** (vừa … vừa …); 「A 着 B」 thì A chỉ là phần **nền, phụ** cho B. 骑自行车去学校 (cụm liên động, nói phương tiện) và 骑着自行车去学校 (nhấn mạnh trạng thái đang đạp xe trên đường đi) đều đúng."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ 1 + 着 + động từ 2",
+        "Chủ ngữ + động từ 1 + 着 + tân ngữ + động từ 2 (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "他带着护照和行李出发了。",
+          "py": "tā dài zhe hù zhào hé xíng li chū fā le",
+          "vi": "Anh ấy mang theo hộ chiếu và hành lý lên đường."
+        },
+        {
+          "zh": "我们走着去吧，不远。",
+          "py": "wǒ men zǒu zhe qù ba bù yuǎn",
+          "vi": "Chúng ta đi bộ đến đó nhé, không xa đâu."
+        },
+        {
+          "zh": "他骑着自行车去学校。",
+          "py": "tā qí zhe zì xíng chē qù xué xiào",
+          "vi": "Cậu ấy đạp xe đến trường."
+        },
+        {
+          "zh": "司机开着车听音乐。",
+          "py": "sī jī kāi zhe chē tīng yīn yuè",
+          "vi": "Tài xế vừa lái xe vừa nghe nhạc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们走去着吧。",
+          "right": "我们走着去吧。",
+          "noteVi": "「着」 đứng ngay sau động từ 1 (走), trước động từ chính (去)."
+        },
+        {
+          "wrong": "他带行李着出发了。",
+          "right": "他带着行李出发了。",
+          "noteVi": "「着」 bám ngay sau động từ 1, tân ngữ (行李) đứng sau 「着」."
+        },
+        {
+          "wrong": "妈妈坐看电视。",
+          "right": "妈妈坐着看电视。",
+          "noteVi": "Tiếng Việt nói 'ngồi xem tivi', nhưng tiếng Trung cần 「着」 sau động từ chỉ tư thế."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 231,
+      "titleVi": "Câu ghép lựa chọn 「或者……，或者……」: hoặc … hoặc …",
+      "summaryVi": "或者 A，或者 B: nêu các khả năng trong câu kể, chọn cái nào cũng được (我们或者坐高铁，或者坐飞机，都可以). Câu hỏi lựa chọn dùng 「还是」.",
+      "explanationVi": [
+        "Bài 4 đã học 「或者」 nối hai từ, hai cụm từ. Mẫu 「或者 A，或者 B」 đặt 「或者」 ở **đầu mỗi vế** để liệt kê các khả năng: 假期里，我们或者去北京，或者去上海 (Kỳ nghỉ chúng tôi hoặc đi Bắc Kinh, hoặc đi Thượng Hải). Sau cùng hay thêm một vế kết luận: 都可以, 都行, 都很方便.",
+        "Hai vế cùng chủ ngữ thì chủ ngữ đứng đầu câu, 「或者」 đứng trước động từ: 我们或者坐高铁，或者坐飞机. Hai vế khác chủ ngữ thì 「或者」 đứng trước chủ ngữ: 或者你来我家，或者我去你家.",
+        "**Câu kể dùng 或者, câu hỏi dùng 还是.** Tiếng Việt dùng 'hay' cho cả hai, nhưng khi **hỏi** người nghe chọn gì thì tiếng Trung phải dùng 「还是」: 你坐高铁还是坐飞机？ Không nói 你或者坐高铁，或者坐飞机？ Mẫu 「或者……，或者……」 dùng khi **nói** các khả năng, lúc chưa quyết định hoặc khi cái nào cũng được. Không trộn hai từ trong một câu (或者……，还是……)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 或者 + A，或者 + B(，都可以/都行)",
+        "或者 + chủ ngữ 1 + A，或者 + chủ ngữ 2 + B"
+      ],
+      "examples": [
+        {
+          "zh": "假期里，我们或者去北京，或者去上海。",
+          "py": "jià qī lǐ wǒ men huò zhě qù běi jīng huò zhě qù shàng hǎi",
+          "vi": "Kỳ nghỉ chúng tôi hoặc đi Bắc Kinh, hoặc đi Thượng Hải."
+        },
+        {
+          "zh": "或者你来我家，或者我去你家，都可以。",
+          "py": "huò zhě nǐ lái wǒ jiā huò zhě wǒ qù nǐ jiā dōu kě yǐ",
+          "vi": "Hoặc bạn đến nhà tôi, hoặc tôi đến nhà bạn, đều được."
+        },
+        {
+          "zh": "去机场，或者坐地铁，或者打车，都很方便。",
+          "py": "qù jī chǎng huò zhě zuò dì tiě huò zhě dǎ chē dōu hěn fāng biàn",
+          "vi": "Ra sân bay thì đi tàu điện ngầm hay đi taxi đều rất tiện."
+        },
+        {
+          "zh": "周末我或者在家看书，或者骑自行车出去玩。",
+          "py": "zhōu mò wǒ huò zhě zài jiā kàn shū huò zhě qí zì xíng chē chū qù wán",
+          "vi": "Cuối tuần tôi hoặc ở nhà đọc sách, hoặc đạp xe ra ngoài chơi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你或者坐高铁，或者坐飞机？",
+          "right": "你坐高铁还是坐飞机？",
+          "noteVi": "Hỏi người nghe chọn một trong hai thì dùng 「还是」, không dùng 「或者」."
+        },
+        {
+          "wrong": "我们或者坐高铁，还是坐飞机，都可以。",
+          "right": "我们或者坐高铁，或者坐飞机，都可以。",
+          "noteVi": "Không trộn 「或者」 với 「还是」 trong câu kể: dùng 或者……，或者…… cho cả hai vế."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-16-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "护照",
+          "hộ chiếu"
+        ],
+        [
+          "行李",
+          "hành lý"
+        ],
+        [
+          "宾馆",
+          "khách sạn"
+        ],
+        [
+          "游客",
+          "du khách"
+        ],
+        [
+          "司机",
+          "tài xế"
+        ],
+        [
+          "高铁",
+          "tàu cao tốc"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-16-e02",
+      "type": "match",
+      "promptVi": "Nối động từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "出发",
+          "xuất phát"
+        ],
+        [
+          "起飞",
+          "cất cánh"
+        ],
+        [
+          "晚点",
+          "trễ giờ (tàu, xe)"
+        ],
+        [
+          "检票",
+          "soát vé"
+        ],
+        [
+          "放假",
+          "được nghỉ (lễ, học)"
+        ],
+        [
+          "休假",
+          "nghỉ phép"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-16-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我每天",
+      "after": "自行车上班。",
+      "answers": [
+        "骑"
+      ],
+      "options": [
+        "骑",
+        "坐",
+        "开"
+      ],
+      "vi": "Hằng ngày tôi đạp xe đi làm.",
+      "explainVi": "Xe đạp, xe máy dùng 「骑」; ô tô, tàu dùng 「坐」 hoặc 「开」."
+    },
+    {
+      "id": "hsk3-16-e04",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "这",
+      "after": "路不太安全，开车要小心。",
+      "answers": [
+        "段"
+      ],
+      "options": [
+        "段",
+        "辆",
+        "本"
+      ],
+      "vi": "Đoạn đường này không an toàn lắm, lái xe phải cẩn thận.",
+      "explainVi": "「段」 dùng cho một đoạn đường, một khoảng thời gian; 「辆」 dùng cho xe."
+    },
+    {
+      "id": "hsk3-16-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "因为下雨，飞机",
+      "after": "了两个小时。",
+      "answers": [
+        "晚点"
+      ],
+      "options": [
+        "晚点",
+        "检票",
+        "休假"
+      ],
+      "vi": "Vì trời mưa nên máy bay trễ hai tiếng.",
+      "explainVi": "Phương tiện chạy trễ giờ dùng 「晚点」; người đến muộn dùng 「迟到」."
+    },
+    {
+      "id": "hsk3-16-e06",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng. (Trường chúng tôi tuần sau được nghỉ.)",
+      "zh": "我们学校下星期＿。",
+      "options": [
+        "放假",
+        "请假",
+        "出发"
+      ],
+      "answer": 0,
+      "explainVi": "Cả trường nghỉ theo lịch: 「放假」. 「请假」 là một người xin nghỉ riêng."
+    },
+    {
+      "id": "hsk3-16-e07",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "门口有几辆自行车？",
+        "promptVi": "Trước cửa có mấy chiếc xe đạp?",
+        "picture": "🚲🚲🚲🚲",
+        "expected": {
+          "number": 4,
+          "noun": "自行车",
+          "sentence": "门口有四辆自行车。"
+        },
+        "examples": [
+          {
+            "answer": "门口有四辆自行车。",
+            "score": 100
+          },
+          {
+            "answer": "有四辆。",
+            "score": 100
+          },
+          {
+            "answer": "门口有四个自行车。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "门口有四自行车。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "门口有三辆自行车。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-16-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Đợi ba tiếng, cuối cùng máy bay cũng cất cánh.)",
+      "options": [
+        "等了三个小时，飞机终于起飞了。",
+        "等了三个小时，飞机终于起飞。",
+        "等了三个小时，飞机才起飞了。"
+      ],
+      "answer": 0,
+      "explainVi": "「终于」 + việc đã xảy ra + 了. Câu có 「才」 chỉ thời gian muộn thì không dùng 了.",
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e09",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "大家都以为他是中国人，",
+      "after": "他是越南人。",
+      "answers": [
+        "其实"
+      ],
+      "options": [
+        "其实",
+        "当然",
+        "终于"
+      ],
+      "vi": "Mọi người đều tưởng anh ấy là người Trung Quốc, thật ra anh ấy là người Việt Nam.",
+      "explainVi": "Sự thật trái với điều mọi người nghĩ: 「其实」.",
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e10",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你想跟我们一起去吗？——",
+      "after": "想！",
+      "answers": [
+        "当然"
+      ],
+      "options": [
+        "当然",
+        "其实",
+        "终于"
+      ],
+      "vi": "Bạn có muốn đi cùng chúng tôi không? — Tất nhiên là muốn!",
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Mới tám giờ, còn sớm mà.)",
+      "options": [
+        "才八点，还早呢。",
+        "才八点了，还早呢。",
+        "八点才，还早呢。"
+      ],
+      "answer": 0,
+      "explainVi": "「才」 đứng trước mốc thời gian, câu không có 「了」.",
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e12",
+      "type": "choice",
+      "promptVi": "「我才不坐船呢！」 nghĩa là gì?",
+      "options": [
+        "Tôi chẳng thèm đi thuyền đâu!",
+        "Tôi vừa mới đi thuyền xong.",
+        "Tôi chỉ đi thuyền thôi."
+      ],
+      "answer": 0,
+      "explainVi": "「才不……呢」: phản bác mạnh, 'chẳng thèm … đâu'.",
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e13",
+      "type": "choice",
+      "promptVi": "「你别说了，我就要坐高铁去！」 Người nói có thái độ thế nào?",
+      "options": [
+        "Kiên quyết: nhất định đi tàu cao tốc",
+        "Còn đang phân vân",
+        "Sắp lên tàu cao tốc ngay bây giờ"
+      ],
+      "answer": 0,
+      "explainVi": "「就」 ngữ khí thể hiện ý muốn kiên quyết: 'cứ, nhất định'. (「就要……了」 mới là 'sắp'.)",
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e14",
+      "type": "translate",
+      "vi": "Cuối cùng chúng tôi cũng đến Bắc Kinh rồi.",
+      "answers": [
+        "我们终于[到北京了|到了北京]。"
+      ],
+      "examples": [
+        {
+          "answer": "我们终于到北京了。",
+          "score": 100
+        },
+        {
+          "answer": "我们终于到了北京。",
+          "score": 100
+        },
+        {
+          "answer": "我们终于到北京。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 了"
+        },
+        {
+          "answer": "我们终于到上海了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e15",
+      "type": "translate",
+      "vi": "Mọi người đều tưởng anh ấy là người Trung Quốc, thật ra anh ấy là người Việt Nam.",
+      "answers": [
+        "[大家|别人]都以为他是中国人，其实他是越南人。"
+      ],
+      "examples": [
+        {
+          "answer": "大家都以为他是中国人，其实他是越南人。",
+          "score": 100
+        },
+        {
+          "answer": "别人都以为他是中国人，其实他是越南人。",
+          "score": 100
+        },
+        {
+          "answer": "大家都以为他是越南人，其实他是中国人。",
+          "score": 0,
+          "note": "Đảo ngược hai quốc tịch"
+        }
+      ],
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e16",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "周末你想跟我们一起骑自行车吗？",
+        "promptVi": "Cuối tuần bạn có muốn đạp xe cùng chúng tôi không? (Trả lời: tất nhiên là muốn! — dùng 当然.)",
+        "answers": [
+          "当然(想)(了)！",
+          "当然想跟你们一起骑(自行车)！"
+        ],
+        "examples": [
+          {
+            "answer": "当然想！",
+            "score": 100
+          },
+          {
+            "answer": "当然！",
+            "score": 100
+          },
+          {
+            "answer": "当然想跟你们一起骑！",
+            "score": 100
+          },
+          {
+            "answer": "当然不想。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        170
+      ]
+    },
+    {
+      "id": "hsk3-16-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "明天起，我每天骑自行车上班。",
+      "answers": [
+        "从"
+      ],
+      "options": [
+        "从",
+        "离",
+        "在"
+      ],
+      "vi": "Kể từ ngày mai, ngày nào tôi cũng đạp xe đi làm.",
+      "grammar": [
+        193
+      ]
+    },
+    {
+      "id": "hsk3-16-e18",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Kể từ tháng sau, chúng tôi được nghỉ.)",
+      "options": [
+        "从下个月起，我们放假。",
+        "从下个月起来，我们放假。",
+        "从下个月，我们放假。"
+      ],
+      "answer": 0,
+      "explainVi": "Mẫu câu là 「从……起」: phải có 「起」, và không phải 「起来」.",
+      "grammar": [
+        193
+      ]
+    },
+    {
+      "id": "hsk3-16-e19",
+      "type": "order",
+      "vi": "Kể từ hôm nay, ngày nào tôi cũng tập thể dục.",
+      "tiles": [
+        "起",
+        "我",
+        "锻炼身体",
+        "从",
+        "每天",
+        "今天"
+      ],
+      "answers": [
+        "从今天起我每天锻炼身体",
+        "我从今天起每天锻炼身体"
+      ],
+      "explainVi": "「从今天起」 đứng đầu câu hoặc sau chủ ngữ, trước động từ.",
+      "grammar": [
+        193
+      ]
+    },
+    {
+      "id": "hsk3-16-e20",
+      "type": "translate",
+      "vi": "Kể từ tuần sau, tôi sẽ đạp xe đi làm.",
+      "answers": [
+        "从下[个星期|周]起，我(要)骑自行车(去)上班。",
+        "我从下[个星期|周]起(要)骑自行车(去)上班。",
+        "从下[个星期|周]开始，我(要)骑自行车(去)上班。"
+      ],
+      "examples": [
+        {
+          "answer": "从下个星期起，我骑自行车上班。",
+          "score": 100
+        },
+        {
+          "answer": "我从下周起要骑自行车去上班。",
+          "score": 100
+        },
+        {
+          "answer": "从下周开始，我要骑自行车上班。",
+          "score": 100
+        },
+        {
+          "answer": "从下个星期起，我坐公交车上班。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        193
+      ]
+    },
+    {
+      "id": "hsk3-16-e21",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng ta đi bộ đến đó nhé.)",
+      "options": [
+        "我们走着去吧。",
+        "我们走去着吧。",
+        "我们着走去吧。"
+      ],
+      "answer": 0,
+      "explainVi": "「着」 đứng ngay sau động từ 1 (走), trước động từ chính (去).",
+      "grammar": [
+        220
+      ]
+    },
+    {
+      "id": "hsk3-16-e22",
+      "type": "order",
+      "vi": "Anh ấy mang theo hành lý lên đường rồi.",
+      "tiles": [
+        "出发",
+        "行李",
+        "他",
+        "了",
+        "带着"
+      ],
+      "answers": [
+        "他带着行李出发了"
+      ],
+      "explainVi": "Động từ 1 + 着 + tân ngữ (带着行李) đứng trước việc chính (出发).",
+      "grammar": [
+        220
+      ]
+    },
+    {
+      "id": "hsk3-16-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他骑",
+      "after": "自行车去学校。",
+      "answers": [
+        "着"
+      ],
+      "options": [
+        "着",
+        "得",
+        "地"
+      ],
+      "vi": "Cậu ấy đạp xe đến trường.",
+      "grammar": [
+        220
+      ]
+    },
+    {
+      "id": "hsk3-16-e24",
+      "type": "translate",
+      "vi": "Mẹ dẫn con đi du lịch.",
+      "answers": [
+        "妈妈带(着)孩子去旅游(了)。"
+      ],
+      "examples": [
+        {
+          "answer": "妈妈带着孩子去旅游。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈带孩子去旅游了。",
+          "score": 100
+        },
+        {
+          "answer": "孩子带着妈妈去旅游。",
+          "score": 0,
+          "note": "Đảo vai: thành 'con dẫn mẹ đi du lịch'"
+        }
+      ],
+      "grammar": [
+        220
+      ]
+    },
+    {
+      "id": "hsk3-16-e25",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng ta hoặc đi tàu cao tốc, hoặc đi máy bay, đều được.)",
+      "options": [
+        "我们或者坐高铁，或者坐飞机，都可以。",
+        "我们或者坐高铁，还是坐飞机，都可以。",
+        "我们坐高铁或者，坐飞机或者，都可以。"
+      ],
+      "answer": 0,
+      "explainVi": "Câu kể nêu các khả năng: 「或者」 đứng đầu mỗi vế; không trộn với 「还是」.",
+      "grammar": [
+        231
+      ]
+    },
+    {
+      "id": "hsk3-16-e26",
+      "type": "choice",
+      "promptVi": "Bạn muốn hỏi: 'Bạn đi tàu cao tốc hay đi máy bay?' Câu nào đúng?",
+      "options": [
+        "你坐高铁还是坐飞机？",
+        "你或者坐高铁，或者坐飞机？",
+        "你或者坐高铁还是坐飞机？"
+      ],
+      "answer": 0,
+      "explainVi": "Câu hỏi lựa chọn dùng 「还是」; 「或者」 chỉ dùng trong câu kể.",
+      "grammar": [
+        231
+      ]
+    },
+    {
+      "id": "hsk3-16-e27",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "假期里，我们",
+      "after": "去北京，或者去上海。",
+      "answers": [
+        "或者"
+      ],
+      "options": [
+        "或者",
+        "还是",
+        "然后"
+      ],
+      "vi": "Kỳ nghỉ chúng tôi hoặc đi Bắc Kinh, hoặc đi Thượng Hải.",
+      "grammar": [
+        231
+      ]
+    },
+    {
+      "id": "hsk3-16-e28",
+      "type": "translate",
+      "vi": "Hoặc bạn đến nhà tôi, hoặc tôi đến nhà bạn, đều được.",
+      "answers": [
+        "或者你来我家，或者我去你家，都[可以|行]。"
+      ],
+      "examples": [
+        {
+          "answer": "或者你来我家，或者我去你家，都可以。",
+          "score": 100
+        },
+        {
+          "answer": "或者你来我家，或者我去你家，都行。",
+          "score": 100
+        },
+        {
+          "answer": "或者你来我家，或者我去你家，都不行。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        231
+      ]
+    },
+    {
+      "id": "hsk3-16-e29",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你的护照在哪儿？",
+        "promptVi": "Hộ chiếu của bạn ở đâu? (Trong hình: hộ chiếu ở trong cái hòm.)",
+        "expected": {
+          "places": [
+            "箱子"
+          ],
+          "localizer": "里",
+          "sentence": "我的护照在箱子里。"
+        },
+        "examples": [
+          {
+            "answer": "我的护照在箱子里。",
+            "score": 100
+          },
+          {
+            "answer": "在箱子里。",
+            "score": 100
+          },
+          {
+            "answer": "我把护照放在箱子里了。",
+            "score": 100
+          },
+          {
+            "answer": "我的护照在箱子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "在箱子上。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-16-e30",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "放假的时候你打算做什么？",
+        "promptVi": "Khi được nghỉ bạn định làm gì? (Giả sử bạn định đi Thượng Hải du lịch.)",
+        "answers": [
+          "(我)[打算|想]去上海旅游。",
+          "去上海(旅游)。"
+        ],
+        "examples": [
+          {
+            "answer": "我打算去上海旅游。",
+            "score": 100
+          },
+          {
+            "answer": "去上海旅游。",
+            "score": 100
+          },
+          {
+            "answer": "我想去上海旅游。",
+            "score": 100
+          },
+          {
+            "answer": "我打算去北京旅游。",
+            "score": 0
+          }
+        ]
+      }
+    }
+  ]
+}

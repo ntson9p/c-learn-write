@@ -1,0 +1,1358 @@
+{
+  "id": "hsk3-15",
+  "goalsVi": [
+    "Nói về bốn mùa và thời tiết: 春天, 夏天, 秋天, 冬天, 刮风, 太阳很大, 凉快, 带伞, 穿雨衣…",
+    "Tả sự thay đổi: 变冷了, 雨变成了雪, 变化很大, 突然下雨了, và 「越来越」 (ngày càng)",
+    "Nêu nhận xét chung với 「一般来说」 và nói thói quen với 「一般」",
+    "Nói một việc bắt đầu bằng 「起来」, 「上」: 下起雨来了, 笑起来, 冷起来了, 喜欢上了",
+    "Nói mức độ cao với 「得很」 (冷得很) và tả sự thay đổi thất thường với 「一会儿……，一会儿……」"
+  ],
+  "words": [
+    {
+      "no": 568,
+      "word": "春天",
+      "meaningsVi": [
+        "mùa xuân"
+      ],
+      "noteVi": "「春」 là xuân. Nói 'vào mùa xuân' chỉ cần đặt 春天 ở đầu câu, không cần 在: 春天，这里很漂亮. Văn viết, trang trọng nói 春季.",
+      "examples": [
+        {
+          "zh": "春天来了，花都开了。",
+          "py": "chūn tiān lái le huā dōu kāi le",
+          "vi": "Mùa xuân đến rồi, hoa nở hết rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 889,
+      "word": "夏天",
+      "meaningsVi": [
+        "mùa hè, mùa hạ"
+      ],
+      "noteVi": "「夏」 là hạ. Văn viết: 夏季.",
+      "examples": [
+        {
+          "zh": "河内的夏天非常热。",
+          "py": "hé nèi de xià tiān fēi cháng rè",
+          "vi": "Mùa hè ở Hà Nội rất nóng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 810,
+      "word": "秋天",
+      "meaningsVi": [
+        "mùa thu"
+      ],
+      "noteVi": "「秋」 là thu. Văn viết: 秋季.",
+      "examples": [
+        {
+          "zh": "秋天是北京最好的季节。",
+          "py": "qiū tiān shì běi jīng zuì hǎo de jì jié",
+          "vi": "Mùa thu là mùa đẹp nhất ở Bắc Kinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 601,
+      "word": "冬天",
+      "meaningsVi": [
+        "mùa đông"
+      ],
+      "noteVi": "「冬」 là đông (mùa đông), khác chữ 「东」 (phía đông), dù cùng đọc dōng.",
+      "examples": [
+        {
+          "zh": "冬天这里常常下雪。",
+          "py": "dōng tiān zhè lǐ cháng cháng xià xuě",
+          "vi": "Mùa đông ở đây thường có tuyết rơi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 693,
+      "word": "季",
+      "meaningsVi": [
+        "mùa (trong từ ghép)",
+        "quý (ba tháng)"
+      ],
+      "noteVi": "「季」 ít đứng một mình; hay gặp trong từ ghép: 四季 (bốn mùa), 季节 (mùa), 雨季 (mùa mưa), 春季 (mùa xuân, trang trọng). Âm Hán Việt 'quý' như trong 'quý một, quý hai'.",
+      "examples": [
+        {
+          "zh": "胡志明市的雨季从五月开始。",
+          "py": "hú zhì míng shì de yǔ jì cóng wǔ yuè kāi shǐ",
+          "vi": "Mùa mưa ở Thành phố Hồ Chí Minh bắt đầu từ tháng năm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 694,
+      "word": "季节",
+      "meaningsVi": [
+        "mùa (trong năm)"
+      ],
+      "noteVi": "Hỏi: 你最喜欢哪个季节？ (Bạn thích mùa nào nhất?). 「节」 ở đây không phải là 'lễ tết' như trong 节日.",
+      "examples": [
+        {
+          "zh": "你最喜欢哪个季节？",
+          "py": "nǐ zuì xǐ huan nǎ ge jì jié",
+          "vi": "Bạn thích mùa nào nhất?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 848,
+      "word": "四季",
+      "meaningsVi": [
+        "bốn mùa"
+      ],
+      "noteVi": "「一年四季」 là 'quanh năm, cả bốn mùa', hay đi với 都: 一年四季都很热.",
+      "examples": [
+        {
+          "zh": "这个城市一年四季都有花。",
+          "py": "zhè ge chéng shì yì nián sì jì dōu yǒu huā",
+          "vi": "Thành phố này quanh năm đều có hoa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 629,
+      "word": "风",
+      "meaningsVi": [
+        "gió"
+      ],
+      "noteVi": "'Có gió, gió thổi' nói 「刮风」; 'gió to' nói 风很大 hoặc 大风. Âm Hán Việt 'phong' (như 'phong cảnh').",
+      "examples": [
+        {
+          "zh": "今天风很大，你多穿一点儿衣服吧。",
+          "py": "jīn tiān fēng hěn dà nǐ duō chuān yì diǎn r yī fu ba",
+          "vi": "Hôm nay gió to, bạn mặc thêm chút áo vào nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 651,
+      "word": "刮",
+      "meaningsVi": [
+        "(gió) thổi, nổi (gió)",
+        "cạo, gọt"
+      ],
+      "noteVi": "Với gió, tiếng Trung dùng động từ 「刮」: 刮风了 (nổi gió rồi), 刮大风. Đừng dịch 'gió thổi' từng chữ.",
+      "examples": [
+        {
+          "zh": "外面刮风了。",
+          "py": "wài miàn guā fēng le",
+          "vi": "Bên ngoài nổi gió rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 849,
+      "word": "太阳",
+      "meaningsVi": [
+        "mặt trời",
+        "nắng, ánh nắng"
+      ],
+      "noteVi": "「太阳很大」 là 'nắng to'; 「太阳出来了」 là 'mặt trời lên, nắng lên rồi'. Âm Hán Việt 'thái dương'.",
+      "examples": [
+        {
+          "zh": "今天太阳很大，别忘了带伞。",
+          "py": "jīn tiān tài yáng hěn dà bié wàng le dài sǎn",
+          "vi": "Hôm nay nắng to, đừng quên mang ô."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 958,
+      "word": "月亮",
+      "meaningsVi": [
+        "mặt trăng"
+      ],
+      "noteVi": "「亮」 đọc nhẹ: yuèliang. 「月」 là trăng, cũng là tháng.",
+      "examples": [
+        {
+          "zh": "今天晚上的月亮真漂亮。",
+          "py": "jīn tiān wǎn shang de yuè liang zhēn piào liang",
+          "vi": "Trăng tối nay đẹp thật."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 753,
+      "word": "凉快",
+      "meaningsVi": [
+        "mát, mát mẻ (dễ chịu)"
+      ],
+      "noteVi": "「快」 đọc nhẹ: liángkuai. 「凉快」 là mát dễ chịu (lời khen); 「冷」 là lạnh.",
+      "examples": [
+        {
+          "zh": "秋天的北京很凉快。",
+          "py": "qiū tiān de běi jīng hěn liáng kuai",
+          "vi": "Bắc Kinh mùa thu rất mát mẻ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 820,
+      "word": "伞",
+      "meaningsVi": [
+        "ô, dù"
+      ],
+      "noteVi": "Lượng từ: 把 (一把伞). Che ô: 打伞. Mang ô: 带伞.",
+      "examples": [
+        {
+          "zh": "下雨了，你带伞了吗？",
+          "py": "xià yǔ le nǐ dài sǎn le ma",
+          "vi": "Trời mưa rồi, bạn có mang ô không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 951,
+      "word": "雨衣",
+      "meaningsVi": [
+        "áo mưa"
+      ],
+      "noteVi": "Mặc áo mưa: 穿雨衣.",
+      "examples": [
+        {
+          "zh": "下雨了，穿上雨衣再出门吧。",
+          "py": "xià yǔ le chuān shàng yǔ yī zài chū mén ba",
+          "vi": "Trời mưa rồi, mặc áo mưa vào rồi hãy ra ngoài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 842,
+      "word": "树",
+      "meaningsVi": [
+        "cây"
+      ],
+      "noteVi": "Lượng từ của 「树」 là 棵 (kē): 一棵树 (sẽ gặp ở cấp sau). Trên cây: 树上; dưới gốc cây: 树下.",
+      "examples": [
+        {
+          "zh": "树上有一只鸟。",
+          "py": "shù shàng yǒu yì zhī niǎo",
+          "vi": "Trên cây có một con chim."
+        },
+        {
+          "zh": "路边有很多树。",
+          "py": "lù biān yǒu hěn duō shù",
+          "vi": "Bên đường có rất nhiều cây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 547,
+      "word": "草",
+      "meaningsVi": [
+        "cỏ"
+      ],
+      "noteVi": "Bãi cỏ là 「草地」 (bài sau). Âm Hán Việt 'thảo' (như 'thảo nguyên').",
+      "examples": [
+        {
+          "zh": "春天来了，草和树都变成了绿色。",
+          "py": "chūn tiān lái le cǎo hé shù dōu biàn chéng le lǜ sè",
+          "vi": "Mùa xuân đến, cỏ cây đều xanh lại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 726,
+      "word": "开花",
+      "meaningsVi": [
+        "nở hoa, ra hoa"
+      ],
+      "noteVi": "「开花」 là động từ + tân ngữ (开 nở + 花 hoa), nên nói 树开花了 (cây ra hoa rồi). Lấy hoa làm chủ ngữ thì nói 花开了 (hoa nở rồi).",
+      "examples": [
+        {
+          "zh": "春天，很多树都开花了。",
+          "py": "chūn tiān hěn duō shù dōu kāi huā le",
+          "vi": "Mùa xuân, nhiều cây đều ra hoa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 526,
+      "word": "变",
+      "meaningsVi": [
+        "thay đổi, biến đổi",
+        "trở nên (+ tính từ)"
+      ],
+      "noteVi": "「变 + tính từ + 了」: trở nên …: 天气变冷了 (trời trở lạnh), 他变高了 (cậu ấy cao lên). Đứng một mình: 他变了 (anh ấy đã thay đổi).",
+      "examples": [
+        {
+          "zh": "天气变冷了，多穿一点儿衣服吧。",
+          "py": "tiān qì biàn lěng le duō chuān yì diǎn r yī fu ba",
+          "vi": "Trời trở lạnh rồi, mặc thêm chút áo đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 527,
+      "word": "变成",
+      "meaningsVi": [
+        "biến thành, trở thành"
+      ],
+      "noteVi": "「变成 + danh từ」: 雨变成了雪 (mưa biến thành tuyết). So sánh: 变 + tính từ (变冷了), 变成 + danh từ (变成雪). Không nói 变成冷了.",
+      "examples": [
+        {
+          "zh": "天冷了，雨变成了雪。",
+          "py": "tiān lěng le yǔ biàn chéng le xuě",
+          "vi": "Trời lạnh, mưa đã chuyển thành tuyết."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 528,
+      "word": "变化",
+      "meaningsVi": [
+        "sự thay đổi, biến đổi (danh từ)",
+        "thay đổi, biến đổi (động từ)"
+      ],
+      "noteVi": "Hay dùng như danh từ: 变化很大 (thay đổi rất nhiều), 有变化 (có thay đổi). Muốn nói 'trở nên thế nào' thì dùng 变 + tính từ, không dùng 变化: 天气变冷了.",
+      "examples": [
+        {
+          "zh": "这几年，我们城市的变化很大。",
+          "py": "zhè jǐ nián wǒ men chéng shì de biàn huà hěn dà",
+          "vi": "Mấy năm nay, thành phố chúng tôi thay đổi rất nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 862,
+      "word": "突然",
+      "meaningsVi": [
+        "đột nhiên, bỗng nhiên",
+        "đột ngột, bất ngờ (tính từ)"
+      ],
+      "noteVi": "Đứng trước động từ: 突然下雨了 (bỗng nhiên mưa). Cũng là tính từ, làm vị ngữ được: 这件事太突然了 (Chuyện này đột ngột quá). Âm Hán Việt 'đột nhiên' trùng nghĩa.",
+      "examples": [
+        {
+          "zh": "下午突然刮起了大风。",
+          "py": "xià wǔ tū rán guā qǐ le dà fēng",
+          "vi": "Buổi chiều bỗng nhiên nổi gió to."
+        },
+        {
+          "zh": "这件事太突然了。",
+          "py": "zhè jiàn shì tài tū rán le",
+          "vi": "Chuyện này đột ngột quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 922,
+      "word": "一般",
+      "meaningsVi": [
+        "thường, thông thường (trước động từ)",
+        "bình thường, tàm tạm (làm vị ngữ)"
+      ],
+      "noteVi": "Trước động từ: 我一般七点起床 (tôi thường dậy lúc bảy giờ). Làm vị ngữ, 「很一般」 là 'bình thường, không có gì đặc biệt' (lời chê nhẹ): 这家饭馆的菜很一般. 「一」 đọc yì.",
+      "examples": [
+        {
+          "zh": "周末我一般在家休息。",
+          "py": "zhōu mò wǒ yì bān zài jiā xiū xi",
+          "vi": "Cuối tuần tôi thường ở nhà nghỉ ngơi."
+        },
+        {
+          "zh": "这家饭馆的菜很一般。",
+          "py": "zhè jiā fàn guǎn de cài hěn yì bān",
+          "vi": "Món ăn ở quán này cũng bình thường thôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 187,
+      "titleVi": "「越来越」: ngày càng, càng ngày càng",
+      "summaryVi": "越来越 + tính từ/động từ tâm lý: mức độ tăng dần theo thời gian (天气越来越冷了).",
+      "explanationVi": [
+        "「越来越 + tính từ」 nói một trạng thái **thay đổi dần theo thời gian**, mức độ ngày càng cao: 天气越来越冷了 (Trời ngày càng lạnh), 来河内旅游的外国人越来越多 (Người nước ngoài đến Hà Nội du lịch ngày càng nhiều). Giống 'ngày càng', 'càng ngày càng' của tiếng Việt. Cuối câu hay có 「了」 vì đây là một sự thay đổi.",
+        "Sau 「越来越」 là tính từ hoặc động từ tâm lý (喜欢, 想, 担心…): 我越来越喜欢这里了. **Không** thêm 很, 非常, 太 sau 「越来越」: không nói 越来越很冷. Phủ định: 越来越不 + tính từ/động từ: 他越来越不想去了.",
+        "Với bổ ngữ trạng thái, 「越来越」 đứng **sau 「得」**: 他的汉语说得越来越好 (Tiếng Hán của anh ấy nói ngày càng giỏi). Không nói 他的汉语说越来越好.",
+        "So với 「越 A 越 B」 (bài 4): 「越 A 越 B」 cho biết B thay đổi **theo** A (汉语越学越有意思 — càng học càng thấy hay); 「越来越」 chỉ nói thay đổi **theo thời gian**, không cần A. Đừng dịch từng chữ 'càng ngày càng' thành 越天越…."
+      ],
+      "patterns": [
+        "Chủ ngữ + 越来越 + tính từ/động từ tâm lý (+ 了)",
+        "Chủ ngữ + động từ + 得 + 越来越 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "天气越来越冷了。",
+          "py": "tiān qì yuè lái yuè lěng le",
+          "vi": "Trời ngày càng lạnh."
+        },
+        {
+          "zh": "他的汉语说得越来越好。",
+          "py": "tā de hàn yǔ shuō de yuè lái yuè hǎo",
+          "vi": "Tiếng Hán của anh ấy nói ngày càng giỏi."
+        },
+        {
+          "zh": "来河内旅游的外国人越来越多。",
+          "py": "lái hé nèi lǚ yóu de wài guó rén yuè lái yuè duō",
+          "vi": "Người nước ngoài đến Hà Nội du lịch ngày càng nhiều."
+        },
+        {
+          "zh": "我越来越喜欢这里的秋天了。",
+          "py": "wǒ yuè lái yuè xǐ huan zhè lǐ de qiū tiān le",
+          "vi": "Tôi ngày càng thích mùa thu ở đây."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "天气越来越很冷了。",
+          "right": "天气越来越冷了。",
+          "noteVi": "Sau 「越来越」 không thêm 很, 非常, 太."
+        },
+        {
+          "wrong": "他的汉语说越来越好。",
+          "right": "他的汉语说得越来越好。",
+          "noteVi": "Nhận xét hành động 'nói' cần 「得」: 说得 + 越来越好."
+        },
+        {
+          "wrong": "天气越天越冷。",
+          "right": "天气越来越冷。",
+          "noteVi": "'Càng ngày càng' là 「越来越」, không dịch từng chữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 190,
+      "titleVi": "「一般来说」: nói chung, thông thường",
+      "summaryVi": "一般来说 đứng đầu câu (thường có dấu phẩy sau nó) để nêu một nhận xét chung, một điều thường đúng: 一般来说，北方的冬天比南方冷.",
+      "explanationVi": [
+        "「一般来说」 nghĩa là 'nói chung, thông thường (mà nói)'. Nó đứng **đầu câu**, sau nó thường có dấu phẩy, rồi đến một nhận xét chung hay một quy luật: 一般来说，北方的冬天比南方冷 (Nói chung, mùa đông miền Bắc lạnh hơn miền Nam).",
+        "Vì là nhận xét chung, vế sau hay có 都, 会, 比较, 常常, 不太…: 一般来说，周末去的人比较多. **Không** dùng 「一般来说」 để kể một sự việc cụ thể đã xảy ra: không nói 一般来说，昨天下雨了.",
+        "So sánh với 「一般」 (từ của bài này): 「一般」 đứng **sau chủ ngữ, trước động từ**, nói thói quen của một người, một nơi: 我一般七点起床. 「一般来说」 đứng đầu câu, mang tính nhận định rộng hơn. Nhiều khi hai cách nói gần nhau: 一般来说，这里夏天很热 ≈ 这里夏天一般很热."
+      ],
+      "patterns": [
+        "一般来说，+ nhận xét chung",
+        "Chủ ngữ + 一般 + động từ/tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "一般来说，北方的冬天比南方冷。",
+          "py": "yì bān lái shuō běi fāng de dōng tiān bǐ nán fāng lěng",
+          "vi": "Nói chung, mùa đông miền Bắc lạnh hơn miền Nam."
+        },
+        {
+          "zh": "一般来说，这里夏天的下午常常下雨。",
+          "py": "yì bān lái shuō zhè lǐ xià tiān de xià wǔ cháng cháng xià yǔ",
+          "vi": "Thông thường, ở đây buổi chiều mùa hè hay mưa."
+        },
+        {
+          "zh": "一般来说，周末去的人比较多。",
+          "py": "yì bān lái shuō zhōu mò qù de rén bǐ jiào duō",
+          "vi": "Nói chung, cuối tuần người đi khá đông."
+        },
+        {
+          "zh": "一般来说，春天这里不太冷。",
+          "py": "yì bān lái shuō chūn tiān zhè lǐ bú tài lěng",
+          "vi": "Thông thường, mùa xuân ở đây không lạnh lắm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "一般来说，昨天的会议九点开始。",
+          "right": "一般来说，会议九点开始。",
+          "noteVi": "「一般来说」 nêu điều thường đúng, không dùng cho một sự việc cụ thể (昨天的会议). Muốn kể việc hôm qua thì nói: 昨天的会议九点开始."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 207,
+      "titleVi": "Bổ ngữ xu hướng mở rộng: 「起来」, 「上」 chỉ sự bắt đầu",
+      "summaryVi": "Động từ/tính từ + 起来: bắt đầu và tiếp diễn (下起雨来, 笑起来, 冷起来); động từ + 上: bắt đầu rơi vào một trạng thái (喜欢上, 爱上).",
+      "explanationVi": [
+        "Ở HSK2, 「起来」 chỉ hướng lên (站起来 — đứng dậy). Ở bài này, 「起来」 sau động từ hoặc tính từ còn có nghĩa **bắt đầu và tiếp tục**: 孩子突然哭起来了 (Đứa bé bỗng òa khóc), 大家都笑起来了 (Mọi người đều bật cười), 天气冷起来了 (Trời bắt đầu lạnh). Tiếng Việt hay dịch là 'bắt đầu …', 'òa …', 'bật …', '… lên'.",
+        "**Vị trí tân ngữ.** Nếu động từ có tân ngữ, tân ngữ chen vào **giữa** 「起」 và 「来」: 下起雨来了 (trời đổ mưa), 刮起风来了 (trời nổi gió), 唱起歌来 (cất tiếng hát). Không nói 下起来雨了. 「了」 có thể đứng cuối câu (哭起来了) hoặc ngay sau động từ (哭了起来).",
+        "「上」 sau một số động từ tâm lý (喜欢, 爱…) nghĩa là **bắt đầu rơi vào trạng thái đó** và giữ luôn: 他喜欢上了这里的秋天 (Anh ấy đã bắt đầu thích mùa thu ở đây), 她爱上了这个城市 (Cô ấy đã yêu thành phố này).",
+        "So với 「开始」: 「开始 + động từ」 trung tính, dùng được cho kế hoạch (我们九点开始开会); 「…起来」 thường kể việc bắt đầu **tự nhiên, bất ngờ**, hay đi với 突然: 外面突然下起雨来了. Không dùng 「起来」 cho việc theo kế hoạch."
+      ],
+      "patterns": [
+        "Động từ/tính từ + 起来 (+ 了)",
+        "Động từ + 起 + tân ngữ + 来 (+ 了)",
+        "Động từ tâm lý + 上 + 了 + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "外面突然下起雨来了。",
+          "py": "wài miàn tū rán xià qǐ yǔ lái le",
+          "vi": "Bên ngoài bỗng nhiên đổ mưa."
+        },
+        {
+          "zh": "大家听了都笑起来了。",
+          "py": "dà jiā tīng le dōu xiào qǐ lái le",
+          "vi": "Mọi người nghe xong đều bật cười."
+        },
+        {
+          "zh": "到了十二月，天气冷起来了。",
+          "py": "dào le shí èr yuè tiān qì lěng qǐ lái le",
+          "vi": "Đến tháng mười hai, trời bắt đầu lạnh."
+        },
+        {
+          "zh": "来北京以后，他喜欢上了这里的秋天。",
+          "py": "lái běi jīng yǐ hòu tā xǐ huan shàng le zhè lǐ de qiū tiān",
+          "vi": "Sau khi đến Bắc Kinh, anh ấy đã thích mùa thu ở đây."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "外面下起来雨了。",
+          "right": "外面下起雨来了。",
+          "noteVi": "Tân ngữ (雨) chen vào giữa 「起」 và 「来」."
+        },
+        {
+          "wrong": "我们九点开会起来。",
+          "right": "我们九点开始开会。",
+          "noteVi": "Việc theo kế hoạch dùng 「开始」; 「起来」 kể việc bắt đầu tự nhiên, và tân ngữ 「会」 cũng không thể đứng trước 起来."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 210,
+      "titleVi": "Bổ ngữ mức độ 「得很」: … lắm",
+      "summaryVi": "Tính từ (hoặc động từ tâm lý) + 得很: mức độ rất cao, khẩu ngữ, mạnh hơn 很 + tính từ (冷得很, 凉快得很).",
+      "explanationVi": [
+        "「得很」 đặt **sau** tính từ để nói mức độ rất cao: 今天冷得很 (Hôm nay lạnh lắm), 秋天的北京凉快得很 (Bắc Kinh mùa thu mát lắm). Nghĩa mạnh hơn 「很 + tính từ」 và hay dùng trong khẩu ngữ. Một số động từ tâm lý cũng dùng được: 他心里着急得很.",
+        "Giống 'lạnh **lắm**', 'mát **lắm**' của tiếng Việt, từ chỉ mức độ đứng **sau** tính từ. Đã có 「得很」 thì **không** thêm 很, 非常 ở trước: không nói 很冷得很. Chữ 「得」 viết là 得, không viết 的 hay 地.",
+        "「得很」 không dùng trong câu phủ định (không nói 不冷得很) và không dùng trong câu so sánh với 「比」: hơn nhiều thì nói 「得多」: 今天比昨天冷得多 (không nói 冷得很).",
+        "So với các cách nói đã học: 很冷 (lạnh) → 冷得很 (lạnh lắm) → 冷极了 (lạnh vô cùng, bài 5). 「得很」 là bổ ngữ mức độ, khác bổ ngữ trạng thái 'động từ + 得 + tính từ' (HSK2: 他跑得很快): 跑得很快 nhận xét hành động 'chạy'; 冷得很 chỉ nói mức độ của 'lạnh'."
+      ],
+      "patterns": [
+        "Chủ ngữ + tính từ + 得很",
+        "A 比 B + tính từ + 得多 (không dùng 得很)"
+      ],
+      "examples": [
+        {
+          "zh": "今天冷得很，你多穿一点儿。",
+          "py": "jīn tiān lěng de hěn nǐ duō chuān yì diǎn r",
+          "vi": "Hôm nay lạnh lắm, bạn mặc thêm chút nữa."
+        },
+        {
+          "zh": "秋天的北京凉快得很。",
+          "py": "qiū tiān de běi jīng liáng kuai de hěn",
+          "vi": "Bắc Kinh mùa thu mát lắm."
+        },
+        {
+          "zh": "这个季节水果多得很。",
+          "py": "zhè ge jì jié shuǐ guǒ duō de hěn",
+          "vi": "Mùa này hoa quả nhiều lắm."
+        },
+        {
+          "zh": "他最近忙得很。",
+          "py": "tā zuì jìn máng de hěn",
+          "vi": "Dạo này anh ấy bận lắm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "今天很冷得很。",
+          "right": "今天冷得很。",
+          "noteVi": "Đã có 「得很」 ở sau thì không thêm 很 ở trước."
+        },
+        {
+          "wrong": "今天比昨天冷得很。",
+          "right": "今天比昨天冷得多。",
+          "noteVi": "Câu so sánh với 「比」 dùng 「得多」, không dùng 「得很」."
+        },
+        {
+          "wrong": "今天冷的很。",
+          "right": "今天冷得很。",
+          "noteVi": "Bổ ngữ sau tính từ viết bằng chữ 「得」, không phải 「的」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 232,
+      "titleVi": "Câu ghép 「一会儿……，一会儿……」: lúc thì …, lúc thì …",
+      "summaryVi": "一会儿 A，一会儿 B: hai trạng thái, hành động thay nhau xảy ra trong thời gian ngắn (天气一会儿晴，一会儿阴).",
+      "explanationVi": [
+        "「一会儿 A，一会儿 B」 nghĩa là 'lúc thì A, lúc thì B': hai tình huống **thay phiên nhau** trong một khoảng thời gian ngắn: 今天的天气一会儿晴，一会儿阴 (Thời tiết hôm nay lúc nắng lúc râm). A và B thường trái nghĩa hoặc khác nhau rõ: 一会儿冷，一会儿热; 一会儿哭，一会儿笑.",
+        "Sau 「一会儿」 có thể là tính từ (晴, 阴, 冷, 热), động từ (哭, 笑) hay cụm động từ (刮风, 下雨, 说要去). Chủ ngữ đứng trước 「一会儿」 thứ nhất: 孩子一会儿哭，一会儿笑. Mẫu câu thường mang ý 'thay đổi thất thường', đôi khi hơi phàn nàn: 他一会儿说要去，一会儿说不去.",
+        "Phân biệt: 「一边……，一边……」 (bài 2) là hai hành động **cùng lúc** (vừa … vừa …); 「又……又……」 (bài 5) là hai tính chất **cùng có** (又便宜又好吃). 「一会儿……，一会儿……」 là hai thứ **thay phiên**, không cùng lúc: không nói 天气一边晴，一边阴.",
+        "Đừng nhầm với 「一会儿」 một mình: 等一会儿 (đợi một lát), 我一会儿就来 (lát nữa tôi đến). Trong mẫu câu này phải có **hai** 「一会儿」 đi với nhau."
+      ],
+      "patterns": [
+        "Chủ ngữ + 一会儿 + A，一会儿 + B"
+      ],
+      "examples": [
+        {
+          "zh": "今天的天气一会儿晴，一会儿阴。",
+          "py": "jīn tiān de tiān qì yí huì r qíng yí huì r yīn",
+          "vi": "Thời tiết hôm nay lúc nắng lúc râm."
+        },
+        {
+          "zh": "孩子一会儿哭，一会儿笑。",
+          "py": "hái zi yí huì r kū yí huì r xiào",
+          "vi": "Đứa bé lúc khóc lúc cười."
+        },
+        {
+          "zh": "他一会儿说要去，一会儿说不去。",
+          "py": "tā yí huì r shuō yào qù yí huì r shuō bú qù",
+          "vi": "Anh ấy lúc thì nói sẽ đi, lúc thì nói không đi."
+        },
+        {
+          "zh": "最近天气变化很大，一会儿冷，一会儿热。",
+          "py": "zuì jìn tiān qì biàn huà hěn dà yí huì r lěng yí huì r rè",
+          "vi": "Dạo này thời tiết thay đổi nhiều, lúc lạnh lúc nóng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "天气一边晴，一边阴。",
+          "right": "天气一会儿晴，一会儿阴。",
+          "noteVi": "「一边……一边……」 chỉ dùng cho hai hành động diễn ra cùng lúc; trạng thái thay phiên dùng 「一会儿……，一会儿……」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-15-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ mùa với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "春天",
+          "mùa xuân"
+        ],
+        [
+          "夏天",
+          "mùa hè"
+        ],
+        [
+          "秋天",
+          "mùa thu"
+        ],
+        [
+          "冬天",
+          "mùa đông"
+        ],
+        [
+          "四季",
+          "bốn mùa"
+        ],
+        [
+          "季节",
+          "mùa trong năm"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-15-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "太阳",
+          "mặt trời"
+        ],
+        [
+          "月亮",
+          "mặt trăng"
+        ],
+        [
+          "风",
+          "gió"
+        ],
+        [
+          "伞",
+          "cái ô"
+        ],
+        [
+          "树",
+          "cây"
+        ],
+        [
+          "凉快",
+          "mát mẻ"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-15-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "外面",
+      "after": "风了。",
+      "answers": [
+        "刮"
+      ],
+      "options": [
+        "刮",
+        "下",
+        "开"
+      ],
+      "vi": "Bên ngoài nổi gió rồi.",
+      "explainVi": "Gió dùng động từ 「刮」 (刮风); mưa, tuyết dùng 「下」 (下雨, 下雪)."
+    },
+    {
+      "id": "hsk3-15-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "今天太阳很大，别忘了带",
+      "after": "。",
+      "answers": [
+        "伞"
+      ],
+      "options": [
+        "伞",
+        "风",
+        "草"
+      ],
+      "vi": "Hôm nay nắng to, đừng quên mang ô."
+    },
+    {
+      "id": "hsk3-15-e05",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "天冷了，雨＿了雪。",
+      "options": [
+        "变成",
+        "变化",
+        "突然"
+      ],
+      "answer": 0,
+      "explainVi": "「变成 + danh từ」: biến thành (变成雪). 「变化」 thường là danh từ (变化很大)."
+    },
+    {
+      "id": "hsk3-15-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这几年，我们城市的",
+      "after": "很大。",
+      "answers": [
+        "变化"
+      ],
+      "options": [
+        "变化",
+        "变成",
+        "变"
+      ],
+      "vi": "Mấy năm nay, thành phố chúng tôi thay đổi rất nhiều.",
+      "explainVi": "Sau 「的」 cần một danh từ: 「变化」 (sự thay đổi)."
+    },
+    {
+      "id": "hsk3-15-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Trời ngày càng lạnh.)",
+      "options": [
+        "天气越来越冷了。",
+        "天气越来越很冷了。",
+        "天气越冷越来了。"
+      ],
+      "answer": 0,
+      "explainVi": "越来越 + tính từ, không thêm 很.",
+      "grammar": [
+        187
+      ]
+    },
+    {
+      "id": "hsk3-15-e08",
+      "type": "order",
+      "vi": "Tiếng Hán của anh ấy nói ngày càng giỏi.",
+      "tiles": [
+        "越来越",
+        "好",
+        "他的汉语",
+        "说得"
+      ],
+      "answers": [
+        "他的汉语说得越来越好"
+      ],
+      "explainVi": "「越来越」 đứng sau 「说得」, trước tính từ 「好」.",
+      "grammar": [
+        187
+      ]
+    },
+    {
+      "id": "hsk3-15-e09",
+      "type": "translate",
+      "vi": "Người nước ngoài đến Hà Nội ngày càng nhiều.",
+      "answers": [
+        "来河内的外国人越来越多(了)。"
+      ],
+      "examples": [
+        {
+          "answer": "来河内的外国人越来越多了。",
+          "score": 100
+        },
+        {
+          "answer": "来河内的外国人越来越多。",
+          "score": 100
+        },
+        {
+          "answer": "来河内的外国人越来越很多。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Sau 越来越 không thêm 很"
+        },
+        {
+          "answer": "来河内的外国人越来越少了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        187
+      ]
+    },
+    {
+      "id": "hsk3-15-e10",
+      "type": "choice",
+      "promptVi": "Câu nào có nghĩa 'Tiếng Hán càng học càng thấy thú vị'?",
+      "options": [
+        "汉语越学越有意思。",
+        "汉语越来越学有意思。",
+        "汉语越有意思越学。"
+      ],
+      "answer": 0,
+      "explainVi": "B thay đổi theo A thì dùng 「越 A 越 B」; 「越来越」 chỉ nói thay đổi theo thời gian.",
+      "grammar": [
+        187
+      ]
+    },
+    {
+      "id": "hsk3-15-e11",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "，北方的冬天比南方冷。",
+      "answers": [
+        "一般来说"
+      ],
+      "options": [
+        "一般来说",
+        "越来越",
+        "一会儿"
+      ],
+      "vi": "Nói chung, mùa đông miền Bắc lạnh hơn miền Nam.",
+      "grammar": [
+        190
+      ]
+    },
+    {
+      "id": "hsk3-15-e12",
+      "type": "choice",
+      "promptVi": "Câu nào dùng 「一般来说」 đúng?",
+      "options": [
+        "一般来说，这里夏天的下午常常下雨。",
+        "一般来说，昨天下午突然下雨了。",
+        "昨天一般来说下雨了。"
+      ],
+      "answer": 0,
+      "explainVi": "「一般来说」 nêu điều thường đúng, không dùng để kể một việc cụ thể đã xảy ra (昨天下午…).",
+      "grammar": [
+        190
+      ]
+    },
+    {
+      "id": "hsk3-15-e13",
+      "type": "translate",
+      "vi": "Nói chung, mùa thu ở Bắc Kinh rất mát mẻ.",
+      "answers": [
+        "一般来说，北京的秋天[很|非常|比较]凉快。",
+        "北京的秋天一般[很|都很|比较]凉快。"
+      ],
+      "examples": [
+        {
+          "answer": "一般来说，北京的秋天很凉快。",
+          "score": 100
+        },
+        {
+          "answer": "北京的秋天一般很凉快。",
+          "score": 100
+        },
+        {
+          "answer": "一般来说，北京的秋天很冷。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        190
+      ]
+    },
+    {
+      "id": "hsk3-15-e14",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bên ngoài bỗng nhiên đổ mưa.)",
+      "options": [
+        "外面突然下起雨来了。",
+        "外面突然下起来雨了。",
+        "外面突然下雨起来了。"
+      ],
+      "answer": 0,
+      "explainVi": "Tân ngữ 「雨」 chen vào giữa 「起」 và 「来」: 下起雨来.",
+      "grammar": [
+        207
+      ]
+    },
+    {
+      "id": "hsk3-15-e15",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "大家听了都笑",
+      "after": "了。",
+      "answers": [
+        "起来"
+      ],
+      "options": [
+        "起来",
+        "下去",
+        "过去"
+      ],
+      "vi": "Mọi người nghe xong đều bật cười.",
+      "explainVi": "「笑起来」: bắt đầu cười, bật cười.",
+      "grammar": [
+        207
+      ]
+    },
+    {
+      "id": "hsk3-15-e16",
+      "type": "order",
+      "vi": "Đến tháng mười hai, trời bắt đầu lạnh.",
+      "tiles": [
+        "冷",
+        "天气",
+        "到了",
+        "起来了",
+        "十二月"
+      ],
+      "answers": [
+        "到了十二月天气冷起来了"
+      ],
+      "explainVi": "Tính từ + 起来: bắt đầu (lạnh). Thời gian đứng đầu câu.",
+      "grammar": [
+        207
+      ]
+    },
+    {
+      "id": "hsk3-15-e17",
+      "type": "translate",
+      "vi": "Đứa bé bỗng òa khóc.",
+      "answers": [
+        "[孩子|小孩儿]突然哭[起来了|了起来]。"
+      ],
+      "examples": [
+        {
+          "answer": "孩子突然哭起来了。",
+          "score": 100
+        },
+        {
+          "answer": "孩子突然哭了起来。",
+          "score": 100
+        },
+        {
+          "answer": "孩子突然哭起来。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "孩子突然笑起来了。",
+          "score": 0,
+          "note": "笑 là cười, không phải khóc"
+        }
+      ],
+      "grammar": [
+        207
+      ]
+    },
+    {
+      "id": "hsk3-15-e18",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "来北京以后，他喜欢",
+      "after": "了这里的秋天。",
+      "answers": [
+        "上"
+      ],
+      "options": [
+        "上",
+        "下",
+        "过"
+      ],
+      "vi": "Sau khi đến Bắc Kinh, anh ấy đã thích mùa thu ở đây.",
+      "explainVi": "Động từ tâm lý + 上: bắt đầu (thích, yêu) và giữ luôn trạng thái đó.",
+      "grammar": [
+        207
+      ]
+    },
+    {
+      "id": "hsk3-15-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hôm nay lạnh lắm.)",
+      "options": [
+        "今天冷得很。",
+        "今天很冷得很。",
+        "今天得很冷。"
+      ],
+      "answer": 0,
+      "explainVi": "「得很」 đứng sau tính từ; không thêm 很 ở trước.",
+      "grammar": [
+        210
+      ]
+    },
+    {
+      "id": "hsk3-15-e20",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "秋天的北京凉快",
+      "after": "很。",
+      "answers": [
+        "得"
+      ],
+      "options": [
+        "得",
+        "的",
+        "地"
+      ],
+      "vi": "Bắc Kinh mùa thu mát lắm.",
+      "grammar": [
+        210
+      ]
+    },
+    {
+      "id": "hsk3-15-e21",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hôm nay lạnh hơn hôm qua nhiều.)",
+      "options": [
+        "今天比昨天冷得多。",
+        "今天比昨天冷得很。",
+        "今天比昨天很冷。"
+      ],
+      "answer": 0,
+      "explainVi": "Câu có 「比」 dùng 「得多」, không dùng 「得很」 hay 「很」.",
+      "grammar": [
+        210
+      ]
+    },
+    {
+      "id": "hsk3-15-e22",
+      "type": "translate",
+      "vi": "Dạo này anh ấy bận lắm. (dùng 得很)",
+      "answers": [
+        "[他最近|最近他]忙得很。",
+        {
+          "text": "[他最近|最近他][很|非常]忙。",
+          "score": 80
+        }
+      ],
+      "examples": [
+        {
+          "answer": "他最近忙得很。",
+          "score": 100
+        },
+        {
+          "answer": "最近他忙得很。",
+          "score": 100
+        },
+        {
+          "answer": "他最近很忙。",
+          "score": 80,
+          "note": "Đúng nghĩa nhưng chưa dùng 得很"
+        },
+        {
+          "answer": "他最近不忙。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        210
+      ]
+    },
+    {
+      "id": "hsk3-15-e23",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Thời tiết hôm nay lúc nắng lúc râm.)",
+      "options": [
+        "今天的天气一会儿晴，一会儿阴。",
+        "今天的天气一边晴，一边阴。",
+        "今天的天气又晴又阴。"
+      ],
+      "answer": 0,
+      "explainVi": "Hai trạng thái thay phiên nhau dùng 「一会儿……，一会儿……」. 「一边……一边……」 là hai hành động cùng lúc; 「又……又……」 là hai tính chất cùng có, mà trời không thể vừa nắng vừa râm.",
+      "grammar": [
+        232
+      ]
+    },
+    {
+      "id": "hsk3-15-e24",
+      "type": "order",
+      "vi": "Hôm nay lúc thì nổi gió, lúc thì mưa.",
+      "tiles": [
+        "一会儿",
+        "下雨",
+        "今天",
+        "刮风",
+        "一会儿"
+      ],
+      "answers": [
+        "今天一会儿刮风一会儿下雨",
+        "今天一会儿下雨一会儿刮风"
+      ],
+      "explainVi": "Thời gian/chủ ngữ đứng đầu, mỗi 「一会儿」 đi với một hiện tượng.",
+      "grammar": [
+        232
+      ]
+    },
+    {
+      "id": "hsk3-15-e25",
+      "type": "translate",
+      "vi": "Anh ấy lúc thì nói sẽ đi, lúc thì nói không đi.",
+      "answers": [
+        "他一会儿说(要)去，一会儿说不去。"
+      ],
+      "examples": [
+        {
+          "answer": "他一会儿说去，一会儿说不去。",
+          "score": 100
+        },
+        {
+          "answer": "他一会儿说要去，一会儿说不去。",
+          "score": 100
+        },
+        {
+          "answer": "他一边说去，一边说不去。",
+          "score": 0,
+          "note": "一边……一边…… là hai hành động cùng lúc"
+        }
+      ],
+      "grammar": [
+        232
+      ]
+    },
+    {
+      "id": "hsk3-15-e26",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "门口有几把伞？",
+        "promptVi": "Ở cửa có mấy cái ô?",
+        "picture": "☂️☂️☂️",
+        "expected": {
+          "number": 3,
+          "noun": "伞",
+          "sentence": "门口有三把伞。"
+        },
+        "examples": [
+          {
+            "answer": "门口有三把伞。",
+            "score": 100
+          },
+          {
+            "answer": "有三把。",
+            "score": 100
+          },
+          {
+            "answer": "门口有三个伞。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "门口有三伞。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "门口有两把伞。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-15-e27",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "小猫在哪儿？",
+        "promptVi": "Con mèo nhỏ ở đâu? (Trong hình: con mèo ở trên cây.)",
+        "expected": {
+          "places": [
+            "树"
+          ],
+          "localizer": "上",
+          "sentence": "小猫在树上。"
+        },
+        "examples": [
+          {
+            "answer": "小猫在树上。",
+            "score": 100
+          },
+          {
+            "answer": "在树上。",
+            "score": 100
+          },
+          {
+            "answer": "小猫在树。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "在树下。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-15-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你最喜欢哪个季节？",
+        "promptVi": "Bạn thích mùa nào nhất? (Giả sử bạn thích nhất mùa thu.)",
+        "answers": [
+          "(我)最喜欢秋天。",
+          "秋天。",
+          "(我)最喜欢的季节是秋天。"
+        ],
+        "examples": [
+          {
+            "answer": "我最喜欢秋天。",
+            "score": 100
+          },
+          {
+            "answer": "秋天。",
+            "score": 100
+          },
+          {
+            "answer": "我最喜欢的季节是秋天。",
+            "score": 100
+          },
+          {
+            "answer": "我最喜欢夏天。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-15-e29",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "最近天气怎么样？",
+        "promptVi": "Dạo này thời tiết thế nào? (Trả lời: trời ngày càng lạnh — dùng 越来越.)",
+        "answers": [
+          "(最近)(天气)越来越冷了。"
+        ],
+        "examples": [
+          {
+            "answer": "越来越冷了。",
+            "score": 100
+          },
+          {
+            "answer": "最近天气越来越冷了。",
+            "score": 100
+          },
+          {
+            "answer": "天气越来越很冷了。",
+            "score": 85,
+            "issues": [
+              "extra_word"
+            ]
+          },
+          {
+            "answer": "越来越热了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        187
+      ]
+    }
+  ]
+}

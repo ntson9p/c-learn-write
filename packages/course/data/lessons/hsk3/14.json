@@ -1,0 +1,1378 @@
+{
+  "id": "hsk3-14",
+  "goalsVi": [
+    "Nói về điện thoại, máy tính và Internet: 开机, 关机, 没电了, 耳机, 网站, 邮件, 邮箱, 上网查…",
+    "Nói về tin tức, báo chí và thẻ ngân hàng: 新闻, 报纸, 关注, 银行卡, 信用卡; kể chuyện mất đồ: 丢了, 不见了, 发现…",
+    "Phân biệt câu chữ 「把」 (người làm đứng đầu) và câu chữ 「被」 (người/vật chịu tác động đứng đầu)",
+    "Dùng câu bị động 「被」 có và không có người làm: 我的耳机被弟弟拿走了, 我的银行卡被拿走了; biết khi nào chữ 'bị/được' của tiếng Việt **không** dịch bằng 「被」",
+    "Nhấn mạnh phủ định hoàn toàn với 「一……也/都 + 不/没」: 一封邮件也没收到, 一个人都没有"
+  ],
+  "words": [
+    {
+      "no": 593,
+      "word": "电",
+      "meaningsVi": [
+        "điện",
+        "pin (của điện thoại, máy tính — trong cách nói 没电了)"
+      ],
+      "noteVi": "「手机没电了」 là 'điện thoại hết pin' (không nói 没有电池了 trong khẩu ngữ hằng ngày). 「停电」 là mất điện. Chữ 「电」 có trong nhiều từ đã học: 电脑, 电话, 电视, 电影, 电梯.",
+      "examples": [
+        {
+          "zh": "我的手机没电了，不能打电话。",
+          "py": "wǒ de shǒu jī méi diàn le bù néng dǎ diàn huà",
+          "vi": "Điện thoại của tôi hết pin rồi, không gọi điện được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 728,
+      "word": "开机",
+      "meaningsVi": [
+        "bật máy, mở máy (điện thoại, máy tính)"
+      ],
+      "noteVi": "「开机」 không cần tân ngữ: 手机开机了. Muốn nói 'bật điện thoại lên' có thể nói 把手机打开. Ngược nghĩa là 「关机」.",
+      "examples": [
+        {
+          "zh": "我的电脑太旧了，开机很慢。",
+          "py": "wǒ de diàn nǎo tài jiù le kāi jī hěn màn",
+          "vi": "Máy tính của tôi cũ quá, khởi động rất chậm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 653,
+      "word": "关机",
+      "meaningsVi": [
+        "tắt máy (điện thoại, máy tính)"
+      ],
+      "noteVi": "「他关机了」 là 'anh ấy tắt máy rồi' (gọi không được). Trong rạp chiếu phim, lớp học hay nghe: 请关机 (vui lòng tắt điện thoại).",
+      "examples": [
+        {
+          "zh": "我给他打电话，可是他关机了。",
+          "py": "wǒ gěi tā dǎ diàn huà kě shì tā guān jī le",
+          "vi": "Tôi gọi điện cho anh ấy nhưng anh ấy tắt máy rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 666,
+      "word": "号码",
+      "meaningsVi": [
+        "số (điện thoại, phòng…), mã số"
+      ],
+      "noteVi": "电话号码, 手机号码, 房间号码. Hỏi số điện thoại dùng 「多少」: 你的手机号码是多少？ (không hỏi 是什么).",
+      "examples": [
+        {
+          "zh": "你的手机号码是多少？",
+          "py": "nǐ de shǒu jī hào mǎ shì duō shao",
+          "vi": "Số điện thoại của bạn là bao nhiêu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 613,
+      "word": "耳机",
+      "meaningsVi": [
+        "tai nghe"
+      ],
+      "noteVi": "「耳」 là tai (như 耳朵, bài 8), 「机」 là máy. Nghe bằng tai nghe: 用耳机听.",
+      "examples": [
+        {
+          "zh": "我喜欢用耳机听音乐。",
+          "py": "wǒ xǐ huan yòng ěr jī tīng yīn yuè",
+          "vi": "Tôi thích nghe nhạc bằng tai nghe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 945,
+      "word": "游戏",
+      "meaningsVi": [
+        "trò chơi, game"
+      ],
+      "noteVi": "Chơi game: 玩游戏 (khẩu ngữ cũng nói 打游戏). Trò chơi trên điện thoại: 手机游戏. Âm Hán Việt 'du hí' ít dùng.",
+      "examples": [
+        {
+          "zh": "弟弟每天都玩手机游戏。",
+          "py": "dì di měi tiān dōu wán shǒu jī yóu xì",
+          "vi": "Em trai tôi ngày nào cũng chơi game trên điện thoại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 873,
+      "word": "网站",
+      "meaningsVi": [
+        "trang web, website"
+      ],
+      "noteVi": "Trên trang web: 在网站上. Phân biệt: 「上网」 là lên mạng (động từ), 「网站」 là một trang web cụ thể (danh từ).",
+      "examples": [
+        {
+          "zh": "这个网站上有很多有用的东西。",
+          "py": "zhè ge wǎng zhàn shàng yǒu hěn duō yǒu yòng de dōng xi",
+          "vi": "Trang web này có rất nhiều thứ hữu ích."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 942,
+      "word": "邮件",
+      "meaningsVi": [
+        "thư điện tử, email",
+        "bưu kiện, thư từ (gửi qua bưu điện)"
+      ],
+      "noteVi": "Ngày nay 「邮件」 thường là email. Gửi email: 发邮件; nhận email: 收邮件, 收到邮件. Lượng từ: 封 (一封邮件). Âm Hán Việt 'bưu kiện' dễ làm người Việt hiểu nhầm là chỉ có nghĩa gói hàng.",
+      "examples": [
+        {
+          "zh": "我给经理发了一封邮件。",
+          "py": "wǒ gěi jīng lǐ fā le yì fēng yóu jiàn",
+          "vi": "Tôi đã gửi cho giám đốc một email."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 943,
+      "word": "邮箱",
+      "meaningsVi": [
+        "hộp thư (email), địa chỉ email",
+        "hòm thư"
+      ],
+      "noteVi": "Hỏi địa chỉ email: 你的邮箱是什么？ Xem hộp thư: 看邮箱.",
+      "examples": [
+        {
+          "zh": "我每天早上先看一下邮箱。",
+          "py": "wǒ měi tiān zǎo shang xiān kàn yí xià yóu xiāng",
+          "vi": "Mỗi sáng tôi xem hộp thư trước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 614,
+      "word": "发",
+      "meaningsVi": [
+        "gửi (email, tin nhắn, ảnh)",
+        "phát ra, phát (sốt: 发烧)"
+      ],
+      "noteVi": "Gửi cho ai: 发给 + người: 发给我; hoặc 给 + người + 发: 给经理发邮件. 「发」 đọc fā; chữ 「发」 trong 头发 (tóc) đọc fà, nghĩa khác.",
+      "examples": [
+        {
+          "zh": "你发给我的邮件，我已经收到了。",
+          "py": "nǐ fā gěi wǒ de yóu jiàn wǒ yǐ jīng shōu dào le",
+          "vi": "Email bạn gửi cho tôi, tôi đã nhận được rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 550,
+      "word": "查",
+      "meaningsVi": [
+        "tra, tra cứu, tìm (thông tin)",
+        "kiểm tra, điều tra"
+      ],
+      "noteVi": "Hay gặp: 查词典 (tra từ điển), 上网查 (tra trên mạng), 查一下. Phân biệt với 「检查」 (bài 8): kiểm tra kỹ, khám (检查身体).",
+      "examples": [
+        {
+          "zh": "这个字我不认识，我上网查一下。",
+          "py": "zhè ge zì wǒ bú rèn shi wǒ shàng wǎng chá yí xià",
+          "vi": "Chữ này tôi không biết, tôi lên mạng tra một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 595,
+      "word": "电子书",
+      "meaningsVi": [
+        "sách điện tử"
+      ],
+      "examples": [
+        {
+          "zh": "现在很多人用手机看电子书。",
+          "py": "xiàn zài hěn duō rén yòng shǒu jī kàn diàn zǐ shū",
+          "vi": "Bây giờ nhiều người đọc sách điện tử bằng điện thoại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 516,
+      "word": "报纸",
+      "meaningsVi": [
+        "báo, tờ báo (báo giấy)"
+      ],
+      "noteVi": "Đọc báo nói 「看报纸」 (dùng 看, không dùng 读 trong khẩu ngữ). Lượng từ: 份 hoặc 张.",
+      "examples": [
+        {
+          "zh": "爷爷每天早上都看报纸。",
+          "py": "yé ye měi tiān zǎo shang dōu kàn bào zhǐ",
+          "vi": "Sáng nào ông cũng đọc báo."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 904,
+      "word": "新闻",
+      "meaningsVi": [
+        "tin tức, thời sự"
+      ],
+      "noteVi": "Âm Hán Việt 'tân văn' (văn mới) dễ gây hiểu nhầm; nghĩa là **tin tức**. Xem thời sự: 看新闻. Tin này: 这个新闻 hoặc 这条新闻.",
+      "examples": [
+        {
+          "zh": "你看今天的新闻了吗？",
+          "py": "nǐ kàn jīn tiān de xīn wén le ma",
+          "vi": "Bạn xem tin tức hôm nay chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 657,
+      "word": "关注",
+      "meaningsVi": [
+        "quan tâm, theo dõi (một sự việc, tin tức)",
+        "theo dõi, follow (trên mạng xã hội)"
+      ],
+      "noteVi": "So sánh với 「关心」 (bài 9): 「关心」 là quan tâm, lo lắng cho **người** (妈妈很关心我); 「关注」 là chú ý theo dõi **sự việc, tin tức** (关注新闻). Trên mạng: 关注我 = follow tôi.",
+      "examples": [
+        {
+          "zh": "很多人都在关注这个新闻。",
+          "py": "hěn duō rén dōu zài guān zhù zhè ge xīn wén",
+          "vi": "Rất nhiều người đang theo dõi tin này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 616,
+      "word": "发生",
+      "meaningsVi": [
+        "xảy ra"
+      ],
+      "noteVi": "Sự việc có thể đứng sau 「发生」: 这里发生了一件事 (Ở đây đã xảy ra một chuyện). Hỏi: 发生了什么事？ (Đã xảy ra chuyện gì?).",
+      "examples": [
+        {
+          "zh": "昨天这里发生了什么事？",
+          "py": "zuó tiān zhè lǐ fā shēng le shén me shì",
+          "vi": "Hôm qua ở đây đã xảy ra chuyện gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 617,
+      "word": "发现",
+      "meaningsVi": [
+        "phát hiện, nhận ra"
+      ],
+      "noteVi": "Sau 「发现」 thường là cả một câu: 我发现手机不见了 (Tôi phát hiện ra điện thoại biến mất). Hay đi với 「才」: 到了公司才发现…(đến công ty rồi mới nhận ra…).",
+      "examples": [
+        {
+          "zh": "到了公司，我才发现手机不见了。",
+          "py": "dào le gōng sī wǒ cái fā xiàn shǒu jī bú jiàn le",
+          "vi": "Đến công ty rồi tôi mới phát hiện ra điện thoại không thấy đâu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 596,
+      "word": "丢",
+      "meaningsVi": [
+        "đánh mất, làm mất",
+        "vứt, ném (đi)"
+      ],
+      "noteVi": "'Tôi bị mất thẻ' nói 我的银行卡丢了 hoặc 我把银行卡丢了, **không** nói 我被丢了银行卡: tự mình làm mất thì không có ai 'làm' cho mình, nên không dùng 「被」.",
+      "examples": [
+        {
+          "zh": "我的银行卡丢了，怎么办？",
+          "py": "wǒ de yín háng kǎ diū le zěn me bàn",
+          "vi": "Tôi bị mất thẻ ngân hàng rồi, làm sao bây giờ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 539,
+      "word": "不见",
+      "meaningsVi": [
+        "biến mất, không thấy đâu (thường + 了)",
+        "không gặp (trong 好久不见)"
+      ],
+      "noteVi": "「不见了」 dùng khi một đồ vật tự nhiên không thấy đâu nữa: 我的耳机不见了. 「好久不见」 là 'lâu rồi không gặp'. 「不」 ở đây đọc bú.",
+      "examples": [
+        {
+          "zh": "我的耳机不见了，你看见了吗？",
+          "py": "wǒ de ěr jī bú jiàn le nǐ kàn jiàn le ma",
+          "vi": "Tai nghe của tôi đâu mất rồi, bạn có thấy không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 948,
+      "word": "有用",
+      "meaningsVi": [
+        "có ích, hữu dụng"
+      ],
+      "noteVi": "Có ích cho việc gì: 对 + việc + 有用. Phủ định: 没(有)用 (vô ích, chẳng ích gì): 说也没用.",
+      "examples": [
+        {
+          "zh": "这本书对学汉语很有用。",
+          "py": "zhè běn shū duì xué hàn yǔ hěn yǒu yòng",
+          "vi": "Quyển sách này rất có ích cho việc học tiếng Hán."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 936,
+      "word": "银行",
+      "meaningsVi": [
+        "ngân hàng"
+      ],
+      "noteVi": "「行」 ở đây đọc **háng** (hàng, hãng), không đọc xíng. Lượng từ: 家 (一家银行).",
+      "examples": [
+        {
+          "zh": "公司旁边有一家银行。",
+          "py": "gōng sī páng biān yǒu yì jiā yín háng",
+          "vi": "Bên cạnh công ty có một ngân hàng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 725,
+      "word": "卡",
+      "meaningsVi": [
+        "thẻ (ngân hàng, thẻ xe, thẻ thành viên…)"
+      ],
+      "noteVi": "「卡」 là phiên âm của 'card'. Hay gặp: 银行卡, 信用卡, 饭卡 (thẻ ăn). Lượng từ: 张 (一张卡, sẽ học ở bài sau). Âm Hán Việt 'ca' không giúp nhớ nghĩa.",
+      "examples": [
+        {
+          "zh": "你带卡了吗？",
+          "py": "nǐ dài kǎ le ma",
+          "vi": "Bạn có mang thẻ không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 937,
+      "word": "银行卡",
+      "meaningsVi": [
+        "thẻ ngân hàng, thẻ ATM"
+      ],
+      "examples": [
+        {
+          "zh": "我的银行卡被弟弟拿走了。",
+          "py": "wǒ de yín háng kǎ bèi dì di ná zǒu le",
+          "vi": "Thẻ ngân hàng của tôi bị em trai lấy đi rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 907,
+      "word": "信用卡",
+      "meaningsVi": [
+        "thẻ tín dụng"
+      ],
+      "noteVi": "Trả bằng thẻ tín dụng: 用信用卡 (付钱). 「信用」 là uy tín, tín dụng.",
+      "examples": [
+        {
+          "zh": "在这儿可以用信用卡吗？",
+          "py": "zài zhè r kě yǐ yòng xìn yòng kǎ ma",
+          "vi": "Ở đây có dùng được thẻ tín dụng không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 519,
+      "word": "被",
+      "meaningsVi": [
+        "bị, được (giới từ của câu bị động, đưa ra người làm)"
+      ],
+      "noteVi": "Âm Hán Việt là 'bị', nhưng phạm vi dùng hẹp hơn chữ 'bị' của tiếng Việt: chỉ dùng khi có (hoặc ngầm có) **người làm** tác động lên chủ ngữ. 'Bị ốm', 'bị cảm', 'bị muộn' không dùng 「被」. Xem phần ngữ pháp.",
+      "examples": [
+        {
+          "zh": "我的电脑被弟弟用坏了。",
+          "py": "wǒ de diàn nǎo bèi dì di yòng huài le",
+          "vi": "Máy tính của tôi bị em trai dùng hỏng rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 175,
+      "titleVi": "Giới từ 「把」 và 「被」: ai làm, ai chịu tác động",
+      "summaryVi": "「把」 đưa vật **chịu tác động** lên trước động từ (chủ ngữ là người làm); 「被」 đưa **người làm** lên trước động từ (chủ ngữ là người/vật chịu tác động): 弟弟把耳机拿走了 = 耳机被弟弟拿走了.",
+      "explanationVi": [
+        "「把」 và 「被」 đều là giới từ đứng trước động từ, nhưng chỉ hai vai ngược nhau. Câu chữ 「把」 (bài 6): **người làm** là chủ ngữ, 「把」 đưa **vật chịu tác động** lên trước động từ: 弟弟**把我的耳机**拿走了 (Em trai lấy mất tai nghe của tôi). Câu chữ 「被」: **người/vật chịu tác động** là chủ ngữ, 「被」 đưa **người làm** lên trước động từ: 我的耳机**被弟弟**拿走了 (Tai nghe của tôi bị em trai lấy mất).",
+        "Hai câu cùng kể một sự việc; chọn câu nào tùy ta đang **nói về ai, về cái gì**. Kể em trai đã làm gì → 「把」; kể cái tai nghe bị làm sao → 「被」. Đổi qua lại: A 把 B + động từ… ⇔ B 被 A + động từ….",
+        "Hai loại câu có chung quy tắc: (1) động từ là động từ **hành động** tác động lên vật (拿, 吃, 放, 借, 关, 用…), không dùng 是, 有, 喜欢, 知道…; (2) sau động từ phải có **thành phần khác**: 了, bổ ngữ (拿走, 吃完, 用坏), 在/到 + nơi chốn…; (3) 没, 不, 别 và động từ năng nguyện (能, 要, 想…) đứng **trước** 「把」/「被」: 我没把耳机拿走, 我的耳机没被拿走.",
+        "**So với tiếng Việt.** 「被」 có âm Hán Việt là 'bị', nhưng chữ 'bị' của tiếng Việt rộng hơn nhiều. Người Việt nói 'bị ốm', 'bị cảm', 'bị đau đầu', 'bị muộn': đó **không phải** câu bị động (không có ai tác động lên mình), nên tiếng Trung **không** dùng 「被」: 我感冒了, 我头疼, 我迟到了. Chỉ dùng 「被」 khi có (hoặc ngầm có) **người, vật làm** việc đó với chủ ngữ."
+      ],
+      "patterns": [
+        "Người làm + 把 + vật chịu tác động + động từ + thành phần khác",
+        "Vật chịu tác động + 被 + người làm + động từ + thành phần khác"
+      ],
+      "examples": [
+        {
+          "zh": "弟弟把我的耳机拿走了。",
+          "py": "dì di bǎ wǒ de ěr jī ná zǒu le",
+          "vi": "Em trai lấy mất tai nghe của tôi rồi."
+        },
+        {
+          "zh": "我的耳机被弟弟拿走了。",
+          "py": "wǒ de ěr jī bèi dì di ná zǒu le",
+          "vi": "Tai nghe của tôi bị em trai lấy mất rồi."
+        },
+        {
+          "zh": "你别把银行卡放在桌子上。",
+          "py": "nǐ bié bǎ yín háng kǎ fàng zài zhuō zi shàng",
+          "vi": "Bạn đừng để thẻ ngân hàng trên bàn."
+        },
+        {
+          "zh": "那封邮件被同事发错了。",
+          "py": "nà fēng yóu jiàn bèi tóng shì fā cuò le",
+          "vi": "Email đó bị đồng nghiệp gửi nhầm rồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我的耳机把弟弟拿走了。",
+          "right": "我的耳机被弟弟拿走了。",
+          "noteVi": "Chủ ngữ là vật chịu tác động (耳机) thì dùng 「被」. 「把」 chỉ dùng khi chủ ngữ là người làm: 弟弟把我的耳机拿走了."
+        },
+        {
+          "wrong": "我被感冒了。",
+          "right": "我感冒了。",
+          "noteVi": "'Bị cảm' không phải bị động: không có ai 'làm' cho mình cảm, nên không dùng 「被」. Tương tự: 我头疼 (tôi bị đau đầu), 我迟到了 (tôi bị muộn)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 195,
+      "titleVi": "「一……也/都 + 不/没……」: không … một … nào",
+      "summaryVi": "一 + lượng từ (+ danh từ) + 也/都 + 不/没 + động từ: phủ định hoàn toàn, nhấn mạnh 'không một … nào' (我一封邮件也没收到).",
+      "explanationVi": [
+        "Muốn nhấn mạnh 'hoàn toàn không, không một … nào', tiếng Trung dùng: **一 + lượng từ + (danh từ) + 也/都 + 不/没 + động từ**: 我今天一封邮件也没收到 (Hôm nay tôi không nhận được một email nào), 办公室里一个人都没有 (Trong văn phòng không có một ai). 「也」 và 「都」 dùng như nhau.",
+        "Khác trật tự tiếng Việt: tiếng Việt đặt 'một … nào' **sau** động từ ('không nhận được **một email nào**'); tiếng Trung đưa cụm 「一 + lượng từ + danh từ」 lên **trước** 也/都 + 不/没 + động từ. Không nói 我没收到一封邮件也.",
+        "Chọn 「不」 hay 「没」 như câu phủ định bình thường: việc đã xảy ra, động từ 有, kinh nghiệm 过 → 「没」 (一次也没去过, 一个人也没有); ý muốn, thói quen, tính từ → 「不」 (一点儿也不累, 一口也不想吃). Không bao giờ nói 不有.",
+        "Ngoài danh từ, mẫu này còn dùng với số lần, thời gian, tiền: 一次也没玩过 (chưa chơi lần nào), 一天也没休息 (không nghỉ ngày nào), 一分钱都没有 (không có một xu). 「一点儿也不……」 (bài 10) cũng là một trường hợp của mẫu này."
+      ],
+      "patterns": [
+        "Chủ ngữ + 一 + lượng từ + danh từ + 也/都 + 没/不 + động từ",
+        "Chủ ngữ + 一次/一天 + 也/都 + 没 + động từ",
+        "Nơi chốn + 一 + lượng từ + 人/东西 + 也/都 + 没有"
+      ],
+      "examples": [
+        {
+          "zh": "我今天一封邮件也没收到。",
+          "py": "wǒ jīn tiān yì fēng yóu jiàn yě méi shōu dào",
+          "vi": "Hôm nay tôi không nhận được một email nào."
+        },
+        {
+          "zh": "办公室里一个人都没有。",
+          "py": "bàn gōng shì lǐ yí gè rén dōu méi yǒu",
+          "vi": "Trong văn phòng không có một ai."
+        },
+        {
+          "zh": "这个游戏我一次也没玩过。",
+          "py": "zhè ge yóu xì wǒ yí cì yě méi wán guo",
+          "vi": "Trò chơi này tôi chưa chơi lần nào."
+        },
+        {
+          "zh": "我的卡里一分钱都没有了。",
+          "py": "wǒ de kǎ lǐ yì fēn qián dōu méi yǒu le",
+          "vi": "Trong thẻ của tôi không còn một đồng nào."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我没收到一封邮件也。",
+          "right": "我一封邮件也没收到。",
+          "noteVi": "Cụm 「一封邮件」 đứng **trước** 也 + 没 + động từ, không đặt sau động từ như tiếng Việt 'không nhận được một email nào'."
+        },
+        {
+          "wrong": "办公室里一个人也不有。",
+          "right": "办公室里一个人也没有。",
+          "noteVi": "Phủ định của 「有」 luôn là 「没有」.",
+          "issue": "bu_you"
+        },
+        {
+          "wrong": "我一次也不去过北京。",
+          "right": "我一次也没去过北京。",
+          "noteVi": "Kinh nghiệm với 「过」 phủ định bằng 「没」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 218,
+      "titleVi": "Câu bị động với 「被」 (1): chủ ngữ + 被 + người làm + động từ + thành phần khác",
+      "summaryVi": "Người/vật chịu tác động + 被 + người làm + động từ + 了/bổ ngữ: 我的耳机被同事借走了, 蛋糕被弟弟吃完了.",
+      "explanationVi": [
+        "Thứ tự: **chủ ngữ (người/vật chịu tác động) + 被 + người làm + động từ + thành phần khác**: 蛋糕被弟弟吃完了 (Bánh bị em trai ăn hết rồi), 他被经理叫走了 (Anh ấy bị giám đốc gọi đi rồi). Chủ ngữ là thứ **đã xác định** (我的手机, 那个蛋糕); không nói 一个蛋糕被弟弟吃完了.",
+        "**Thành phần khác** sau động từ là bắt buộc: 了, bổ ngữ kết quả hoặc xu hướng (拿走, 吃完, 用坏, 叫到办公室去)… Không nói 我的手机被弟弟拿; phải nói 我的手机被弟弟拿走了.",
+        "Phủ định, phó từ (已经, 又…) và động từ năng nguyện đứng **trước** 「被」: 我的手机**没**被妹妹拿走, 他**已经**被叫走了. Không nói 被妹妹没拿走.",
+        "**被 và 'bị / được'.** Câu 「被」 thường kể chuyện **không như ý** (bị lấy mất, bị ăn hết, bị làm hỏng), rất giống 'bị' của tiếng Việt; nhưng cũng dùng được cho việc trung tính hay tốt: 他被经理叫到办公室去了, 他的办法被大家选上了 (cách của anh ấy được mọi người chọn). Ngược lại, chữ **'được'** của tiếng Việt phần lớn **không** dịch bằng 「被」: 'được nghỉ' = 放假, 'được đi chơi' = 可以去玩, 'được mẹ cho tiền' = 妈妈给了我钱."
+      ],
+      "patterns": [
+        "Chủ ngữ + 被 + người làm + động từ + 了/bổ ngữ",
+        "Chủ ngữ + 没/已经… + 被 + người làm + động từ + bổ ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我的耳机被同事借走了。",
+          "py": "wǒ de ěr jī bèi tóng shì jiè zǒu le",
+          "vi": "Tai nghe của tôi bị đồng nghiệp mượn đi mất rồi."
+        },
+        {
+          "zh": "蛋糕被弟弟吃完了。",
+          "py": "dàn gāo bèi dì di chī wán le",
+          "vi": "Bánh ga tô bị em trai ăn hết rồi."
+        },
+        {
+          "zh": "他被经理叫到办公室去了。",
+          "py": "tā bèi jīng lǐ jiào dào bàn gōng shì qù le",
+          "vi": "Anh ấy bị giám đốc gọi lên văn phòng rồi."
+        },
+        {
+          "zh": "我的电脑被妹妹玩坏了。",
+          "py": "wǒ de diàn nǎo bèi mèi mei wán huài le",
+          "vi": "Máy tính của tôi bị em gái chơi hỏng rồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我的手机被弟弟拿。",
+          "right": "我的手机被弟弟拿走了。",
+          "noteVi": "Câu 「被」 phải có thành phần khác sau động từ (走, 了…), không để động từ trơ một mình ở cuối câu."
+        },
+        {
+          "wrong": "我的手机被妹妹没拿走。",
+          "right": "我的手机没被妹妹拿走。",
+          "noteVi": "「没」 đứng trước 「被」, không đứng trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 219,
+      "titleVi": "Câu bị động với 「被」 (2): không nói người làm",
+      "summaryVi": "Chủ ngữ + 被 + động từ + thành phần khác: dùng khi không biết hoặc không cần nói ai làm (我的银行卡被拿走了).",
+      "explanationVi": [
+        "Khi không biết ai làm, hoặc không cần nói, có thể bỏ người làm, để 「被」 đứng ngay trước động từ: 我的银行卡**被**拿走了 (Thẻ ngân hàng của tôi bị lấy mất rồi), 门**被**打开了 (Cửa bị mở ra rồi). Tiếng Việt cũng nói 'bị lấy mất', 'bị mở ra' như vậy.",
+        "Quy tắc giống câu có người làm: sau động từ phải có 了 hoặc bổ ngữ; phủ định, phó từ đứng trước 「被」: 我的银行卡没被拿走, 他已经被叫走了.",
+        "**Không phải chữ 'bị' nào cũng là 「被」.** 'Tôi bị mất thẻ' không có người làm (tự mình đánh mất), nên nói 我的银行卡丢了 hoặc 我把银行卡丢了, **không** nói 我被丢了银行卡. Tương tự: 'điện thoại bị hết pin' = 手机没电了; 'tai nghe biến đâu mất' = 耳机不见了.",
+        "**Khi nào không cần 「被」.** Nếu sự việc bình thường, không có ý 'bị' (không như ý), tiếng Trung thường chỉ đặt vật lên đầu câu (HSK2: chủ ngữ là đối tượng của hành động): 'Email đã được gửi rồi' = 邮件已经发了; 'Bài tập làm xong rồi' = 作业做完了. Dịch mọi chữ 'được' thành 「被」 sẽ nghe rất lạ."
+      ],
+      "patterns": [
+        "Chủ ngữ + 被 + động từ + 了/bổ ngữ",
+        "Chủ ngữ + 没/已经 + 被 + động từ + bổ ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我的银行卡被拿走了。",
+          "py": "wǒ de yín háng kǎ bèi ná zǒu le",
+          "vi": "Thẻ ngân hàng của tôi bị lấy mất rồi."
+        },
+        {
+          "zh": "门被打开了，可能有人进来了。",
+          "py": "mén bèi dǎ kāi le kě néng yǒu rén jìn lái le",
+          "vi": "Cửa bị mở ra rồi, có thể có người vào."
+        },
+        {
+          "zh": "他已经被叫走了。",
+          "py": "tā yǐ jīng bèi jiào zǒu le",
+          "vi": "Anh ấy đã bị gọi đi rồi."
+        },
+        {
+          "zh": "桌子上的蛋糕被吃完了。",
+          "py": "zhuō zi shàng de dàn gāo bèi chī wán le",
+          "vi": "Bánh ga tô trên bàn bị ăn hết rồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我被丢了银行卡。",
+          "right": "我的银行卡丢了。",
+          "noteVi": "Dịch thẳng 'Tôi bị mất thẻ' là sai: tự mình làm mất thì không có người làm, không dùng 「被」. Nói 我的银行卡丢了 hoặc 我把银行卡丢了."
+        },
+        {
+          "wrong": "门被打开。",
+          "right": "门被打开了。",
+          "noteVi": "Sau động từ cần 「了」 hoặc một thành phần khác."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-14-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "耳机",
+          "tai nghe"
+        ],
+        [
+          "邮箱",
+          "hộp thư email"
+        ],
+        [
+          "网站",
+          "trang web"
+        ],
+        [
+          "新闻",
+          "tin tức"
+        ],
+        [
+          "报纸",
+          "báo giấy"
+        ],
+        [
+          "号码",
+          "số (điện thoại)"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-14-e02",
+      "type": "match",
+      "promptVi": "Nối động từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "开机",
+          "bật máy"
+        ],
+        [
+          "关机",
+          "tắt máy"
+        ],
+        [
+          "查",
+          "tra cứu"
+        ],
+        [
+          "丢",
+          "làm mất"
+        ],
+        [
+          "发现",
+          "phát hiện"
+        ],
+        [
+          "发生",
+          "xảy ra"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-14-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的手机没",
+      "after": "了，不能打电话。",
+      "answers": [
+        "电"
+      ],
+      "options": [
+        "电",
+        "卡",
+        "号码"
+      ],
+      "vi": "Điện thoại của tôi hết pin rồi, không gọi điện được.",
+      "explainVi": "'Hết pin' nói 「没电了」."
+    },
+    {
+      "id": "hsk3-14-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "昨天这里",
+      "after": "了什么事？",
+      "answers": [
+        "发生"
+      ],
+      "options": [
+        "发生",
+        "发现",
+        "发"
+      ],
+      "vi": "Hôm qua ở đây đã xảy ra chuyện gì?",
+      "explainVi": "「发生」 là xảy ra; 「发现」 là phát hiện, nhận ra; 「发」 là gửi."
+    },
+    {
+      "id": "hsk3-14-e05",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "很多人都在＿这个新闻。",
+      "options": [
+        "关注",
+        "关心",
+        "关机"
+      ],
+      "answer": 0,
+      "explainVi": "Theo dõi một tin tức, một sự việc dùng 「关注」. 「关心」 là quan tâm, lo lắng cho người (妈妈很关心我)."
+    },
+    {
+      "id": "hsk3-14-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你的手机",
+      "after": "是多少？",
+      "answers": [
+        "号码"
+      ],
+      "options": [
+        "号码",
+        "邮箱",
+        "网站"
+      ],
+      "vi": "Số điện thoại của bạn là bao nhiêu?"
+    },
+    {
+      "id": "hsk3-14-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这个字我不认识，我上网",
+      "after": "一下。",
+      "answers": [
+        "查"
+      ],
+      "options": [
+        "查",
+        "发",
+        "丢"
+      ],
+      "vi": "Chữ này tôi không biết, tôi lên mạng tra một chút."
+    },
+    {
+      "id": "hsk3-14-e08",
+      "type": "choice",
+      "promptVi": "Câu nào có nghĩa 'Tai nghe của tôi bị em trai lấy mất rồi'?",
+      "options": [
+        "我的耳机被弟弟拿走了。",
+        "我的耳机把弟弟拿走了。",
+        "弟弟被我的耳机拿走了。"
+      ],
+      "answer": 0,
+      "explainVi": "Chủ ngữ là vật chịu tác động (耳机), 「被」 đưa người làm (弟弟) lên trước động từ.",
+      "grammar": [
+        175,
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e09",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "弟弟",
+      "after": "我的耳机拿走了。",
+      "answers": [
+        "把"
+      ],
+      "options": [
+        "把",
+        "被",
+        "从"
+      ],
+      "vi": "Em trai lấy mất tai nghe của tôi rồi.",
+      "explainVi": "Chủ ngữ là người làm (弟弟) nên dùng 「把」 đưa vật (我的耳机) lên trước động từ.",
+      "grammar": [
+        175
+      ]
+    },
+    {
+      "id": "hsk3-14-e10",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的耳机",
+      "after": "弟弟拿走了。",
+      "answers": [
+        "被"
+      ],
+      "options": [
+        "被",
+        "把",
+        "从"
+      ],
+      "vi": "Tai nghe của tôi bị em trai lấy mất rồi.",
+      "explainVi": "Chủ ngữ là vật chịu tác động (我的耳机) nên dùng 「被」 + người làm.",
+      "grammar": [
+        175,
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi bị cảm rồi.)",
+      "options": [
+        "我感冒了。",
+        "我被感冒了。",
+        "感冒被我了。"
+      ],
+      "answer": 0,
+      "explainVi": "'Bị cảm' không phải bị động, không có ai làm cho mình cảm, nên không dùng 「被」.",
+      "grammar": [
+        175
+      ]
+    },
+    {
+      "id": "hsk3-14-e12",
+      "type": "order",
+      "vi": "Bánh ga tô bị em trai ăn hết rồi.",
+      "tiles": [
+        "吃完",
+        "弟弟",
+        "了",
+        "蛋糕",
+        "被"
+      ],
+      "answers": [
+        "蛋糕被弟弟吃完了"
+      ],
+      "explainVi": "Chủ ngữ (蛋糕) + 被 + người làm (弟弟) + động từ + bổ ngữ (吃完) + 了.",
+      "grammar": [
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Điện thoại của tôi không bị em gái lấy đi.)",
+      "options": [
+        "我的手机没被妹妹拿走。",
+        "我的手机被妹妹没拿走。",
+        "我的手机被没妹妹拿走。"
+      ],
+      "answer": 0,
+      "explainVi": "「没」 đứng trước 「被」.",
+      "grammar": [
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e14",
+      "type": "translate",
+      "vi": "Tai nghe của tôi bị đồng nghiệp mượn đi mất rồi. (dùng 被)",
+      "answers": [
+        "我的耳机被同事借走了。",
+        {
+          "text": "同事把我的耳机借走了。",
+          "score": 80
+        }
+      ],
+      "examples": [
+        {
+          "answer": "我的耳机被同事借走了。",
+          "score": 100
+        },
+        {
+          "answer": "同事把我的耳机借走了。",
+          "score": 80,
+          "note": "Đúng nghĩa nhưng chưa dùng 被"
+        },
+        {
+          "answer": "我的耳机被同事借走。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 了"
+        },
+        {
+          "answer": "我的耳机被同学借走了。",
+          "score": 0,
+          "note": "同学 là bạn học, không phải đồng nghiệp"
+        }
+      ],
+      "grammar": [
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e15",
+      "type": "choice",
+      "promptVi": "「我的电脑被妹妹玩坏了。」 Ai làm hỏng máy tính?",
+      "options": [
+        "Em gái",
+        "Tôi",
+        "Không biết là ai"
+      ],
+      "answer": 0,
+      "explainVi": "Người làm là người đứng ngay sau 「被」: 妹妹.",
+      "grammar": [
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e16",
+      "type": "translate",
+      "vi": "Anh ấy bị giám đốc gọi đi rồi. (dùng 被)",
+      "answers": [
+        "他(已经)被经理叫走了。",
+        {
+          "text": "经理(已经)把他叫走了。",
+          "score": 80
+        }
+      ],
+      "examples": [
+        {
+          "answer": "他被经理叫走了。",
+          "score": 100
+        },
+        {
+          "answer": "他已经被经理叫走了。",
+          "score": 100
+        },
+        {
+          "answer": "经理把他叫走了。",
+          "score": 80,
+          "note": "Đúng nghĩa nhưng chưa dùng 被"
+        },
+        {
+          "answer": "经理被他叫走了。",
+          "score": 0,
+          "note": "Đảo vai: thành 'giám đốc bị anh ấy gọi đi'"
+        }
+      ],
+      "grammar": [
+        218
+      ]
+    },
+    {
+      "id": "hsk3-14-e17",
+      "type": "translate",
+      "vi": "Thẻ ngân hàng của tôi bị lấy mất rồi. (dùng 被, không nói ai lấy)",
+      "answers": [
+        "我的银行卡被拿走了。"
+      ],
+      "examples": [
+        {
+          "answer": "我的银行卡被拿走了。",
+          "score": 100
+        },
+        {
+          "answer": "我的银行卡被拿走。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 了"
+        },
+        {
+          "answer": "我的银行卡丢了。",
+          "score": 0,
+          "note": "丢了 là tự mình làm mất, khác 'bị lấy mất'"
+        }
+      ],
+      "grammar": [
+        219
+      ]
+    },
+    {
+      "id": "hsk3-14-e18",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi bị mất thẻ ngân hàng rồi.)",
+      "options": [
+        "我的银行卡丢了。",
+        "我被丢了银行卡。",
+        "我被银行卡丢了。"
+      ],
+      "answer": 0,
+      "explainVi": "Tự mình làm mất thì không có người làm, không dùng 「被」: 我的银行卡丢了 (hoặc 我把银行卡丢了).",
+      "grammar": [
+        219
+      ]
+    },
+    {
+      "id": "hsk3-14-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng và tự nhiên nhất? (Email đã được gửi đi rồi.)",
+      "options": [
+        "邮件已经发了。",
+        "邮件已经被发。",
+        "邮件被已经发了。"
+      ],
+      "answer": 0,
+      "explainVi": "Việc bình thường, không có ý 'bị' thì chỉ cần đặt vật lên đầu câu: 邮件已经发了. Câu có 「被」 phải có 了 sau động từ, và 已经 đứng trước 「被」.",
+      "grammar": [
+        219
+      ]
+    },
+    {
+      "id": "hsk3-14-e20",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "门",
+      "after": "打开了，可能有人进来了。",
+      "answers": [
+        "被"
+      ],
+      "options": [
+        "被",
+        "把",
+        "从"
+      ],
+      "vi": "Cửa bị mở ra rồi, có thể có người vào.",
+      "explainVi": "Không biết ai mở: 「被」 đứng ngay trước động từ.",
+      "grammar": [
+        219
+      ]
+    },
+    {
+      "id": "hsk3-14-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我今天一封邮件",
+      "after": "没收到。",
+      "answers": [
+        "也"
+      ],
+      "options": [
+        "也",
+        "就",
+        "还"
+      ],
+      "vi": "Hôm nay tôi không nhận được một email nào.",
+      "explainVi": "一 + lượng từ + danh từ + 也/都 + 没 + động từ.",
+      "grammar": [
+        195
+      ]
+    },
+    {
+      "id": "hsk3-14-e22",
+      "type": "order",
+      "vi": "Trò chơi này tôi chưa chơi lần nào.",
+      "tiles": [
+        "没",
+        "一次",
+        "这个游戏",
+        "也",
+        "玩过",
+        "我"
+      ],
+      "answers": [
+        "这个游戏我一次也没玩过",
+        "我这个游戏一次也没玩过",
+        "我一次也没玩过这个游戏"
+      ],
+      "explainVi": "「一次」 đứng trước 也 + 没 + động từ; 「这个游戏」 có thể đứng đầu câu.",
+      "grammar": [
+        195
+      ]
+    },
+    {
+      "id": "hsk3-14-e23",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Trong văn phòng không có một ai.)",
+      "options": [
+        "办公室里一个人也没有。",
+        "办公室里一个人也不有。",
+        "办公室里没有一个人也。"
+      ],
+      "answer": 0,
+      "explainVi": "一个人 + 也 + 没有; phủ định của 「有」 là 「没有」.",
+      "grammar": [
+        195
+      ]
+    },
+    {
+      "id": "hsk3-14-e24",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "走了两个小时，他一点儿也",
+      "after": "累。",
+      "answers": [
+        "不"
+      ],
+      "options": [
+        "不",
+        "没",
+        "很"
+      ],
+      "vi": "Đi bộ hai tiếng mà anh ấy không mệt chút nào.",
+      "explainVi": "Với tính từ (累) dùng 「不」: 一点儿也不累.",
+      "grammar": [
+        195
+      ]
+    },
+    {
+      "id": "hsk3-14-e25",
+      "type": "translate",
+      "vi": "Trong thẻ của tôi không còn một đồng nào.",
+      "answers": [
+        "(我的)[银行卡|卡]里一分钱[也|都]没有了。"
+      ],
+      "examples": [
+        {
+          "answer": "我的卡里一分钱也没有了。",
+          "score": 100
+        },
+        {
+          "answer": "银行卡里一分钱都没有了。",
+          "score": 100
+        },
+        {
+          "answer": "我的卡里一分钱也不有了。",
+          "score": 80,
+          "issues": [
+            "bu_you"
+          ]
+        },
+        {
+          "answer": "我的卡里有一分钱。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        195
+      ]
+    },
+    {
+      "id": "hsk3-14-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "今天你收到邮件了吗？",
+        "promptVi": "Hôm nay bạn có nhận được email không? (Trả lời: tôi không nhận được một email nào — dùng 一……也/都……)",
+        "answers": [
+          "(我)(今天)一封(邮件)[也|都]没收到。",
+          {
+            "text": "(我)(今天)没(有)收到(邮件)。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我今天一封也没收到。",
+            "score": 100
+          },
+          {
+            "answer": "一封邮件都没收到。",
+            "score": 100
+          },
+          {
+            "answer": "没收到。",
+            "score": 80,
+            "note": "Đúng nghĩa nhưng chưa dùng 一……也……"
+          },
+          {
+            "answer": "我收到了两封。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        195
+      ]
+    },
+    {
+      "id": "hsk3-14-e27",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这条街上有几家银行？",
+        "promptVi": "Trên con phố này có mấy ngân hàng?",
+        "picture": "🏦🏦🏦",
+        "expected": {
+          "number": 3,
+          "noun": "银行",
+          "sentence": "这条街上有三家银行。"
+        },
+        "examples": [
+          {
+            "answer": "这条街上有三家银行。",
+            "score": 100
+          },
+          {
+            "answer": "有三家。",
+            "score": 100
+          },
+          {
+            "answer": "这条街上有三银行。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有两家银行。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-14-e28",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你的银行卡在哪儿？",
+        "promptVi": "Thẻ ngân hàng của bạn ở đâu? (Trong hình: thẻ ở trong cặp sách.)",
+        "expected": {
+          "places": [
+            "书包",
+            "包"
+          ],
+          "localizer": "里",
+          "sentence": "我的银行卡在书包里。"
+        },
+        "examples": [
+          {
+            "answer": "我的银行卡在书包里。",
+            "score": 100
+          },
+          {
+            "answer": "在书包里。",
+            "score": 100
+          },
+          {
+            "answer": "我的银行卡在书包。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "我的银行卡在里书包。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "在桌子上。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-14-e29",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你的耳机呢？",
+        "promptVi": "Tai nghe của bạn đâu? (Trả lời: bị em trai lấy đi rồi — dùng 被.)",
+        "answers": [
+          "(我的耳机)被(我)弟弟拿走了。",
+          {
+            "text": "(我)弟弟把[我的耳机|它]拿走了。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "被弟弟拿走了。",
+            "score": 100
+          },
+          {
+            "answer": "我的耳机被我弟弟拿走了。",
+            "score": 100
+          },
+          {
+            "answer": "弟弟把它拿走了。",
+            "score": 80,
+            "note": "Đúng nghĩa nhưng chưa dùng 被"
+          },
+          {
+            "answer": "被弟弟拿走。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "我的耳机把弟弟拿走了。",
+            "score": 0,
+            "note": "Nhầm 把 với 被: chủ ngữ là vật chịu tác động phải dùng 被"
+          }
+        ]
+      },
+      "grammar": [
+        175,
+        218
+      ]
+    }
+  ]
+}

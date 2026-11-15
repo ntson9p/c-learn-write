@@ -1,0 +1,1412 @@
+{
+  "id": "hsk3-13",
+  "goalsVi": [
+    "Nói về công việc ở văn phòng: 经理, 同事, 开会, 请假, 完成工作, 解决问题, 遇到难题…",
+    "Dùng các từ 'động từ + bổ ngữ' 打开, 看见, 离开, 完成, 分开 và chen 「得」/「不」 vào giữa: 看不见, 打不开, 离不开, 完不成",
+    "Nối các vế câu bằng 只有, 只要, 不但……而且, 如果, 可/可是, 然后 cho đúng nghĩa và đúng vị trí",
+    "Nói điều kiện đủ với 「只要……，就……」 và phân biệt với 「只有……，才……」",
+    "Dùng cả một cụm 'chủ ngữ + vị ngữ' làm chủ ngữ: 你去最合适, 大家一起想办法很重要"
+  ],
+  "words": [
+    {
+      "no": 512,
+      "word": "办公室",
+      "meaningsVi": [
+        "văn phòng, phòng làm việc"
+      ],
+      "noteVi": "「办公」 là 'làm việc (công việc văn phòng)', 「室」 là phòng. Nói ở văn phòng: 在办公室 (không cần thêm 里). Phòng của giám đốc: 经理办公室 hoặc 经理的办公室.",
+      "examples": [
+        {
+          "zh": "经理在办公室等你。",
+          "py": "jīng lǐ zài bàn gōng shì děng nǐ",
+          "vi": "Giám đốc đang đợi bạn ở văn phòng."
+        },
+        {
+          "zh": "我们的办公室在八层。",
+          "py": "wǒ men de bàn gōng shì zài bā céng",
+          "vi": "Văn phòng của chúng tôi ở tầng tám."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 718,
+      "word": "经理",
+      "meaningsVi": [
+        "giám đốc, trưởng phòng, người quản lý (công ty, bộ phận)"
+      ],
+      "noteVi": "Âm Hán Việt 'kinh lý' ít dùng trong tiếng Việt; 「经理」 là người quản lý nói chung, tùy công ty có thể dịch là giám đốc hoặc trưởng phòng. Gọi người: họ + 经理: 王经理 (giám đốc Vương), giống cách gọi 王老师.",
+      "examples": [
+        {
+          "zh": "王经理今天不在公司。",
+          "py": "wáng jīng lǐ jīn tiān bú zài gōng sī",
+          "vi": "Hôm nay giám đốc Vương không có ở công ty."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 859,
+      "word": "同事",
+      "meaningsVi": [
+        "đồng nghiệp"
+      ],
+      "noteVi": "Âm Hán Việt là 'đồng sự', nhưng tiếng Việt thường nói 'đồng nghiệp'. Phân biệt: 「同事」 là người làm cùng chỗ; 「同学」 là bạn học cùng trường, cùng lớp.",
+      "examples": [
+        {
+          "zh": "我和同事们常常一起吃午饭。",
+          "py": "wǒ hé tóng shì men cháng cháng yì qǐ chī wǔ fàn",
+          "vi": "Tôi với các đồng nghiệp thường ăn trưa cùng nhau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 647,
+      "word": "工作日",
+      "meaningsVi": [
+        "ngày làm việc (thường là thứ Hai đến thứ Sáu)"
+      ],
+      "noteVi": "Ngược với 「工作日」 là 「周末」 (cuối tuần). Hay dùng làm trạng ngữ chỉ thời gian ở đầu câu: 工作日我很忙.",
+      "examples": [
+        {
+          "zh": "工作日我每天七点起床。",
+          "py": "gōng zuò rì wǒ měi tiān qī diǎn qǐ chuáng",
+          "vi": "Ngày làm việc, hằng ngày tôi dậy lúc bảy giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 684,
+      "word": "会议",
+      "meaningsVi": [
+        "cuộc họp, hội nghị"
+      ],
+      "noteVi": "「会议」 trang trọng hơn 「会」, hay dùng trong văn viết và khi nói về một cuộc họp cụ thể: 明天的会议, 参加会议. Động từ 'họp' là 「开会」; không nói 开会议.",
+      "examples": [
+        {
+          "zh": "明天的会议很重要，你一定要参加。",
+          "py": "míng tiān de huì yì hěn zhòng yào nǐ yí dìng yào cān jiā",
+          "vi": "Cuộc họp ngày mai rất quan trọng, bạn nhất định phải tham gia."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 683,
+      "word": "会",
+      "meaningsVi": [
+        "cuộc họp, buổi họp (danh từ, khẩu ngữ)"
+      ],
+      "noteVi": "Khác với 「会」 động từ ở HSK1 (biết, sẽ), đây là **danh từ**: 有一个会 (có một cuộc họp), 开会 (họp), 开完会 (họp xong). 「晚会」 (dạ hội, bài 12) cũng có chữ 「会」 này.",
+      "examples": [
+        {
+          "zh": "下午我有一个会，三点以后再给你打电话。",
+          "py": "xià wǔ wǒ yǒu yí gè huì sān diǎn yǐ hòu zài gěi nǐ dǎ diàn huà",
+          "vi": "Chiều nay tôi có một cuộc họp, sau ba giờ tôi sẽ gọi lại cho bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 727,
+      "word": "开会",
+      "meaningsVi": [
+        "họp, dự họp"
+      ],
+      "noteVi": "「开会」 là động từ + tân ngữ (开 + 会), nên các thành phần khác chen vào **giữa**: 开了一上午的会 (họp cả buổi sáng), 开完会 (họp xong). Không nói 开会了一上午.",
+      "examples": [
+        {
+          "zh": "经理正在开会，请您等一下。",
+          "py": "jīng lǐ zhèng zài kāi huì qǐng nín děng yí xià",
+          "vi": "Giám đốc đang họp, xin ông đợi một chút."
+        },
+        {
+          "zh": "我们每个星期一上午开会。",
+          "py": "wǒ men měi gè xīng qī yī shàng wǔ kāi huì",
+          "vi": "Chúng tôi họp vào sáng thứ Hai hằng tuần."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 808,
+      "word": "请假",
+      "meaningsVi": [
+        "xin nghỉ (phép)"
+      ],
+      "noteVi": "Xin nghỉ với ai: 跟/向 + người + 请假. 「请假」 cũng là động từ + tân ngữ: thời gian nghỉ chen vào giữa: 请一天假, 请了半天假. Khác 「放假」 (được nghỉ lễ, nghỉ học theo lịch chung).",
+      "examples": [
+        {
+          "zh": "我生病了，明天想跟经理请假。",
+          "py": "wǒ shēng bìng le míng tiān xiǎng gēn jīng lǐ qǐng jià",
+          "vi": "Tôi bị ốm, ngày mai muốn xin giám đốc nghỉ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 632,
+      "word": "服务",
+      "meaningsVi": [
+        "phục vụ",
+        "dịch vụ, sự phục vụ (danh từ)"
+      ],
+      "noteVi": "Phục vụ ai: 为 + người + 服务: 为大家服务. Danh từ: 这家酒店的服务很好 (Dịch vụ của khách sạn này rất tốt).",
+      "examples": [
+        {
+          "zh": "这家酒店的服务非常好。",
+          "py": "zhè jiā jiǔ diàn de fú wù fēi cháng hǎo",
+          "vi": "Dịch vụ của khách sạn này rất tốt."
+        },
+        {
+          "zh": "我们很高兴为大家服务。",
+          "py": "wǒ men hěn gāo xìng wèi dà jiā fú wù",
+          "vi": "Chúng tôi rất vui được phục vụ mọi người."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 510,
+      "word": "办",
+      "meaningsVi": [
+        "làm, lo, giải quyết (một việc, một thủ tục)"
+      ],
+      "noteVi": "「办」 dùng cho việc cần lo liệu, giải quyết: 办事 (lo việc), 这件事我来办 (việc này để tôi lo). 「做」 thì chung hơn (做饭, 做作业). 「怎么办？」 (làm sao bây giờ?) đã gặp ở bài 8.",
+      "examples": [
+        {
+          "zh": "这件事我已经办好了。",
+          "py": "zhè jiàn shì wǒ yǐ jīng bàn hǎo le",
+          "vi": "Việc này tôi đã lo xong rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 511,
+      "word": "办法",
+      "meaningsVi": [
+        "cách, biện pháp, cách giải quyết"
+      ],
+      "noteVi": "Hay gặp: 想办法 (nghĩ cách), 有办法 (có cách), 没(有)办法 (hết cách, đành chịu). Phân biệt với 「方法」 (bài 10: phương pháp, cách làm một việc, như 学习方法): 「办法」 là cách để **giải quyết** một vấn đề, một khó khăn.",
+      "examples": [
+        {
+          "zh": "别着急，我们一起想办法。",
+          "py": "bié zháo jí wǒ men yì qǐ xiǎng bàn fǎ",
+          "vi": "Đừng sốt ruột, chúng ta cùng nghĩ cách."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 714,
+      "word": "解决",
+      "meaningsVi": [
+        "giải quyết"
+      ],
+      "noteVi": "Tân ngữ thường là 问题, 难题, 事情: 解决问题. Có thể dùng bổ ngữ khả năng: 解决得了 / 解决不了 (giải quyết được / không giải quyết nổi).",
+      "examples": [
+        {
+          "zh": "这个问题不太好解决。",
+          "py": "zhè ge wèn tí bú tài hǎo jiě jué",
+          "vi": "Vấn đề này không dễ giải quyết lắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 781,
+      "word": "难题",
+      "meaningsVi": [
+        "vấn đề khó, bài toán khó"
+      ],
+      "noteVi": "「难」 ở đây đọc nán (khó). Hay đi với 遇到 và 解决: 遇到难题, 解决难题.",
+      "examples": [
+        {
+          "zh": "遇到难题的时候，可以问问同事。",
+          "py": "yù dào nán tí de shí hou kě yǐ wèn wèn tóng shì",
+          "vi": "Khi gặp vấn đề khó, có thể hỏi đồng nghiệp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 953,
+      "word": "遇到",
+      "meaningsVi": [
+        "gặp phải (khó khăn, vấn đề, tình huống)",
+        "tình cờ gặp (ai)"
+      ],
+      "noteVi": "So sánh: 「遇到」 dùng cho cả người lẫn sự việc (遇到问题, 遇到老同学); 「遇见」 (bài 12) chủ yếu là tình cờ gặp người; 「见面」 là gặp mặt có hẹn trước. Tiếng Việt 'gặp khó khăn' là 遇到困难/难题, không dùng 见面.",
+      "examples": [
+        {
+          "zh": "我今天在路上遇到了一个老同学。",
+          "py": "wǒ jīn tiān zài lù shang yù dào le yí gè lǎo tóng xué",
+          "vi": "Hôm nay tôi tình cờ gặp một người bạn học cũ trên đường."
+        },
+        {
+          "zh": "遇到问题，你可以给我打电话。",
+          "py": "yù dào wèn tí nǐ kě yǐ gěi wǒ dǎ diàn huà",
+          "vi": "Gặp vấn đề gì thì bạn có thể gọi điện cho tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 868,
+      "word": "完成",
+      "meaningsVi": [
+        "hoàn thành, làm xong"
+      ],
+      "noteVi": "Tân ngữ: 工作, 作业, 任务…: 完成作业. Không làm xong được: 完不成 hoặc 完成不了 (「了」 đọc liǎo). So với 「做完」: 完成 trang trọng hơn và nhấn mạnh đạt được mục tiêu đã đặt ra.",
+      "examples": [
+        {
+          "zh": "我今天一定要完成这个工作。",
+          "py": "wǒ jīn tiān yí dìng yào wán chéng zhè ge gōng zuò",
+          "vi": "Hôm nay tôi nhất định phải hoàn thành công việc này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 712,
+      "word": "结束",
+      "meaningsVi": [
+        "kết thúc, chấm dứt"
+      ],
+      "noteVi": "「结束」 thường làm vị ngữ của sự việc: 会议结束了, 考试几点结束？ Phân biệt: 「完成」 là người làm xong một việc (完成工作); 「结束」 là một sự việc, một khoảng thời gian chấm dứt (会议结束了, 假期结束了).",
+      "examples": [
+        {
+          "zh": "会议几点结束？",
+          "py": "huì yì jǐ diǎn jié shù",
+          "vi": "Cuộc họp mấy giờ kết thúc?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 747,
+      "word": "离开",
+      "meaningsVi": [
+        "rời khỏi, rời xa"
+      ],
+      "noteVi": "Nơi chốn hoặc người đứng ngay sau 「离开」 làm tân ngữ: 离开公司, 离开家, 离开妈妈 (giống tiếng Việt 'rời công ty'). Đừng nhầm với 「离」 (cách, bài HSK2: 我家离学校很近). 「离不开」 còn có nghĩa 'không thể thiếu': 我离不开手机.",
+      "examples": [
+        {
+          "zh": "他去年离开了这家公司。",
+          "py": "tā qù nián lí kāi le zhè jiā gōng sī",
+          "vi": "Năm ngoái anh ấy đã rời công ty này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 628,
+      "word": "分开",
+      "meaningsVi": [
+        "tách ra, để riêng ra",
+        "chia tay, xa nhau"
+      ],
+      "noteVi": "Có thể dùng như trạng ngữ trước động từ: 分开走 (đi riêng), 分开放 (để riêng). Về người: 他们分开了 (họ đã chia tay, không ở bên nhau nữa).",
+      "examples": [
+        {
+          "zh": "我们分开走吧，你去车站，我回公司。",
+          "py": "wǒ men fēn kāi zǒu ba nǐ qù chē zhàn wǒ huí gōng sī",
+          "vi": "Chúng ta đi riêng nhé, bạn ra bến xe, tôi về công ty."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 724,
+      "word": "决定",
+      "meaningsVi": [
+        "quyết định (động từ)",
+        "quyết định (danh từ)"
+      ],
+      "noteVi": "Động từ: 决定 + việc sẽ làm: 我决定去中国留学. Danh từ: 这是经理的决定. Muốn nói 'đưa ra quyết định' thì dùng 做决定.",
+      "examples": [
+        {
+          "zh": "我决定明年去中国留学。",
+          "py": "wǒ jué dìng míng nián qù zhōng guó liú xué",
+          "vi": "Tôi quyết định sang năm đi du học Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 860,
+      "word": "同意",
+      "meaningsVi": [
+        "đồng ý, tán thành"
+      ],
+      "noteVi": "Tân ngữ có thể là người, ý kiến hay cả một việc: 同意我请假. Tiếng Việt nói 'đồng ý **với** bạn'; tiếng Trung không cần giới từ: 我同意你 hoặc 我同意你说的.",
+      "examples": [
+        {
+          "zh": "经理同意我请假了。",
+          "py": "jīng lǐ tóng yì wǒ qǐng jià le",
+          "vi": "Giám đốc đồng ý cho tôi nghỉ phép rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 920,
+      "word": "要求",
+      "meaningsVi": [
+        "yêu cầu, đòi hỏi (động từ)",
+        "yêu cầu (danh từ)"
+      ],
+      "noteVi": "「要」 ở đây đọc yāo (không phải yào). Mẫu câu: 要求 + người + làm gì: 老师要求我们每天复习. Danh từ: 这个工作的要求很高.",
+      "examples": [
+        {
+          "zh": "经理要求我们星期五以前完成工作。",
+          "py": "jīng lǐ yāo qiú wǒ men xīng qī wǔ yǐ qián wán chéng gōng zuò",
+          "vi": "Giám đốc yêu cầu chúng tôi hoàn thành công việc trước thứ Sáu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 767,
+      "word": "满意",
+      "meaningsVi": [
+        "hài lòng, vừa ý"
+      ],
+      "noteVi": "Hài lòng với cái gì: 对 + cái gì + (很)满意: 我对这个房间很满意. Không nói 满意对…",
+      "examples": [
+        {
+          "zh": "经理对我们的工作很满意。",
+          "py": "jīng lǐ duì wǒ men de gōng zuò hěn mǎn yì",
+          "vi": "Giám đốc rất hài lòng với công việc của chúng tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 688,
+      "word": "机会",
+      "meaningsVi": [
+        "cơ hội, dịp"
+      ],
+      "noteVi": "Hay gặp: 有机会 + động từ (有机会我想去北京), 一个好机会. Âm Hán Việt 'cơ hội' trùng nghĩa tiếng Việt.",
+      "examples": [
+        {
+          "zh": "如果有机会，我想去中国工作。",
+          "py": "rú guǒ yǒu jī huì wǒ xiǎng qù zhōng guó gōng zuò",
+          "vi": "Nếu có cơ hội, tôi muốn sang Trung Quốc làm việc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 985,
+      "word": "重要",
+      "meaningsVi": [
+        "quan trọng"
+      ],
+      "noteVi": "「重」 ở đây đọc zhòng (nặng, trọng), không đọc chóng. Đứng trước danh từ thường thêm 的: 重要的事.",
+      "examples": [
+        {
+          "zh": "健康比工作更重要。",
+          "py": "jiàn kāng bǐ gōng zuò gèng zhòng yào",
+          "vi": "Sức khỏe quan trọng hơn công việc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 590,
+      "word": "地点",
+      "meaningsVi": [
+        "địa điểm, nơi (diễn ra việc gì)"
+      ],
+      "noteVi": "「地」 ở đây đọc dì. Hay đi cùng 时间: 开会的时间和地点 (thời gian và địa điểm họp). Hỏi địa điểm: 地点在哪儿？",
+      "examples": [
+        {
+          "zh": "你知道开会的地点吗？",
+          "py": "nǐ zhī dào kāi huì de dì diǎn ma",
+          "vi": "Bạn có biết địa điểm họp không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 513,
+      "word": "半天",
+      "meaningsVi": [
+        "nửa ngày",
+        "rất lâu, mãi (khẩu ngữ, nói quá)"
+      ],
+      "noteVi": "Nghĩa đen là nửa ngày: 我明天只工作半天. Trong khẩu ngữ, 「半天」 còn là 'mãi, cả buổi' (nói quá) để than phiền: 我等了你半天 (Tôi đợi bạn mãi). Xin nghỉ nửa ngày nói 请半天假: 「半天」 chen vào giữa 请 và 假.",
+      "examples": [
+        {
+          "zh": "我明天只工作半天。",
+          "py": "wǒ míng tiān zhǐ gōng zuò bàn tiān",
+          "vi": "Ngày mai tôi chỉ làm việc nửa ngày."
+        },
+        {
+          "zh": "我等了他半天，他也没来。",
+          "py": "wǒ děng le tā bàn tiān tā yě méi lái",
+          "vi": "Tôi đợi anh ấy mãi mà anh ấy cũng không đến."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 978,
+      "word": "只要",
+      "meaningsVi": [
+        "chỉ cần (… là …)"
+      ],
+      "noteVi": "Hay đi với 「就」 ở vế sau: 只要……就…… (xem ngữ pháp). Đừng nhầm với 「只有」 (chỉ có … mới …), đi với 「才」.",
+      "examples": [
+        {
+          "zh": "只要你每天练习，就能说好汉语。",
+          "py": "zhǐ yào nǐ měi tiān liàn xí jiù néng shuō hǎo hàn yǔ",
+          "vi": "Chỉ cần bạn luyện tập mỗi ngày là sẽ nói tốt tiếng Hán."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 154,
+      "titleVi": "Từ ly hợp 'động từ + bổ ngữ': 打开, 看见, 离开, 完成, 分开",
+      "summaryVi": "Các từ 打开, 看见, 离开, 完成, 分开 gồm động từ + bổ ngữ kết quả; giữa hai chữ chỉ chen được 「得」/「不」 để nói có làm được hay không (看不见, 打不开, 离不开).",
+      "explanationVi": [
+        "Các từ 「打开」 (mở ra), 「看见」 (nhìn thấy), 「离开」 (rời khỏi), 「完成」 (hoàn thành), 「分开」 (tách ra) đều gồm **động từ + bổ ngữ kết quả**: 打 + 开, 看 + 见, 离 + 开, 完 + 成, 分 + 开. Bình thường chúng được dùng như một từ, nhưng giữa hai chữ vẫn **chen được 「得」 hoặc 「不」** để thành bổ ngữ khả năng (bài 10): 打得开 / 打不开, 看得见 / 看不见, 离得开 / 离不开, 完得成 / 完不成, 分得开 / 分不开.",
+        "「不」 chen vào giữa nghĩa là **không đạt được kết quả** vì điều kiện khách quan: 这个门太旧了，打不开 (Cửa này cũ quá, mở không ra); 字太小了，我看不见 (Chữ nhỏ quá, tôi không nhìn thấy). Tiếng Việt cũng đặt 'không' vào giữa: 'mở **không** ra', 'nhìn **không** thấy', nên cứ nói 打不开, 看不见. Đừng dịch 'không thể nhìn thấy' thành 不能看见: 「不能」 thiên về 'không được phép'.",
+        "「离不开」 còn có nghĩa bóng 'không thể thiếu, không thể xa': 孩子还小，离不开妈妈; 我离不开手机. 「完成」 có hai cách nói 'không làm xong được', đều đúng: 完不成 = 完成不了 (「了」 đọc liǎo).",
+        "Ngoài 得/不, các từ này **không** cho chen thứ khác vào giữa: 「了」, 「过」 và tân ngữ đứng **sau cả từ**: 他打开了门, 我完成了工作, 他离开了公司 (không nói 打了开门). Khác hẳn với từ ly hợp 'động từ + tân ngữ' như 开会, 请假: loại này lại cho chen 了, thời gian vào giữa (开了一上午的会, 请一天假)."
+      ],
+      "patterns": [
+        "Động từ + 得/不 + 开/见/成: 打不开, 看得见, 完不成",
+        "Chủ ngữ + 打开/离开/完成… + 了 + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "这个门太旧了，我打不开。",
+          "py": "zhè ge mén tài jiù le wǒ dǎ bù kāi",
+          "vi": "Cái cửa này cũ quá, tôi mở không ra."
+        },
+        {
+          "zh": "你坐在后面，看得见黑板上的字吗？",
+          "py": "nǐ zuò zài hòu miàn kàn de jiàn hēi bǎn shàng de zì ma",
+          "vi": "Bạn ngồi ở phía sau có nhìn thấy chữ trên bảng không?"
+        },
+        {
+          "zh": "孩子还小，离不开妈妈。",
+          "py": "hái zi hái xiǎo lí bù kāi mā ma",
+          "vi": "Đứa bé còn nhỏ, không thể xa mẹ."
+        },
+        {
+          "zh": "今天的工作太多了，我完不成。",
+          "py": "jīn tiān de gōng zuò tài duō le wǒ wán bù chéng",
+          "vi": "Công việc hôm nay nhiều quá, tôi làm không xong."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他打了开门。",
+          "right": "他打开了门。",
+          "noteVi": "「打开」 là một khối động từ + bổ ngữ; 「了」 đứng sau cả khối, không chen vào giữa."
+        },
+        {
+          "wrong": "这个门我打开不。",
+          "right": "这个门我打不开。",
+          "noteVi": "「不」 chen vào **giữa** động từ và bổ ngữ (打不开), không đặt ở cuối."
+        },
+        {
+          "wrong": "太远了，我不能看见。",
+          "right": "太远了，我看不见。",
+          "noteVi": "Không nhìn thấy vì xa, tối, chữ nhỏ thì dùng bổ ngữ khả năng 「看不见」. 「不能看见」 nghe như 'không được phép nhìn', nên sai với nghĩa này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      },
+      "morphemes": [
+        "成"
+      ]
+    },
+    {
+      "no": 178,
+      "titleVi": "Liên từ nối vế câu: 只有, 只要, 不但, 而且, 如果, 可, 可是, 然后",
+      "summaryVi": "Tổng kết các liên từ nối hai vế câu, đa số đi thành cặp: 只有……才, 只要……就, 不但……而且, 如果……就, 虽然……可是, 先……然后.",
+      "explanationVi": [
+        "Bài này tổng kết các liên từ nối hai vế câu (hoặc hai câu) mà em đã gặp: 「只有」, 「只要」, 「不但」, 「而且」, 「如果」, 「可」, 「可是」, 「然后」. Phần lớn đi thành cặp với một từ ở vế sau: 只有……**才**…… (chỉ có … mới), 只要……**就**…… (chỉ cần … là), 不但……**而且**…… (không những … mà còn), 如果……**就**…… (nếu … thì), 虽然……**可是**…… (tuy … nhưng), 先……**然后**…… (trước … sau đó).",
+        "**只要 và 只有** dễ nhầm nhất. 「只要」 nêu điều kiện **đủ**: có nó là được (có thể còn cách khác): 只要有时间，我就去. 「只有」 nêu điều kiện **duy nhất**: thiếu nó thì không được: 只有经理同意，你才能请假. Nhớ cặp: 只要 – 就, 只有 – 才; không ghép chéo.",
+        "**Vị trí.** 只要, 只有, 如果, 不但 đứng ở vế đầu; nếu hai vế **cùng một chủ ngữ** thì chúng thường đứng **sau** chủ ngữ: 他不但会说汉语，而且会说英语. 而且, 可是, 可, 然后 đứng ở **đầu vế sau**, trước chủ ngữ (nếu có): 我很想去，可是我今天没有时间. Còn 就, 才 là phó từ, đứng **sau** chủ ngữ của vế sau.",
+        "**Sắc thái.** 「可」 nghĩa như 「可是」 nhưng khẩu ngữ, nhẹ hơn: 我想去，可今天太忙了. 「然后」 (sau đó) nối hai việc nối tiếp nhau, hay đi với 「先」: 先开会，然后吃饭; đừng thay bằng 「以后」 đứng một mình, vì 「以后」 đứng một mình nghĩa là 'sau này'. 「而且」 thêm một ý theo chiều tăng tiến ('mà còn'), không dùng để kể việc nối tiếp."
+      ],
+      "patterns": [
+        "只有 + điều kiện，(chủ ngữ) + 才 + kết quả",
+        "Chủ ngữ + 不但 + A，而且 + B",
+        "先 + việc 1，然后 + việc 2",
+        "A，可/可是 + B"
+      ],
+      "examples": [
+        {
+          "zh": "只有经理同意，你才能请假。",
+          "py": "zhǐ yǒu jīng lǐ tóng yì nǐ cái néng qǐng jià",
+          "vi": "Chỉ khi giám đốc đồng ý thì bạn mới được nghỉ phép."
+        },
+        {
+          "zh": "他不但完成了自己的工作，而且帮同事解决了难题。",
+          "py": "tā bú dàn wán chéng le zì jǐ de gōng zuò ér qiě bāng tóng shì jiě jué le nán tí",
+          "vi": "Anh ấy không những hoàn thành công việc của mình mà còn giúp đồng nghiệp giải quyết vấn đề khó."
+        },
+        {
+          "zh": "我很想去，可是今天的工作还没完成。",
+          "py": "wǒ hěn xiǎng qù kě shì jīn tiān de gōng zuò hái méi wán chéng",
+          "vi": "Tôi rất muốn đi, nhưng công việc hôm nay vẫn chưa xong."
+        },
+        {
+          "zh": "我们先开会，然后一起去吃饭。",
+          "py": "wǒ men xiān kāi huì rán hòu yì qǐ qù chī fàn",
+          "vi": "Chúng ta họp trước, sau đó cùng đi ăn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "不但他会说汉语，而且会说英语。",
+          "right": "他不但会说汉语，而且会说英语。",
+          "noteVi": "Hai vế cùng một chủ ngữ thì chủ ngữ đứng **trước** 「不但」. Chỉ khi hai vế có hai chủ ngữ khác nhau mới đặt 「不但」 trước chủ ngữ."
+        },
+        {
+          "wrong": "只有经理同意，你就能请假。",
+          "right": "只有经理同意，你才能请假。",
+          "noteVi": "「只有」 đi với 「才」; 「就」 đi với 「只要」."
+        },
+        {
+          "wrong": "我们先开会，以后一起去吃饭。",
+          "right": "我们先开会，然后一起去吃饭。",
+          "noteVi": "'Sau đó' nối hai việc liên tiếp là 「然后」. 「以后」 đứng một mình nghĩa là 'sau này', nên câu bên trái sai với nghĩa 'họp xong rồi đi ăn'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 203,
+      "titleVi": "Cụm chủ – vị làm chủ ngữ: 你去最合适",
+      "summaryVi": "Cả một cụm 'chủ ngữ + vị ngữ' (你去, 大家一起想办法) có thể làm chủ ngữ của câu; phía sau là lời nhận xét về việc đó: 你去最合适.",
+      "explanationVi": [
+        "Ở bài 8 đã học: động từ, cụm động từ có thể làm chủ ngữ (锻炼身体很重要). Bài này mở rộng: cả một **cụm chủ – vị**, tức là có chủ ngữ riêng, cũng có thể làm chủ ngữ của câu: **[你去]** 最合适 (Bạn đi là hợp nhất), **[大家一起想办法]** 很重要 (Mọi người cùng nghĩ cách là rất quan trọng).",
+        "Vị ngữ phía sau thường là lời **nhận xét, đánh giá** về cả sự việc đó: 很好, 最好, 很重要, 不行, 没关系, 比较方便, 让我很高兴…: **[他离开公司]** 让我们很难过; **[我们分开走]** 也可以.",
+        "Tiếng Việt cũng nói như vậy nhưng hay thêm 'là' hoặc 'thì': 'Bạn đi **là** hợp nhất', 'Chúng ta đi riêng **thì** cũng được'. Tiếng Trung **không** cần thêm gì; đặc biệt không đặt 「是」 trước tính từ: không nói 你去是最合适. Nếu muốn dùng 「是」 thì phải có 「的」 ở cuối: 你去是最合适的.",
+        "Mẹo đọc hiểu: khi gặp câu như 你们早一点儿来比较好, hãy tìm lời nhận xét ở cuối (比较好); phần đứng trước là 'việc' được nhận xét: [你们早一点儿来] + 比较好 (Các bạn đến sớm một chút thì tốt hơn)."
+      ],
+      "patterns": [
+        "[Chủ ngữ nhỏ + vị ngữ nhỏ] + 很好/最合适/很重要/不行…",
+        "[Chủ ngữ nhỏ + vị ngữ nhỏ] + 让 + người + cảm xúc"
+      ],
+      "examples": [
+        {
+          "zh": "这件事你去办最合适。",
+          "py": "zhè jiàn shì nǐ qù bàn zuì hé shì",
+          "vi": "Việc này bạn đi lo là hợp nhất."
+        },
+        {
+          "zh": "大家一起想办法很重要。",
+          "py": "dà jiā yì qǐ xiǎng bàn fǎ hěn zhòng yào",
+          "vi": "Mọi người cùng nghĩ cách là rất quan trọng."
+        },
+        {
+          "zh": "他离开公司让我们很难过。",
+          "py": "tā lí kāi gōng sī ràng wǒ men hěn nán guò",
+          "vi": "Việc anh ấy rời công ty làm chúng tôi rất buồn."
+        },
+        {
+          "zh": "你们早一点儿来比较好。",
+          "py": "nǐ men zǎo yì diǎn r lái bǐ jiào hǎo",
+          "vi": "Các bạn đến sớm một chút thì tốt hơn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你去是最合适。",
+          "right": "你去最合适。",
+          "noteVi": "Không dịch chữ 'là' của tiếng Việt thành 「是」 trước tính từ. Nói 你去最合适, hoặc 你去是最合适的 (có 的 ở cuối)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 240,
+      "titleVi": "Câu điều kiện 「只要……，就……」: chỉ cần … là …",
+      "summaryVi": "只要 + điều kiện，(chủ ngữ) + 就 + kết quả: có điều kiện đó là đủ để có kết quả (只要你同意，我明天就去).",
+      "explanationVi": [
+        "「只要 A，(chủ ngữ) 就 B」 nghĩa là 'chỉ cần A là B': A là **điều kiện đủ**, có A thì chắc chắn có B: 只要你同意，我明天就去 (Chỉ cần anh đồng ý là ngày mai tôi đi).",
+        "「只要」 đứng đầu vế thứ nhất, trước hoặc sau chủ ngữ: 只要你努力 / 你只要努力. 「就」 là phó từ, đứng **sau chủ ngữ** của vế thứ hai, ngay trước động từ: 只要大家一起想办法，问题**就**能解决. Tiếng Việt nói '… là vấn đề sẽ được giải quyết', nên người Việt hay đặt 「就」 lên trước chủ ngữ (就问题能解决): sai.",
+        "So sánh với 「只有……，才……」 (bài 11): 只要不下雨，我们就走路去 — chỉ cần trời không mưa là đi bộ (điều kiện dễ, đủ); 只有不下雨，我们才走路去 — chỉ khi trời không mưa mới đi bộ (nhấn mạnh: mưa thì không đi bộ). 只要 đi với 就, 只有 đi với 才.",
+        "Vế sau hay có 能, 会, 可以: 只要每天练习，你就能说好. Mẫu câu cũng dùng cho thói quen, điều luôn đúng: 只要有时间，他就去图书馆看书."
+      ],
+      "patterns": [
+        "只要 + điều kiện，(chủ ngữ) + 就 + kết quả",
+        "Chủ ngữ + 只要 + điều kiện，就 + kết quả"
+      ],
+      "examples": [
+        {
+          "zh": "只要你同意，我明天就去北京。",
+          "py": "zhǐ yào nǐ tóng yì wǒ míng tiān jiù qù běi jīng",
+          "vi": "Chỉ cần anh đồng ý là ngày mai tôi đi Bắc Kinh."
+        },
+        {
+          "zh": "只要不下雨，我们就走路去。",
+          "py": "zhǐ yào bú xià yǔ wǒ men jiù zǒu lù qù",
+          "vi": "Chỉ cần trời không mưa là chúng ta đi bộ đến đó."
+        },
+        {
+          "zh": "只要大家一起想办法，问题就能解决。",
+          "py": "zhǐ yào dà jiā yì qǐ xiǎng bàn fǎ wèn tí jiù néng jiě jué",
+          "vi": "Chỉ cần mọi người cùng nghĩ cách là vấn đề sẽ được giải quyết."
+        },
+        {
+          "zh": "他只要有时间，就去图书馆看书。",
+          "py": "tā zhǐ yào yǒu shí jiān jiù qù tú shū guǎn kàn shū",
+          "vi": "Hễ có thời gian là anh ấy đến thư viện đọc sách."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "只要有时间，我才去看你。",
+          "right": "只要有时间，我就去看你。",
+          "noteVi": "「只要」 đi với 「就」; 「才」 đi với 「只有」."
+        },
+        {
+          "wrong": "只要大家一起想办法，就问题能解决。",
+          "right": "只要大家一起想办法，问题就能解决。",
+          "noteVi": "「就」 đứng sau chủ ngữ của vế sau (问题), trước động từ; không đặt lên đầu vế như chữ 'là' của tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-13-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "办公室",
+          "văn phòng"
+        ],
+        [
+          "经理",
+          "giám đốc, quản lý"
+        ],
+        [
+          "同事",
+          "đồng nghiệp"
+        ],
+        [
+          "会议",
+          "cuộc họp"
+        ],
+        [
+          "机会",
+          "cơ hội"
+        ],
+        [
+          "地点",
+          "địa điểm"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-13-e02",
+      "type": "match",
+      "promptVi": "Nối động từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "解决",
+          "giải quyết"
+        ],
+        [
+          "完成",
+          "hoàn thành"
+        ],
+        [
+          "结束",
+          "kết thúc"
+        ],
+        [
+          "同意",
+          "đồng ý"
+        ],
+        [
+          "决定",
+          "quyết định"
+        ],
+        [
+          "请假",
+          "xin nghỉ phép"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-13-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我生病了，明天想跟经理",
+      "after": "。",
+      "answers": [
+        "请假"
+      ],
+      "options": [
+        "请假",
+        "开会",
+        "服务"
+      ],
+      "vi": "Tôi bị ốm, ngày mai muốn xin giám đốc nghỉ.",
+      "explainVi": "Xin nghỉ với ai: 跟 + người + 请假."
+    },
+    {
+      "id": "hsk3-13-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "难题的时候，可以问问同事。",
+      "answers": [
+        "遇到"
+      ],
+      "options": [
+        "遇到",
+        "见面",
+        "认识"
+      ],
+      "vi": "Khi gặp vấn đề khó, có thể hỏi đồng nghiệp.",
+      "explainVi": "Gặp phải khó khăn, vấn đề dùng 「遇到」. 「见面」 là gặp mặt người, không có tân ngữ đứng sau."
+    },
+    {
+      "id": "hsk3-13-e05",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "会议几点＿？",
+      "options": [
+        "结束",
+        "完成",
+        "离开"
+      ],
+      "answer": 0,
+      "explainVi": "Một sự việc (cuộc họp, kỳ nghỉ) chấm dứt dùng 「结束」. 「完成」 là người làm xong một việc (完成工作)."
+    },
+    {
+      "id": "hsk3-13-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "经理对我们的工作很",
+      "after": "。",
+      "answers": [
+        "满意"
+      ],
+      "options": [
+        "满意",
+        "重要",
+        "同意"
+      ],
+      "vi": "Giám đốc rất hài lòng với công việc của chúng tôi.",
+      "explainVi": "对 + cái gì + 满意: hài lòng với cái gì."
+    },
+    {
+      "id": "hsk3-13-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chữ nhỏ quá, tôi không nhìn thấy.)",
+      "options": [
+        "字太小了，我看不见。",
+        "字太小了，我不看见。",
+        "字太小了，我看见不。"
+      ],
+      "answer": 0,
+      "explainVi": "「不」 chen vào giữa 看 và 见 thành bổ ngữ khả năng: 看不见.",
+      "grammar": [
+        154
+      ]
+    },
+    {
+      "id": "hsk3-13-e08",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这个门太旧了，我打",
+      "after": "开。",
+      "answers": [
+        "不"
+      ],
+      "options": [
+        "不",
+        "没",
+        "了"
+      ],
+      "vi": "Cái cửa này cũ quá, tôi mở không ra.",
+      "explainVi": "Không làm được vì điều kiện khách quan: động từ + 不 + bổ ngữ (打不开).",
+      "grammar": [
+        154
+      ]
+    },
+    {
+      "id": "hsk3-13-e09",
+      "type": "order",
+      "vi": "Anh ấy mở cửa ra rồi.",
+      "tiles": [
+        "了",
+        "他",
+        "门",
+        "打开"
+      ],
+      "answers": [
+        "他打开了门",
+        "他打开门了"
+      ],
+      "explainVi": "「了」 đứng sau cả từ 「打开」 hoặc ở cuối câu, không chen vào giữa 打 và 开.",
+      "grammar": [
+        154
+      ]
+    },
+    {
+      "id": "hsk3-13-e10",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn có nhìn thấy chữ trên bảng không?)",
+      "options": [
+        "你看得见黑板上的字吗？",
+        "你看见得黑板上的字吗？",
+        "你看得黑板上的字见吗？"
+      ],
+      "answer": 0,
+      "explainVi": "「得」 chen vào giữa 看 và 见: 看得见 (nhìn thấy được).",
+      "grammar": [
+        154
+      ]
+    },
+    {
+      "id": "hsk3-13-e11",
+      "type": "translate",
+      "vi": "Công việc hôm nay nhiều quá, tôi làm không xong.",
+      "answers": [
+        "今天(的)工作太多了，我[完不成|完成不了|做不完]。",
+        "今天(的)工作太多了，我[完不成|完成不了|做不完](了)。"
+      ],
+      "examples": [
+        {
+          "answer": "今天的工作太多了，我完不成。",
+          "score": 100
+        },
+        {
+          "answer": "今天的工作太多了，我完成不了。",
+          "score": 100
+        },
+        {
+          "answer": "今天工作太多了，我做不完。",
+          "score": 100
+        },
+        {
+          "answer": "今天的工作太多了，我能完成。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        154
+      ]
+    },
+    {
+      "id": "hsk3-13-e12",
+      "type": "translate",
+      "vi": "Năm ngoái tôi đã rời Hà Nội.",
+      "answers": [
+        "[我去年|去年我]离开(了)河内。"
+      ],
+      "examples": [
+        {
+          "answer": "我去年离开了河内。",
+          "score": 100
+        },
+        {
+          "answer": "去年我离开河内。",
+          "score": 100
+        },
+        {
+          "answer": "我去年离开了北京。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        154
+      ]
+    },
+    {
+      "id": "hsk3-13-e13",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "＿你同意，我们明天就开始。",
+      "options": [
+        "只要",
+        "只有",
+        "虽然"
+      ],
+      "answer": 0,
+      "explainVi": "Vế sau có 「就」 nên vế đầu dùng 「只要」 (chỉ cần … là …).",
+      "grammar": [
+        240,
+        178
+      ]
+    },
+    {
+      "id": "hsk3-13-e14",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "经理同意，你才能请假。",
+      "answers": [
+        "只有"
+      ],
+      "options": [
+        "只有",
+        "只要",
+        "如果"
+      ],
+      "vi": "Chỉ khi giám đốc đồng ý thì bạn mới được nghỉ phép.",
+      "explainVi": "Vế sau có 「才」 nên vế đầu dùng 「只有」 (chỉ có … mới …).",
+      "grammar": [
+        178
+      ]
+    },
+    {
+      "id": "hsk3-13-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chỉ cần mọi người cùng nghĩ cách là vấn đề sẽ được giải quyết.)",
+      "options": [
+        "只要大家一起想办法，问题就能解决。",
+        "只要大家一起想办法，就问题能解决。",
+        "只要大家一起想办法，问题才能解决。"
+      ],
+      "answer": 0,
+      "explainVi": "「就」 đứng sau chủ ngữ của vế sau (问题); 「只要」 đi với 「就」, không đi với 「才」.",
+      "grammar": [
+        240
+      ]
+    },
+    {
+      "id": "hsk3-13-e16",
+      "type": "order",
+      "vi": "Chỉ cần trời không mưa là chúng ta đi bộ đến đó.",
+      "tiles": [
+        "就",
+        "我们",
+        "只要",
+        "走路去",
+        "不下雨"
+      ],
+      "answers": [
+        "只要不下雨我们就走路去"
+      ],
+      "explainVi": "「只要」 mở đầu vế điều kiện; 「就」 đứng sau chủ ngữ 我们, trước động từ.",
+      "grammar": [
+        240
+      ]
+    },
+    {
+      "id": "hsk3-13-e17",
+      "type": "translate",
+      "vi": "Chỉ cần có thời gian là tôi sẽ đến thăm bạn.",
+      "answers": [
+        "只要(我)有时间，我就(会)去看你。",
+        "我只要有时间，就(会)去看你。"
+      ],
+      "examples": [
+        {
+          "answer": "只要有时间，我就去看你。",
+          "score": 100
+        },
+        {
+          "answer": "我只要有时间，就去看你。",
+          "score": 100
+        },
+        {
+          "answer": "只要有时间，我去看你。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 就 ở vế sau"
+        },
+        {
+          "answer": "只有有时间，我才去看你。",
+          "score": 0,
+          "note": "只有……才…… là 'chỉ khi … mới …', khác nghĩa"
+        }
+      ],
+      "grammar": [
+        240
+      ]
+    },
+    {
+      "id": "hsk3-13-e18",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "周末你也去公司吗？",
+        "promptVi": "Cuối tuần bạn cũng đến công ty à? (Trả lời: chỉ cần có việc là tôi đến — dùng 只要……就……)",
+        "answers": [
+          "只要(公司)有事(情)，我就[去|来](公司)。",
+          "我只要有事(情)，就[去|来](公司)。"
+        ],
+        "examples": [
+          {
+            "answer": "只要有事，我就去。",
+            "score": 100
+          },
+          {
+            "answer": "只要公司有事情，我就去公司。",
+            "score": 100
+          },
+          {
+            "answer": "只要有事，我去。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "只要有事，就我去。",
+            "score": 70,
+            "note": "就 đặt sai chỗ: phải đứng sau chủ ngữ 我",
+            "issues": [
+              "extra_word",
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "我不去。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        240
+      ]
+    },
+    {
+      "id": "hsk3-13-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng ta họp trước, sau đó cùng đi ăn.)",
+      "options": [
+        "我们先开会，然后一起去吃饭。",
+        "我们先开会，以后一起去吃饭。",
+        "我们然后开会，先一起去吃饭。"
+      ],
+      "answer": 0,
+      "explainVi": "先……，然后……: trước … sau đó …. 「以后」 đứng một mình nghĩa là 'sau này'.",
+      "grammar": [
+        178
+      ]
+    },
+    {
+      "id": "hsk3-13-e20",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他",
+      "after": "完成了自己的工作，而且帮同事解决了难题。",
+      "answers": [
+        "不但"
+      ],
+      "options": [
+        "不但",
+        "只要",
+        "然后"
+      ],
+      "vi": "Anh ấy không những hoàn thành công việc của mình mà còn giúp đồng nghiệp giải quyết vấn đề khó.",
+      "explainVi": "不但……，而且……: không những … mà còn …; cùng chủ ngữ thì 「不但」 đứng sau chủ ngữ.",
+      "grammar": [
+        178
+      ]
+    },
+    {
+      "id": "hsk3-13-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我很想去，",
+      "after": "今天的工作还没完成。",
+      "answers": [
+        "可是"
+      ],
+      "options": [
+        "可是",
+        "而且",
+        "然后"
+      ],
+      "vi": "Tôi rất muốn đi, nhưng công việc hôm nay vẫn chưa xong.",
+      "explainVi": "Hai ý trái ngược nhau: dùng 「可是」 (nhưng).",
+      "grammar": [
+        178
+      ]
+    },
+    {
+      "id": "hsk3-13-e22",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Việc này bạn đi lo là hợp nhất.)",
+      "options": [
+        "这件事你去办最合适。",
+        "这件事你去办是最合适。",
+        "这件事最合适是你去办。"
+      ],
+      "answer": 0,
+      "explainVi": "Cụm chủ – vị 「你去办」 làm chủ ngữ, lời nhận xét 「最合适」 đứng ngay sau, không cần 「是」.",
+      "grammar": [
+        203
+      ]
+    },
+    {
+      "id": "hsk3-13-e23",
+      "type": "order",
+      "vi": "Mọi người cùng nghĩ cách là rất quan trọng.",
+      "tiles": [
+        "很重要",
+        "一起",
+        "大家",
+        "想办法"
+      ],
+      "answers": [
+        "大家一起想办法很重要"
+      ],
+      "explainVi": "Việc được nhận xét [大家一起想办法] đứng trước, lời nhận xét 很重要 đứng cuối.",
+      "grammar": [
+        203
+      ]
+    },
+    {
+      "id": "hsk3-13-e24",
+      "type": "translate",
+      "vi": "Việc anh ấy rời công ty làm chúng tôi rất buồn.",
+      "answers": [
+        "他离开(了)(这家)公司(，)让我们[很|非常][难过|不高兴]。"
+      ],
+      "examples": [
+        {
+          "answer": "他离开公司让我们很难过。",
+          "score": 100
+        },
+        {
+          "answer": "他离开了这家公司，让我们非常难过。",
+          "score": 100
+        },
+        {
+          "answer": "我们离开公司让他很难过。",
+          "score": 0,
+          "note": "Đảo vai: ai rời công ty, ai buồn"
+        }
+      ],
+      "grammar": [
+        203
+      ]
+    },
+    {
+      "id": "hsk3-13-e25",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你们早一点儿来比较",
+      "after": "。",
+      "answers": [
+        "好"
+      ],
+      "options": [
+        "好",
+        "是",
+        "的"
+      ],
+      "vi": "Các bạn đến sớm một chút thì tốt hơn.",
+      "explainVi": "Cụm 「你们早一点儿来」 làm chủ ngữ; lời nhận xét là 「比较好」.",
+      "grammar": [
+        203
+      ]
+    },
+    {
+      "id": "hsk3-13-e26",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "经理在哪儿？",
+        "promptVi": "Giám đốc ở đâu? (Trong hình: giám đốc ở trong văn phòng.)",
+        "expected": {
+          "places": [
+            "办公室"
+          ],
+          "sentence": "经理在办公室。"
+        },
+        "examples": [
+          {
+            "answer": "经理在办公室。",
+            "score": 100
+          },
+          {
+            "answer": "在办公室里。",
+            "score": 100
+          },
+          {
+            "answer": "他在办公室开会。",
+            "score": 100
+          },
+          {
+            "answer": "经理在家。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-13-e27",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "办公室里有几个人？",
+        "promptVi": "Trong văn phòng có mấy người?",
+        "picture": "🧑‍💼🧑‍💼👩‍💼👩‍💼👩‍💼",
+        "expected": {
+          "number": 5,
+          "noun": "人",
+          "sentence": "办公室里有五个人。"
+        },
+        "examples": [
+          {
+            "answer": "办公室里有五个人。",
+            "score": 100
+          },
+          {
+            "answer": "有五个。",
+            "score": 100
+          },
+          {
+            "answer": "办公室里有五本人。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "办公室里有四个人。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-13-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你们几点开会？",
+        "promptVi": "Các bạn mấy giờ họp? (Giả sử hai giờ chiều họp.)",
+        "answers": [
+          "(我们)(下午)两点开会。",
+          "(下午)两点。"
+        ],
+        "examples": [
+          {
+            "answer": "我们下午两点开会。",
+            "score": 100
+          },
+          {
+            "answer": "两点。",
+            "score": 100
+          },
+          {
+            "answer": "我们下午二点开会。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "我们三点开会。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-13-e29",
+      "type": "translate",
+      "vi": "Giám đốc đồng ý cho tôi nghỉ phép rồi.",
+      "answers": [
+        "经理(已经)同意(让)我请假了。"
+      ],
+      "examples": [
+        {
+          "answer": "经理同意我请假了。",
+          "score": 100
+        },
+        {
+          "answer": "经理已经同意让我请假了。",
+          "score": 100
+        },
+        {
+          "answer": "经理不同意我请假。",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
