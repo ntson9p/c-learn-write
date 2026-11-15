@@ -1,0 +1,1609 @@
+{
+  "id": "hsk2-09",
+  "goalsVi": [
+    "Nói về các môn thể thao và sở thích: 打篮球, 踢足球, 游泳, 跑步, 跳舞, 画画",
+    "Dùng đúng động từ ly hợp: 帮我一个忙, 游了一个小时泳, 游泳游得很好",
+    "Nhận xét một hành động bằng bổ ngữ trạng thái: 他跑得很快, 你汉语说得怎么样？",
+    "Phân biệt 「的」, 「地」, 「得」; dùng tính từ lặp lại: 慢慢地走, 高高兴兴",
+    "So sánh hơn với 「比」: 他比我高, 他比我大三岁, 他跑得比我快"
+  ],
+  "words": [
+    {
+      "no": 485,
+      "word": "运动",
+      "meaningsVi": [
+        "thể thao, môn thể thao (danh từ)",
+        "tập thể thao, vận động (động từ)"
+      ],
+      "noteVi": "Âm Hán Việt là 'vận động', nhưng trong tiếng Trung 「运动」 hay dùng với nghĩa **thể thao**: 你喜欢什么运动？ (Bạn thích môn thể thao nào?).",
+      "examples": [
+        {
+          "zh": "你喜欢什么运动？——我喜欢游泳。",
+          "py": "nǐ xǐ huan shén me yùn dòng wǒ xǐ huan yóu yǒng",
+          "vi": "Bạn thích môn thể thao nào? — Tôi thích bơi."
+        },
+        {
+          "zh": "我每天运动一个小时。",
+          "py": "wǒ měi tiān yùn dòng yí gè xiǎo shí",
+          "vi": "Mỗi ngày tôi tập thể thao một tiếng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 415,
+      "word": "跑步",
+      "meaningsVi": [
+        "chạy bộ"
+      ],
+      "noteVi": "「跑步」 là động từ ly hợp (跑 + 步): 他跑完步就回家了. Khi nói chạy nhanh hay chậm, chỉ dùng 「跑」: 他跑得很快.",
+      "examples": [
+        {
+          "zh": "我每天早上跑步。",
+          "py": "wǒ měi tiān zǎo shang pǎo bù",
+          "vi": "Sáng nào tôi cũng chạy bộ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 478,
+      "word": "游泳",
+      "meaningsVi": [
+        "bơi, bơi lội"
+      ],
+      "noteVi": "「游泳」 là động từ ly hợp (游 + 泳): 游了一个小时泳 (bơi một tiếng), 他游泳游得很好.",
+      "examples": [
+        {
+          "zh": "我们去游泳吧！",
+          "py": "wǒ men qù yóu yǒng ba",
+          "vi": "Chúng mình đi bơi đi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 477,
+      "word": "游",
+      "meaningsVi": [
+        "bơi"
+      ],
+      "noteVi": "Dạng một âm tiết của 「游泳」, hay dùng khi có bổ ngữ: 游得很快, 游了一个小时泳.",
+      "examples": [
+        {
+          "zh": "他游得很快。",
+          "py": "tā yóu de hěn kuài",
+          "vi": "Anh ấy bơi rất nhanh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 421,
+      "word": "球",
+      "meaningsVi": [
+        "quả bóng, trái banh",
+        "môn bóng (打球: chơi bóng, 踢球: đá bóng)"
+      ],
+      "noteVi": "Âm Hán Việt là 'cầu' (như 'túc cầu'). Môn bóng chơi bằng tay dùng 「打」 (打篮球), môn đá bằng chân dùng 「踢」 (踢足球).",
+      "examples": [
+        {
+          "zh": "下午我们去打球吧。",
+          "py": "xià wǔ wǒ men qù dǎ qiú ba",
+          "vi": "Chiều nay chúng mình đi chơi bóng nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 387,
+      "word": "篮球",
+      "meaningsVi": [
+        "bóng rổ"
+      ],
+      "noteVi": "Chơi bóng rổ nói 打篮球.",
+      "examples": [
+        {
+          "zh": "我哥哥很喜欢打篮球。",
+          "py": "wǒ gē ge hěn xǐ huan dǎ lán qiú",
+          "vi": "Anh trai tôi rất thích chơi bóng rổ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 497,
+      "word": "足球",
+      "meaningsVi": [
+        "bóng đá"
+      ],
+      "noteVi": "Âm Hán Việt là 'túc cầu' (túc = chân). Đá bóng nói 踢足球, không dùng 「打」.",
+      "examples": [
+        {
+          "zh": "星期天我们去踢足球。",
+          "py": "xīng qī tiān wǒ men qù tī zú qiú",
+          "vi": "Chủ nhật chúng tôi đi đá bóng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 441,
+      "word": "踢",
+      "meaningsVi": [
+        "đá (bằng chân)"
+      ],
+      "examples": [
+        {
+          "zh": "他踢足球踢得很好。",
+          "py": "tā tī zú qiú tī de hěn hǎo",
+          "vi": "Anh ấy đá bóng rất giỏi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 327,
+      "word": "打",
+      "meaningsVi": [
+        "chơi (các môn bóng dùng tay): 打篮球",
+        "đánh",
+        "gọi (điện thoại): 打电话"
+      ],
+      "noteVi": "「打」 kết hợp với nhiều danh từ, nghĩa không phải lúc nào cũng là 'đánh': 打电话 (gọi điện), 打车 (đi taxi), 打篮球 (chơi bóng rổ).",
+      "examples": [
+        {
+          "zh": "你会打篮球吗？",
+          "py": "nǐ huì dǎ lán qiú ma",
+          "vi": "Bạn biết chơi bóng rổ không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 444,
+      "word": "跳舞",
+      "meaningsVi": [
+        "nhảy, khiêu vũ, múa"
+      ],
+      "noteVi": "Âm Hán Việt là 'khiêu vũ'. 「跳舞」 cũng là động từ ly hợp (跳 + 舞).",
+      "examples": [
+        {
+          "zh": "我妹妹很喜欢跳舞。",
+          "py": "wǒ mèi mei hěn xǐ huan tiào wǔ",
+          "vi": "Em gái tôi rất thích nhảy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 359,
+      "word": "画",
+      "meaningsVi": [
+        "vẽ (động từ)",
+        "bức tranh, bức vẽ (danh từ)"
+      ],
+      "noteVi": "Âm Hán Việt là 'họa' (hội họa). 「画画」 là vẽ tranh: 我喜欢画画.",
+      "examples": [
+        {
+          "zh": "他画了一只猫。",
+          "py": "tā huà le yì zhī māo",
+          "vi": "Cậu ấy vẽ một con mèo."
+        },
+        {
+          "zh": "这是我画的画。",
+          "py": "zhè shì wǒ huà de huà",
+          "vi": "Đây là bức tranh tôi vẽ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 474,
+      "word": "意思",
+      "meaningsVi": [
+        "nghĩa, ý nghĩa (của từ, câu)",
+        "ý, ý muốn nói"
+      ],
+      "noteVi": "「思」 trong 「意思」 đọc nhẹ: yìsi.",
+      "examples": [
+        {
+          "zh": "这个字是什么意思？",
+          "py": "zhè ge zì shì shén me yì si",
+          "vi": "Chữ này nghĩa là gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 480,
+      "word": "有意思",
+      "meaningsVi": [
+        "thú vị, hay"
+      ],
+      "noteVi": "「有意思」 là 'thú vị, hay', không phải 'có ý nghĩa'. Dùng như tính từ: 很有意思, 非常有意思.",
+      "examples": [
+        {
+          "zh": "这本书很有意思。",
+          "py": "zhè běn shū hěn yǒu yì si",
+          "vi": "Quyển sách này rất hay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 398,
+      "word": "没意思",
+      "meaningsVi": [
+        "chán, không thú vị, không hay"
+      ],
+      "examples": [
+        {
+          "zh": "这个电影真没意思。",
+          "py": "zhè ge diàn yǐng zhēn méi yì si",
+          "vi": "Bộ phim này chán thật."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 333,
+      "word": "得",
+      "meaningsVi": [
+        "trợ từ, nối động từ với bổ ngữ phía sau: 跑得很快 (chạy rất nhanh)"
+      ],
+      "noteVi": "Ở đây 「得」 đọc nhẹ de. Chữ này còn đọc dé (được) và děi (phải), sẽ học ở HSK3. Đừng nhầm với 「的」 và 「地」, cũng đọc de.",
+      "examples": [
+        {
+          "zh": "他跑得很快。",
+          "py": "tā pǎo de hěn kuài",
+          "vi": "Anh ấy chạy rất nhanh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 332,
+      "word": "地",
+      "meaningsVi": [
+        "trợ từ, nối trạng ngữ với động từ phía sau: 慢慢地走 (đi chầm chậm)"
+      ],
+      "noteVi": "Ở đây 「地」 đọc nhẹ de. Trong 「地铁」, chữ này đọc dì (đất).",
+      "examples": [
+        {
+          "zh": "孩子们高兴地跑进了教室。",
+          "py": "hái zi men gāo xìng de pǎo jìn le jiào shì",
+          "vi": "Bọn trẻ vui vẻ chạy vào lớp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 309,
+      "word": "比",
+      "meaningsVi": [
+        "so với, hơn (giới từ trong câu so sánh)",
+        "so sánh, thi (động từ)"
+      ],
+      "noteVi": "Âm Hán Việt là 'tỷ' (như 'tỷ lệ'). Trật tự khác tiếng Việt: 'cao **hơn tôi**' là **比我**高.",
+      "examples": [
+        {
+          "zh": "哥哥比我高。",
+          "py": "gē ge bǐ wǒ gāo",
+          "vi": "Anh trai cao hơn tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 344,
+      "word": "个子",
+      "meaningsVi": [
+        "vóc người, chiều cao (của người)"
+      ],
+      "noteVi": "Nói ai cao hay thấp: 他个子很高, 她个子不高. 「子」 đọc nhẹ: gèzi.",
+      "examples": [
+        {
+          "zh": "我爸爸个子很高。",
+          "py": "wǒ bà ba gè zi hěn gāo",
+          "vi": "Bố tôi người rất cao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 341,
+      "word": "高",
+      "meaningsVi": [
+        "cao (người, tòa nhà, giá cả, điểm số…)",
+        "chiều cao (trong câu hỏi 多高)"
+      ],
+      "noteVi": "Hỏi chiều cao: 你有多高？ Nói người cao thường dùng 个子高.",
+      "examples": [
+        {
+          "zh": "这个楼很高。",
+          "py": "zhè ge lóu hěn gāo",
+          "vi": "Tòa nhà này rất cao."
+        },
+        {
+          "zh": "你有多高？",
+          "py": "nǐ yǒu duō gāo",
+          "vi": "Bạn cao bao nhiêu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 75,
+      "titleVi": "Động từ ly hợp: 帮忙, 游泳, 跳舞, 跑步",
+      "summaryVi": "帮忙, 游泳, 跳舞, 跑步 bên trong là 'động từ + tân ngữ': chúng không mang thêm tân ngữ, và có thể tách ra để chèn thành phần khác vào giữa.",
+      "explanationVi": [
+        "帮忙, 游泳, 跳舞, 跑步 trông như một từ, nhưng bên trong là **động từ + tân ngữ**: 帮 (giúp) + 忙 (việc bận), 游 (bơi) + 泳, 跳 (nhảy) + 舞 (điệu múa), 跑 (chạy) + 步 (bước). Vì có thể tách rời rồi hợp lại nên gọi là **động từ ly hợp**.",
+        "**Không thêm tân ngữ sau chúng.** Tiếng Việt nói 'giúp **bạn**', nên người học hay nói 帮忙你. Sai! Hãy nói 帮你, hoặc chèn người được giúp vào giữa: 帮你的忙. Nhờ giúp: 你能帮我一个忙吗？",
+        "**Tách ra để chèn thành phần khác.** 了, thời lượng, số lượng… đứng sau âm tiết thứ nhất: 游了一个小时泳 (bơi một tiếng), 帮了我很大的忙 (giúp tôi rất nhiều), 跑完步 (chạy bộ xong). Lặp lại thì chỉ lặp phần đầu: 跑跑步, 帮帮忙.",
+        "**Có bổ ngữ với 「得」 thì lặp lại động từ:** 他游泳**游**得很好, 他跑步**跑**得很快; hoặc bỏ phần sau: 他游得很好. Không nói 他游泳得很好."
+      ],
+      "patterns": [
+        "帮 + người (+ 的/一个) + 忙",
+        "Động từ + 了 + thời lượng + tân ngữ: 游了一个小时泳",
+        "Động từ ly hợp + động từ lặp lại + 得 + tính từ: 游泳游得很好"
+      ],
+      "examples": [
+        {
+          "zh": "你能帮我一个忙吗？",
+          "py": "nǐ néng bāng wǒ yí gè máng ma",
+          "vi": "Bạn giúp mình một việc được không?"
+        },
+        {
+          "zh": "昨天我游了一个小时泳。",
+          "py": "zuó tiān wǒ yóu le yí gè xiǎo shí yǒng",
+          "vi": "Hôm qua tôi bơi một tiếng."
+        },
+        {
+          "zh": "他跑完步就回家了。",
+          "py": "tā pǎo wán bù jiù huí jiā le",
+          "vi": "Anh ấy chạy bộ xong là về nhà luôn."
+        },
+        {
+          "zh": "星期六我们一起去跑跑步吧。",
+          "py": "xīng qī liù wǒ men yì qǐ qù pǎo pǎo bù ba",
+          "vi": "Thứ bảy chúng mình cùng đi chạy bộ một chút nhé."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我帮忙你。",
+          "right": "我帮你。",
+          "noteVi": "「帮忙」 không mang tân ngữ. Nói 帮你 hoặc 帮你的忙."
+        },
+        {
+          "wrong": "他游泳得很好。",
+          "right": "他游泳游得很好。",
+          "noteVi": "「得」 phải đứng ngay sau một động từ, nên lặp lại 「游」 (hoặc nói 他游得很好)."
+        }
+      ],
+      "morphemes": [
+        "泳",
+        "步"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 79,
+      "titleVi": "Lặp lại tính từ: AA, AABB (慢慢, 高高兴兴)",
+      "summaryVi": "Tính từ một âm tiết lặp thành AA (慢慢, 好好), tính từ hai âm tiết lặp thành AABB (高高兴兴); dạng lặp làm câu sinh động hơn và không đi với 很.",
+      "explanationVi": [
+        "Tính từ một âm tiết A lặp thành **AA**: 慢 → 慢慢, 好 → 好好, 高 → 高高, 大 → 大大. Tính từ hai âm tiết AB lặp thành **AABB**: 高兴 → 高高兴兴, 快乐 → 快快乐乐, 漂亮 → 漂漂亮亮, 舒服 → 舒舒服服.",
+        "Tiếng Việt cũng có từ láy như 'chầm chậm', 'nho nhỏ', 'vui vui vẻ vẻ'. Dạng lặp của tiếng Trung làm lời nói sinh động, thân mật, thường mang ý 'rất' hoặc 'cứ thế mà…'. Chú ý: lặp kiểu **AABB**, không phải ABAB (高兴高兴 là sai; ABAB là cách lặp của động từ: 休息休息).",
+        "Dạng lặp đã có ý mức độ, nên **không** thêm 很, 非常, 太 trước nó và không phủ định bằng 不: không nói 很高高.",
+        "Cách dùng: trước danh từ thêm 「的」: 高高的个子, 大大的眼睛; trước động từ thêm 「地」 (có thể bỏ với AA): 慢慢地走, 高高兴兴地回家, 好好休息; làm vị ngữ thì thêm 「的」 ở cuối: 她的眼睛大大的."
+      ],
+      "patterns": [
+        "AA / AABB + 的 + danh từ",
+        "AA / AABB + 地 + động từ",
+        "Chủ ngữ + AA / AABB + 的"
+      ],
+      "examples": [
+        {
+          "zh": "请你慢慢地说。",
+          "py": "qǐng nǐ màn màn de shuō",
+          "vi": "Bạn nói chầm chậm thôi nhé."
+        },
+        {
+          "zh": "她的眼睛大大的，很漂亮。",
+          "py": "tā de yǎn jing dà dà de hěn piào liang",
+          "vi": "Mắt cô ấy to tròn, rất đẹp."
+        },
+        {
+          "zh": "孩子们高高兴兴地回家了。",
+          "py": "hái zi men gāo gāo xìng xìng de huí jiā le",
+          "vi": "Bọn trẻ vui vui vẻ vẻ về nhà."
+        },
+        {
+          "zh": "她今天穿得漂漂亮亮的。",
+          "py": "tā jīn tiān chuān de piào piào liàng liàng de",
+          "vi": "Hôm nay cô ấy ăn mặc thật xinh đẹp."
+        },
+        {
+          "zh": "希望你每天都快快乐乐的！",
+          "py": "xī wàng nǐ měi tiān dōu kuài kuài lè lè de",
+          "vi": "Chúc bạn ngày nào cũng vui vẻ!"
+        },
+        {
+          "zh": "今天你要好好休息。",
+          "py": "jīn tiān nǐ yào hǎo hǎo xiū xi",
+          "vi": "Hôm nay bạn phải nghỉ ngơi cho thật tốt."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他的个子很高高的。",
+          "right": "他的个子高高的。",
+          "noteVi": "Dạng lặp đã mang ý mức độ, không thêm 「很」."
+        },
+        {
+          "wrong": "她高兴高兴地回家了。",
+          "right": "她高高兴兴地回家了。",
+          "noteVi": "Tính từ hai âm tiết lặp theo kiểu AABB, không lặp cả từ như động từ."
+        }
+      ],
+      "morphemes": [
+        "高高兴兴",
+        "快快乐乐",
+        "漂漂亮亮",
+        "舒舒服服"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 95,
+      "titleVi": "Giới từ 「比」: so với",
+      "summaryVi": "「比」 + đối tượng so sánh đứng **trước** tính từ hoặc động từ: A比B高 (A cao hơn B).",
+      "explanationVi": [
+        "「比」 là giới từ, đưa ra **đối tượng được đem ra so sánh**. Cụm 「比 + B」 đứng **trước** tính từ (hoặc trước động từ): 哥哥比我高.",
+        "Khác tiếng Việt: tiếng Việt nói 'cao **hơn tôi**' (tính từ trước, 'hơn + B' sau); tiếng Trung nói **比我**高 (đại ý 'so với tôi thì cao'). Đừng nói 他高比我.",
+        "Sau 「比」 có thể là người, vật, nơi chốn, thời gian, hay cả một cụm động từ: 今天比昨天冷, 北京比河内冷, 坐地铁比打车快 (Đi tàu điện ngầm nhanh hơn đi taxi).",
+        "Không cần lặp lại danh từ ở vế B: 我的书包比你的大 (của bạn = cặp sách của bạn)."
+      ],
+      "patterns": [
+        "A + 比 + B + tính từ",
+        "A + 比 + B + động từ + 得 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "坐地铁比打车快。",
+          "py": "zuò dì tiě bǐ dǎ chē kuài",
+          "vi": "Đi tàu điện ngầm nhanh hơn đi taxi."
+        },
+        {
+          "zh": "今天比昨天热。",
+          "py": "jīn tiān bǐ zuó tiān rè",
+          "vi": "Hôm nay nóng hơn hôm qua."
+        },
+        {
+          "zh": "我的书包比你的大。",
+          "py": "wǒ de shū bāo bǐ nǐ de dà",
+          "vi": "Cặp sách của tôi to hơn của bạn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他高比我。",
+          "right": "他比我高。",
+          "noteVi": "Dịch từng chữ 'cao hơn tôi' là sai: 「比我」 đứng trước tính từ."
+        },
+        {
+          "wrong": "北京冷比河内。",
+          "right": "北京比河内冷。",
+          "noteVi": "「比 + B」 đứng trước tính từ 「冷」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 100,
+      "titleVi": "Trợ từ kết cấu 「得」 và 「地」 (phân biệt với 「的」)",
+      "summaryVi": "「地」 nối trạng ngữ với động từ phía sau (慢慢地走); 「得」 nối động từ với bổ ngữ phía sau (跑得很快); 「的」 nối định ngữ với danh từ (我的书).",
+      "explanationVi": [
+        "Ba chữ 「的」, 「地」, 「得」 đều đọc nhẹ là **de**, nhưng chức năng khác nhau nên viết khác nhau. Khi nói không phân biệt được, nhưng khi viết phải chọn đúng chữ.",
+        "「的」 + **danh từ**: phần miêu tả đứng trước danh từ: 我的书, 漂亮的衣服, 我画的画.",
+        "「地」 + **động từ**: phần nói 'làm thế nào' đứng trước động từ: 慢慢地走 (đi chầm chậm), 高兴地说 (vui vẻ nói). Hay gặp sau tính từ hai âm tiết hoặc tính từ lặp lại.",
+        "Động từ + 「得」 + **bổ ngữ**: lời nhận xét đứng sau động từ: 跑得很快 (chạy rất nhanh), 说得很好. Mẹo nhớ: sau nó là **danh từ** → 的; sau nó là **động từ** → 地; nó đứng **sau động từ** → 得."
+      ],
+      "patterns": [
+        "Định ngữ + 的 + danh từ",
+        "Trạng ngữ + 地 + động từ",
+        "Động từ + 得 + bổ ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "孩子们慢慢地走进了教室。",
+          "py": "hái zi men màn màn de zǒu jìn le jiào shì",
+          "vi": "Bọn trẻ chầm chậm đi vào lớp."
+        },
+        {
+          "zh": "她唱得很好听。",
+          "py": "tā chàng de hěn hǎo tīng",
+          "vi": "Cô ấy hát rất hay."
+        },
+        {
+          "zh": "爸爸高兴地看着我。",
+          "py": "bà ba gāo xìng de kàn zhe wǒ",
+          "vi": "Bố vui vẻ nhìn tôi."
+        },
+        {
+          "zh": "这是一本很有意思的书。",
+          "py": "zhè shì yì běn hěn yǒu yì si de shū",
+          "vi": "Đây là một quyển sách rất hay."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他慢慢得走。",
+          "right": "他慢慢地走。",
+          "noteVi": "「慢慢」 đứng trước động từ 「走」 nên dùng 「地」."
+        },
+        {
+          "wrong": "他跑地很快。",
+          "right": "他跑得很快。",
+          "noteVi": "Sau động từ, trước lời nhận xét (很快) dùng 「得」."
+        },
+        {
+          "wrong": "这是一本很有意思地书。",
+          "right": "这是一本很有意思的书。",
+          "noteVi": "Sau nó là danh từ (书) nên dùng 「的」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 122,
+      "titleVi": "Bổ ngữ trạng thái: động từ + 得 + tính từ (跑得很快)",
+      "summaryVi": "Động từ + 得 + (很/非常/不…) + tính từ để nhận xét, đánh giá một hành động: 他跑得很快, 我说得不好.",
+      "explanationVi": [
+        "Muốn nhận xét một hành động **làm như thế nào** (nhanh, chậm, hay, giỏi…), tiếng Trung đặt lời nhận xét **sau** động từ, nối bằng 「得」: 他跑得很快 (Anh ấy chạy rất nhanh). Tiếng Việt chỉ cần 'chạy rất nhanh', nên người học hay quên 「得」.",
+        "Tính từ sau 「得」 thường có 很, 非常, 真, 太… Phủ định: đặt 「不」 **trước tính từ**, không đặt trước động từ: 他跑得不快. Câu hỏi: 他跑得快吗？/ 他跑得快不快？/ 他跑得怎么样？",
+        "Có tân ngữ thì **lặp lại động từ**: 他说汉语说得很好; hoặc đưa tân ngữ lên trước: 他汉语说得很好. Không nói 他说汉语得很好, cũng không nói 他说得汉语很好.",
+        "Bổ ngữ trạng thái thường nói về việc **thường xuyên** hoặc việc **đã xảy ra**: 他每天都来得很早, 昨天晚上我睡得很好."
+      ],
+      "patterns": [
+        "Động từ + 得 + (很/非常/不) + tính từ",
+        "(Động từ +) tân ngữ + động từ + 得 + tính từ",
+        "Động từ + 得 + 怎么样？"
+      ],
+      "examples": [
+        {
+          "zh": "昨天晚上我睡得很好。",
+          "py": "zuó tiān wǎn shang wǒ shuì de hěn hǎo",
+          "vi": "Tối qua tôi ngủ rất ngon."
+        },
+        {
+          "zh": "他汉语说得非常好。",
+          "py": "tā hàn yǔ shuō de fēi cháng hǎo",
+          "vi": "Anh ấy nói tiếng Hán cực kỳ giỏi."
+        },
+        {
+          "zh": "你画得真好看！",
+          "py": "nǐ huà de zhēn hǎo kàn",
+          "vi": "Bạn vẽ đẹp thật đấy!"
+        },
+        {
+          "zh": "我游得不快。",
+          "py": "wǒ yóu de bú kuài",
+          "vi": "Tôi bơi không nhanh."
+        },
+        {
+          "zh": "你篮球打得怎么样？",
+          "py": "nǐ lán qiú dǎ de zěn me yàng",
+          "vi": "Bạn chơi bóng rổ thế nào?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他跑很快。",
+          "right": "他跑得很快。",
+          "noteVi": "Trong tiếng phổ thông chuẩn, lời nhận xét đứng sau động từ phải nối bằng 「得」."
+        },
+        {
+          "wrong": "他说汉语得很好。",
+          "right": "他说汉语说得很好。",
+          "noteVi": "「得」 đứng ngay sau động từ, nên phải lặp lại 「说」 (hoặc nói 他汉语说得很好)."
+        },
+        {
+          "wrong": "他不跑得快。",
+          "right": "他跑得不快。",
+          "noteVi": "Phủ định đặt 「不」 trước tính từ, không đặt trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 131,
+      "titleVi": "Câu so sánh: A + 比 + B + tính từ",
+      "summaryVi": "A比B + tính từ nghĩa là 'A … hơn B'; trước tính từ không dùng 很, 非常, 真, 太.",
+      "explanationVi": [
+        "Câu so sánh hơn cơ bản: **A + 比 + B + tính từ**: 这个商场比那个商场大, 北京比河内冷, 游泳比跑步有意思.",
+        "Trong câu có 「比」, **không** đặt 很, 非常, 真, 太 trước tính từ: không nói 哥哥比我很高. Muốn nói 'hơn nhiều' hay 'hơn một chút' thì thêm bổ ngữ **sau** tính từ (xem điểm tiếp theo): 高多了, 高一点儿. Có thể dùng 「还」 (còn) trước tính từ: 我妹妹比我还高 (Em gái tôi còn cao hơn cả tôi).",
+        "Muốn nói 'A không … bằng B', dùng 「没有」 (sẽ học ở bài 10): 我没有他高 (Tôi không cao bằng anh ấy). Không nói 我比他不高.",
+        "Hỏi ai hơn ai: 你和你哥哥，谁高？ hoặc 你哥哥比你高吗？"
+      ],
+      "patterns": [
+        "A + 比 + B + tính từ",
+        "A + 比 + B + 还 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "这个商场比那个商场大。",
+          "py": "zhè ge shāng chǎng bǐ nà ge shāng chǎng dà",
+          "vi": "Trung tâm thương mại này lớn hơn cái kia."
+        },
+        {
+          "zh": "北京比河内冷。",
+          "py": "běi jīng bǐ hé nèi lěng",
+          "vi": "Bắc Kinh lạnh hơn Hà Nội."
+        },
+        {
+          "zh": "我觉得游泳比跑步有意思。",
+          "py": "wǒ jué de yóu yǒng bǐ pǎo bù yǒu yì si",
+          "vi": "Tôi thấy bơi thú vị hơn chạy bộ."
+        },
+        {
+          "zh": "我妹妹比我还高。",
+          "py": "wǒ mèi mei bǐ wǒ hái gāo",
+          "vi": "Em gái tôi còn cao hơn cả tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "哥哥比我很高。",
+          "right": "哥哥比我高。",
+          "noteVi": "Câu có 「比」 không dùng 「很」 trước tính từ."
+        },
+        {
+          "wrong": "我比他不高。",
+          "right": "我没有他高。",
+          "noteVi": "Muốn nói 'không cao bằng' thì dùng 「没有」, không đặt 「不」 trước tính từ trong câu 「比」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 132,
+      "titleVi": "So sánh có mức độ: 比……高一点儿 / 大三岁 / 快多了",
+      "summaryVi": "Sau tính từ trong câu 「比」 có thể thêm số lượng (三岁, 一百块) hoặc mức độ (一点儿, 多了, 得多) để nói hơn bao nhiêu.",
+      "explanationVi": [
+        "Muốn nói **hơn bao nhiêu**, đặt số lượng **sau** tính từ: 我比姐姐小三岁 (Tôi nhỏ hơn chị ba tuổi), 这件衣服比那件贵一百块. Nói tuổi hơn kém dùng 「大」/「小」.",
+        "Mức độ: hơn **một chút** thì thêm 一点儿 (hoặc 一些): 今天比昨天冷一点儿. Hơn **nhiều** thì thêm 多了 hoặc 得多: 坐地铁比走路快多了, 他比我高得多.",
+        "Lỗi hay gặp: đặt 一点儿 trước tính từ (比我一点儿高), dùng 有点儿 thay cho 一点儿 (比我有点儿高), hoặc thêm 很 (比我很高). Hãy nhớ: **không có 很 trong câu 比; mức độ, số lượng đứng sau tính từ**."
+      ],
+      "patterns": [
+        "A + 比 + B + tính từ + số lượng",
+        "A + 比 + B + tính từ + 一点儿/一些",
+        "A + 比 + B + tính từ + 多了/得多"
+      ],
+      "examples": [
+        {
+          "zh": "我比姐姐小三岁。",
+          "py": "wǒ bǐ jiě jie xiǎo sān suì",
+          "vi": "Tôi nhỏ hơn chị gái ba tuổi."
+        },
+        {
+          "zh": "今天比昨天冷一点儿。",
+          "py": "jīn tiān bǐ zuó tiān lěng yì diǎn r",
+          "vi": "Hôm nay lạnh hơn hôm qua một chút."
+        },
+        {
+          "zh": "坐地铁比走路快多了。",
+          "py": "zuò dì tiě bǐ zǒu lù kuài duō le",
+          "vi": "Đi tàu điện ngầm nhanh hơn đi bộ nhiều."
+        },
+        {
+          "zh": "这件衣服比那件贵一百块。",
+          "py": "zhè jiàn yī fu bǐ nà jiàn guì yì bǎi kuài",
+          "vi": "Chiếc áo này đắt hơn chiếc kia một trăm tệ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他比我一点儿高。",
+          "right": "他比我高一点儿。",
+          "noteVi": "「一点儿」 đứng sau tính từ."
+        },
+        {
+          "wrong": "他比我有点儿高。",
+          "right": "他比我高一点儿。",
+          "noteVi": "「有点儿」 đứng trước tính từ và thường mang ý chê, không dùng trong câu 「比」; dùng 「一点儿」 sau tính từ."
+        },
+        {
+          "wrong": "他比我三岁大。",
+          "right": "他比我大三岁。",
+          "noteVi": "Số lượng (三岁) đứng sau tính từ (大)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 134,
+      "titleVi": "So sánh cách làm: A比B跑得快 / A跑得比B快",
+      "summaryVi": "So sánh ai làm việc gì nhanh hơn, giỏi hơn: 「比B」 đặt trước động từ (他比我跑得快) hoặc sau 「得」 (他跑得比我快).",
+      "explanationVi": [
+        "Khi so sánh **cách làm** (chạy nhanh hơn, nói giỏi hơn…), ghép câu 「比」 với bổ ngữ trạng thái 'động từ + 得 + tính từ'.",
+        "「比 + B」 có hai vị trí đúng: trước động từ: 他**比我**跑得快; hoặc sau 「得」: 他跑得**比我**快. Hai câu cùng nghĩa 'Anh ấy chạy nhanh hơn tôi'.",
+        "Có tân ngữ thì nói 'động từ + tân ngữ' trước rồi lặp lại động từ: 玛丽说汉语比我说得好 / 玛丽说汉语说得比我好. Động từ ly hợp cũng vậy: 她游泳游得比我快.",
+        "Không bỏ 「得」 (他比我跑快 ✗), không chen 「比B」 vào giữa động từ và 「得」 (他跑比我得快 ✗), không thêm 很 (他跑得比我很快 ✗). Mức độ vẫn đứng sau tính từ: 他跑得比我快多了."
+      ],
+      "patterns": [
+        "A + 比 + B + động từ + 得 + tính từ",
+        "A + động từ + 得 + 比 + B + tính từ",
+        "A + động từ + tân ngữ + động từ + 得 + 比 + B + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "我弟弟比我跑得快。",
+          "py": "wǒ dì di bǐ wǒ pǎo de kuài",
+          "vi": "Em trai tôi chạy nhanh hơn tôi."
+        },
+        {
+          "zh": "玛丽说汉语说得比我好。",
+          "py": "mǎ lì shuō hàn yǔ shuō de bǐ wǒ hǎo",
+          "vi": "Mary nói tiếng Hán giỏi hơn tôi."
+        },
+        {
+          "zh": "她游泳游得比我快多了。",
+          "py": "tā yóu yǒng yóu de bǐ wǒ kuài duō le",
+          "vi": "Cô ấy bơi nhanh hơn tôi nhiều."
+        },
+        {
+          "zh": "今天你比我来得早。",
+          "py": "jīn tiān nǐ bǐ wǒ lái de zǎo",
+          "vi": "Hôm nay bạn đến sớm hơn tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他比我跑快。",
+          "right": "他比我跑得快。",
+          "noteVi": "So sánh cách làm vẫn cần 「得」 sau động từ."
+        },
+        {
+          "wrong": "他跑比我得快。",
+          "right": "他跑得比我快。",
+          "noteVi": "「比我」 không chen vào giữa 「跑」 và 「得」."
+        },
+        {
+          "wrong": "他跑得比我很快。",
+          "right": "他跑得比我快。",
+          "noteVi": "Câu 「比」 không dùng 「很」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-09-e01",
+      "type": "match",
+      "promptVi": "Nối hoạt động với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "跑步",
+          "chạy bộ"
+        ],
+        [
+          "游泳",
+          "bơi"
+        ],
+        [
+          "跳舞",
+          "nhảy múa"
+        ],
+        [
+          "踢足球",
+          "đá bóng"
+        ],
+        [
+          "打篮球",
+          "chơi bóng rổ"
+        ],
+        [
+          "画画",
+          "vẽ tranh"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-09-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "有意思",
+          "thú vị"
+        ],
+        [
+          "没意思",
+          "chán"
+        ],
+        [
+          "意思",
+          "nghĩa"
+        ],
+        [
+          "个子",
+          "vóc người"
+        ],
+        [
+          "运动",
+          "thể thao"
+        ],
+        [
+          "比",
+          "so với"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-09-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi giúp bạn.)",
+      "options": [
+        "我帮你的忙。",
+        "我帮忙你。",
+        "我帮忙了你。"
+      ],
+      "answer": 0,
+      "explainVi": "「帮忙」 không mang tân ngữ; người được giúp chen vào giữa: 帮你的忙 (hoặc nói 帮你).",
+      "grammar": [
+        75
+      ]
+    },
+    {
+      "id": "hsk2-09-e04",
+      "type": "fill",
+      "promptVi": "Điền chữ còn thiếu.",
+      "before": "他游泳",
+      "after": "得很快。",
+      "answers": [
+        "游"
+      ],
+      "options": [
+        "游",
+        "泳",
+        "跑"
+      ],
+      "vi": "Anh ấy bơi rất nhanh.",
+      "explainVi": "Có bổ ngữ với 「得」 thì lặp lại động từ: 游泳游得很快.",
+      "grammar": [
+        75,
+        122
+      ]
+    },
+    {
+      "id": "hsk2-09-e05",
+      "type": "order",
+      "vi": "Hôm qua tôi bơi một tiếng.",
+      "tiles": [
+        "游了",
+        "昨天",
+        "泳",
+        "我",
+        "一个小时"
+      ],
+      "answers": [
+        "昨天我游了一个小时泳",
+        "我昨天游了一个小时泳"
+      ],
+      "explainVi": "Thời lượng (一个小时) chen vào giữa 「游」 và 「泳」.",
+      "grammar": [
+        75
+      ]
+    },
+    {
+      "id": "hsk2-09-e06",
+      "type": "translate",
+      "vi": "Bạn có thể giúp mình một chút không?",
+      "answers": [
+        "(你)[能|可以]帮(帮)我吗？",
+        "(你)[能|可以]帮我一下吗？",
+        "(你)[能|可以]帮我[(一)个|的]忙吗？",
+        "你[能不能|可不可以]帮(帮)我(一下)？"
+      ],
+      "examples": [
+        {
+          "answer": "你能帮我吗？",
+          "score": 100
+        },
+        {
+          "answer": "你可以帮我一下吗？",
+          "score": 100
+        },
+        {
+          "answer": "你能帮我一个忙吗？",
+          "score": 100
+        },
+        {
+          "answer": "你能帮帮我吗？",
+          "score": 100
+        },
+        {
+          "answer": "你能不能帮我一下？",
+          "score": 100
+        },
+        {
+          "answer": "你能帮我的忙吗？",
+          "score": 100
+        }
+      ],
+      "grammar": [
+        75
+      ]
+    },
+    {
+      "id": "hsk2-09-e07",
+      "type": "choice",
+      "promptVi": "Dạng lặp lại đúng của 「高兴」 là:",
+      "options": [
+        "高高兴兴",
+        "高兴高兴",
+        "高高兴"
+      ],
+      "answer": 0,
+      "explainVi": "Tính từ hai âm tiết lặp theo kiểu AABB.",
+      "grammar": [
+        79
+      ]
+    },
+    {
+      "id": "hsk2-09-e08",
+      "type": "fill",
+      "promptVi": "Chọn chữ đúng.",
+      "before": "请你慢慢",
+      "after": "说。",
+      "answers": [
+        "地"
+      ],
+      "options": [
+        "地",
+        "得",
+        "的"
+      ],
+      "vi": "Bạn nói chầm chậm thôi nhé.",
+      "explainVi": "「慢慢」 đứng trước động từ 「说」 nên dùng 「地」.",
+      "grammar": [
+        79,
+        100
+      ]
+    },
+    {
+      "id": "hsk2-09-e09",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "他的个子高高的。",
+        "他的个子很高高的。",
+        "他的个子高高很。"
+      ],
+      "answer": 0,
+      "explainVi": "Dạng lặp AA không đi với 「很」.",
+      "grammar": [
+        79
+      ]
+    },
+    {
+      "id": "hsk2-09-e10",
+      "type": "order",
+      "vi": "Bọn trẻ vui vui vẻ vẻ chạy vào lớp.",
+      "tiles": [
+        "地",
+        "孩子们",
+        "跑进了",
+        "高高兴兴",
+        "教室"
+      ],
+      "answers": [
+        "孩子们高高兴兴地跑进了教室"
+      ],
+      "explainVi": "Dạng lặp 「高高兴兴」 + 「地」 đứng trước động từ.",
+      "grammar": [
+        79,
+        100
+      ]
+    },
+    {
+      "id": "hsk2-09-e11",
+      "type": "choice",
+      "promptVi": "Chọn chữ đúng cho chỗ trống.",
+      "zh": "他跑＿很快。",
+      "options": [
+        "得",
+        "地",
+        "的"
+      ],
+      "answer": 0,
+      "explainVi": "Sau động từ, trước lời nhận xét dùng 「得」.",
+      "grammar": [
+        100,
+        122
+      ]
+    },
+    {
+      "id": "hsk2-09-e12",
+      "type": "fill",
+      "promptVi": "Chọn chữ đúng.",
+      "before": "这是我画",
+      "after": "画。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "地",
+        "得"
+      ],
+      "vi": "Đây là bức tranh tôi vẽ.",
+      "explainVi": "Sau nó là danh từ 「画」 (bức tranh) nên dùng 「的」.",
+      "grammar": [
+        100
+      ]
+    },
+    {
+      "id": "hsk2-09-e13",
+      "type": "match",
+      "promptVi": "Nối trợ từ với vị trí của nó.",
+      "pairs": [
+        [
+          "的",
+          "đứng trước danh từ"
+        ],
+        [
+          "地",
+          "đứng trước động từ"
+        ],
+        [
+          "得",
+          "đứng sau động từ, trước bổ ngữ"
+        ]
+      ],
+      "grammar": [
+        100
+      ]
+    },
+    {
+      "id": "hsk2-09-e14",
+      "type": "translate",
+      "vi": "Anh ấy chạy rất nhanh.",
+      "answers": [
+        "他跑得[很|非常]快。"
+      ],
+      "examples": [
+        {
+          "answer": "他跑得很快。",
+          "score": 100
+        },
+        {
+          "answer": "他跑得非常快。",
+          "score": 100
+        },
+        {
+          "answer": "他跑地很快。",
+          "score": 95,
+          "issues": [
+            "homophone_char"
+          ],
+          "note": "Viết nhầm 地 thay cho 得"
+        },
+        {
+          "answer": "他跑得快。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 很 (rất)"
+        },
+        {
+          "answer": "他跑得很慢。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        122
+      ]
+    },
+    {
+      "id": "hsk2-09-e15",
+      "type": "order",
+      "vi": "Anh ấy nói tiếng Hán rất giỏi.",
+      "tiles": [
+        "很好",
+        "说汉语",
+        "他",
+        "说得"
+      ],
+      "answers": [
+        "他说汉语说得很好"
+      ],
+      "explainVi": "Có tân ngữ (汉语) thì lặp lại động từ: 说汉语说得很好.",
+      "grammar": [
+        122
+      ]
+    },
+    {
+      "id": "hsk2-09-e16",
+      "type": "choice",
+      "promptVi": "Câu phủ định nào đúng? (Anh ấy chạy không nhanh.)",
+      "options": [
+        "他跑得不快。",
+        "他不跑得快。",
+        "他没跑得快。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định đặt 「不」 trước tính từ: 跑得不快.",
+      "grammar": [
+        122
+      ]
+    },
+    {
+      "id": "hsk2-09-e17",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你汉语说得怎么样？",
+        "promptVi": "Bạn nói tiếng Hán thế nào? (Giả sử bạn thấy mình nói chưa giỏi lắm.)",
+        "answers": [
+          "(我)(汉语)说得不太好。",
+          "(我)说汉语说得不太好。",
+          "不太好。"
+        ],
+        "examples": [
+          {
+            "answer": "我汉语说得不太好。",
+            "score": 100
+          },
+          {
+            "answer": "说得不太好。",
+            "score": 100
+          },
+          {
+            "answer": "不太好。",
+            "score": 100
+          },
+          {
+            "answer": "我说汉语说得不太好。",
+            "score": 100
+          },
+          {
+            "answer": "我汉语说得很好。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        122
+      ]
+    },
+    {
+      "id": "hsk2-09-e18",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh trai cao hơn tôi.)",
+      "options": [
+        "哥哥比我高。",
+        "哥哥高比我。",
+        "哥哥比我很高。"
+      ],
+      "answer": 0,
+      "explainVi": "「比我」 đứng trước tính từ, và câu 「比」 không dùng 「很」.",
+      "grammar": [
+        95,
+        131
+      ]
+    },
+    {
+      "id": "hsk2-09-e19",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "北京",
+      "after": "河内冷。",
+      "answers": [
+        "比"
+      ],
+      "options": [
+        "比",
+        "离",
+        "从"
+      ],
+      "vi": "Bắc Kinh lạnh hơn Hà Nội.",
+      "grammar": [
+        95,
+        131
+      ]
+    },
+    {
+      "id": "hsk2-09-e20",
+      "type": "order",
+      "vi": "Đi tàu điện ngầm nhanh hơn đi taxi.",
+      "tiles": [
+        "打车",
+        "坐地铁",
+        "快",
+        "比"
+      ],
+      "answers": [
+        "坐地铁比打车快"
+      ],
+      "explainVi": "Hai vế so sánh có thể là cụm động từ: 坐地铁 比 打车 快.",
+      "grammar": [
+        95,
+        131
+      ]
+    },
+    {
+      "id": "hsk2-09-e21",
+      "type": "translate",
+      "vi": "Hôm nay nóng hơn hôm qua.",
+      "answers": [
+        "今天比昨天热。"
+      ],
+      "examples": [
+        {
+          "answer": "今天比昨天热。",
+          "score": 100
+        },
+        {
+          "answer": "今天比昨天很热。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Câu 比 không dùng 很"
+        },
+        {
+          "answer": "昨天比今天热。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        131
+      ]
+    },
+    {
+      "id": "hsk2-09-e22",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy cao hơn tôi một chút.)",
+      "options": [
+        "他比我高一点儿。",
+        "他比我一点儿高。",
+        "他比我有点儿高。"
+      ],
+      "answer": 0,
+      "explainVi": "「一点儿」 đứng sau tính từ; 「有点儿」 không dùng trong câu 「比」.",
+      "grammar": [
+        132
+      ]
+    },
+    {
+      "id": "hsk2-09-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "坐地铁比走路快",
+      "after": "。",
+      "answers": [
+        "多了"
+      ],
+      "options": [
+        "多了",
+        "很",
+        "非常"
+      ],
+      "vi": "Đi tàu điện ngầm nhanh hơn đi bộ nhiều.",
+      "explainVi": "'Hơn nhiều' dùng 「多了」 hoặc 「得多」 đặt sau tính từ.",
+      "grammar": [
+        132
+      ]
+    },
+    {
+      "id": "hsk2-09-e24",
+      "type": "translate",
+      "vi": "Tôi nhỏ hơn chị gái ba tuổi.",
+      "answers": [
+        "我比(我)姐姐小三岁。",
+        "(我)姐姐比我大三岁。"
+      ],
+      "examples": [
+        {
+          "answer": "我比姐姐小三岁。",
+          "score": 100
+        },
+        {
+          "answer": "我比我姐姐小三岁。",
+          "score": 100
+        },
+        {
+          "answer": "姐姐比我大三岁。",
+          "score": 100
+        },
+        {
+          "answer": "我比姐姐小两岁。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        132
+      ]
+    },
+    {
+      "id": "hsk2-09-e25",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你哥哥比你大几岁？",
+        "promptVi": "Anh trai bạn lớn hơn bạn mấy tuổi? (Giả sử anh ấy lớn hơn bạn hai tuổi.)",
+        "answers": [
+          "(我哥哥)(比我)大两岁。",
+          "(他)(比我)大两岁。",
+          "两岁。"
+        ],
+        "examples": [
+          {
+            "answer": "他比我大两岁。",
+            "score": 100
+          },
+          {
+            "answer": "我哥哥比我大两岁。",
+            "score": 100
+          },
+          {
+            "answer": "大两岁。",
+            "score": 100
+          },
+          {
+            "answer": "两岁。",
+            "score": 100
+          },
+          {
+            "answer": "他比我大二岁。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ],
+            "note": "Trước lượng từ 岁 dùng 两"
+          },
+          {
+            "answer": "他比我大三岁。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        132
+      ]
+    },
+    {
+      "id": "hsk2-09-e26",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy chạy nhanh hơn tôi.)",
+      "options": [
+        "他跑得比我快。",
+        "他跑比我得快。",
+        "他比我跑快。"
+      ],
+      "answer": 0,
+      "explainVi": "「比我」 đứng sau 「跑得」 (hoặc trước 「跑」: 他比我跑得快); không bỏ 「得」.",
+      "grammar": [
+        134
+      ]
+    },
+    {
+      "id": "hsk2-09-e27",
+      "type": "order",
+      "vi": "Mary nói tiếng Hán giỏi hơn tôi.",
+      "tiles": [
+        "比我",
+        "玛丽",
+        "好",
+        "说得",
+        "说汉语"
+      ],
+      "answers": [
+        "玛丽说汉语说得比我好",
+        "玛丽说汉语比我说得好"
+      ],
+      "explainVi": "「比我」 đứng sau 「说得」 hoặc trước 「说得」 đều đúng.",
+      "grammar": [
+        134
+      ]
+    },
+    {
+      "id": "hsk2-09-e28",
+      "type": "translate",
+      "vi": "Em trai tôi chạy nhanh hơn tôi.",
+      "answers": [
+        "(我)弟弟[比我跑得|跑得比我]快。"
+      ],
+      "examples": [
+        {
+          "answer": "我弟弟跑得比我快。",
+          "score": 100
+        },
+        {
+          "answer": "我弟弟比我跑得快。",
+          "score": 100
+        },
+        {
+          "answer": "弟弟跑得比我快。",
+          "score": 100
+        },
+        {
+          "answer": "我弟弟跑得比我很快。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Câu 比 không dùng 很"
+        },
+        {
+          "answer": "我弟弟跑地比我快。",
+          "score": 95,
+          "issues": [
+            "homophone_char"
+          ],
+          "note": "Viết nhầm 地 thay cho 得"
+        },
+        {
+          "answer": "我跑得比我弟弟快。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        134
+      ]
+    },
+    {
+      "id": "hsk2-09-e29",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "有几个孩子在踢足球？",
+        "promptVi": "Có mấy đứa trẻ đang đá bóng?",
+        "picture": "⚽🧒🧒🧒🧒",
+        "expected": {
+          "number": 4,
+          "noun": "孩子",
+          "sentence": "有四个孩子在踢足球。"
+        },
+        "examples": [
+          {
+            "answer": "有四个孩子在踢足球。",
+            "score": 100
+          },
+          {
+            "answer": "有四个。",
+            "score": 100
+          },
+          {
+            "answer": "四个。",
+            "score": 100
+          },
+          {
+            "answer": "有四孩子在踢足球。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有三个孩子在踢足球。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-09-e30",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你喜欢什么运动？",
+        "promptVi": "Bạn thích môn thể thao nào? (Giả sử bạn thích bơi.)",
+        "answers": [
+          "(我)(最)喜欢游泳。",
+          "游泳。"
+        ],
+        "examples": [
+          {
+            "answer": "我喜欢游泳。",
+            "score": 100
+          },
+          {
+            "answer": "游泳。",
+            "score": 100
+          },
+          {
+            "answer": "我最喜欢游泳。",
+            "score": 100
+          },
+          {
+            "answer": "我喜欢跑步。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-09-e31",
+      "type": "fill",
+      "promptVi": "Chọn dạng lặp đúng.",
+      "before": "星期天我想在家",
+      "after": "地休息一天。",
+      "answers": [
+        "舒舒服服"
+      ],
+      "options": [
+        "舒舒服服",
+        "舒服舒服",
+        "很舒舒服服"
+      ],
+      "vi": "Chủ nhật tôi muốn ở nhà nghỉ ngơi thoải mái cả ngày.",
+      "explainVi": "Tính từ hai âm tiết lặp theo kiểu AABB và không đi với 「很」.",
+      "grammar": [
+        79,
+        100
+      ]
+    }
+  ]
+}

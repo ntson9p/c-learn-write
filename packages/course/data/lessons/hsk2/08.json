@@ -1,0 +1,1637 @@
+{
+  "id": "hsk2-08",
+  "goalsVi": [
+    "Hỏi đường và chỉ đường: 往前走, 往左走, 从这儿往前走十分钟就到了",
+    "Nói nơi này cách nơi kia xa hay gần với 「离」, hỏi 「有多远？」",
+    "Nói đi bằng phương tiện gì, đi đâu để làm gì bằng cụm liên động: 坐地铁去学校, 去超市买东西",
+    "Dùng bổ ngữ xu hướng đơn: 进来, 出去, 拿来, 回家去, 走进教室, 跑回家",
+    "Hỏi và kể rõ một việc đã xảy ra lúc nào, ở đâu, bằng cách nào, ai làm với 「是……的」"
+  ],
+  "words": [
+    {
+      "no": 392,
+      "word": "路",
+      "meaningsVi": [
+        "đường, con đường",
+        "tuyến (xe buýt): 五路公交车"
+      ],
+      "noteVi": "Lượng từ của 「路」 là 「条」: 一条路. Âm Hán Việt là 'lộ' (như trong 'quốc lộ'). Hỏi đi xe buýt số mấy: 你坐几路公交车？",
+      "examples": [
+        {
+          "zh": "这条路很长。",
+          "py": "zhè tiáo lù hěn cháng",
+          "vi": "Con đường này rất dài."
+        },
+        {
+          "zh": "我坐五路公交车去学校。",
+          "py": "wǒ zuò wǔ lù gōng jiāo chē qù xué xiào",
+          "vi": "Tôi đi xe buýt số 5 đến trường."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 393,
+      "word": "路上",
+      "meaningsVi": [
+        "trên đường, dọc đường",
+        "đang trên đường đi (đến đâu)"
+      ],
+      "noteVi": "「上」 trong 「路上」 đọc nhẹ: lùshang. 「我在路上」 là 'Tôi đang trên đường (đến)', câu rất hay dùng khi gọi điện thoại.",
+      "examples": [
+        {
+          "zh": "我在路上，十分钟就到。",
+          "py": "wǒ zài lù shang shí fēn zhōng jiù dào",
+          "vi": "Tôi đang trên đường, mười phút nữa là đến."
+        },
+        {
+          "zh": "路上车很多。",
+          "py": "lù shang chē hěn duō",
+          "vi": "Trên đường rất đông xe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 389,
+      "word": "离",
+      "meaningsVi": [
+        "cách (bao xa)"
+      ],
+      "noteVi": "Mẫu câu: A + 离 + B + 远/近: 我家离学校很近 (Nhà tôi cách trường rất gần). Nói khoảng cách thì dùng 「离」, không dùng 「从」: không nói 我家从学校很近. Âm Hán Việt là 'ly' (như 'cự ly').",
+      "examples": [
+        {
+          "zh": "我家离学校很近。",
+          "py": "wǒ jiā lí xué xiào hěn jìn",
+          "vi": "Nhà tôi cách trường rất gần."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 484,
+      "word": "远",
+      "meaningsVi": [
+        "xa"
+      ],
+      "noteVi": "Hỏi 'có xa không' nói 远吗？ hoặc 远不远？. Hỏi 'xa bao nhiêu' nói 多远？ hoặc 有多远？, không nói 多少远.",
+      "examples": [
+        {
+          "zh": "车站离这儿不远。",
+          "py": "chē zhàn lí zhè r bù yuǎn",
+          "vi": "Bến xe cách đây không xa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 373,
+      "word": "近",
+      "meaningsVi": [
+        "gần"
+      ],
+      "noteVi": "「近」 (gần) và 「进」 (vào) cùng đọc jìn, đừng viết nhầm.",
+      "examples": [
+        {
+          "zh": "医院离我家很近，走路五分钟。",
+          "py": "yī yuàn lí wǒ jiā hěn jìn zǒu lù wǔ fēn zhōng",
+          "vi": "Bệnh viện cách nhà tôi rất gần, đi bộ năm phút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 451,
+      "word": "往",
+      "meaningsVi": [
+        "về phía, hướng về (giới từ, đứng trước động từ: 往前走)",
+        "đi đến, chạy đến (động từ, chủ yếu trong văn viết: 开往北京的火车)"
+      ],
+      "noteVi": "「往 + phương hướng」 đứng **trước** động từ: 往前走 (đi về phía trước), 往右看 (nhìn sang phải). Đừng nói theo thứ tự tiếng Việt thành 走往前.",
+      "examples": [
+        {
+          "zh": "往前走，车站就在左边。",
+          "py": "wǎng qián zǒu chē zhàn jiù zài zuǒ bian",
+          "vi": "Cứ đi về phía trước, bến xe ở ngay bên trái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 495,
+      "word": "走",
+      "meaningsVi": [
+        "đi, đi bộ, bước đi",
+        "đi khỏi, rời đi"
+      ],
+      "noteVi": "Âm Hán Việt là 'tẩu', nhưng 「走」 là **đi bộ**; 'chạy' là 「跑」. 「走」 là hành động bước đi; 「去」 là đi **đến** đâu. 「我走了」 nghĩa là 'Tôi đi đây / Tôi về đây' khi chào ra về.",
+      "examples": [
+        {
+          "zh": "时间不早了，我走了。",
+          "py": "shí jiān bù zǎo le wǒ zǒu le",
+          "vi": "Muộn rồi, tôi về đây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 496,
+      "word": "走路",
+      "meaningsVi": [
+        "đi bộ"
+      ],
+      "noteVi": "Nói đi bộ đến đâu: 走路去 + nơi chốn: 走路去学校. Cách thức (走路) đứng trước, nơi đến đứng sau.",
+      "examples": [
+        {
+          "zh": "我每天走路去学校。",
+          "py": "wǒ měi tiān zǒu lù qù xué xiào",
+          "vi": "Hằng ngày tôi đi bộ đến trường."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 414,
+      "word": "跑",
+      "meaningsVi": [
+        "chạy"
+      ],
+      "noteVi": "Âm Hán Việt là 'bào'. 「跑来跑去」 là chạy tới chạy lui.",
+      "examples": [
+        {
+          "zh": "孩子们在外面跑来跑去。",
+          "py": "hái zi men zài wài miàn pǎo lái pǎo qù",
+          "vi": "Bọn trẻ chạy tới chạy lui ở bên ngoài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 397,
+      "word": "慢",
+      "meaningsVi": [
+        "chậm"
+      ],
+      "noteVi": "'Chậm một chút' nói 慢一点儿: 「一点儿」 đứng **sau** tính từ. Khi tiễn khách, người Trung Quốc hay nói 慢走 (đi cẩn thận nhé).",
+      "examples": [
+        {
+          "zh": "请你说慢一点儿。",
+          "py": "qǐng nǐ shuō màn yì diǎn r",
+          "vi": "Bạn làm ơn nói chậm một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 315,
+      "word": "车站",
+      "meaningsVi": [
+        "bến xe, nhà ga, trạm xe"
+      ],
+      "examples": [
+        {
+          "zh": "请问，车站在哪儿？",
+          "py": "qǐng wèn chē zhàn zài nǎ r",
+          "vi": "Xin hỏi, bến xe ở đâu ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 486,
+      "word": "站",
+      "meaningsVi": [
+        "trạm, ga, bến (xe buýt, tàu điện)"
+      ],
+      "noteVi": "Hay ghép với tên phương tiện: 地铁站 (ga tàu điện ngầm), 公交车站 (trạm xe buýt). Cũng dùng để đếm số trạm: 坐三站 (đi ba trạm). Nghĩa 'đứng' của 「站」 sẽ học ở HSK3.",
+      "examples": [
+        {
+          "zh": "我们坐三站就下车。",
+          "py": "wǒ men zuò sān zhàn jiù xià chē",
+          "vi": "Chúng ta đi ba trạm thì xuống xe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 335,
+      "word": "地铁",
+      "meaningsVi": [
+        "tàu điện ngầm, metro"
+      ],
+      "noteVi": "「地」 ở đây đọc dì (đất), 「铁」 là sắt: 'đường sắt dưới đất'. Đi tàu điện ngầm nói 坐地铁.",
+      "examples": [
+        {
+          "zh": "我坐地铁上班。",
+          "py": "wǒ zuò dì tiě shàng bān",
+          "vi": "Tôi đi làm bằng tàu điện ngầm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 346,
+      "word": "公交车",
+      "meaningsVi": [
+        "xe buýt"
+      ],
+      "noteVi": "Đi xe buýt nói 坐公交车 (động từ 「坐」, giống 坐地铁, 坐出租车).",
+      "examples": [
+        {
+          "zh": "我们坐公交车去吧。",
+          "py": "wǒ men zuò gōng jiāo chē qù ba",
+          "vi": "Chúng mình đi xe buýt nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 328,
+      "word": "打车",
+      "meaningsVi": [
+        "bắt taxi, đi taxi"
+      ],
+      "noteVi": "「打车」 = 坐出租车. 「打」 ở đây không phải là 'đánh'. Sau 「打车」 có thể thêm nơi đến: 打车去机场, 打车回家.",
+      "examples": [
+        {
+          "zh": "太晚了，我们打车回家吧。",
+          "py": "tài wǎn le wǒ men dǎ chē huí jiā ba",
+          "vi": "Muộn quá rồi, chúng mình bắt taxi về nhà đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 316,
+      "word": "出",
+      "meaningsVi": [
+        "ra, đi ra (khỏi một nơi)"
+      ],
+      "noteVi": "「出」 + nơi chốn: 出门 (ra khỏi nhà), 出国 (ra nước ngoài). Đặt sau động từ khác làm bổ ngữ xu hướng: 跑出 (chạy ra), 拿出 (lấy ra).",
+      "examples": [
+        {
+          "zh": "他出了门就往车站跑。",
+          "py": "tā chū le mén jiù wǎng chē zhàn pǎo",
+          "vi": "Anh ấy vừa ra khỏi cửa là chạy về phía bến xe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 370,
+      "word": "进",
+      "meaningsVi": [
+        "vào, đi vào"
+      ],
+      "noteVi": "「请进」 (Mời vào) là câu nói khi có người gõ cửa. 「进」 + nơi chốn: 进门, 进教室. Đừng nhầm với 「近」 (gần), cùng đọc jìn.",
+      "examples": [
+        {
+          "zh": "请进，请坐。",
+          "py": "qǐng jìn qǐng zuò",
+          "vi": "Mời vào, mời ngồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 347,
+      "word": "过",
+      "meaningsVi": [
+        "qua, đi qua",
+        "trải qua, đón (sinh nhật, ngày Tết…)"
+      ],
+      "noteVi": "Âm Hán Việt là 'quá' (như 'quá khứ'). 过了 + nơi chốn: đi qua chỗ đó rồi. 过生日 là đón sinh nhật. 「过」 đọc nhẹ guo làm trợ từ 'đã từng' sẽ học ở bài 10.",
+      "examples": [
+        {
+          "zh": "过了前面的车站就是我家。",
+          "py": "guò le qián miàn de chē zhàn jiù shì wǒ jiā",
+          "vi": "Qua khỏi bến xe phía trước là đến nhà tôi."
+        },
+        {
+          "zh": "你怎么过生日？",
+          "py": "nǐ zěn me guò shēng rì",
+          "vi": "Bạn đón sinh nhật thế nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 361,
+      "word": "回来",
+      "meaningsVi": [
+        "trở về, quay lại (về chỗ người nói)"
+      ],
+      "noteVi": "Người nói đang ở nơi mà người kia sẽ trở về: 妈妈什么时候回来？ (mẹ về nhà, nơi người nói đang ở).",
+      "examples": [
+        {
+          "zh": "妈妈什么时候回来？",
+          "py": "mā ma shén me shí hou huí lái",
+          "vi": "Bao giờ mẹ về?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 362,
+      "word": "回去",
+      "meaningsVi": [
+        "trở về, quay về (rời chỗ người nói)"
+      ],
+      "noteVi": "Người được nói đến rời khỏi chỗ người nói để về nơi của mình: 很晚了，你回去吧 (người nói ở lại).",
+      "examples": [
+        {
+          "zh": "很晚了，你回去吧。",
+          "py": "hěn wǎn le nǐ huí qù ba",
+          "vi": "Muộn lắm rồi, bạn về đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 318,
+      "word": "出来",
+      "meaningsVi": [
+        "đi ra (về phía người nói)"
+      ],
+      "noteVi": "Người nói đang ở bên ngoài: 你出来一下 (Bạn ra đây một chút).",
+      "examples": [
+        {
+          "zh": "你出来一下，我在门口等你。",
+          "py": "nǐ chū lái yí xià wǒ zài mén kǒu děng nǐ",
+          "vi": "Bạn ra đây một chút, mình đợi bạn ở cửa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 320,
+      "word": "出去",
+      "meaningsVi": [
+        "đi ra, ra ngoài (rời chỗ người nói)"
+      ],
+      "noteVi": "Người nói đang ở bên trong và đi (hoặc bảo người khác đi) ra ngoài: 我们出去吃饭吧.",
+      "examples": [
+        {
+          "zh": "我们出去吃饭吧。",
+          "py": "wǒ men chū qù chī fàn ba",
+          "vi": "Chúng mình ra ngoài ăn cơm đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 371,
+      "word": "进来",
+      "meaningsVi": [
+        "đi vào (về phía người nói)"
+      ],
+      "noteVi": "Người nói đang ở bên trong: 快进来吧 (Mau vào đây đi).",
+      "examples": [
+        {
+          "zh": "外面很冷，快进来吧！",
+          "py": "wài miàn hěn lěng kuài jìn lái ba",
+          "vi": "Ngoài trời lạnh lắm, mau vào đây đi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 372,
+      "word": "进去",
+      "meaningsVi": [
+        "đi vào (vào trong đó, rời chỗ người nói)"
+      ],
+      "noteVi": "Người nói đang ở bên ngoài: 你进去吧 (Bạn vào trong đó đi).",
+      "examples": [
+        {
+          "zh": "老师在教室里，你进去吧。",
+          "py": "lǎo shī zài jiào shì lǐ nǐ jìn qù ba",
+          "vi": "Thầy giáo ở trong lớp, em vào đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 405,
+      "word": "拿",
+      "meaningsVi": [
+        "cầm, nắm",
+        "lấy, mang"
+      ],
+      "noteVi": "Hay đi với bổ ngữ xu hướng: 拿来 (mang lại đây), 拿去 (mang đi), 拿出 (lấy ra). 拿着 là đang cầm.",
+      "examples": [
+        {
+          "zh": "你手里拿着什么？",
+          "py": "nǐ shǒu lǐ ná zhe shén me",
+          "vi": "Bạn đang cầm gì trong tay thế?"
+        },
+        {
+          "zh": "请你拿一杯水来。",
+          "py": "qǐng nǐ ná yì bēi shuǐ lái",
+          "vi": "Bạn mang giúp mình một cốc nước lại đây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 92,
+      "titleVi": "Giới từ 「往」: đi về hướng nào",
+      "summaryVi": "「往」 + phương hướng hoặc nơi chốn đứng trước động từ để chỉ hướng của động tác: 往前走 (đi về phía trước).",
+      "explanationVi": [
+        "「往」 nghĩa là 'về phía, hướng về'. Sau 「往」 là một phương hướng (前, 后, 左, 右, 里, 外, 上, 下…) hoặc một nơi chốn (车站, 学校…), rồi mới đến động từ: 往前走, 往左走, 往车站跑.",
+        "Khác tiếng Việt: tiếng Việt nói 'đi **về phía trước**' (động từ trước, hướng sau); tiếng Trung đặt cụm 「往 + hướng」 **trước** động từ: 往前走, không nói 走往前.",
+        "Khi chỉ đường hay dùng: 往前走 (đi thẳng về phía trước), 往左走 / 往右走 (đi về bên trái / bên phải), 往回走 (quay lại). Có thể thêm thời gian sau động từ: 往前走五分钟 (đi về phía trước năm phút).",
+        "「往」 là giới từ nên **phải** có động từ đi sau: 我往车站走 (Tôi đi về phía bến xe). Muốn nói 'đi đến bến xe' thì dùng 我去车站; không nói 我往车站."
+      ],
+      "patterns": [
+        "往 + phương hướng + động từ",
+        "往 + nơi chốn + động từ",
+        "从 + nơi chốn + 往 + phương hướng + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "往前走五分钟就到了。",
+          "py": "wǎng qián zǒu wǔ fēn zhōng jiù dào le",
+          "vi": "Đi về phía trước năm phút là đến."
+        },
+        {
+          "zh": "你往右看，那是我们的学校。",
+          "py": "nǐ wǎng yòu kàn nà shì wǒ men de xué xiào",
+          "vi": "Bạn nhìn sang bên phải, kia là trường của chúng tôi."
+        },
+        {
+          "zh": "下雨了，大家都往车站跑。",
+          "py": "xià yǔ le dà jiā dōu wǎng chē zhàn pǎo",
+          "vi": "Trời mưa rồi, mọi người đều chạy về phía bến xe."
+        },
+        {
+          "zh": "出了门往左走，就是地铁站。",
+          "py": "chū le mén wǎng zuǒ zǒu jiù shì dì tiě zhàn",
+          "vi": "Ra khỏi cửa đi về bên trái là đến ga tàu điện ngầm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你走往前。",
+          "right": "你往前走。",
+          "noteVi": "「往 + hướng」 đứng trước động từ, không đặt sau như tiếng Việt 'đi về phía trước'."
+        },
+        {
+          "wrong": "我往车站。",
+          "right": "我往车站走。",
+          "noteVi": "「往」 là giới từ, sau nó phải có động từ. Muốn nói 'Tôi đi đến bến xe' thì nói 我去车站."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 93,
+      "titleVi": "「从」 chỉ nơi xuất phát và đường đi",
+      "summaryVi": "「从」 + nơi chốn đứng trước động từ chuyển động, cho biết đi từ đâu hoặc đi qua đường nào: 我从越南来, 从这个门进去.",
+      "explanationVi": [
+        "Ở bài 1 (HSK2) đã học 「从」 chỉ điểm bắt đầu (从……到……). Ở bài này, 「从」 đi với động từ chuyển động (来, 去, 走, 出来, 进去…) để chỉ **nơi xuất phát**: 我从河内来 (Tôi từ Hà Nội đến), 他从房间里出来 (Anh ấy từ trong phòng đi ra).",
+        "「从」 còn chỉ **đường đi qua**: 从这个门进去 (đi vào bằng cửa này), 我们从这条路走 (chúng ta đi theo đường này).",
+        "Lỗi hay gặp: tiếng Việt nói 'đến **từ** Việt Nam', 'đi ra **từ** phòng', cụm 'từ + nơi chốn' đứng sau động từ. Tiếng Trung ngược lại: 「从 + nơi chốn」 luôn đứng **trước** động từ: 我从越南来, không nói 我来从越南.",
+        "Sau 「从」 phải là từ chỉ nơi chốn; với đồ vật thì thêm phương vị từ: 从房间里出来, 从书包里拿. Đừng nhầm 「从」 với 「离」: nói khoảng cách xa hay gần dùng 「离」 (我家离学校很近)."
+      ],
+      "patterns": [
+        "从 + nơi chốn + động từ chuyển động (来/去/走/出来…)",
+        "从 + nơi chốn + 往 + phương hướng + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "大卫从美国来，玛丽从英国来。",
+          "py": "dà wèi cóng měi guó lái mǎ lì cóng yīng guó lái",
+          "vi": "David đến từ Mỹ, Mary đến từ Anh."
+        },
+        {
+          "zh": "你从这个门进去吧。",
+          "py": "nǐ cóng zhè ge mén jìn qù ba",
+          "vi": "Bạn đi vào bằng cửa này nhé."
+        },
+        {
+          "zh": "从这儿往前走，十分钟就到。",
+          "py": "cóng zhè r wǎng qián zǒu shí fēn zhōng jiù dào",
+          "vi": "Từ đây đi về phía trước, mười phút là đến."
+        },
+        {
+          "zh": "他从房间里出来了。",
+          "py": "tā cóng fáng jiān lǐ chū lái le",
+          "vi": "Anh ấy từ trong phòng đi ra."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我来从越南。",
+          "right": "我从越南来。",
+          "noteVi": "Cụm 「从 + nơi chốn」 đứng trước động từ, không dịch theo trật tự tiếng Việt 'đến từ Việt Nam'."
+        },
+        {
+          "wrong": "他出来从房间里。",
+          "right": "他从房间里出来。",
+          "noteVi": "Nơi xuất phát (从房间里) đứng trước động từ 「出来」."
+        },
+        {
+          "wrong": "我家从学校很近。",
+          "right": "我家离学校很近。",
+          "noteVi": "Nói hai nơi cách nhau xa hay gần dùng 「离」, không dùng 「从」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 106,
+      "titleVi": "Cụm liên động: 坐地铁去学校, 去超市买东西",
+      "summaryVi": "Hai cụm động từ của cùng một chủ ngữ đứng liền nhau theo thứ tự: cách thức trước, việc chính sau; đi đâu trước, để làm gì sau.",
+      "explanationVi": [
+        "Cụm liên động gồm hai (hoặc nhiều) cụm động từ cùng một chủ ngữ, đứng liền nhau, không cần từ nối: 我**坐地铁****去学校** (Tôi đi tàu điện ngầm đến trường).",
+        "Kiểu 1 — **cách thức + việc chính**: cụm thứ nhất cho biết đi bằng gì, làm bằng cách nào (坐公交车, 坐地铁, 走路, 打车), cụm thứ hai là việc chính (去学校, 回家, 来中国). Tiếng Việt hay nói 'đến trường **bằng** tàu điện ngầm', đặt phương tiện ở cuối; tiếng Trung đặt phương tiện **trước**: 坐地铁去学校.",
+        "Kiểu 2 — **đi đâu + để làm gì**: 去超市买东西 (đi siêu thị mua đồ), 来中国学汉语, 出去吃饭. Thứ tự giống tiếng Việt 'đi siêu thị mua đồ'. Nhưng nếu nói theo kiểu 'đi mua đồ **ở** siêu thị' rồi đặt nơi chốn ra cuối (去买东西在超市) là sai.",
+        "Các từ 不, 也, 都, 想, 要… đặt trước cụm động từ thứ nhất: 我不坐地铁去学校, 我想去商场买衣服."
+      ],
+      "patterns": [
+        "Chủ ngữ + 坐/走路/打车… + 去/来/回 + nơi chốn",
+        "Chủ ngữ + 去/来 + nơi chốn + động từ + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我每天坐公交车去学校。",
+          "py": "wǒ měi tiān zuò gōng jiāo chē qù xué xiào",
+          "vi": "Hằng ngày tôi đi xe buýt đến trường."
+        },
+        {
+          "zh": "明天我们打车去商场吧。",
+          "py": "míng tiān wǒ men dǎ chē qù shāng chǎng ba",
+          "vi": "Ngày mai chúng mình đi taxi đến trung tâm thương mại nhé."
+        },
+        {
+          "zh": "他来中国学汉语。",
+          "py": "tā lái zhōng guó xué hàn yǔ",
+          "vi": "Anh ấy đến Trung Quốc học tiếng Hán."
+        },
+        {
+          "zh": "晚上我们出去吃饭，好吗？",
+          "py": "wǎn shang wǒ men chū qù chī fàn hǎo ma",
+          "vi": "Tối nay chúng mình ra ngoài ăn cơm nhé?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我去学校坐地铁。",
+          "right": "我坐地铁去学校。",
+          "noteVi": "Muốn nói 'đến trường bằng tàu điện ngầm' thì phương tiện đứng trước. Câu bên trái chỉ có nghĩa là 'đến trường để đi tàu điện ngầm', nên chỉ sai với nghĩa định nói."
+        },
+        {
+          "wrong": "我去买东西在超市。",
+          "right": "我去超市买东西。",
+          "noteVi": "Nơi đến đứng ngay sau 「去」, việc cần làm đứng sau cùng; không đặt 「在 + nơi chốn」 ở cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 119,
+      "titleVi": "Bổ ngữ xu hướng đơn (1): động từ + 来/去",
+      "summaryVi": "「来」 hoặc 「去」 đặt sau động từ để chỉ hướng: 「来」 là về phía người nói, 「去」 là rời xa người nói (进来, 出去, 拿来, 回家去).",
+      "explanationVi": [
+        "Bổ ngữ xu hướng cho biết động tác đi về **hướng** nào. Đơn giản nhất là 「来」 và 「去」 đặt ngay sau động từ: 「来」 = hướng **về phía người nói** (lại đây), 「去」 = hướng **ra xa người nói** (đến đó).",
+        "Người nói ở trong phòng, bảo người ở ngoài: 请进来！(Mời vào đây!). Người nói ở ngoài, bảo người kia: 你进去吧！(Bạn vào trong đó đi!). Tiếng Việt cũng có 'vào đây / vào đó', 'mang lại / mang đi' nhưng nhiều khi bỏ đi được; tiếng Trung chọn 「来」 hay 「去」 rất rõ theo **chỗ người nói đứng**.",
+        "Các cặp hay gặp: 进来 / 进去 (vào), 出来 / 出去 (ra), 回来 / 回去 (về), 拿来 / 拿去 (mang lại / mang đi), 跑来 / 跑去 (chạy lại / chạy đi). 「跑来跑去」 là chạy tới chạy lui.",
+        "**Vị trí tân ngữ.** Tân ngữ chỉ **nơi chốn** phải đứng **giữa** động từ và 来/去: 回家去, 进教室来, 上楼去. Không nói 回去家, 进来教室 (lỗi rất hay gặp vì tiếng Việt nói 'về nhà', 'vào lớp'). Tân ngữ chỉ **đồ vật** có thể đứng trước hoặc sau 来/去: 拿一杯水来 = 拿来一杯水."
+      ],
+      "patterns": [
+        "Động từ + 来/去",
+        "Động từ + nơi chốn + 来/去",
+        "Động từ + đồ vật + 来/去 = Động từ + 来/去 + đồ vật"
+      ],
+      "examples": [
+        {
+          "zh": "他回家去了。",
+          "py": "tā huí jiā qù le",
+          "vi": "Anh ấy về nhà rồi."
+        },
+        {
+          "zh": "这本书你拿去看吧。",
+          "py": "zhè běn shū nǐ ná qù kàn ba",
+          "vi": "Quyển sách này bạn cứ mang về mà đọc."
+        },
+        {
+          "zh": "小狗在门口跑来跑去。",
+          "py": "xiǎo gǒu zài mén kǒu pǎo lái pǎo qù",
+          "vi": "Con chó nhỏ chạy tới chạy lui ở cửa."
+        },
+        {
+          "zh": "他拿来了一本书。",
+          "py": "tā ná lái le yì běn shū",
+          "vi": "Anh ấy mang lại đây một quyển sách."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他回去家了。",
+          "right": "他回家去了。",
+          "noteVi": "Tân ngữ chỉ nơi chốn (家) đứng trước 「去」. Cũng có thể nói gọn: 他回家了."
+        },
+        {
+          "wrong": "请进来教室。",
+          "right": "请进教室来。",
+          "noteVi": "「教室」 là nơi chốn nên đứng giữa 「进」 và 「来」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 120,
+      "titleVi": "Bổ ngữ xu hướng đơn (2): động từ + 上/下/进/出/过/回",
+      "summaryVi": "上, 下, 进, 出, 过, 回 đặt sau động từ để chỉ hướng di chuyển: lên, xuống, vào, ra, qua, về (走进教室, 跑回家).",
+      "explanationVi": [
+        "Sáu từ 上 (lên), 下 (xuống), 进 (vào), 出 (ra), 过 (qua), 回 (về) có thể đứng ngay sau một động từ khác để chỉ hướng di chuyển: 走进 (đi vào), 跑出 (chạy ra), 走上 (đi lên), 坐下 (ngồi xuống), 走过 (đi qua), 跑回 (chạy về).",
+        "Trật tự giống tiếng Việt: động từ trước, hướng sau: 'chạy về nhà' = 跑回家, 'bước vào lớp' = 走进教室. Sau bổ ngữ thường là nơi chốn: 走进**教室**, 跑出**房间**, 走上**二楼**, 跑回**家**.",
+        "Khác với 「来」/「去」, các bổ ngữ này **không** cho biết hướng so với người nói, chỉ nói lên, xuống, vào, ra… Ở bài 10 sẽ học cách ghép hai loại với nhau: 走进来, 跑出去.",
+        "「了」 đứng sau cả cụm động từ + bổ ngữ: 他走进了教室 (hoặc 他走进教室了), không chen vào giữa: không nói 他走了进教室."
+      ],
+      "patterns": [
+        "Động từ + 上/下/进/出/过/回 + nơi chốn",
+        "Động từ + 上/下/进/出/过/回 + 了 + nơi chốn"
+      ],
+      "examples": [
+        {
+          "zh": "老师走进了教室。",
+          "py": "lǎo shī zǒu jìn le jiào shì",
+          "vi": "Thầy giáo bước vào lớp học."
+        },
+        {
+          "zh": "下课了，孩子们跑出了教室。",
+          "py": "xià kè le hái zi men pǎo chū le jiào shì",
+          "vi": "Tan học rồi, bọn trẻ chạy ra khỏi lớp."
+        },
+        {
+          "zh": "他走上二楼，打开了房间的门。",
+          "py": "tā zǒu shàng èr lóu dǎ kāi le fáng jiān de mén",
+          "vi": "Anh ấy đi lên tầng hai, mở cửa phòng."
+        },
+        {
+          "zh": "他从我前面走过，没看见我。",
+          "py": "tā cóng wǒ qián miàn zǒu guò méi kàn jiàn wǒ",
+          "vi": "Anh ấy đi ngang qua trước mặt tôi mà không nhìn thấy tôi."
+        },
+        {
+          "zh": "大家请坐下。",
+          "py": "dà jiā qǐng zuò xià",
+          "vi": "Mời mọi người ngồi xuống."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他走了进教室。",
+          "right": "他走进了教室。",
+          "noteVi": "「了」 không chen vào giữa động từ và bổ ngữ xu hướng; đặt sau 「走进」 hoặc ở cuối câu (他走进教室了)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 129,
+      "titleVi": "「有」 chỉ mức đạt tới: 有多远？有十分钟",
+      "summaryVi": "「有」 + số lượng (hoặc 多 + tính từ) cho biết một thứ đạt tới mức nào, hay dùng để ước lượng hoặc hỏi khoảng cách, tuổi, thời gian.",
+      "explanationVi": [
+        "Ngoài nghĩa 'có', 「有」 đứng trước một số lượng còn có nghĩa '**đạt tới, được (khoảng)**': 这个孩子有八岁了 (Đứa bé này được tám tuổi rồi). Tiếng Việt cũng nói 'được tám tuổi', 'phải mười phút'.",
+        "Hỏi mức độ: 有 + 多 + tính từ: 有多远？(xa bao nhiêu?), 有多长？(dài bao nhiêu?), 有多大？(lớn bao nhiêu?). Trả lời: (有) + số lượng: 走路有十分钟 (đi bộ khoảng mười phút). Chú ý dùng 「多」, không dùng 「多少」 trước tính từ.",
+        "Phủ định dùng 「没有」: 他没有十岁 (Cậu bé chưa đến mười tuổi), 从这儿到车站没有十分钟 (Từ đây đến bến xe chưa tới mười phút). Không nói 不有.",
+        "「有」 kiểu này nhấn mạnh 'đến mức đó', thường mang ý ước lượng. Bỏ 「有」 câu vẫn đúng: 你家离学校多远？"
+      ],
+      "patterns": [
+        "Chủ ngữ + 有 + số + lượng từ",
+        "Chủ ngữ + 有 + 多 + tính từ？",
+        "Chủ ngữ + 没有 + số + lượng từ"
+      ],
+      "examples": [
+        {
+          "zh": "你家离学校有多远？",
+          "py": "nǐ jiā lí xué xiào yǒu duō yuǎn",
+          "vi": "Nhà bạn cách trường bao xa?"
+        },
+        {
+          "zh": "从我家到车站，走路有十分钟。",
+          "py": "cóng wǒ jiā dào chē zhàn zǒu lù yǒu shí fēn zhōng",
+          "vi": "Từ nhà tôi đến bến xe, đi bộ khoảng mười phút."
+        },
+        {
+          "zh": "你儿子有六岁了吧？",
+          "py": "nǐ ér zi yǒu liù suì le ba",
+          "vi": "Con trai chị được sáu tuổi rồi nhỉ?"
+        },
+        {
+          "zh": "他没有十八岁，不能开车。",
+          "py": "tā méi yǒu shí bā suì bù néng kāi chē",
+          "vi": "Cậu ấy chưa đến mười tám tuổi, không được lái xe."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "从这儿到车站不有十分钟。",
+          "right": "从这儿到车站没有十分钟。",
+          "noteVi": "Phủ định của 「有」 là 「没有」.",
+          "issue": "bu_you"
+        },
+        {
+          "wrong": "你家离学校有多少远？",
+          "right": "你家离学校有多远？",
+          "noteVi": "Hỏi mức độ dùng 「多 + tính từ」 (多远, 多长); 「多少」 chỉ dùng để hỏi số lượng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 135,
+      "titleVi": "Câu 「是……的」: nhấn mạnh thời gian, nơi chốn, cách thức, người làm",
+      "summaryVi": "Với việc **đã xảy ra**, đặt 「是」 trước phần muốn nhấn mạnh (khi nào, ở đâu, bằng cách nào, ai) và 「的」 ở cuối: 我是坐地铁来的.",
+      "explanationVi": [
+        "Khi cả hai người đều biết một việc **đã xảy ra** rồi, và muốn hỏi hoặc nói rõ **khi nào, ở đâu, bằng cách nào, ai làm**, tiếng Trung dùng 「是……的」: 你是怎么来的？— 我是坐地铁来的. Tiếng Việt hay dịch bằng '… đấy': 'Tôi đi tàu điện ngầm đến đấy'.",
+        "「是」 đứng ngay trước phần được nhấn mạnh, 「的」 đứng cuối câu. Thời gian: 我是昨天回来的. Nơi chốn: 他是从北京来的. Cách thức: 我们是打车去的. Người làm: 这些包子是妈妈做的.",
+        "Câu khẳng định có thể bỏ 「是」 (我坐地铁来的), nhưng **không** được bỏ 「的」. Câu phủ định phải có 「不是」: 我不是坐地铁来的.",
+        "Không dùng 「了」 trong câu 「是……的」: nói 我是昨天来的, không nói 我是昨天来了. Việc chưa xảy ra cũng không dùng 「是……的」: 明天我坐飞机去."
+      ],
+      "patterns": [
+        "Chủ ngữ + 是 + thời gian / nơi chốn / cách thức + động từ + 的",
+        "是 + người + động từ + 的",
+        "Chủ ngữ + 不是 + … + động từ + 的"
+      ],
+      "examples": [
+        {
+          "zh": "你是什么时候到的？——我是昨天晚上到的。",
+          "py": "nǐ shì shén me shí hou dào de wǒ shì zuó tiān wǎn shang dào de",
+          "vi": "Bạn đến lúc nào thế? — Tôi đến tối hôm qua."
+        },
+        {
+          "zh": "我是坐公交车来的，不是打车来的。",
+          "py": "wǒ shì zuò gōng jiāo chē lái de bú shì dǎ chē lái de",
+          "vi": "Tôi đi xe buýt đến đấy, không phải đi taxi."
+        },
+        {
+          "zh": "这些包子是谁做的？——是我妈妈做的。",
+          "py": "zhè xiē bāo zi shì shéi zuò de shì wǒ mā ma zuò de",
+          "vi": "Mấy cái bánh bao này ai làm thế? — Mẹ tôi làm đấy."
+        },
+        {
+          "zh": "他是从河内来的。",
+          "py": "tā shì cóng hé nèi lái de",
+          "vi": "Anh ấy từ Hà Nội đến đấy."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我是昨天来了。",
+          "right": "我是昨天来的。",
+          "noteVi": "Câu 「是……的」 kết thúc bằng 「的」, không dùng 「了」."
+        },
+        {
+          "wrong": "我不坐地铁来的。",
+          "right": "我不是坐地铁来的。",
+          "noteVi": "Câu phủ định phải có 「不是」; chỉ câu khẳng định mới bỏ được 「是」."
+        },
+        {
+          "wrong": "我是坐地铁来。",
+          "right": "我是坐地铁来的。",
+          "noteVi": "Không được bỏ 「的」 ở cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-08-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "远",
+          "xa"
+        ],
+        [
+          "近",
+          "gần"
+        ],
+        [
+          "慢",
+          "chậm"
+        ],
+        [
+          "跑",
+          "chạy"
+        ],
+        [
+          "拿",
+          "cầm, lấy"
+        ],
+        [
+          "离",
+          "cách"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-08-e02",
+      "type": "match",
+      "promptVi": "Nối phương tiện, nơi chốn với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "地铁",
+          "tàu điện ngầm"
+        ],
+        [
+          "公交车",
+          "xe buýt"
+        ],
+        [
+          "打车",
+          "đi taxi"
+        ],
+        [
+          "车站",
+          "bến xe"
+        ],
+        [
+          "走路",
+          "đi bộ"
+        ],
+        [
+          "路上",
+          "trên đường"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-08-e03",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa. (Người nói ở đâu?)",
+      "pairs": [
+        [
+          "进来",
+          "vào đây"
+        ],
+        [
+          "进去",
+          "vào trong đó"
+        ],
+        [
+          "出来",
+          "ra đây"
+        ],
+        [
+          "出去",
+          "ra ngoài đó"
+        ],
+        [
+          "回来",
+          "về đây"
+        ],
+        [
+          "回去",
+          "về bên đó"
+        ]
+      ],
+      "grammar": [
+        119
+      ]
+    },
+    {
+      "id": "hsk2-08-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn đi về phía trước.)",
+      "options": [
+        "你往前走。",
+        "你走往前。",
+        "你往走前。"
+      ],
+      "answer": 0,
+      "explainVi": "「往 + hướng」 đứng trước động từ: 往前走.",
+      "grammar": [
+        92
+      ]
+    },
+    {
+      "id": "hsk2-08-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你家",
+      "after": "学校远吗？",
+      "answers": [
+        "离"
+      ],
+      "options": [
+        "离",
+        "从",
+        "往"
+      ],
+      "vi": "Nhà bạn cách trường có xa không?",
+      "explainVi": "Nói khoảng cách xa, gần dùng 「离」."
+    },
+    {
+      "id": "hsk2-08-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我朋友",
+      "after": "日本来。",
+      "answers": [
+        "从"
+      ],
+      "options": [
+        "从",
+        "离",
+        "往"
+      ],
+      "vi": "Bạn tôi đến từ Nhật Bản.",
+      "explainVi": "Nơi xuất phát: 「从 + nơi chốn」 đứng trước 「来」.",
+      "grammar": [
+        93
+      ]
+    },
+    {
+      "id": "hsk2-08-e07",
+      "type": "order",
+      "vi": "Từ đây đi về phía trước mười phút là đến.",
+      "tiles": [
+        "往前",
+        "从这儿",
+        "就到了",
+        "走",
+        "十分钟"
+      ],
+      "answers": [
+        "从这儿往前走十分钟就到了"
+      ],
+      "explainVi": "「从这儿」 (từ đâu) rồi 「往前」 (về hướng nào) đều đứng trước động từ 「走」; thời gian (十分钟) đứng sau động từ.",
+      "grammar": [
+        92,
+        93
+      ]
+    },
+    {
+      "id": "hsk2-08-e08",
+      "type": "choice",
+      "promptVi": "Câu nào có nghĩa 'Tôi đến trường bằng xe buýt'?",
+      "options": [
+        "我坐公交车去学校。",
+        "我去学校坐公交车。",
+        "我去坐学校公交车。"
+      ],
+      "answer": 0,
+      "explainVi": "Phương tiện (坐公交车) đứng trước, nơi đến (去学校) đứng sau. Câu thứ hai nghĩa là 'đến trường để đi xe buýt'.",
+      "grammar": [
+        106
+      ]
+    },
+    {
+      "id": "hsk2-08-e09",
+      "type": "order",
+      "vi": "Chúng mình đi siêu thị mua đồ nhé.",
+      "tiles": [
+        "买",
+        "我们",
+        "超市",
+        "去",
+        "东西",
+        "吧"
+      ],
+      "answers": [
+        "我们去超市买东西吧"
+      ],
+      "explainVi": "Đi đâu (去超市) trước, để làm gì (买东西) sau.",
+      "grammar": [
+        106
+      ]
+    },
+    {
+      "id": "hsk2-08-e10",
+      "type": "translate",
+      "vi": "Hằng ngày tôi đi bộ đến trường.",
+      "answers": [
+        "[我每天|每天我]走[路|着]去学校。"
+      ],
+      "examples": [
+        {
+          "answer": "我每天走路去学校。",
+          "score": 100
+        },
+        {
+          "answer": "每天我走路去学校。",
+          "score": 100
+        },
+        {
+          "answer": "我每天走着去学校。",
+          "score": 100
+        },
+        {
+          "answer": "我每天去学校走路。",
+          "score": 0,
+          "note": "Thứ tự sai: cách thức (走路) phải đứng trước"
+        },
+        {
+          "answer": "我每天坐公交车去学校。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        106
+      ]
+    },
+    {
+      "id": "hsk2-08-e11",
+      "type": "fill",
+      "promptVi": "Bạn đang ở trong nhà. Chọn từ đúng.",
+      "before": "外面很冷，快",
+      "after": "吧！",
+      "answers": [
+        "进来"
+      ],
+      "options": [
+        "进来",
+        "进去",
+        "出去"
+      ],
+      "vi": "Ngoài trời lạnh lắm, mau vào đây đi!",
+      "explainVi": "Người nói ở trong nhà, người kia đi về phía người nói nên dùng 「进来」.",
+      "grammar": [
+        119
+      ]
+    },
+    {
+      "id": "hsk2-08-e12",
+      "type": "choice",
+      "promptVi": "Bạn đứng ngoài cửa lớp, thầy giáo ở trong lớp. Bạn bảo bạn mình vào lớp trước. Bạn nói:",
+      "options": [
+        "老师在里面，你进去吧。",
+        "老师在里面，你进来吧。",
+        "老师在里面，你出去吧。"
+      ],
+      "answer": 0,
+      "explainVi": "Bạn mình rời chỗ bạn đứng để đi vào trong, nên dùng 「进去」.",
+      "grammar": [
+        119
+      ]
+    },
+    {
+      "id": "hsk2-08-e13",
+      "type": "order",
+      "vi": "Anh ấy về nhà rồi.",
+      "tiles": [
+        "去",
+        "他",
+        "了",
+        "家",
+        "回"
+      ],
+      "answers": [
+        "他回家去了"
+      ],
+      "explainVi": "Nơi chốn (家) đứng giữa 「回」 và 「去」.",
+      "grammar": [
+        119
+      ]
+    },
+    {
+      "id": "hsk2-08-e14",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Mời em vào lớp.)",
+      "options": [
+        "请你进教室来。",
+        "请你进来教室。",
+        "请你来进教室。"
+      ],
+      "answer": 0,
+      "explainVi": "Tân ngữ chỉ nơi chốn đứng trước 「来」/「去」: 进教室来.",
+      "grammar": [
+        119
+      ]
+    },
+    {
+      "id": "hsk2-08-e15",
+      "type": "fill",
+      "promptVi": "Điền bổ ngữ xu hướng thích hợp.",
+      "before": "老师走",
+      "after": "了教室。",
+      "answers": [
+        "进"
+      ],
+      "options": [
+        "进",
+        "出",
+        "上"
+      ],
+      "vi": "Thầy giáo bước vào lớp học.",
+      "grammar": [
+        120
+      ]
+    },
+    {
+      "id": "hsk2-08-e16",
+      "type": "order",
+      "vi": "Bọn trẻ chạy ra khỏi lớp học.",
+      "tiles": [
+        "教室",
+        "孩子们",
+        "了",
+        "出",
+        "跑"
+      ],
+      "answers": [
+        "孩子们跑出了教室",
+        "孩子们跑出教室了"
+      ],
+      "explainVi": "「了」 đứng sau 「跑出」 hoặc cuối câu, không chen vào giữa 「跑」 và 「出」.",
+      "grammar": [
+        120
+      ]
+    },
+    {
+      "id": "hsk2-08-e17",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy đi lên tầng hai.)",
+      "options": [
+        "他走上了二楼。",
+        "他走了上二楼。",
+        "他上走了二楼。"
+      ],
+      "answer": 0,
+      "explainVi": "Bổ ngữ 「上」 đứng ngay sau động từ 「走」, 「了」 đứng sau cả cụm 「走上」.",
+      "grammar": [
+        120
+      ]
+    },
+    {
+      "id": "hsk2-08-e18",
+      "type": "translate",
+      "vi": "Anh ấy chạy về nhà rồi.",
+      "answers": [
+        "他跑回家(去)了。"
+      ],
+      "examples": [
+        {
+          "answer": "他跑回家了。",
+          "score": 100
+        },
+        {
+          "answer": "他跑回家去了。",
+          "score": 100
+        },
+        {
+          "answer": "他走回家了。",
+          "score": 0,
+          "note": "走 là đi bộ, không phải chạy"
+        }
+      ],
+      "grammar": [
+        120,
+        119
+      ]
+    },
+    {
+      "id": "hsk2-08-e19",
+      "type": "choice",
+      "promptVi": "「你家离学校有多远？」 nghĩa là gì?",
+      "options": [
+        "Nhà bạn cách trường bao xa?",
+        "Nhà bạn có gần trường không?",
+        "Từ nhà bạn đến trường đi đường nào?"
+      ],
+      "answer": 0,
+      "grammar": [
+        129
+      ]
+    },
+    {
+      "id": "hsk2-08-e20",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "从这儿到车站",
+      "after": "十分钟。",
+      "answers": [
+        "没有"
+      ],
+      "options": [
+        "没有",
+        "不有",
+        "不是"
+      ],
+      "vi": "Từ đây đến bến xe chưa tới mười phút.",
+      "explainVi": "Phủ định của 「有」 là 「没有」.",
+      "grammar": [
+        129
+      ]
+    },
+    {
+      "id": "hsk2-08-e21",
+      "type": "choice",
+      "promptVi": "Câu hỏi nào đúng? (Con đường này dài bao nhiêu?)",
+      "options": [
+        "这条路有多长？",
+        "这条路有多少长？",
+        "这条路多少有长？"
+      ],
+      "answer": 0,
+      "explainVi": "Hỏi mức độ dùng 「(有) + 多 + tính từ」.",
+      "grammar": [
+        129
+      ]
+    },
+    {
+      "id": "hsk2-08-e22",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đi tàu điện ngầm đến đấy.)",
+      "options": [
+        "我是坐地铁来的。",
+        "我是坐地铁来了。",
+        "我坐地铁是来的。"
+      ],
+      "answer": 0,
+      "explainVi": "「是」 đứng trước cách thức (坐地铁), 「的」 ở cuối câu; không dùng 「了」.",
+      "grammar": [
+        135,
+        106
+      ]
+    },
+    {
+      "id": "hsk2-08-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这些包子是谁做",
+      "after": "？",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "了",
+        "吗"
+      ],
+      "vi": "Mấy cái bánh bao này ai làm thế?",
+      "grammar": [
+        135
+      ]
+    },
+    {
+      "id": "hsk2-08-e24",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你是怎么来学校的？",
+        "promptVi": "Bạn đến trường bằng gì? (Giả sử hôm nay bạn đi xe buýt.)",
+        "answers": [
+          "(我)(是)坐公交车来的。",
+          "坐公交车。"
+        ],
+        "examples": [
+          {
+            "answer": "我是坐公交车来的。",
+            "score": 100
+          },
+          {
+            "answer": "我坐公交车来的。",
+            "score": 100
+          },
+          {
+            "answer": "坐公交车。",
+            "score": 100
+          },
+          {
+            "answer": "我是坐公交车来。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ],
+            "note": "Thiếu 的 ở cuối câu"
+          },
+          {
+            "answer": "我是坐地铁来的。",
+            "score": 0
+          },
+          {
+            "answer": "我是打车来的。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        135,
+        106
+      ]
+    },
+    {
+      "id": "hsk2-08-e25",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你是从哪儿来的？",
+        "promptVi": "Bạn từ đâu đến? (Giả sử bạn từ Hà Nội đến.)",
+        "answers": [
+          "(我)(是)从河内来的。",
+          "(我)从河内来。",
+          "河内。"
+        ],
+        "examples": [
+          {
+            "answer": "我是从河内来的。",
+            "score": 100
+          },
+          {
+            "answer": "从河内来的。",
+            "score": 100
+          },
+          {
+            "answer": "河内。",
+            "score": 100
+          },
+          {
+            "answer": "我是从河内来。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ],
+            "note": "Thiếu 的 ở cuối câu"
+          },
+          {
+            "answer": "我是从北京来的。",
+            "score": 0
+          },
+          {
+            "answer": "我来从河内。",
+            "score": 0,
+            "note": "Sai trật tự: 从河内 phải đứng trước 来"
+          }
+        ]
+      },
+      "grammar": [
+        135,
+        93
+      ]
+    },
+    {
+      "id": "hsk2-08-e26",
+      "type": "translate",
+      "vi": "Tôi đến hôm qua (đấy).",
+      "answers": [
+        "我(是)昨天来的。",
+        "[我昨天|昨天我]来了。"
+      ],
+      "examples": [
+        {
+          "answer": "我是昨天来的。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天来的。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天来了。",
+          "score": 100
+        },
+        {
+          "answer": "我是昨天来了。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Câu 是……的 không dùng 了"
+        },
+        {
+          "answer": "我是昨天来。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "我是今天来的。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        135
+      ]
+    },
+    {
+      "id": "hsk2-08-e27",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "地铁站在哪儿？",
+        "promptVi": "Ga tàu điện ngầm ở đâu? (Trong hình: ga tàu điện ngầm ở phía trước trường học.)",
+        "expected": {
+          "places": [
+            "学校"
+          ],
+          "localizer": "前",
+          "sentence": "地铁站在学校前边。"
+        },
+        "examples": [
+          {
+            "answer": "地铁站在学校前边。",
+            "score": 100
+          },
+          {
+            "answer": "在学校前面。",
+            "score": 100
+          },
+          {
+            "answer": "学校前边。",
+            "score": 100
+          },
+          {
+            "answer": "地铁站在前学校。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ],
+            "note": "Dịch từng chữ 'ở trước trường': phương vị từ phải đứng sau danh từ"
+          },
+          {
+            "answer": "地铁站在学校后边。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        92
+      ]
+    },
+    {
+      "id": "hsk2-08-e28",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "路上有几只狗？",
+        "promptVi": "Trên đường có mấy con chó?",
+        "picture": "🐕🐕🐕",
+        "expected": {
+          "number": 3,
+          "noun": "狗",
+          "sentence": "路上有三只狗。"
+        },
+        "examples": [
+          {
+            "answer": "路上有三只狗。",
+            "score": 100
+          },
+          {
+            "answer": "有三只。",
+            "score": 100
+          },
+          {
+            "answer": "路上有三个狗。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "路上有三狗。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "路上有两只狗。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-08-e29",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你家离学校远吗？",
+        "promptVi": "Nhà bạn có xa trường không? (Giả sử nhà bạn rất gần trường, đi bộ năm phút.)",
+        "answers": [
+          "(我家离学校)[很|非常]近。",
+          "(我家离学校)不远。",
+          "不远，走路五分钟。"
+        ],
+        "examples": [
+          {
+            "answer": "我家离学校很近。",
+            "score": 100
+          },
+          {
+            "answer": "很近。",
+            "score": 100
+          },
+          {
+            "answer": "不远。",
+            "score": 100
+          },
+          {
+            "answer": "我家离学校很远。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-08-e30",
+      "type": "translate",
+      "vi": "Từ đây đi về phía trước năm phút là đến.",
+      "answers": [
+        "(从[这儿|这里])往前走五分钟就到(了)。"
+      ],
+      "examples": [
+        {
+          "answer": "往前走五分钟就到了。",
+          "score": 100
+        },
+        {
+          "answer": "从这儿往前走五分钟就到了。",
+          "score": 100
+        },
+        {
+          "answer": "从这里往前走五分钟就到了。",
+          "score": 100
+        },
+        {
+          "answer": "往后走五分钟就到了。",
+          "score": 0
+        },
+        {
+          "answer": "走往前五分钟就到了。",
+          "score": 0,
+          "note": "Sai trật tự: 往前 phải đứng trước 走"
+        }
+      ],
+      "grammar": [
+        92,
+        93
+      ]
+    }
+  ]
+}
