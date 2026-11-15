@@ -1,0 +1,1537 @@
+{
+  "id": "hsk2-01",
+  "goalsVi": [
+    "Giới thiệu họ tên đầy đủ, hỏi họ người khác một cách lịch sự: 「您贵姓？」 — 「我姓王。」",
+    "Giới thiệu gia đình: ông bà, vợ chồng, con cái; nói về sinh nhật và sở thích",
+    "Nói làm việc gì cùng ai, cho ai, từ đâu với 「跟/和……一起」, 「给」, 「从」",
+    "Dùng 「自己」 và lặp lại động từ (看看, 想一想, 介绍介绍) để nói nhẹ nhàng, tự nhiên hơn",
+    "Nói ngày sinh, tuổi, quê quán bằng câu không cần 「是」: 明天我生日, 我妻子河内人"
+  ],
+  "words": [
+    {
+      "no": 464,
+      "word": "姓",
+      "meaningsVi": [
+        "họ là, mang họ (động từ: 我姓王)",
+        "họ (danh từ)"
+      ],
+      "noteVi": "「姓」 là động từ nên không cần 「是」: 我姓阮 (Tôi họ Nguyễn). Hỏi lịch sự: 「您贵姓？」 (Ông/bà họ gì ạ?); khi trả lời không lặp lại 「贵」: nói 「我姓李」, không nói 「我贵姓李」.",
+      "examples": [
+        {
+          "zh": "您贵姓？——我姓李。",
+          "py": "nín guì xìng wǒ xìng lǐ",
+          "vi": "Ông họ gì ạ? — Tôi họ Lý."
+        },
+        {
+          "zh": "我姓王，叫王小明。",
+          "py": "wǒ xìng wáng jiào wáng xiǎo míng",
+          "vi": "Tôi họ Vương, tên là Vương Tiểu Minh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 465,
+      "word": "姓名",
+      "meaningsVi": [
+        "họ tên, họ và tên"
+      ],
+      "noteVi": "「姓名」 hay dùng trên giấy tờ, biểu mẫu. Khi nói chuyện hằng ngày, người ta thường hỏi 「你叫什么名字？」.",
+      "examples": [
+        {
+          "zh": "请写一下你的姓名。",
+          "py": "qǐng xiě yí xià nǐ de xìng míng",
+          "vi": "Xin hãy viết họ tên của bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 404,
+      "word": "名",
+      "meaningsVi": [
+        "(lượng từ) người — dùng cho người, trang trọng hơn 「个」: 一名学生",
+        "tên (thường gặp trong từ ghép: 名字, 姓名)"
+      ],
+      "noteVi": "Làm lượng từ, 「名」 hay gặp trong văn viết, khi nói về nghề nghiệp, số người: 一名医生, 八百名学生.",
+      "examples": [
+        {
+          "zh": "他是一名医生。",
+          "py": "tā shì yì míng yī shēng",
+          "vi": "Anh ấy là một bác sĩ."
+        },
+        {
+          "zh": "我们学校有八百名学生。",
+          "py": "wǒ men xué xiào yǒu bā bǎi míng xué shēng",
+          "vi": "Trường chúng tôi có tám trăm học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 369,
+      "word": "介绍",
+      "meaningsVi": [
+        "giới thiệu"
+      ],
+      "noteVi": "Hay nói 「介绍一下」 hoặc 「我来介绍一下」 (để tôi giới thiệu). Giới thiệu **cho ai** thì đặt 「给 + người」 trước động từ: 我给你介绍一下.",
+      "examples": [
+        {
+          "zh": "我来介绍一下，这是我的朋友大卫。",
+          "py": "wǒ lái jiè shào yí xià zhè shì wǒ de péng you dà wèi",
+          "vi": "Để tôi giới thiệu một chút, đây là bạn tôi, David."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 494,
+      "word": "自己",
+      "meaningsVi": [
+        "tự mình, chính mình, bản thân"
+      ],
+      "noteVi": "Đứng trước động từ: 自己做 (tự làm); đứng trước danh từ thì thêm 「的」: 自己的房间 (phòng của mình).",
+      "examples": [
+        {
+          "zh": "这是我自己的房间。",
+          "py": "zhè shì wǒ zì jǐ de fáng jiān",
+          "vi": "Đây là phòng riêng của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 454,
+      "word": "位",
+      "meaningsVi": [
+        "vị, người (lượng từ lịch sự dùng cho người)"
+      ],
+      "noteVi": "「位」 lịch sự hơn 「个」: 一位老师, 这位先生. Không dùng 「位」 khi nói về chính mình. Nhân viên nhà hàng hỏi khách: 「几位？」 (Mấy người ạ?).",
+      "examples": [
+        {
+          "zh": "这位是王老师。",
+          "py": "zhè wèi shì wáng lǎo shī",
+          "vi": "Vị này là thầy Vương."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 446,
+      "word": "外国",
+      "meaningsVi": [
+        "nước ngoài, ngoại quốc"
+      ],
+      "noteVi": "Hay gặp trong 外国人 (người nước ngoài), 外国朋友, 外国学生. Với người Trung Quốc, người Việt Nam cũng là 外国人.",
+      "examples": [
+        {
+          "zh": "我们学校有很多外国学生。",
+          "py": "wǒ men xué xiào yǒu hěn duō wài guó xué shēng",
+          "vi": "Trường chúng tôi có nhiều học sinh nước ngoài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 324,
+      "word": "从",
+      "meaningsVi": [
+        "từ (chỉ điểm bắt đầu về nơi chốn, thời gian)"
+      ],
+      "noteVi": "「从 + nơi chốn」 đứng **trước** động từ: 我从越南来 (Tôi đến từ Việt Nam). Hay đi với 「到」: 从八点到十点 (từ 8 giờ đến 10 giờ).",
+      "examples": [
+        {
+          "zh": "大卫从美国来。",
+          "py": "dà wèi cóng měi guó lái",
+          "vi": "David đến từ Mỹ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 325,
+      "word": "从小",
+      "meaningsVi": [
+        "từ nhỏ, từ bé"
+      ],
+      "noteVi": "「从小」 nói về một việc bắt đầu từ hồi nhỏ và thường kéo dài đến bây giờ. Nó đứng trước động từ: 我从小喜欢唱歌.",
+      "examples": [
+        {
+          "zh": "我从小住在河内。",
+          "py": "wǒ cóng xiǎo zhù zài hé nèi",
+          "vi": "Tôi sống ở Hà Nội từ nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 462,
+      "word": "小时候",
+      "meaningsVi": [
+        "hồi nhỏ, lúc còn bé"
+      ],
+      "noteVi": "「小时候」 chỉ một khoảng thời gian trong quá khứ (hồi bé). Đừng nhầm với 「小时」 (giờ, tiếng đồng hồ): 两个小时 là 'hai tiếng'.",
+      "examples": [
+        {
+          "zh": "我小时候住在爷爷奶奶家。",
+          "py": "wǒ xiǎo shí hou zhù zài yé ye nǎi nai jiā",
+          "vi": "Hồi nhỏ tôi sống ở nhà ông bà nội."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 470,
+      "word": "爷爷",
+      "meaningsVi": [
+        "ông nội",
+        "ông (cách gọi kính trọng với cụ ông)"
+      ],
+      "noteVi": "「爷爷」, 「奶奶」 là ông bà **nội** (bên bố). Người Trung Quốc cũng gọi các cụ ông, cụ bà lớn tuổi là 爷爷, 奶奶.",
+      "examples": [
+        {
+          "zh": "我爷爷今年八十岁了。",
+          "py": "wǒ yé ye jīn nián bā shí suì le",
+          "vi": "Ông nội tôi năm nay tám mươi tuổi rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 409,
+      "word": "奶奶",
+      "meaningsVi": [
+        "bà nội",
+        "bà (cách gọi kính trọng với cụ bà)"
+      ],
+      "examples": [
+        {
+          "zh": "奶奶在家做饭。",
+          "py": "nǎi nai zài jiā zuò fàn",
+          "vi": "Bà nội nấu cơm ở nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 487,
+      "word": "丈夫",
+      "meaningsVi": [
+        "chồng"
+      ],
+      "noteVi": "Đọc zhàngfu, chữ 「夫」 đọc nhẹ. Âm Hán Việt 'trượng phu' trong tiếng Việt nghĩa là 'người đàn ông có chí khí', còn 「丈夫」 trong tiếng Trung chỉ đơn giản là 'chồng'.",
+      "examples": [
+        {
+          "zh": "她丈夫是医生。",
+          "py": "tā zhàng fu shì yī shēng",
+          "vi": "Chồng cô ấy là bác sĩ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 417,
+      "word": "妻子",
+      "meaningsVi": [
+        "vợ"
+      ],
+      "noteVi": "Đọc qīzi. Âm Hán Việt 'thê tử' dễ làm hiểu thành 'vợ con', nhưng 「妻子」 chỉ có nghĩa là 'vợ'.",
+      "examples": [
+        {
+          "zh": "我妻子是越南人。",
+          "py": "wǒ qī zi shì yuè nán rén",
+          "vi": "Vợ tôi là người Việt Nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 410,
+      "word": "男孩儿",
+      "meaningsVi": [
+        "bé trai, cậu bé"
+      ],
+      "examples": [
+        {
+          "zh": "那个男孩儿是我弟弟。",
+          "py": "nà ge nán hái r shì wǒ dì di",
+          "vi": "Cậu bé kia là em trai tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 412,
+      "word": "女孩儿",
+      "meaningsVi": [
+        "bé gái, cô bé"
+      ],
+      "examples": [
+        {
+          "zh": "这个女孩儿叫小红。",
+          "py": "zhè ge nǚ hái r jiào xiǎo hóng",
+          "vi": "Cô bé này tên là Tiểu Hồng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 461,
+      "word": "小孩儿",
+      "meaningsVi": [
+        "trẻ con, đứa trẻ"
+      ],
+      "noteVi": "「小孩儿」 là cách nói khẩu ngữ. 「孩子」 vừa là 'trẻ con' vừa là 'con (của ai)': 我有两个孩子 (Tôi có hai con).",
+      "examples": [
+        {
+          "zh": "房间里有两个小孩儿。",
+          "py": "fáng jiān lǐ yǒu liǎng gè xiǎo hái r",
+          "vi": "Trong phòng có hai đứa trẻ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 430,
+      "word": "生日",
+      "meaningsVi": [
+        "sinh nhật, ngày sinh"
+      ],
+      "examples": [
+        {
+          "zh": "你的生日是几月几号？",
+          "py": "nǐ de shēng rì shì jǐ yuè jǐ hào",
+          "vi": "Sinh nhật của bạn là ngày mấy tháng mấy?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 385,
+      "word": "快乐",
+      "meaningsVi": [
+        "vui vẻ, vui"
+      ],
+      "noteVi": "「快乐」 hay dùng trong lời chúc: 生日快乐！ Muốn nói 'rất vui (được gặp bạn)' thì dùng 「高兴」: 认识你很高兴.",
+      "examples": [
+        {
+          "zh": "妈妈，生日快乐！",
+          "py": "mā ma shēng rì kuài lè",
+          "vi": "Mẹ ơi, chúc mừng sinh nhật mẹ!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 302,
+      "word": "爱好",
+      "meaningsVi": [
+        "sở thích",
+        "yêu thích, ham thích (động từ)"
+      ],
+      "noteVi": "Đọc àihào: chữ 「好」 ở đây đọc thanh 4 (hào), khác 「好」 hǎo (tốt). Hỏi sở thích: 「你有什么爱好？」 hoặc 「你的爱好是什么？」.",
+      "examples": [
+        {
+          "zh": "我的爱好是看书和听歌。",
+          "py": "wǒ de ài hào shì kàn shū hé tīng gē",
+          "vi": "Sở thích của tôi là đọc sách và nghe nhạc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 345,
+      "word": "跟",
+      "meaningsVi": [
+        "với, cùng (với) (giới từ: 跟朋友一起去)",
+        "và (liên từ, giống 「和」: 我跟他)"
+      ],
+      "noteVi": "「跟 + người」 đứng **trước** động từ: 我跟朋友一起去. Không đặt 'với ai' ở cuối câu như tiếng Việt.",
+      "examples": [
+        {
+          "zh": "我跟朋友一起去看电影。",
+          "py": "wǒ gēn péng you yì qǐ qù kàn diàn yǐng",
+          "vi": "Tôi đi xem phim cùng bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 472,
+      "word": "一起",
+      "meaningsVi": [
+        "cùng nhau, cùng"
+      ],
+      "noteVi": "「一起」 đứng **trước** động từ: 我们一起吃饭. Tiếng Việt nói 'ăn cơm cùng nhau', nhưng tiếng Trung không đặt 「一起」 ở cuối câu.",
+      "examples": [
+        {
+          "zh": "我们一起吃饭吧！",
+          "py": "wǒ men yì qǐ chī fàn ba",
+          "vi": "Chúng ta cùng ăn cơm nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 301,
+      "word": "啊",
+      "meaningsVi": [
+        "(trợ từ cuối câu) à, nhé, quá — làm câu thân mật, có cảm xúc"
+      ],
+      "noteVi": "「啊」 đọc nhẹ. Hay gặp: 「好啊！」 (Được đấy!), 「是啊」 (Đúng vậy). Cách dùng sẽ học kỹ ở bài 4.",
+      "examples": [
+        {
+          "zh": "我们一起去吃饭，好吗？——好啊！",
+          "py": "wǒ men yì qǐ qù chī fàn hǎo ma hǎo a",
+          "vi": "Chúng mình cùng đi ăn nhé? — Được đấy!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 73,
+      "titleVi": "Lặp lại động từ: 看看, 看一看, 看了看, 介绍介绍",
+      "summaryVi": "Lặp động từ (AA, A一A, ABAB) để nói làm một chút, làm thử, cho lời nói nhẹ nhàng; A了A nói một hành động ngắn đã xảy ra.",
+      "explanationVi": [
+        "Động từ một âm tiết lặp lại theo kiểu **AA** hoặc **A一A**: 看看 = 看一看 (xem thử, xem một chút), 想想 = 想一想 (nghĩ một chút). Động từ hai âm tiết lặp theo kiểu **ABAB**: 介绍介绍, 休息休息 — không nói 介介绍绍.",
+        "Nghĩa giống 「động từ + 一下」 đã học ở HSK1: làm trong thời gian ngắn, làm thử, và làm lời đề nghị nghe nhẹ nhàng hơn: 你看看这本书吧 (Bạn xem thử quyển sách này đi). Tiếng Việt cũng có cách nói tương tự: 'xem thử', 'nghĩ chút'. Chữ lặp lại thứ hai đọc nhẹ.",
+        "Việc **đã xảy ra** thì đặt 「了」 vào giữa: **A了A**: 他看了看我 (Anh ấy nhìn tôi một cái), 我想了想 (Tôi nghĩ một lúc).",
+        "Động từ lặp **không** đi cùng 「一下」 (đã có nghĩa 'một chút' rồi) và không dùng cho việc đang diễn ra với 「在/正在」."
+      ],
+      "patterns": [
+        "AA / A一A (+ tân ngữ): 看看, 想一想",
+        "ABAB (+ tân ngữ): 介绍介绍, 休息休息",
+        "A了A (việc đã xảy ra): 看了看, 想了想"
+      ],
+      "examples": [
+        {
+          "zh": "你看看这本书吧。",
+          "py": "nǐ kàn kan zhè běn shū ba",
+          "vi": "Bạn xem thử quyển sách này đi."
+        },
+        {
+          "zh": "我来介绍介绍，这是我妻子。",
+          "py": "wǒ lái jiè shào jiè shào zhè shì wǒ qī zi",
+          "vi": "Để tôi giới thiệu một chút, đây là vợ tôi."
+        },
+        {
+          "zh": "你想一想，明天是谁的生日？",
+          "py": "nǐ xiǎng yi xiǎng míng tiān shì shéi de shēng rì",
+          "vi": "Bạn nghĩ xem, ngày mai là sinh nhật của ai?"
+        },
+        {
+          "zh": "爷爷看了看我，没有说话。",
+          "py": "yé ye kàn le kàn wǒ méi yǒu shuō huà",
+          "vi": "Ông nhìn tôi một cái, không nói gì."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们休休息息吧。",
+          "right": "我们休息休息吧。",
+          "noteVi": "Động từ hai âm tiết lặp theo kiểu ABAB (休息休息), không phải AABB."
+        },
+        {
+          "wrong": "你看看一下这本书。",
+          "right": "你看看这本书。",
+          "noteVi": "Động từ lặp đã có nghĩa 'một chút', không thêm 「一下」. Có thể nói 看看 hoặc 看一下, không dùng cả hai."
+        },
+        {
+          "wrong": "他在看看电视。",
+          "right": "他在看电视。",
+          "noteVi": "Việc đang diễn ra (在, 正在) không dùng động từ lặp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 77,
+      "titleVi": "Đại từ 「自己」: tự mình, chính mình",
+      "summaryVi": "「自己」 chỉ chính người đó: 我自己 (chính tôi), 自己做 (tự làm), 自己的房间 (phòng của mình).",
+      "explanationVi": [
+        "「自己」 giống 'tự, chính mình, bản thân' trong tiếng Việt. Nó hay đứng ngay sau đại từ, danh từ chỉ người để nhấn mạnh: 我自己, 他自己, 小明自己.",
+        "「自己」 đứng **trước động từ** nghĩa là 'tự làm, không cần ai giúp': 我自己做饭 (Tôi tự nấu cơm). Chủ ngữ đứng trước 「自己」: nói 我自己做, không nói 自己我做 như kiểu 'tự tôi làm' của tiếng Việt.",
+        "Trước danh từ cần 「的」: 自己的房间 (phòng của mình), 我自己的书 (sách của chính tôi).",
+        "「自己」 cũng làm tân ngữ: 介绍一下自己 (giới thiệu bản thân)."
+      ],
+      "patterns": [
+        "Đại từ/danh từ chỉ người + 自己",
+        "Chủ ngữ + 自己 + động từ",
+        "(Chủ ngữ +) 自己的 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我来介绍一下自己。",
+          "py": "wǒ lái jiè shào yí xià zì jǐ",
+          "vi": "Tôi xin tự giới thiệu một chút."
+        },
+        {
+          "zh": "妹妹六岁了，她自己穿衣服。",
+          "py": "mèi mei liù suì le tā zì jǐ chuān yī fu",
+          "vi": "Em gái sáu tuổi rồi, tự mặc quần áo."
+        },
+        {
+          "zh": "这是我自己的房间。",
+          "py": "zhè shì wǒ zì jǐ de fáng jiān",
+          "vi": "Đây là phòng riêng của tôi."
+        },
+        {
+          "zh": "这件事你自己想一想吧。",
+          "py": "zhè jiàn shì nǐ zì jǐ xiǎng yi xiǎng ba",
+          "vi": "Chuyện này bạn tự suy nghĩ đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "自己我做饭。",
+          "right": "我自己做饭。",
+          "noteVi": "Dịch theo 'tự tôi nấu' là sai: chủ ngữ 「我」 đứng trước, 「自己」 đứng sau."
+        },
+        {
+          "wrong": "我自己的做饭。",
+          "right": "我自己做饭。",
+          "noteVi": "Trước động từ không có 「的」; 「的」 chỉ dùng khi 「自己」 đứng trước danh từ (自己的房间)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 85,
+      "titleVi": "Phó từ 「一起」: cùng nhau",
+      "summaryVi": "「一起」 đứng trước động từ: 我们一起去; muốn nói cùng với ai thì dùng 跟/和 + người + 一起 + động từ.",
+      "explanationVi": [
+        "「一起」 nghĩa là 'cùng nhau, cùng'. Nó là phó từ, đứng **trước động từ**: 我们一起吃饭 (Chúng ta cùng ăn cơm).",
+        "Muốn nói cùng **với ai**, dùng 「跟/和 + người + 一起 + động từ」: 我跟朋友一起看电影 (Tôi xem phim cùng bạn).",
+        "Người Việt hay đặt 'cùng nhau', 'cùng với bạn' ở cuối câu theo tiếng Việt. Trong tiếng Trung, cả 「一起」 lẫn 「跟 + người」 đều đứng **trước** động từ.",
+        "「在一起」 nghĩa là 'ở cùng một chỗ': 爷爷奶奶跟我们住在一起 (Ông bà sống chung với chúng tôi)."
+      ],
+      "patterns": [
+        "Chủ ngữ (số nhiều) + 一起 + động từ",
+        "A + 跟/和 + B + 一起 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "我们一起去吧！",
+          "py": "wǒ men yì qǐ qù ba",
+          "vi": "Chúng mình cùng đi nhé!"
+        },
+        {
+          "zh": "我跟妈妈一起做饭。",
+          "py": "wǒ gēn mā ma yì qǐ zuò fàn",
+          "vi": "Tôi nấu cơm cùng mẹ."
+        },
+        {
+          "zh": "明天我和同学们一起去北京。",
+          "py": "míng tiān wǒ hé tóng xué men yì qǐ qù běi jīng",
+          "vi": "Ngày mai tôi cùng các bạn cùng lớp đi Bắc Kinh."
+        },
+        {
+          "zh": "爷爷奶奶跟我们住在一起。",
+          "py": "yé ye nǎi nai gēn wǒ men zhù zài yì qǐ",
+          "vi": "Ông bà nội sống chung với chúng tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们吃饭一起。",
+          "right": "我们一起吃饭。",
+          "noteVi": "「一起」 đứng trước động từ, không đứng cuối câu như 'cùng nhau' trong tiếng Việt."
+        },
+        {
+          "wrong": "我一起朋友去看电影。",
+          "right": "我跟朋友一起去看电影。",
+          "noteVi": "「一起」 không có nghĩa 'với'; trước người cùng làm phải có 「跟」 hoặc 「和」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 91,
+      "titleVi": "Giới từ 「从」: từ (nơi chốn, thời gian)",
+      "summaryVi": "「从 + nơi chốn/thời gian」 chỉ điểm bắt đầu và đứng trước động từ: 我从越南来; hay đi với 「到」: 从八点到十一点.",
+      "explanationVi": [
+        "「从」 giống 'từ' trong tiếng Việt, cho biết **điểm bắt đầu** về nơi chốn hoặc thời gian.",
+        "Cụm 「从 + nơi chốn」 đứng **trước** động từ: 我从越南来 (Tôi đến từ Việt Nam). Tiếng Việt nói 'đến từ Việt Nam' (động từ trước), nên người Việt hay nói sai thành 我来从越南.",
+        "「从……到……」: từ … đến …: 从八点到十一点 (từ 8 giờ đến 11 giờ), 从河内到北京 (từ Hà Nội đến Bắc Kinh). Cụm này cũng đứng trước động từ: 我们从八点到十一点上课.",
+        "「从小」 (từ nhỏ) là một từ có 「从」: 我从小住在河内."
+      ],
+      "patterns": [
+        "Chủ ngữ + 从 + nơi chốn + 来/去/回…",
+        "Chủ ngữ + 从 + thời gian/nơi chốn + 到 + thời gian/nơi chốn + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "大卫从美国来。",
+          "py": "dà wèi cóng měi guó lái",
+          "vi": "David đến từ Mỹ."
+        },
+        {
+          "zh": "我们从八点到十一点上课。",
+          "py": "wǒ men cóng bā diǎn dào shí yī diǎn shàng kè",
+          "vi": "Chúng tôi học từ 8 giờ đến 11 giờ."
+        },
+        {
+          "zh": "他们从上海坐火车去北京。",
+          "py": "tā men cóng shàng hǎi zuò huǒ chē qù běi jīng",
+          "vi": "Họ đi tàu hỏa từ Thượng Hải đến Bắc Kinh."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我来从越南。",
+          "right": "我从越南来。",
+          "noteVi": "「从 + nơi chốn」 đứng trước động từ 「来」, không theo thứ tự 'đến từ Việt Nam' của tiếng Việt."
+        },
+        {
+          "wrong": "我们上课从八点到十一点。",
+          "right": "我们从八点到十一点上课。",
+          "noteVi": "「从……到……」 chỉ thời gian của hành động đứng trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 94,
+      "titleVi": "Giới từ 「给」: cho ai, tới ai",
+      "summaryVi": "「给 + người + động từ」: làm việc gì cho ai, hướng tới ai: 给妈妈打电话 (gọi điện cho mẹ), 给你介绍 (giới thiệu cho bạn).",
+      "explanationVi": [
+        "Ở HSK1, 「给」 là động từ 'đưa cho': 给我一本书. Ở bài này, 「给」 là **giới từ**: 「给 + người」 đứng **trước động từ chính**, cho biết việc làm hướng tới ai, làm cho ai.",
+        "Hay gặp: 给 + người + 打电话 (gọi điện cho ai), 给 + người + 介绍 (giới thiệu cho ai), 给 + người + 买/做 … (mua/làm … cho ai): 爸爸给我买了一个新手机.",
+        "Tiếng Việt đặt 'cho ai' ở **sau**: 'gọi điện cho mẹ', 'mua cho em'. Tiếng Trung thường đặt 「给 + người」 ở **trước** động từ: 给妈妈打电话. Với 打电话 cũng có thể nói 打电话给妈妈, nhưng **không được bỏ** 「给」: 打电话妈妈 là sai."
+      ],
+      "patterns": [
+        "Chủ ngữ + 给 + người + động từ (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "晚上我给妈妈打电话。",
+          "py": "wǎn shang wǒ gěi mā ma dǎ diàn huà",
+          "vi": "Buổi tối tôi gọi điện cho mẹ."
+        },
+        {
+          "zh": "我给你介绍一下，这是我丈夫。",
+          "py": "wǒ gěi nǐ jiè shào yí xià zhè shì wǒ zhàng fu",
+          "vi": "Tôi giới thiệu với bạn một chút, đây là chồng tôi."
+        },
+        {
+          "zh": "爸爸给我买了一个新手机。",
+          "py": "bà ba gěi wǒ mǎi le yí gè xīn shǒu jī",
+          "vi": "Bố mua cho tôi một chiếc điện thoại mới."
+        },
+        {
+          "zh": "奶奶给我们做饭。",
+          "py": "nǎi nai gěi wǒ men zuò fàn",
+          "vi": "Bà nấu cơm cho chúng tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我打电话妈妈。",
+          "right": "我给妈妈打电话。",
+          "noteVi": "'Gọi điện cho mẹ' phải có 「给」: 给 + người + 打电话. 「打电话」 không nhận người làm tân ngữ trực tiếp."
+        },
+        {
+          "wrong": "我给打电话妈妈。",
+          "right": "我给妈妈打电话。",
+          "noteVi": "Người nhận (妈妈) đứng ngay sau 「给」, rồi mới đến động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 96,
+      "titleVi": "Giới từ 「跟」: với, cùng với",
+      "summaryVi": "「跟 + người + động từ」: làm việc gì cùng ai, nói với ai: 我跟朋友一起去, 你跟老师说一下.",
+      "explanationVi": [
+        "「跟」 là giới từ nghĩa là 'với, cùng với'. Cụm 「跟 + người」 đứng **trước** động từ: 我跟他说 (Tôi nói với anh ấy).",
+        "Hay đi với 「一起」: 跟 + người + 一起 + động từ: 我跟妹妹一起去商店. Một số động từ cần 「跟」 để chỉ người nghe, người cùng làm: 跟 + người + 说 (nói với ai), 跟 + người + 学 (học với ai, học theo ai), 跟 + người + 玩 (chơi với ai).",
+        "Người Việt hay đặt 'với ai' ở cuối câu: 我说跟老师 là sai. Phủ định thì đặt 「不」 **trước** 「跟」: 我不跟他去 (Tôi không đi với nó)."
+      ],
+      "patterns": [
+        "A + 跟 + B + (一起) + động từ",
+        "Chủ ngữ + 不 + 跟 + người + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "我跟哥哥一起去买东西。",
+          "py": "wǒ gēn gē ge yì qǐ qù mǎi dōng xi",
+          "vi": "Tôi đi mua đồ cùng anh trai."
+        },
+        {
+          "zh": "你跟老师说一下吧。",
+          "py": "nǐ gēn lǎo shī shuō yí xià ba",
+          "vi": "Bạn nói với thầy một chút đi."
+        },
+        {
+          "zh": "我从小跟奶奶学做饭。",
+          "py": "wǒ cóng xiǎo gēn nǎi nai xué zuò fàn",
+          "vi": "Tôi học nấu ăn với bà nội từ nhỏ."
+        },
+        {
+          "zh": "我不想跟他玩。",
+          "py": "wǒ bù xiǎng gēn tā wán",
+          "vi": "Tôi không muốn chơi với nó."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我说跟老师。",
+          "right": "我跟老师说。",
+          "noteVi": "「跟 + người」 đứng trước động từ 「说」, không đứng sau như 'nói với thầy' trong tiếng Việt."
+        },
+        {
+          "wrong": "我跟他不去商店。",
+          "right": "我不跟他去商店。",
+          "noteVi": "「不」 đứng trước cụm giới từ 「跟他」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 98,
+      "titleVi": "Liên từ 「跟」: và (nối danh từ, đại từ)",
+      "summaryVi": "「跟」 nối hai danh từ, đại từ, giống 「和」: 我跟他都是学生 (Tôi và anh ấy đều là học sinh).",
+      "explanationVi": [
+        "「跟」 còn là liên từ nghĩa là 'và', dùng như 「和」: 爷爷跟奶奶 (ông và bà). Cách này hay dùng trong khẩu ngữ, giống 'với' trong 'tôi với nó' của tiếng Việt.",
+        "「跟」 chỉ nối **danh từ, đại từ**, không nối hai câu. 'Tôi đi Bắc Kinh, **còn** anh ấy đi Thượng Hải' không dịch bằng 「跟」: nói 我去北京，他去上海.",
+        "Làm sao biết 「跟」 là 'và' hay 'với'? Nếu sau 「A跟B」 có 「都」 thì 「跟」 là 'và': 我跟他都去 (Tôi và anh ấy đều đi). Nếu 「跟B」 chỉ người cùng làm với A (thường có 一起) thì là 'với': 我跟他一起去 (Tôi đi cùng anh ấy)."
+      ],
+      "patterns": [
+        "A + 跟 + B (danh từ, đại từ) + 都 …"
+      ],
+      "examples": [
+        {
+          "zh": "我跟我妻子都是老师。",
+          "py": "wǒ gēn wǒ qī zi dōu shì lǎo shī",
+          "vi": "Tôi và vợ tôi đều là giáo viên."
+        },
+        {
+          "zh": "爷爷跟奶奶都喜欢喝茶。",
+          "py": "yé ye gēn nǎi nai dōu xǐ huan hē chá",
+          "vi": "Ông và bà đều thích uống trà."
+        },
+        {
+          "zh": "我跟他是好朋友。",
+          "py": "wǒ gēn tā shì hǎo péng you",
+          "vi": "Tôi với anh ấy là bạn thân."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我去北京，跟他去上海。",
+          "right": "我去北京，他去上海。",
+          "noteVi": "「跟」 chỉ nối danh từ, đại từ, không nối hai câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 116,
+      "titleVi": "Câu có vị ngữ là cụm danh từ: 明天我生日",
+      "summaryVi": "Khi nói ngày tháng, tuổi, quê quán, giá cả, một cụm danh từ có thể làm vị ngữ, không cần 「是」: 明天我生日, 我妻子河内人; phủ định phải dùng 「不是」.",
+      "explanationVi": [
+        "Ở HSK1 đã học: 今天星期一, 我二十岁 — vị ngữ là danh từ hoặc cụm số lượng. Ở HSK2, vị ngữ có thể là một **cụm danh từ** dài hơn: 明天我生日 (Mai là sinh nhật tôi), 我妻子河内人 (Vợ tôi người Hà Nội), 这个手机两千块 (Cái điện thoại này hai nghìn tệ).",
+        "Cách nói này giống tiếng Việt 'Mai sinh nhật tôi', 'Vợ tôi người Hà Nội' — không cần 'là'. Thêm 「是」 vẫn đúng: 明天是我生日.",
+        "Câu loại này thường ngắn, hay dùng khi nói chuyện để nói ngày tháng, tuổi, quê quán, giá cả.",
+        "Phủ định **bắt buộc** có 「是」: 明天不是我生日; không nói 明天不我生日."
+      ],
+      "patterns": [
+        "Chủ ngữ + cụm danh từ (ngày tháng, tuổi, quê quán, giá cả)",
+        "Chủ ngữ + 不是 + cụm danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "明天我生日。",
+          "py": "míng tiān wǒ shēng rì",
+          "vi": "Ngày mai là sinh nhật tôi."
+        },
+        {
+          "zh": "我奶奶今年七十五岁。",
+          "py": "wǒ nǎi nai jīn nián qī shí wǔ suì",
+          "vi": "Bà nội tôi năm nay bảy mươi lăm tuổi."
+        },
+        {
+          "zh": "我妻子河内人。",
+          "py": "wǒ qī zi hé nèi rén",
+          "vi": "Vợ tôi người Hà Nội."
+        },
+        {
+          "zh": "这个手机两千块。",
+          "py": "zhè ge shǒu jī liǎng qiān kuài",
+          "vi": "Cái điện thoại này hai nghìn tệ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "明天不我生日。",
+          "right": "明天不是我生日。",
+          "noteVi": "Câu phủ định phải có 「是」: 不是."
+        },
+        {
+          "wrong": "我妈妈不上海人。",
+          "right": "我妈妈不是上海人。",
+          "noteVi": "「不」 không đứng ngay trước danh từ; phải nói 「不是」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-01-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ người trong gia đình với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "爷爷",
+          "ông nội"
+        ],
+        [
+          "奶奶",
+          "bà nội"
+        ],
+        [
+          "丈夫",
+          "chồng"
+        ],
+        [
+          "妻子",
+          "vợ"
+        ],
+        [
+          "男孩儿",
+          "bé trai"
+        ],
+        [
+          "女孩儿",
+          "bé gái"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-01-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "姓",
+          "họ"
+        ],
+        [
+          "生日",
+          "sinh nhật"
+        ],
+        [
+          "爱好",
+          "sở thích"
+        ],
+        [
+          "外国",
+          "nước ngoài"
+        ],
+        [
+          "一起",
+          "cùng nhau"
+        ],
+        [
+          "自己",
+          "tự mình, bản thân"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-01-e03",
+      "type": "choice",
+      "promptVi": "Có người hỏi bạn 「您贵姓？」. Trả lời thế nào? (Bạn họ Vương.)",
+      "options": [
+        "我姓王。",
+        "我贵姓王。",
+        "我叫姓王。"
+      ],
+      "answer": 0,
+      "explainVi": "「贵」 chỉ dùng khi hỏi cho lịch sự; trả lời thì nói 「我姓 + họ」."
+    },
+    {
+      "id": "hsk2-01-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Để tôi giới thiệu một chút.)",
+      "options": [
+        "我来介绍介绍。",
+        "我来介绍一介绍。",
+        "我来介绍介绍一下。"
+      ],
+      "answer": 0,
+      "explainVi": "Động từ hai âm tiết lặp theo kiểu ABAB: 介绍介绍. Không chèn 「一」 vào giữa và không thêm 「一下」 sau động từ lặp.",
+      "grammar": [
+        73
+      ]
+    },
+    {
+      "id": "hsk2-01-e05",
+      "type": "fill",
+      "promptVi": "Chọn cách lặp động từ đúng.",
+      "before": "我们",
+      "after": "吧！",
+      "answers": [
+        "休息休息"
+      ],
+      "options": [
+        "休息休息",
+        "休息一休息",
+        "休息了休息"
+      ],
+      "vi": "Chúng ta nghỉ ngơi một chút đi!",
+      "grammar": [
+        73
+      ],
+      "explainVi": "Động từ hai âm tiết lặp theo kiểu ABAB; kiểu A一A chỉ dùng cho động từ một âm tiết (看一看). 「休息了休息」 chỉ dùng cho việc đã xảy ra, không dùng trong lời rủ rê."
+    },
+    {
+      "id": "hsk2-01-e06",
+      "type": "order",
+      "vi": "Ông nhìn tôi một cái.",
+      "tiles": [
+        "爷爷",
+        "看",
+        "了",
+        "看",
+        "我"
+      ],
+      "answers": [
+        "爷爷看了看我"
+      ],
+      "explainVi": "Việc đã xảy ra: A了A (看了看).",
+      "grammar": [
+        73
+      ]
+    },
+    {
+      "id": "hsk2-01-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi tự nấu cơm.)",
+      "options": [
+        "我自己做饭。",
+        "自己我做饭。",
+        "我自己的做饭。"
+      ],
+      "answer": 0,
+      "explainVi": "Chủ ngữ + 自己 + động từ; trước động từ không có 「的」.",
+      "grammar": [
+        77
+      ]
+    },
+    {
+      "id": "hsk2-01-e08",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这是我",
+      "after": "的房间。",
+      "answers": [
+        "自己"
+      ],
+      "options": [
+        "自己",
+        "一起",
+        "从小"
+      ],
+      "vi": "Đây là phòng riêng của tôi.",
+      "grammar": [
+        77
+      ]
+    },
+    {
+      "id": "hsk2-01-e09",
+      "type": "order",
+      "vi": "Tôi đi xem phim cùng bạn.",
+      "tiles": [
+        "我",
+        "跟",
+        "朋友",
+        "一起",
+        "去",
+        "看电影"
+      ],
+      "answers": [
+        "我跟朋友一起去看电影"
+      ],
+      "explainVi": "「跟 + người + 一起」 đứng trước động từ.",
+      "grammar": [
+        85,
+        96
+      ]
+    },
+    {
+      "id": "hsk2-01-e10",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng ta cùng ăn cơm nhé!)",
+      "options": [
+        "我们一起吃饭吧！",
+        "我们吃饭一起吧！",
+        "一起我们吃饭吧！"
+      ],
+      "answer": 0,
+      "explainVi": "「一起」 đứng sau chủ ngữ, trước động từ.",
+      "grammar": [
+        85
+      ]
+    },
+    {
+      "id": "hsk2-01-e11",
+      "type": "fill",
+      "promptVi": "Điền giới từ thích hợp.",
+      "before": "大卫",
+      "after": "美国来。",
+      "answers": [
+        "从"
+      ],
+      "options": [
+        "从",
+        "给",
+        "跟"
+      ],
+      "vi": "David đến từ Mỹ.",
+      "grammar": [
+        91
+      ]
+    },
+    {
+      "id": "hsk2-01-e12",
+      "type": "order",
+      "vi": "Chúng tôi học từ 8 giờ đến 11 giờ.",
+      "tiles": [
+        "我们",
+        "从",
+        "八点",
+        "到",
+        "十一点",
+        "上课"
+      ],
+      "answers": [
+        "我们从八点到十一点上课"
+      ],
+      "explainVi": "「从……到……」 đứng trước động từ 「上课」.",
+      "grammar": [
+        91
+      ]
+    },
+    {
+      "id": "hsk2-01-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Buổi tối tôi gọi điện cho mẹ.)",
+      "options": [
+        "晚上我给妈妈打电话。",
+        "晚上我打电话妈妈。",
+        "晚上我给打电话妈妈。"
+      ],
+      "answer": 0,
+      "explainVi": "给 + người + 打电话: 「给妈妈」 đứng trước động từ.",
+      "grammar": [
+        94
+      ]
+    },
+    {
+      "id": "hsk2-01-e14",
+      "type": "order",
+      "vi": "Bố mua cho tôi một chiếc điện thoại mới.",
+      "tiles": [
+        "爸爸",
+        "给",
+        "我",
+        "买了",
+        "一个",
+        "新手机"
+      ],
+      "answers": [
+        "爸爸给我买了一个新手机",
+        "爸爸买了一个新手机给我"
+      ],
+      "explainVi": "Thường nói 「给 + người」 trước động từ: 爸爸给我买了…",
+      "grammar": [
+        94
+      ]
+    },
+    {
+      "id": "hsk2-01-e15",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "爷爷",
+      "after": "奶奶都喜欢喝茶。",
+      "answers": [
+        "跟"
+      ],
+      "options": [
+        "跟",
+        "从",
+        "给"
+      ],
+      "vi": "Ông và bà đều thích uống trà.",
+      "grammar": [
+        98
+      ]
+    },
+    {
+      "id": "hsk2-01-e16",
+      "type": "choice",
+      "promptVi": "「我跟他都是学生。」 nghĩa là gì?",
+      "options": [
+        "Tôi và anh ấy đều là học sinh.",
+        "Tôi đi học cùng anh ấy.",
+        "Tôi là học sinh của anh ấy."
+      ],
+      "answer": 0,
+      "explainVi": "Sau 「A跟B」 có 「都」 nên 「跟」 là 'và'.",
+      "grammar": [
+        98
+      ]
+    },
+    {
+      "id": "hsk2-01-e17",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn nói với thầy một chút đi.)",
+      "options": [
+        "你跟老师说一下吧。",
+        "你说一下跟老师吧。",
+        "你说跟老师一下吧。"
+      ],
+      "answer": 0,
+      "explainVi": "「跟 + người」 đứng trước động từ 「说」.",
+      "grammar": [
+        96
+      ]
+    },
+    {
+      "id": "hsk2-01-e18",
+      "type": "order",
+      "vi": "Tôi và vợ tôi đều là giáo viên.",
+      "tiles": [
+        "我",
+        "跟",
+        "我妻子",
+        "都",
+        "是",
+        "老师"
+      ],
+      "answers": [
+        "我跟我妻子都是老师",
+        "我妻子跟我都是老师"
+      ],
+      "grammar": [
+        98
+      ]
+    },
+    {
+      "id": "hsk2-01-e19",
+      "type": "fill",
+      "promptVi": "Điền từ để thành câu phủ định.",
+      "before": "明天",
+      "after": "我生日。",
+      "answers": [
+        "不是"
+      ],
+      "options": [
+        "不是",
+        "不",
+        "没有"
+      ],
+      "vi": "Ngày mai không phải sinh nhật tôi.",
+      "explainVi": "Câu vị ngữ danh từ phủ định bằng 「不是」.",
+      "grammar": [
+        116
+      ]
+    },
+    {
+      "id": "hsk2-01-e20",
+      "type": "choice",
+      "promptVi": "Câu nào SAI?",
+      "options": [
+        "明天我生日。",
+        "我妻子河内人。",
+        "这个手机不两千块。"
+      ],
+      "answer": 2,
+      "explainVi": "Phủ định phải có 「是」: 这个手机不是两千块.",
+      "grammar": [
+        116
+      ]
+    },
+    {
+      "id": "hsk2-01-e21",
+      "type": "translate",
+      "vi": "Ngày mai là sinh nhật bà nội tôi.",
+      "answers": [
+        "明天(是)我奶奶(的)生日。"
+      ],
+      "examples": [
+        {
+          "answer": "明天我奶奶生日。",
+          "score": 100
+        },
+        {
+          "answer": "明天是我奶奶的生日。",
+          "score": 100
+        },
+        {
+          "answer": "明天是我爷爷的生日。",
+          "score": 0
+        },
+        {
+          "answer": "明天不是我奶奶的生日。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        116
+      ]
+    },
+    {
+      "id": "hsk2-01-e22",
+      "type": "translate",
+      "vi": "Tôi gọi điện cho bố.",
+      "answers": [
+        "我给爸爸打电话(了)。",
+        "我打电话给爸爸(了)。"
+      ],
+      "examples": [
+        {
+          "answer": "我给爸爸打电话。",
+          "score": 100
+        },
+        {
+          "answer": "我打电话给爸爸。",
+          "score": 100
+        },
+        {
+          "answer": "我给爸爸打店话。",
+          "score": 95,
+          "issues": [
+            "homophone_char"
+          ]
+        },
+        {
+          "answer": "我给妈妈打电话。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        94
+      ]
+    },
+    {
+      "id": "hsk2-01-e23",
+      "type": "translate",
+      "vi": "Tôi muốn đi Bắc Kinh cùng bạn.",
+      "answers": [
+        "我想[跟|和]朋友(一起)去北京。"
+      ],
+      "examples": [
+        {
+          "answer": "我想跟朋友一起去北京。",
+          "score": 100
+        },
+        {
+          "answer": "我想和朋友去北京。",
+          "score": 100
+        },
+        {
+          "answer": "我想跟朋友一起去上海。",
+          "score": 0
+        },
+        {
+          "answer": "我不想跟朋友一起去北京。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        85,
+        96
+      ]
+    },
+    {
+      "id": "hsk2-01-e24",
+      "type": "translate",
+      "vi": "Tôi xin tự giới thiệu một chút.",
+      "answers": [
+        "我(来)介绍一下自己。",
+        "我(来)介绍介绍自己。"
+      ],
+      "examples": [
+        {
+          "answer": "我来介绍一下自己。",
+          "score": 100
+        },
+        {
+          "answer": "我介绍介绍自己。",
+          "score": 100
+        },
+        {
+          "answer": "我来介绍一下我朋友。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        77,
+        73
+      ]
+    },
+    {
+      "id": "hsk2-01-e25",
+      "type": "translate",
+      "vi": "Tôi đến từ Việt Nam.",
+      "answers": [
+        "我从越南来。",
+        "我是从越南来的。"
+      ],
+      "examples": [
+        {
+          "answer": "我从越南来。",
+          "score": 100
+        },
+        {
+          "answer": "我是从越南来的。",
+          "score": 100
+        },
+        {
+          "answer": "我从日本来。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        91
+      ]
+    },
+    {
+      "id": "hsk2-01-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "您贵姓？",
+        "promptVi": "Bạn họ gì? (Giả sử bạn họ Trần: 陈.)",
+        "answers": [
+          "(我)姓陈。",
+          "陈。"
+        ],
+        "examples": [
+          {
+            "answer": "我姓陈。",
+            "score": 100
+          },
+          {
+            "answer": "姓陈。",
+            "score": 100
+          },
+          {
+            "answer": "我姓王。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-01-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你的爱好是什么？",
+        "promptVi": "Sở thích của bạn là gì? (Giả sử bạn thích đọc sách và nghe nhạc.)",
+        "answers": [
+          "(我的爱好是)看书[和|跟]听歌。",
+          "我喜欢看书[和|跟]听歌。"
+        ],
+        "examples": [
+          {
+            "answer": "我的爱好是看书和听歌。",
+            "score": 100
+          },
+          {
+            "answer": "看书和听歌。",
+            "score": 100
+          },
+          {
+            "answer": "我喜欢看书跟听歌。",
+            "score": 100
+          },
+          {
+            "answer": "我的爱好是看电影。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-01-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你的生日是几月几号？",
+        "promptVi": "Sinh nhật bạn là ngày mấy tháng mấy? (Giả sử là ngày 8 tháng 3.)",
+        "answers": [
+          "(我的生日是)三月八[号|日]。",
+          "我(的)生日三月八[号|日]。",
+          "我三月八[号|日]生日。"
+        ],
+        "examples": [
+          {
+            "answer": "我的生日是三月八号。",
+            "score": 100
+          },
+          {
+            "answer": "三月八号。",
+            "score": 100
+          },
+          {
+            "answer": "我生日三月八号。",
+            "score": 100
+          },
+          {
+            "answer": "3月8号。",
+            "score": 100
+          },
+          {
+            "answer": "我的生日是八月三号。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        116
+      ]
+    },
+    {
+      "id": "hsk2-01-e29",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "房间里有几位老师？",
+        "promptVi": "Trong phòng có mấy thầy cô giáo? (Trong hình: 3 thầy cô.)",
+        "picture": "👩‍🏫👨‍🏫👩‍🏫",
+        "expected": {
+          "number": 3,
+          "noun": "老师",
+          "sentence": "房间里有三位老师。"
+        },
+        "examples": [
+          {
+            "answer": "房间里有三位老师。",
+            "score": 100
+          },
+          {
+            "answer": "有三位。",
+            "score": 100
+          },
+          {
+            "answer": "房间里有三个老师。",
+            "score": 100
+          },
+          {
+            "answer": "房间里有三老师。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "房间里有两位老师。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-01-e30",
+      "type": "translate",
+      "vi": "Ông và bà đều thích uống trà.",
+      "answers": [
+        "爷爷[跟|和]奶奶都喜欢喝茶。"
+      ],
+      "examples": [
+        {
+          "answer": "爷爷跟奶奶都喜欢喝茶。",
+          "score": 100
+        },
+        {
+          "answer": "爷爷和奶奶都喜欢喝茶。",
+          "score": 100
+        },
+        {
+          "answer": "爷爷跟奶奶喜欢喝茶。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 「都」 (đều)"
+        },
+        {
+          "answer": "爷爷跟奶奶都不喜欢喝茶。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        98
+      ]
+    }
+  ]
+}

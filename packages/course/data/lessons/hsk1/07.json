@@ -1,0 +1,1491 @@
+{
+  "id": "hsk1-07",
+  "goalsVi": [
+    "Hỏi và nói ai, cái gì ở đâu với 「在」 và 「哪儿」, 「哪里」",
+    "Dùng phương vị từ 上, 下, 里, 外, 前, 后 (+ 边) đặt **sau** danh từ: 桌子上, 房间里",
+    "Nói làm việc gì ở đâu theo đúng trật tự: 我在家看书",
+    "Nói ở một chỗ có gì, là gì: 桌子上有两本书, 我前边是大卫",
+    "Hỏi đường, tìm người lịch sự với 「请问」, 「找」"
+  ],
+  "words": [
+    {
+      "no": 272,
+      "word": "在",
+      "meaningsVi": [
+        "ở, có mặt ở (động từ: 书在桌子上)",
+        "ở, tại (giới từ, đứng trước động từ: 在家看书)"
+      ],
+      "noteVi": "「在」 + nơi chốn đứng **trước** động từ: 我在家看书 (Tôi đọc sách ở nhà). Đừng dịch theo thứ tự tiếng Việt thành 我看书在家. Nghĩa 'đang' của 「在」 sẽ học sau.",
+      "examples": [
+        {
+          "zh": "我妈妈在家。",
+          "py": "wǒ mā ma zài jiā",
+          "vi": "Mẹ tôi ở nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 110,
+      "word": "里",
+      "meaningsVi": [
+        "trong, bên trong (đặt sau danh từ)"
+      ],
+      "noteVi": "「里」 đứng **sau** danh từ: 房间里 (trong phòng). Sau tên nước, tên thành phố không thêm 「里」: nói 在中国, không nói 在中国里.",
+      "examples": [
+        {
+          "zh": "猫在房间里。",
+          "py": "māo zài fáng jiān lǐ",
+          "vi": "Con mèo ở trong phòng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 175,
+      "word": "上",
+      "meaningsVi": [
+        "trên, bên trên (đặt sau danh từ)",
+        "lên (động từ, học sau)"
+      ],
+      "noteVi": "「上」 đứng **sau** danh từ: 桌子上 (trên bàn), ngược với tiếng Việt 'trên bàn'.",
+      "examples": [
+        {
+          "zh": "你的手机在桌子上。",
+          "py": "nǐ de shǒu jī zài zhuō zi shàng",
+          "vi": "Điện thoại của bạn ở trên bàn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 226,
+      "word": "下",
+      "meaningsVi": [
+        "dưới, bên dưới (đặt sau danh từ)",
+        "xuống (động từ, học sau)"
+      ],
+      "examples": [
+        {
+          "zh": "小狗在椅子下边。",
+          "py": "xiǎo gǒu zài yǐ zi xià biān",
+          "vi": "Con chó nhỏ ở dưới ghế."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 212,
+      "word": "外",
+      "meaningsVi": [
+        "ngoài, bên ngoài"
+      ],
+      "noteVi": "Hay dùng dạng 'danh từ + 外' (房间外: ngoài phòng) hoặc 「外边」.",
+      "examples": [
+        {
+          "zh": "我的狗在房间外。",
+          "py": "wǒ de gǒu zài fáng jiān wài",
+          "vi": "Con chó của tôi ở ngoài phòng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 163,
+      "word": "前",
+      "meaningsVi": [
+        "trước, phía trước"
+      ],
+      "noteVi": "Chỉ nơi chốn: danh từ + 前/前边 (trước …). 「前」 cũng chỉ thời gian (trước đây), sẽ học sau.",
+      "examples": [
+        {
+          "zh": "我前边是大卫。",
+          "py": "wǒ qián biān shì dà wèi",
+          "vi": "Phía trước tôi là David."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 80,
+      "word": "后",
+      "meaningsVi": [
+        "sau, phía sau"
+      ],
+      "examples": [
+        {
+          "zh": "椅子后边有一只猫。",
+          "py": "yǐ zi hòu biān yǒu yì zhī māo",
+          "vi": "Phía sau ghế có một con mèo."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 11,
+      "word": "边",
+      "meaningsVi": [
+        "bên, phía (đặt sau phương vị từ: 上边, 里边, 外边)"
+      ],
+      "noteVi": "Thêm 「边」 sau 上, 下, 里, 外, 前, 后 được từ chỉ phía, đọc nhẹ: 上边 shàngbian. Từ hai âm tiết này có thể đứng một mình: 外边 (bên ngoài).",
+      "examples": [
+        {
+          "zh": "书在桌子上边。",
+          "py": "shū zài zhuō zi shàng biān",
+          "vi": "Quyển sách ở trên bàn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 213,
+      "word": "外边",
+      "meaningsVi": [
+        "bên ngoài, ở ngoài"
+      ],
+      "examples": [
+        {
+          "zh": "我的猫在外边。",
+          "py": "wǒ de māo zài wài bian",
+          "vi": "Con mèo của tôi ở bên ngoài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 280,
+      "word": "这边",
+      "meaningsVi": [
+        "bên này, phía này"
+      ],
+      "examples": [
+        {
+          "zh": "这边是我的房间。",
+          "py": "zhè biān shì wǒ de fáng jiān",
+          "vi": "Bên này là phòng của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 137,
+      "word": "那边",
+      "meaningsVi": [
+        "bên kia, phía kia, bên đó"
+      ],
+      "examples": [
+        {
+          "zh": "你的书在那边。",
+          "py": "nǐ de shū zài nà biān",
+          "vi": "Sách của bạn ở bên kia."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 283,
+      "word": "这儿",
+      "meaningsVi": [
+        "ở đây, chỗ này"
+      ],
+      "noteVi": "「这儿」 và 「这里」 cùng nghĩa; 「这儿」 hay dùng trong khẩu ngữ miền Bắc Trung Quốc. 「儿」 đọc liền với âm trước thành một âm tiết: zhèr.",
+      "examples": [
+        {
+          "zh": "我的手机在这儿。",
+          "py": "wǒ de shǒu jī zài zhè r",
+          "vi": "Điện thoại của tôi ở đây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 140,
+      "word": "那儿",
+      "meaningsVi": [
+        "ở đó, ở kia, chỗ đó"
+      ],
+      "examples": [
+        {
+          "zh": "你的电脑在那儿。",
+          "py": "nǐ de diàn nǎo zài nà r",
+          "vi": "Máy tính của bạn ở đằng kia."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 282,
+      "word": "这里",
+      "meaningsVi": [
+        "ở đây, nơi này"
+      ],
+      "examples": [
+        {
+          "zh": "这里是我的房间。",
+          "py": "zhè lǐ shì wǒ de fáng jiān",
+          "vi": "Đây là phòng của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 139,
+      "word": "那里",
+      "meaningsVi": [
+        "ở đó, nơi đó"
+      ],
+      "examples": [
+        {
+          "zh": "我朋友住在那里。",
+          "py": "wǒ péng you zhù zài nà lǐ",
+          "vi": "Bạn tôi sống ở đó."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 134,
+      "word": "哪儿",
+      "meaningsVi": [
+        "đâu, ở đâu, chỗ nào"
+      ],
+      "noteVi": "「哪儿」 đứng đúng vào chỗ của nơi chốn trong câu trả lời: 你在哪儿？— 我在家. Câu có 「哪儿」 không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "你在哪儿？",
+          "py": "nǐ zài nǎ r",
+          "vi": "Bạn đang ở đâu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 133,
+      "word": "哪里",
+      "meaningsVi": [
+        "đâu, ở đâu, chỗ nào (cùng nghĩa với 「哪儿」)"
+      ],
+      "noteVi": "「哪里」 hay dùng ở miền Nam Trung Quốc, 「哪儿」 hay dùng ở miền Bắc. Chú ý: 「哪」 là 'nào, đâu', 「那」 là 'kia, đó'.",
+      "examples": [
+        {
+          "zh": "你家在哪里？",
+          "py": "nǐ jiā zài nǎ lǐ",
+          "vi": "Nhà bạn ở đâu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 52,
+      "word": "房间",
+      "meaningsVi": [
+        "phòng, căn phòng"
+      ],
+      "noteVi": "Âm Hán Việt là 'phòng gian'. 「房间」 là nơi chốn, nên 'ở trong phòng' nói được cả 在房间 và 在房间里.",
+      "examples": [
+        {
+          "zh": "我的房间很小。",
+          "py": "wǒ de fáng jiān hěn xiǎo",
+          "vi": "Phòng của tôi rất nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 294,
+      "word": "住",
+      "meaningsVi": [
+        "ở, sống (cư trú)"
+      ],
+      "noteVi": "'Sống ở đâu' nói 「住在 + nơi chốn」: 我住在河内. Khác với 「在」 (đang có mặt ở đâu), 「住」 là sống, ở lâu dài.",
+      "examples": [
+        {
+          "zh": "我和爸爸妈妈住在胡志明市。",
+          "py": "wǒ hé bà ba mā ma zhù zài hú zhì míng shì",
+          "vi": "Tôi sống với bố mẹ ở Thành phố Hồ Chí Minh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 165,
+      "word": "请",
+      "meaningsVi": [
+        "mời",
+        "xin, làm ơn, hãy (mở đầu lời đề nghị lịch sự)"
+      ],
+      "examples": [
+        {
+          "zh": "请你们说汉语。",
+          "py": "qǐng nǐ men shuō hàn yǔ",
+          "vi": "Các em hãy nói tiếng Hán nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 166,
+      "word": "请问",
+      "meaningsVi": [
+        "xin hỏi, cho hỏi"
+      ],
+      "noteVi": "Đặt ở đầu câu khi hỏi người lạ hoặc người lớn cho lịch sự.",
+      "examples": [
+        {
+          "zh": "请问，王老师在哪儿？",
+          "py": "qǐng wèn wáng lǎo shī zài nǎ r",
+          "vi": "Xin hỏi, thầy Vương ở đâu ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 278,
+      "word": "找",
+      "meaningsVi": [
+        "tìm, tìm kiếm",
+        "tìm gặp (ai)"
+      ],
+      "examples": [
+        {
+          "zh": "你找谁？——我找王老师。",
+          "py": "nǐ zhǎo shéi wǒ zhǎo wáng lǎo shī",
+          "vi": "Bạn tìm ai? — Tôi tìm thầy Vương."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 2,
+      "titleVi": "Hậu tố 「们」 và 「边」",
+      "summaryVi": "「们」 đặt sau đại từ, danh từ chỉ người để chỉ số nhiều (老师们); 「边」 đặt sau phương vị từ để chỉ phía (上边, 外边).",
+      "explanationVi": [
+        "Hậu tố là thành phần đứng **sau** một từ để tạo nên từ mới.",
+        "「们」 (đã gặp ở bài 2) đặt sau đại từ hoặc danh từ chỉ **người** để chỉ số nhiều: 我们, 老师们, 同学们, 朋友们. Đã có số lượng thì **không** thêm 「们」: nói 三个学生, không nói 三个学生们. Với con vật, đồ vật chỉ có 「它们」.",
+        "「边」 đặt sau 上, 下, 里, 外, 前, 后 để chỉ phía, bên: 上边 (bên trên), 下边 (bên dưới), 里边 (bên trong), 外边 (bên ngoài), 前边 (phía trước), 后边 (phía sau). Sau 「这」, 「那」 có 这边 (bên này), 那边 (bên kia)."
+      ],
+      "patterns": [
+        "Đại từ/danh từ chỉ người + 们",
+        "上/下/里/外/前/后 + 边",
+        "这/那 + 边"
+      ],
+      "examples": [
+        {
+          "zh": "同学们，你们好！",
+          "py": "tóng xué men nǐ men hǎo",
+          "vi": "Chào các em!"
+        },
+        {
+          "zh": "老师们都在房间里。",
+          "py": "lǎo shī men dōu zài fáng jiān lǐ",
+          "vi": "Các thầy cô đều ở trong phòng."
+        },
+        {
+          "zh": "你的书在桌子下边。",
+          "py": "nǐ de shū zài zhuō zi xià biān",
+          "vi": "Sách của bạn ở dưới bàn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我有三个朋友们。",
+          "right": "我有三个朋友。",
+          "noteVi": "Đã có số lượng (三个) thì không thêm 「们」."
+        }
+      ],
+      "morphemes": [
+        "们",
+        "边"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 3,
+      "titleVi": "Phương vị từ: 上, 下, 里, 外, 前, 后",
+      "summaryVi": "Phương vị từ đứng **sau** danh từ: 桌子上 (trên bàn), 房间里 (trong phòng) — ngược với tiếng Việt.",
+      "explanationVi": [
+        "Phương vị từ chỉ vị trí: 上 (trên), 下 (dưới), 里 (trong), 外 (ngoài), 前 (trước), 后 (sau). Có thể thêm 「边」: 上边, 里边, 前边…",
+        "Điểm khác tiếng Việt: phương vị từ đứng **sau** danh từ. Tiếng Việt nói '**trên** bàn', '**trong** phòng'; tiếng Trung nói 桌子**上**, 房间**里**.",
+        "Đồ vật (桌子, 椅子…) muốn thành nơi chốn thì **phải** có phương vị từ: 书在桌子上, không nói 书在桌子. Nơi chốn thật sự (家, 房间) có hoặc không đều được: 在家, 在家里. Tên nước, tên thành phố (中国, 河内) thì **không** thêm 「里」."
+      ],
+      "patterns": [
+        "Danh từ + 上/下/里/外/前/后 (+ 边)"
+      ],
+      "examples": [
+        {
+          "zh": "书在桌子上。",
+          "py": "shū zài zhuō zi shàng",
+          "vi": "Quyển sách ở trên bàn."
+        },
+        {
+          "zh": "小猫在椅子下边。",
+          "py": "xiǎo māo zài yǐ zi xià biān",
+          "vi": "Con mèo nhỏ ở dưới ghế."
+        },
+        {
+          "zh": "我的手机在房间里。",
+          "py": "wǒ de shǒu jī zài fáng jiān lǐ",
+          "vi": "Điện thoại của tôi ở trong phòng."
+        },
+        {
+          "zh": "大卫在我后边。",
+          "py": "dà wèi zài wǒ hòu biān",
+          "vi": "David ở phía sau tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "书在上桌子。",
+          "right": "书在桌子上。",
+          "noteVi": "Dịch từng chữ 'ở trên bàn' là sai: phương vị từ 「上」 đứng sau danh từ.",
+          "issue": "localizer_order"
+        },
+        {
+          "wrong": "书在桌子。",
+          "right": "书在桌子上。",
+          "noteVi": "「桌子」 là đồ vật, phải thêm phương vị từ mới thành nơi chốn.",
+          "issue": "missing_localizer"
+        },
+        {
+          "wrong": "我住在河内里。",
+          "right": "我住在河内。",
+          "noteVi": "Sau tên thành phố, tên nước không thêm 「里」.",
+          "issue": "extra_localizer"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 21,
+      "titleVi": "「在」 + nơi chốn",
+      "summaryVi": "「在」 + nơi chốn làm động từ (书在桌子上: ở) hoặc làm giới từ đứng trước động từ chính (我在家看书: làm gì ở đâu).",
+      "explanationVi": [
+        "「在」 làm **động từ** nghĩa là 'ở, có mặt ở': người/vật + 在 + nơi chốn. 我在家 (Tôi ở nhà), 书在桌子上 (Sách ở trên bàn). Phủ định là 「不在」: 老师不在房间里.",
+        "「在」 làm **giới từ**: 在 + nơi chốn + động từ, cho biết việc xảy ra ở đâu: 我在家看书. Cụm 「在 + nơi chốn」 đứng **trước** động từ.",
+        "Người Việt hay nói theo thứ tự tiếng Việt 'đọc sách ở nhà' → 我看书在家. Câu này sai. Hãy nhớ: **ở đâu** trước, **làm gì** sau.",
+        "Riêng với 「住」 (sống), 「在 + nơi chốn」 thường đứng sau động từ: 我住在河内 (Tôi sống ở Hà Nội)."
+      ],
+      "patterns": [
+        "Người/vật + 在 + nơi chốn",
+        "Chủ ngữ + 在 + nơi chốn + động từ (+ tân ngữ)",
+        "Chủ ngữ + 住在 + nơi chốn"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈不在家。",
+          "py": "mā ma bú zài jiā",
+          "vi": "Mẹ không có ở nhà."
+        },
+        {
+          "zh": "我在房间里看书。",
+          "py": "wǒ zài fáng jiān lǐ kàn shū",
+          "vi": "Tôi đọc sách trong phòng."
+        },
+        {
+          "zh": "他们在北京学汉语。",
+          "py": "tā men zài běi jīng xué hàn yǔ",
+          "vi": "Họ học tiếng Hán ở Bắc Kinh."
+        },
+        {
+          "zh": "你住在哪儿？",
+          "py": "nǐ zhù zài nǎ r",
+          "vi": "Bạn sống ở đâu?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我看书在家。",
+          "right": "我在家看书。",
+          "noteVi": "「在 + nơi chốn」 đứng trước động từ, không đứng cuối câu như tiếng Việt.",
+          "issue": "place_order"
+        },
+        {
+          "wrong": "他学汉语在北京。",
+          "right": "他在北京学汉语。",
+          "noteVi": "Nơi làm việc gì (在北京) đứng trước việc làm (学汉语).",
+          "issue": "place_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 33,
+      "titleVi": "Cụm giới từ: 在 + nơi chốn",
+      "summaryVi": "Giới từ + tân ngữ tạo thành cụm giới từ (在家, 在桌子上); cụm này đứng sau chủ ngữ, trước động từ.",
+      "explanationVi": [
+        "Cụm giới từ gồm **giới từ + tân ngữ**. Ở HSK1, cụm hay gặp nhất là 「在 + nơi chốn」: 在家, 在房间里, 在中国.",
+        "Cụm giới từ làm trạng ngữ, đứng **sau chủ ngữ, trước động từ**: 我**在房间里**看书. Các từ như 「不」, 「都」, 「也」 đứng trước cụm giới từ: 我们都在家看书, 他不在家看书.",
+        "Khi trả lời ngắn câu hỏi 「在哪儿」, có thể chỉ nói cụm giới từ: 你在哪儿看书？— 在家."
+      ],
+      "patterns": [
+        "Chủ ngữ + (不/也/都) + 在 + nơi chốn + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "我们都在房间里看书。",
+          "py": "wǒ men dōu zài fáng jiān lǐ kàn shū",
+          "vi": "Chúng tôi đều đọc sách trong phòng."
+        },
+        {
+          "zh": "他不在家看书。",
+          "py": "tā bú zài jiā kàn shū",
+          "vi": "Anh ấy không đọc sách ở nhà."
+        },
+        {
+          "zh": "小狗在椅子下边睡觉。",
+          "py": "xiǎo gǒu zài yǐ zi xià biān shuì jiào",
+          "vi": "Con chó nhỏ ngủ dưới gầm ghế."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他睡觉在房间里。",
+          "right": "他在房间里睡觉。",
+          "noteVi": "Cụm 「在 + nơi chốn」 đứng trước động từ 「睡觉」.",
+          "issue": "place_order"
+        },
+        {
+          "wrong": "我们在家都看书。",
+          "right": "我们都在家看书。",
+          "noteVi": "「都」 đứng trước cụm giới từ 「在家」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 54,
+      "titleVi": "Nơi chốn + 是 + danh từ: ở đó là ai, là cái gì",
+      "summaryVi": "Nơi chốn + 是 + người/vật: nói ở một chỗ là ai, là cái gì (我前边是大卫, 桌子上是我的书).",
+      "explanationVi": [
+        "Muốn nói 'ở chỗ … là …', đặt nơi chốn ở **đầu câu**, sau đó là 「是」 và người/vật: 我前边是大卫 (Phía trước tôi là David).",
+        "Nơi chốn đầu câu thường là 'danh từ + phương vị từ' (桌子上, 房间里) hoặc 这边, 那边, 这儿, 那儿. Đầu câu **không** thêm 「在」: nói 桌子上是我的书, không nói 在桌子上是我的书.",
+        "Câu với 「是」 dùng khi muốn chỉ rõ thứ ở chỗ đó **là** cái gì, ai. Muốn nói chỗ đó **có** những gì, bao nhiêu, hãy dùng 「有」 (điểm ngữ pháp tiếp theo)."
+      ],
+      "patterns": [
+        "Nơi chốn + 是 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "桌子上是我的电脑。",
+          "py": "zhuō zi shàng shì wǒ de diàn nǎo",
+          "vi": "Trên bàn là máy tính của tôi."
+        },
+        {
+          "zh": "这边是我的房间，那边是我妹妹的房间。",
+          "py": "zhè biān shì wǒ de fáng jiān nà biān shì wǒ mèi mei de fáng jiān",
+          "vi": "Bên này là phòng của tôi, bên kia là phòng của em gái tôi."
+        },
+        {
+          "zh": "我前边是大卫，后边是玛丽。",
+          "py": "wǒ qián biān shì dà wèi hòu biān shì mǎ lì",
+          "vi": "Phía trước tôi là David, phía sau là Mary."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "在桌子上是我的书。",
+          "right": "桌子上是我的书。",
+          "noteVi": "Nơi chốn đứng đầu câu không cần 「在」."
+        },
+        {
+          "wrong": "上桌子是我的书。",
+          "right": "桌子上是我的书。",
+          "noteVi": "Dịch từng chữ 'trên bàn là…' là sai: 「上」 đứng sau 「桌子」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 55,
+      "titleVi": "Nơi chốn + 有 + số lượng + danh từ: ở đó có gì",
+      "summaryVi": "Nơi chốn + 有 + (số + lượng từ) + danh từ: nói ở đâu có cái gì, có bao nhiêu (房间里有两只猫).",
+      "explanationVi": [
+        "Muốn nói 'ở đâu có cái gì', đặt nơi chốn ở **đầu câu**, rồi đến 「有」 và vật: 桌子上有三本书 (Trên bàn có ba quyển sách). Thứ tự này giống tiếng Việt.",
+        "Hai điểm khác tiếng Việt: phương vị từ đứng **sau** danh từ (桌子上, không phải 上桌子), và đầu câu **không** dùng 「在」.",
+        "Phủ định dùng 「没有」, không dùng 「不有」: 房间里没有猫.",
+        "So sánh: 「有」 cho biết ở đó có gì (vật chưa biết: 一本书); 「在」 cho biết vật đã biết đang ở đâu: 我的书在桌子上."
+      ],
+      "patterns": [
+        "Nơi chốn + 有 + số + lượng từ + danh từ",
+        "Nơi chốn + 没有 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "桌子上有两个手机。",
+          "py": "zhuō zi shàng yǒu liǎng gè shǒu jī",
+          "vi": "Trên bàn có hai cái điện thoại."
+        },
+        {
+          "zh": "房间里有一只小猫。",
+          "py": "fáng jiān lǐ yǒu yì zhī xiǎo māo",
+          "vi": "Trong phòng có một con mèo nhỏ."
+        },
+        {
+          "zh": "椅子下边没有狗。",
+          "py": "yǐ zi xià biān méi yǒu gǒu",
+          "vi": "Dưới ghế không có con chó nào."
+        },
+        {
+          "zh": "我家有三个房间。",
+          "py": "wǒ jiā yǒu sān gè fáng jiān",
+          "vi": "Nhà tôi có ba phòng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "房间里不有猫。",
+          "right": "房间里没有猫。",
+          "noteVi": "Phủ định của 「有」 là 「没有」.",
+          "issue": "bu_you"
+        },
+        {
+          "wrong": "在房间里有两只猫。",
+          "right": "房间里有两只猫。",
+          "noteVi": "Câu 'ở đâu có gì' không bắt đầu bằng 「在」."
+        },
+        {
+          "wrong": "桌子上有三书。",
+          "right": "桌子上有三本书。",
+          "noteVi": "Giữa số và danh từ cần lượng từ.",
+          "issue": "missing_measure_word"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-07-e01",
+      "type": "match",
+      "promptVi": "Nối phương vị từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "上",
+          "trên"
+        ],
+        [
+          "下",
+          "dưới"
+        ],
+        [
+          "里",
+          "trong"
+        ],
+        [
+          "外",
+          "ngoài"
+        ],
+        [
+          "前",
+          "trước"
+        ],
+        [
+          "后",
+          "sau"
+        ]
+      ],
+      "grammar": [
+        3
+      ]
+    },
+    {
+      "id": "hsk1-07-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "这儿",
+          "ở đây"
+        ],
+        [
+          "那儿",
+          "ở đó"
+        ],
+        [
+          "哪儿",
+          "ở đâu"
+        ],
+        [
+          "房间",
+          "phòng"
+        ],
+        [
+          "找",
+          "tìm"
+        ],
+        [
+          "住",
+          "sống (cư trú)"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-07-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Quyển sách ở trên bàn.)",
+      "options": [
+        "书在桌子上。",
+        "书在上桌子。",
+        "书上桌子在。"
+      ],
+      "answer": 0,
+      "explainVi": "Phương vị từ đứng sau danh từ: 桌子上.",
+      "grammar": [
+        3
+      ]
+    },
+    {
+      "id": "hsk1-07-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đọc sách ở nhà.)",
+      "options": [
+        "我在家看书。",
+        "我看书在家。",
+        "我看在家书。"
+      ],
+      "answer": 0,
+      "explainVi": "「在 + nơi chốn」 đứng trước động từ: 在家看书.",
+      "grammar": [
+        21,
+        33
+      ]
+    },
+    {
+      "id": "hsk1-07-e05",
+      "type": "fill",
+      "promptVi": "Điền phương vị từ thích hợp.",
+      "before": "猫在椅子",
+      "after": "边。",
+      "answers": [
+        "下"
+      ],
+      "options": [
+        "下",
+        "前",
+        "里"
+      ],
+      "vi": "Con mèo ở dưới ghế.",
+      "grammar": [
+        3,
+        2
+      ]
+    },
+    {
+      "id": "hsk1-07-e06",
+      "type": "fill",
+      "promptVi": "Điền hậu tố thích hợp.",
+      "before": "同学",
+      "after": "，你们好！",
+      "answers": [
+        "们"
+      ],
+      "options": [
+        "们",
+        "边",
+        "个"
+      ],
+      "vi": "Chào các em!",
+      "grammar": [
+        2
+      ]
+    },
+    {
+      "id": "hsk1-07-e07",
+      "type": "fill",
+      "promptVi": "Điền phương vị từ thích hợp.",
+      "before": "我们都在房间",
+      "after": "看书。",
+      "answers": [
+        "里"
+      ],
+      "options": [
+        "里",
+        "上",
+        "下"
+      ],
+      "vi": "Chúng tôi đều đọc sách ở trong phòng.",
+      "grammar": [
+        3
+      ]
+    },
+    {
+      "id": "hsk1-07-e08",
+      "type": "order",
+      "vi": "Tôi đọc sách ở trong phòng.",
+      "tiles": [
+        "我",
+        "在",
+        "房间里",
+        "看",
+        "书"
+      ],
+      "answers": [
+        "我在房间里看书"
+      ],
+      "explainVi": "「在 + nơi chốn」 đứng trước động từ 「看」.",
+      "grammar": [
+        21,
+        33
+      ]
+    },
+    {
+      "id": "hsk1-07-e09",
+      "type": "order",
+      "vi": "Trên bàn có hai quyển sách.",
+      "tiles": [
+        "桌子",
+        "上",
+        "有",
+        "两本",
+        "书"
+      ],
+      "answers": [
+        "桌子上有两本书"
+      ],
+      "explainVi": "Nơi chốn (桌子上) đứng đầu câu, sau đó là 「有」.",
+      "grammar": [
+        55
+      ]
+    },
+    {
+      "id": "hsk1-07-e10",
+      "type": "order",
+      "vi": "Bên này là phòng của tôi.",
+      "tiles": [
+        "这边",
+        "是",
+        "我的",
+        "房间"
+      ],
+      "answers": [
+        "这边是我的房间"
+      ],
+      "grammar": [
+        54
+      ]
+    },
+    {
+      "id": "hsk1-07-e11",
+      "type": "order",
+      "vi": "Bạn sống ở đâu?",
+      "tiles": [
+        "你",
+        "住",
+        "在",
+        "哪儿"
+      ],
+      "answers": [
+        "你住在哪儿"
+      ],
+      "grammar": [
+        21
+      ]
+    },
+    {
+      "id": "hsk1-07-e12",
+      "type": "choice",
+      "promptVi": "「我前边是大卫。」 nghĩa là gì?",
+      "options": [
+        "Phía trước tôi là David.",
+        "Tôi đứng trước David.",
+        "Phía sau tôi là David."
+      ],
+      "answer": 0,
+      "grammar": [
+        54
+      ]
+    },
+    {
+      "id": "hsk1-07-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Trong phòng có một con mèo.)",
+      "options": [
+        "房间里有一只猫。",
+        "在房间里有一只猫。",
+        "房间里一只猫有。"
+      ],
+      "answer": 0,
+      "explainVi": "Câu 'ở đâu có gì' bắt đầu bằng nơi chốn, không dùng 「在」 ở đầu câu.",
+      "grammar": [
+        55
+      ]
+    },
+    {
+      "id": "hsk1-07-e14",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "房间里",
+      "after": "猫。",
+      "answers": [
+        "没有"
+      ],
+      "options": [
+        "没有",
+        "不有",
+        "不是"
+      ],
+      "vi": "Trong phòng không có mèo.",
+      "explainVi": "Phủ định của 「有」 là 「没有」.",
+      "grammar": [
+        55
+      ]
+    },
+    {
+      "id": "hsk1-07-e15",
+      "type": "translate",
+      "vi": "Xin hỏi, thầy Vương ở đâu ạ?",
+      "answers": [
+        "请问，王老师在[哪儿|哪里]？",
+        {
+          "text": "王老师在[哪儿|哪里]？",
+          "score": 80
+        }
+      ],
+      "examples": [
+        {
+          "answer": "请问，王老师在哪儿？",
+          "score": 100
+        },
+        {
+          "answer": "请问，王老师在哪里？",
+          "score": 100
+        },
+        {
+          "answer": "王老师在哪儿？",
+          "score": 80,
+          "note": "Thiếu 「请问」 nên chưa lịch sự"
+        },
+        {
+          "answer": "请问，王老师在哪儿吗？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        21
+      ]
+    },
+    {
+      "id": "hsk1-07-e16",
+      "type": "translate",
+      "vi": "Tôi học tiếng Hán ở Hà Nội.",
+      "answers": [
+        "我在河内学[汉语|中文]。"
+      ],
+      "examples": [
+        {
+          "answer": "我在河内学汉语。",
+          "score": 100
+        },
+        {
+          "answer": "我在河内学中文。",
+          "score": 100
+        },
+        {
+          "answer": "我学汉语在河内。",
+          "score": 80,
+          "issues": [
+            "place_order"
+          ],
+          "note": "Dịch theo thứ tự tiếng Việt"
+        },
+        {
+          "answer": "我在河内里学汉语。",
+          "score": 90,
+          "issues": [
+            "extra_localizer"
+          ]
+        },
+        {
+          "answer": "我在北京学汉语。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        21,
+        33
+      ]
+    },
+    {
+      "id": "hsk1-07-e17",
+      "type": "translate",
+      "vi": "Trên bàn có một cái điện thoại.",
+      "answers": [
+        "桌子上(边)有一个手机。"
+      ],
+      "examples": [
+        {
+          "answer": "桌子上有一个手机。",
+          "score": 100
+        },
+        {
+          "answer": "桌子上边有一个手机。",
+          "score": 100
+        },
+        {
+          "answer": "上桌子有一个手机。",
+          "score": 80,
+          "issues": [
+            "localizer_order"
+          ]
+        },
+        {
+          "answer": "桌子上有一手机。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu lượng từ 个"
+        },
+        {
+          "answer": "桌子下有一个手机。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        55,
+        3
+      ]
+    },
+    {
+      "id": "hsk1-07-e18",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "书在哪儿？",
+        "promptVi": "Quyển sách ở đâu? (Trong hình: quyển sách ở trên bàn.)",
+        "expected": {
+          "places": [
+            "桌子"
+          ],
+          "localizer": "上",
+          "sentence": "书在桌子上。"
+        },
+        "examples": [
+          {
+            "answer": "书在桌子上。",
+            "score": 100
+          },
+          {
+            "answer": "在桌子上。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上。",
+            "score": 100,
+            "note": "Câu trả lời ngắn, rất tự nhiên"
+          },
+          {
+            "answer": "书在桌子上边。",
+            "score": 100
+          },
+          {
+            "answer": "书在上桌子。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ],
+            "note": "Dịch từng chữ 'ở trên bàn'"
+          },
+          {
+            "answer": "书在桌子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ],
+            "note": "桌子 là đồ vật, cần 上"
+          },
+          {
+            "answer": "书在桌子下边。",
+            "score": 20,
+            "note": "Ở dưới bàn, không phải trên bàn"
+          },
+          {
+            "answer": "书在椅子上。",
+            "score": 20
+          },
+          {
+            "answer": "书不在桌子上。",
+            "score": 20,
+            "note": "Câu phủ định"
+          }
+        ]
+      },
+      "grammar": [
+        3,
+        21
+      ]
+    },
+    {
+      "id": "hsk1-07-e19",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "猫在哪儿？",
+        "promptVi": "Con mèo ở đâu? (Trong hình: con mèo ở dưới ghế.)",
+        "expected": {
+          "places": [
+            "椅子"
+          ],
+          "localizer": "下",
+          "sentence": "猫在椅子下边。"
+        },
+        "examples": [
+          {
+            "answer": "猫在椅子下边。",
+            "score": 100
+          },
+          {
+            "answer": "在椅子下。",
+            "score": 100
+          },
+          {
+            "answer": "它在椅子下边。",
+            "score": 100
+          },
+          {
+            "answer": "猫在下椅子。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ],
+            "note": "Dịch từng chữ 'ở dưới ghế'"
+          },
+          {
+            "answer": "猫在椅子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "猫在椅子上。",
+            "score": 20,
+            "note": "Ở trên ghế, không phải dưới ghế"
+          }
+        ]
+      },
+      "grammar": [
+        3
+      ]
+    },
+    {
+      "id": "hsk1-07-e20",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你住在哪儿？",
+        "promptVi": "Bạn sống ở đâu? (Trả lời về bản thân bạn.)",
+        "expected": {
+          "sentence": "我住在河内。"
+        },
+        "examples": [
+          {
+            "answer": "我住在河内。",
+            "score": 100
+          },
+          {
+            "answer": "我住在胡志明市。",
+            "score": 100
+          },
+          {
+            "answer": "住在越南。",
+            "score": 100
+          },
+          {
+            "answer": "我在河内住。",
+            "score": 100,
+            "note": "Cũng là cách nói đúng"
+          },
+          {
+            "answer": "我住在河内里。",
+            "score": 90,
+            "issues": [
+              "extra_localizer"
+            ],
+            "note": "Tên thành phố không thêm 里"
+          },
+          {
+            "answer": "我住在越南里。",
+            "score": 90,
+            "issues": [
+              "extra_localizer"
+            ]
+          }
+        ]
+      },
+      "grammar": [
+        21,
+        3
+      ]
+    },
+    {
+      "id": "hsk1-07-e21",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你在哪儿看书？",
+        "promptVi": "Bạn đọc sách ở đâu? (Trả lời về bản thân bạn.)",
+        "expected": {
+          "sentence": "我在家看书。"
+        },
+        "examples": [
+          {
+            "answer": "我在家看书。",
+            "score": 100
+          },
+          {
+            "answer": "在家。",
+            "score": 100
+          },
+          {
+            "answer": "我在房间里看书。",
+            "score": 100
+          },
+          {
+            "answer": "我在家里看书。",
+            "score": 100
+          },
+          {
+            "answer": "我看书在家。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ],
+            "note": "Dịch theo thứ tự tiếng Việt 'đọc sách ở nhà'"
+          },
+          {
+            "answer": "我看书在房间里。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ]
+          },
+          {
+            "answer": "我在里房间看书。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          }
+        ]
+      },
+      "grammar": [
+        21,
+        33
+      ]
+    },
+    {
+      "id": "hsk1-07-e22",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "房间里有几只猫？",
+        "promptVi": "Trong phòng có mấy con mèo? (Trong hình: 3 con mèo.)",
+        "picture": "🐈🐈🐈",
+        "expected": {
+          "number": 3,
+          "noun": "猫",
+          "sentence": "房间里有三只猫。"
+        },
+        "examples": [
+          {
+            "answer": "房间里有三只猫。",
+            "score": 100
+          },
+          {
+            "answer": "有三只。",
+            "score": 100
+          },
+          {
+            "answer": "房间里有三个猫。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "房间里有三猫。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "里房间有三只猫。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "房间里有两只猫。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        55
+      ]
+    },
+    {
+      "id": "hsk1-07-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你前边是谁？",
+        "promptVi": "Phía trước bạn là ai? (Giả sử phía trước bạn là David: 大卫.)",
+        "answers": [
+          "(我)前边是大卫。",
+          "(是)大卫。",
+          "大卫在我前边。"
+        ],
+        "examples": [
+          {
+            "answer": "我前边是大卫。",
+            "score": 100
+          },
+          {
+            "answer": "大卫。",
+            "score": 100
+          },
+          {
+            "answer": "大卫在我前边。",
+            "score": 100
+          },
+          {
+            "answer": "我后边是大卫。",
+            "score": 0
+          },
+          {
+            "answer": "我前边是玛丽。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        54
+      ]
+    },
+    {
+      "id": "hsk1-07-e24",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你找谁？",
+        "promptVi": "Bạn tìm ai? (Giả sử bạn tìm thầy Vương.)",
+        "answers": [
+          "(我)找王老师。",
+          "王老师。"
+        ],
+        "examples": [
+          {
+            "answer": "我找王老师。",
+            "score": 100
+          },
+          {
+            "answer": "王老师。",
+            "score": 100
+          },
+          {
+            "answer": "我找李老师。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-07-e25",
+      "type": "translate",
+      "vi": "Các bạn học đều ở trong phòng.",
+      "answers": [
+        "同学们都在房间(里)。"
+      ],
+      "examples": [
+        {
+          "answer": "同学们都在房间里。",
+          "score": 100
+        },
+        {
+          "answer": "同学们都在房间。",
+          "score": 100
+        },
+        {
+          "answer": "同学们都在里房间。",
+          "score": 80,
+          "issues": [
+            "localizer_order"
+          ]
+        },
+        {
+          "answer": "同学们在房间里。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        }
+      ],
+      "grammar": [
+        2,
+        3
+      ]
+    }
+  ]
+}

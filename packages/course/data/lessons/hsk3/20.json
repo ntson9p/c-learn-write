@@ -1,0 +1,1260 @@
+{
+  "id": "hsk3-20",
+  "goalsVi": [
+    "Nói về hôn nhân, gia đình và các mối quan hệ: 结婚, 爱人, 夫妻, 姐妹, 关系, 照顾老人",
+    "Kể những thay đổi trong đời theo thời gian: 过去, 前年, 后年, 不久, 直到……才……, 长大",
+    "Dùng đúng động từ li hợp: 跟他见面, 结过婚, 放了三天假, 洗了个澡",
+    "Dùng cụm đồng vị: 我们大家, 我们两个, 他们夫妻, 我们姐妹三个",
+    "Nói 'về mặt…, dưới sự…, trong…' với 「在……上/下/中」 và dùng 「动词 + 出/起/下」: 想出, 想起, 记下"
+  ],
+  "words": [
+    {
+      "no": 711,
+      "word": "结婚",
+      "meaningsVi": [
+        "kết hôn, cưới (vợ, chồng)"
+      ],
+      "noteVi": "Là động từ li hợp: kết hôn **với ai** là 跟 / 和 + người + 结婚, không nói 结婚她. Có thể chen vào giữa: 结了婚, 结过婚.",
+      "examples": [
+        {
+          "zh": "我姐姐去年结婚了。",
+          "py": "wǒ jiě jie qù nián jié hūn le",
+          "vi": "Chị gái tôi cưới năm ngoái."
+        },
+        {
+          "zh": "他想跟女朋友结婚。",
+          "py": "tā xiǎng gēn nǚ péng you jié hūn",
+          "vi": "Anh ấy muốn cưới bạn gái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 503,
+      "word": "爱人",
+      "meaningsVi": [
+        "vợ, chồng (cách gọi người bạn đời)"
+      ],
+      "noteVi": "Bẫy Hán Việt: 「爱人」 (ái nhân) **không** phải 'người yêu' mà là **vợ hoặc chồng**: 这是我爱人 = đây là vợ / chồng tôi. 'Người yêu' là 男朋友 / 女朋友. Chữ 「人」 đọc nhẹ: àiren.",
+      "examples": [
+        {
+          "zh": "这是我爱人，她是医生。",
+          "py": "zhè shì wǒ ài ren tā shì yī shēng",
+          "vi": "Đây là vợ tôi, cô ấy là bác sĩ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 631,
+      "word": "夫妻",
+      "meaningsVi": [
+        "vợ chồng"
+      ],
+      "noteVi": "Chỉ cả hai người: 一对夫妻 (một cặp vợ chồng), 他们夫妻 (vợ chồng họ). Một người thì dùng 「爱人」, 丈夫, 妻子.",
+      "examples": [
+        {
+          "zh": "他们是夫妻，已经结婚十年了。",
+          "py": "tā men shì fū qī yǐ jīng jié hūn shí nián le",
+          "vi": "Họ là vợ chồng, đã cưới nhau được mười năm rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 713,
+      "word": "姐妹",
+      "meaningsVi": [
+        "chị em gái"
+      ],
+      "noteVi": "「姐妹」 chỉ chị em gái với nhau. Tiếng Việt 'chị em' có khi gồm cả anh em trai, tiếng Trung thì không.",
+      "examples": [
+        {
+          "zh": "她们是姐妹，长得很像。",
+          "py": "tā men shì jiě mèi zhǎng de hěn xiàng",
+          "vi": "Họ là hai chị em, trông rất giống nhau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 654,
+      "word": "关系",
+      "meaningsVi": [
+        "quan hệ, mối quan hệ"
+      ],
+      "noteVi": "A 跟 B 的关系很好 (A và B quan hệ rất tốt). 「没关系」 (không sao) nghĩa đen là 'không có liên quan'.",
+      "examples": [
+        {
+          "zh": "我跟邻居的关系很好。",
+          "py": "wǒ gēn lín jū de guān xì hěn hǎo",
+          "vi": "Tôi với hàng xóm quan hệ rất tốt."
+        },
+        {
+          "zh": "你们两个是什么关系？",
+          "py": "nǐ men liǎng gè shì shén me guān xì",
+          "vi": "Hai người là quan hệ thế nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 971,
+      "word": "照顾",
+      "meaningsVi": [
+        "chăm sóc, trông nom"
+      ],
+      "noteVi": "Bẫy Hán Việt: 'chiếu cố' trong tiếng Việt là 'hạ cố, ưu ái', còn 「照顾」 là **chăm sóc**: 照顾孩子 (trông con), 照顾老人 (chăm sóc người già).",
+      "examples": [
+        {
+          "zh": "妈妈病了，我在家照顾她。",
+          "py": "mā ma bìng le wǒ zài jiā zhào gù tā",
+          "vi": "Mẹ bị ốm, tôi ở nhà chăm sóc mẹ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 746,
+      "word": "老人",
+      "meaningsVi": [
+        "người già, người cao tuổi"
+      ],
+      "noteVi": "Lượng từ lịch sự là 「位」: 一位老人.",
+      "examples": [
+        {
+          "zh": "我们应该多关心家里的老人。",
+          "py": "wǒ men yīng gāi duō guān xīn jiā lǐ de lǎo rén",
+          "vi": "Chúng ta nên quan tâm nhiều hơn đến người già trong nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 574,
+      "word": "大人",
+      "meaningsVi": [
+        "người lớn"
+      ],
+      "noteVi": "Trong tiếng Trung hiện đại, 「大人」 là người lớn (đối lập với 孩子), không phải 'quan lớn' như 'đại nhân'. Chữ 「人」 đọc nhẹ: dàren.",
+      "examples": [
+        {
+          "zh": "孩子们在外面玩，大人们在屋子里聊天。",
+          "py": "hái zi men zài wài miàn wán dà ren men zài wū zi lǐ liáo tiān",
+          "vi": "Bọn trẻ chơi ở ngoài, người lớn ngồi trong nhà nói chuyện."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 826,
+      "word": "身边",
+      "meaningsVi": [
+        "bên cạnh, bên mình"
+      ],
+      "noteVi": "Hay dùng: 在 + người + 身边 (ở bên ai): 家人不在我身边 (gia đình không ở bên tôi).",
+      "examples": [
+        {
+          "zh": "我在外地工作，家人都不在我身边。",
+          "py": "wǒ zài wài dì gōng zuò jiā rén dōu bú zài wǒ shēn biān",
+          "vi": "Tôi làm việc ở nơi khác, gia đình không ai ở bên cạnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 770,
+      "word": "面前",
+      "meaningsVi": [
+        "trước mặt"
+      ],
+      "noteVi": "Đi sau người: 我面前, 大家面前 (trước mặt mọi người). 「前面」 là phía trước nói chung, còn 「面前」 là ngay trước mặt một người.",
+      "examples": [
+        {
+          "zh": "老师走到我面前，问我叫什么名字。",
+          "py": "lǎo shī zǒu dào wǒ miàn qián wèn wǒ jiào shén me míng zi",
+          "vi": "Thầy giáo đi đến trước mặt tôi, hỏi tôi tên là gì."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 833,
+      "word": "市",
+      "meaningsVi": [
+        "thành phố (đơn vị hành chính)",
+        "trung tâm thành phố (市里)"
+      ],
+      "noteVi": "Đứng sau tên thành phố: 北京市, 上海市, 胡志明市. 「市里」 là trong thành phố, khu trung tâm. 「城市」 (bài 7) là thành phố nói chung.",
+      "examples": [
+        {
+          "zh": "我们周末常常去市里买东西。",
+          "py": "wǒ men zhōu mò cháng cháng qù shì lǐ mǎi dōng xi",
+          "vi": "Cuối tuần chúng tôi thường lên phố mua đồ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 679,
+      "word": "环境",
+      "meaningsVi": [
+        "môi trường, cảnh quan xung quanh"
+      ],
+      "noteVi": "「环境」 là những gì ở xung quanh: 学习环境 (môi trường học tập), 这儿的环境很好 (ở đây cảnh quan, không khí tốt).",
+      "examples": [
+        {
+          "zh": "这个小区的环境很好，又安静又干净。",
+          "py": "zhè ge xiǎo qū de huán jìng hěn hǎo yòu ān jìng yòu gān jìng",
+          "vi": "Môi trường của khu dân cư này rất tốt, vừa yên tĩnh vừa sạch sẽ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 968,
+      "word": "长",
+      "meaningsVi": [
+        "lớn lên, mọc",
+        "(hậu tố) trưởng: 校长, 班长"
+      ],
+      "noteVi": "Chữ 「长」 có hai cách đọc: **cháng** (dài, HSK2) và **zhǎng** (lớn lên). Hay gặp: 长大 (lớn lên), 长高了 (cao lên), 长得 + tính từ (trông…): 她长得很漂亮. Làm hậu tố chỉ người đứng đầu: 校长 (hiệu trưởng).",
+      "examples": [
+        {
+          "zh": "你长得很像你妈妈。",
+          "py": "nǐ zhǎng de hěn xiàng nǐ mā ma",
+          "vi": "Bạn trông rất giống mẹ bạn."
+        },
+        {
+          "zh": "我是在河内出生、在河内长大的。",
+          "py": "wǒ shì zài hé nèi chū shēng zài hé nèi zhǎng dà de",
+          "vi": "Tôi sinh ra và lớn lên ở Hà Nội."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 660,
+      "word": "过去",
+      "meaningsVi": [
+        "trước đây, quá khứ"
+      ],
+      "noteVi": "Ở HSK2, 「过去」 là động từ 'đi qua' (走过去). Ở đây là danh từ chỉ thời gian: 过去 (trước đây) ↔ 现在 (bây giờ).",
+      "examples": [
+        {
+          "zh": "过去这里是一条小河，现在是一条大马路。",
+          "py": "guò qù zhè lǐ shì yì tiáo xiǎo hé xiàn zài shì yì tiáo dà mǎ lù",
+          "vi": "Trước đây chỗ này là một con sông nhỏ, bây giờ là một con đường lớn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 805,
+      "word": "前年",
+      "meaningsVi": [
+        "năm kia"
+      ],
+      "noteVi": "前年 (năm kia) → 去年 (năm ngoái) → 今年 → 明年 → 后年 (năm sau nữa), giống 前天, 昨天, 今天, 明天, 后天.",
+      "examples": [
+        {
+          "zh": "我哥哥前年结婚了。",
+          "py": "wǒ gē ge qián nián jié hūn le",
+          "vi": "Anh trai tôi cưới vợ năm kia."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 672,
+      "word": "后年",
+      "meaningsVi": [
+        "năm sau nữa (năm kia của tương lai)"
+      ],
+      "examples": [
+        {
+          "zh": "我们打算后年搬家。",
+          "py": "wǒ men dǎ suàn hòu nián bān jiā",
+          "vi": "Chúng tôi định năm sau nữa sẽ chuyển nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 540,
+      "word": "不久",
+      "meaningsVi": [
+        "không lâu, chẳng bao lâu"
+      ],
+      "noteVi": "「不久」 (vài ngày, vài tháng) dài hơn 「不一会儿」 (bài 18, vài phút). Hay dùng: 不久以后 (không lâu sau), 不久以前 (cách đây không lâu), 结婚不久 (mới cưới không lâu).",
+      "examples": [
+        {
+          "zh": "他们结婚不久就搬到了上海。",
+          "py": "tā men jié hūn bù jiǔ jiù bān dào le shàng hǎi",
+          "vi": "Họ cưới nhau chưa được bao lâu thì chuyển đến Thượng Hải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 974,
+      "word": "直到",
+      "meaningsVi": [
+        "mãi đến, cho đến tận"
+      ],
+      "noteVi": "Hay đi với 「才」: 直到……才…… (mãi đến … mới …). Cũng nói: 直到现在 (cho đến tận bây giờ).",
+      "examples": [
+        {
+          "zh": "他每天工作到很晚，直到十一点才回家。",
+          "py": "tā měi tiān gōng zuò dào hěn wǎn zhí dào shí yī diǎn cái huí jiā",
+          "vi": "Ngày nào anh ấy cũng làm việc đến khuya, mãi đến mười một giờ mới về nhà."
+        },
+        {
+          "zh": "直到现在，我还记得那个故事。",
+          "py": "zhí dào xiàn zài wǒ hái jì de nà ge gù shi",
+          "vi": "Cho đến tận bây giờ, tôi vẫn còn nhớ câu chuyện ấy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 981,
+      "word": "中",
+      "meaningsVi": [
+        "trong, ở giữa (trong một phạm vi, một quá trình)"
+      ],
+      "noteVi": "「中」 nghĩa như 「里」 nhưng trang trọng hơn, hay dùng trong 「在……中」: 在我们班中 (trong lớp chúng tôi), 在生活中 (trong cuộc sống).",
+      "examples": [
+        {
+          "zh": "在我们班中，他的个子最高。",
+          "py": "zài wǒ men bān zhōng tā de gè zi zuì gāo",
+          "vi": "Trong lớp chúng tôi, cậu ấy cao nhất."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 153,
+      "titleVi": "Động từ li hợp (động từ + tân ngữ): 放假, 见面, 结婚, 洗澡",
+      "summaryVi": "放假, 见面, 结婚, 洗澡 đã có sẵn tân ngữ bên trong: không thêm tân ngữ sau; người đi kèm đặt trước với 「跟」; 了, 过, 个, số lượng chen vào giữa (见过两次面, 洗了个澡).",
+      "explanationVi": [
+        "Ở HSK1, HSK2 đã gặp các động từ li hợp như 睡觉, 上课, 帮忙, 游泳. Bài này thêm bốn từ: 放假 (nghỉ lễ), 见面 (gặp mặt), 结婚 (kết hôn), 洗澡 (tắm). Mỗi từ gồm **động từ + tân ngữ**: 放 + 假, 见 + 面, 结 + 婚, 洗 + 澡.",
+        "Vì đã có tân ngữ bên trong, **không** đặt thêm tân ngữ phía sau. Tiếng Việt nói 'gặp bạn', 'cưới cô ấy', nên người Việt hay nói sai 见面你, 结婚她. Đúng là đặt người **trước** với 「跟 / 和」: 我想**跟你**见面, 他**跟她**结婚了.",
+        "Các thành phần 了, 过, 个, số lượng, thời gian chen **vào giữa** động từ và tân ngữ: 见**过两次**面 (đã gặp hai lần), 结**过**婚 (đã từng kết hôn), 放了**三天**假 (được nghỉ ba ngày), 洗**了个**澡 (tắm một cái). Không nói 见面过. Khi chỉ báo việc đã xảy ra, 「了」 cũng có thể đứng cuối: 他结婚了, 我们放假了.",
+        "Có thể lặp phần động từ: 见见面 (gặp nhau một chút), 洗洗澡. Trong câu 「是……的」, 「的」 có thể đứng giữa: 我姐姐是去年结的婚 = 我姐姐是去年结婚的."
+      ],
+      "patterns": [
+        "A + 跟/和 + B + 见面 / 结婚",
+        "Động từ + 了/过 + (số lượng) + tân ngữ (见过两次面, 放了三天假)",
+        "Động từ + 了个 + tân ngữ (洗了个澡)"
+      ],
+      "examples": [
+        {
+          "zh": "明天我想跟你见个面。",
+          "py": "míng tiān wǒ xiǎng gēn nǐ jiàn gè miàn",
+          "vi": "Mai mình muốn gặp bạn một chút."
+        },
+        {
+          "zh": "我们只见过两次面。",
+          "py": "wǒ men zhǐ jiàn guò liǎng cì miàn",
+          "vi": "Chúng tôi mới gặp nhau có hai lần."
+        },
+        {
+          "zh": "新年我们放了三天假。",
+          "py": "xīn nián wǒ men fàng le sān tiān jià",
+          "vi": "Dịp năm mới chúng tôi được nghỉ ba ngày."
+        },
+        {
+          "zh": "跑步以后，我回家洗了个澡。",
+          "py": "pǎo bù yǐ hòu wǒ huí jiā xǐ le gè zǎo",
+          "vi": "Chạy bộ xong, tôi về nhà tắm một cái."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我想见面你。",
+          "right": "我想跟你见面。",
+          "noteVi": "「见面」 không có tân ngữ sau. Gặp ai: 跟 + người + 见面. (Cũng có thể nói 我想见你, dùng 「见」 một mình.)"
+        },
+        {
+          "wrong": "他结婚了一个日本女孩儿。",
+          "right": "他跟一个日本女孩儿结婚了。",
+          "noteVi": "Kết hôn với ai: 跟 + người + 结婚, không đặt người sau 「结婚」."
+        },
+        {
+          "wrong": "我们见面过两次。",
+          "right": "我们见过两次面。",
+          "noteVi": "「过」 và số lần chen vào giữa 「见」 và 「面」."
+        }
+      ],
+      "morphemes": [
+        "结",
+        "婚",
+        "澡",
+        "假"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 180,
+      "titleVi": "Cụm đồng vị: 我们大家, 我们两个, 他们夫妻",
+      "summaryVi": "Hai thành phần cùng chỉ một người/vật đứng liền nhau, không có 「的」: 我们大家, 你们两个, 我们姐妹三个, 我的朋友大卫.",
+      "explanationVi": [
+        "Cụm đồng vị gồm **hai phần cùng chỉ một đối tượng**, đứng sát nhau, phần sau nói rõ thêm phần trước: 我们大家 (tất cả chúng ta), 我的朋友大卫 (bạn tôi, David), 我爱人小红 (vợ tôi, Tiểu Hồng).",
+        "Kiểu rất hay gặp: **đại từ + danh từ / số lượng**: 我们两个 (hai đứa chúng tôi), 他们夫妻 (vợ chồng họ), 我们姐妹三个 (ba chị em chúng tôi). Chú ý thứ tự **ngược với tiếng Việt**: tiếng Việt nói 'hai đứa **chúng tôi**', 'ba chị em **chúng tôi**' (đại từ đứng sau); tiếng Trung đặt đại từ **trước**: **我们**两个, **我们**姐妹三个.",
+        "Giữa hai phần **không** có 「的」: nói 我们大家, không nói 我们的大家 (vì không phải quan hệ sở hữu). Cả cụm làm chủ ngữ hay tân ngữ như một danh từ: 他们夫妻两个都是老师, 老师让我们两个去办公室."
+      ],
+      "patterns": [
+        "Đại từ + 大家 (我们大家, 你们大家)",
+        "Đại từ + (danh từ) + số + 个 (我们两个, 我们姐妹三个)",
+        "Danh từ + tên riêng (我的朋友大卫)"
+      ],
+      "examples": [
+        {
+          "zh": "我们大家都很喜欢王老师。",
+          "py": "wǒ men dà jiā dōu hěn xǐ huan wáng lǎo shī",
+          "vi": "Tất cả chúng tôi đều rất quý thầy Vương."
+        },
+        {
+          "zh": "他们夫妻两个都在银行工作。",
+          "py": "tā men fū qī liǎng gè dōu zài yín háng gōng zuò",
+          "vi": "Hai vợ chồng họ đều làm ở ngân hàng."
+        },
+        {
+          "zh": "我们姐妹三个都结婚了。",
+          "py": "wǒ men jiě mèi sān gè dōu jié hūn le",
+          "vi": "Ba chị em chúng tôi đều đã lập gia đình."
+        },
+        {
+          "zh": "我的朋友大卫明天要来河内。",
+          "py": "wǒ de péng you dà wèi míng tiān yào lái hé nèi",
+          "vi": "Bạn tôi, David, ngày mai sẽ đến Hà Nội."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "两个我们都喜欢运动。",
+          "right": "我们两个都喜欢运动。",
+          "noteVi": "Tiếng Việt 'hai đứa chúng tôi' đặt số trước; tiếng Trung đặt đại từ trước: 我们两个."
+        },
+        {
+          "wrong": "我们的大家都来了。",
+          "right": "我们大家都来了。",
+          "noteVi": "Cụm đồng vị không có 「的」 ở giữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 201,
+      "titleVi": "「在……上 / 下 / 中」: về mặt…, dưới sự…, trong…",
+      "summaryVi": "在 + danh từ trừu tượng + 上 (về mặt…: 在学习上), + 下 (dưới điều kiện, sự…: 在老师的帮助下), + 中 (trong quá trình, phạm vi: 在生活中).",
+      "explanationVi": [
+        "Ngoài nghĩa chỉ chỗ (在桌子上), 「在……上 / 下 / 中」 còn đi với danh từ trừu tượng, đứng **đầu câu hoặc trước động từ**, cho biết hoàn cảnh của sự việc.",
+        "**在……上** = 'về mặt…, trong (lĩnh vực)…': 在学习上，他常常帮助我 (Về mặt học tập, cậu ấy thường giúp tôi), 在工作上, 在生活上. Cũng dùng cho một buổi, một sự kiện: 在晚会上, 在运动会上.",
+        "**在……下** = 'dưới (sự)…, nhờ có…': 在老师的帮助下 (dưới sự giúp đỡ của thầy), 在大家的关心下. Tiếng Việt cũng nói 'dưới sự giúp đỡ', nhưng thứ tự khác: tiếng Việt '**dưới** sự giúp đỡ **của thầy**', tiếng Trung 「在 + 老师的帮助 + **下**」, 「下」 đứng **cuối**. Không nói 在下老师的帮助.",
+        "**在……中** = 'trong (quá trình, phạm vi)…': 在生活中 (trong cuộc sống), 在比赛中 (trong lúc thi đấu), 在这些照片中 (trong số những bức ảnh này). Cả cụm đứng trước động từ, không đặt cuối câu như tiếng Việt: 我的汉语提高了很多在老师的帮助下 là sai."
+      ],
+      "patterns": [
+        "在 + danh từ + 上，… (về mặt…)",
+        "在 + (người + 的) + danh từ + 下，… (dưới sự…)",
+        "在 + danh từ + 中，… (trong…)"
+      ],
+      "examples": [
+        {
+          "zh": "在学习上，他常常帮助我。",
+          "py": "zài xué xí shàng tā cháng cháng bāng zhù wǒ",
+          "vi": "Về mặt học tập, cậu ấy thường giúp đỡ tôi."
+        },
+        {
+          "zh": "在老师的帮助下，我的汉语提高了很多。",
+          "py": "zài lǎo shī de bāng zhù xià wǒ de hàn yǔ tí gāo le hěn duō",
+          "vi": "Dưới sự giúp đỡ của thầy, tiếng Trung của tôi tiến bộ rất nhiều."
+        },
+        {
+          "zh": "在生活中，我们会遇到很多问题。",
+          "py": "zài shēng huó zhōng wǒ men huì yù dào hěn duō wèn tí",
+          "vi": "Trong cuộc sống, chúng ta sẽ gặp rất nhiều vấn đề."
+        },
+        {
+          "zh": "在这些照片中，我最喜欢这一张。",
+          "py": "zài zhè xiē zhào piàn zhōng wǒ zuì xǐ huan zhè yì zhāng",
+          "vi": "Trong số những bức ảnh này, tôi thích nhất tấm này."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "在下老师的帮助，我的汉语提高了很多。",
+          "right": "在老师的帮助下，我的汉语提高了很多。",
+          "noteVi": "Dịch theo thứ tự tiếng Việt 'dưới sự giúp đỡ của thầy' là sai: 「下」 đứng sau 「老师的帮助」."
+        },
+        {
+          "wrong": "我的汉语提高了很多在老师的帮助下。",
+          "right": "在老师的帮助下，我的汉语提高了很多。",
+          "noteVi": "Cụm 「在……下」 đứng đầu câu hoặc trước động từ, không đặt cuối câu."
+        },
+        {
+          "wrong": "在老师的帮助中，我的汉语提高了很多。",
+          "right": "在老师的帮助下，我的汉语提高了很多。",
+          "noteVi": "'Nhờ sự giúp đỡ, quan tâm' dùng 「在……下」, không dùng 「中」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 206,
+      "titleVi": "Động từ + 出 / 起 / 下: nghĩa kết quả (想出, 想起, 记下)",
+      "summaryVi": "「V + 出」: làm cho xuất hiện, nhận ra (想出办法, 听出声音); 「V + 起」: nhớ đến, nhắc đến (想起, 说起); 「V + 下」: giữ lại, ghi lại, chứa được (记下, 写下, 坐得下).",
+      "explanationVi": [
+        "Ở HSK2, 出, 起, 下 sau động từ chỉ hướng: 走出 (đi ra), 拿起 (cầm lên), 坐下 (ngồi xuống). Bài này học **nghĩa kết quả**, không còn là hướng di chuyển.",
+        "**V + 出**: làm cho một thứ **xuất hiện** hoặc **nhận ra** điều chưa rõ: 想出一个办法 (nghĩ ra một cách), 听出他的声音 (nghe ra giọng anh ấy), 看出他不高兴 (nhìn ra anh ấy không vui). **V + 起**: **nhớ đến, nhắc đến** một chuyện đã có: 想起小时候的事 (nhớ lại chuyện hồi nhỏ), 他常常说起他的老家 (anh ấy hay nhắc đến quê).",
+        "**V + 下**: **giữ lại, ghi lại** cho khỏi mất: 记下电话号码 (ghi lại số điện thoại), 写下名字; hoặc **chứa được**: 这个房间坐得下十个人 (phòng này đủ chỗ cho mười người ngồi).",
+        "Bẫy của người Việt: tiếng Việt nói cả 'nghĩ **ra**' lẫn 'nhớ **ra**', nhưng tiếng Trung tách hai nghĩa: 「想出」 = nghĩ ra cái **mới** (办法, 主意); 「想起」 = nhớ ra cái **đã biết** (名字, 事情). 我想起他的名字了 = Tôi nhớ ra tên anh ấy rồi."
+      ],
+      "patterns": [
+        "Động từ + 出 + (了) + tân ngữ (想出, 看出, 听出)",
+        "Động từ + 起 + (了) + tân ngữ (想起, 说起)",
+        "Động từ + 下 + tân ngữ (记下, 写下); động từ + 得/不 + 下 (坐得下)"
+      ],
+      "examples": [
+        {
+          "zh": "他想出了一个好办法。",
+          "py": "tā xiǎng chū le yí gè hǎo bàn fǎ",
+          "vi": "Anh ấy nghĩ ra một cách hay."
+        },
+        {
+          "zh": "我一听就听出了妈妈的声音。",
+          "py": "wǒ yì tīng jiù tīng chū le mā ma de shēng yīn",
+          "vi": "Vừa nghe tôi đã nhận ra giọng mẹ."
+        },
+        {
+          "zh": "看到这张照片，我想起了小时候的事。",
+          "py": "kàn dào zhè zhāng zhào piàn wǒ xiǎng qǐ le xiǎo shí hou de shì",
+          "vi": "Nhìn bức ảnh này, tôi nhớ lại chuyện hồi nhỏ."
+        },
+        {
+          "zh": "请记下我的电话号码。",
+          "py": "qǐng jì xià wǒ de diàn huà hào mǎ",
+          "vi": "Hãy ghi lại số điện thoại của tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我想出了他的名字。",
+          "right": "我想起了他的名字。",
+          "noteVi": "Với nghĩa 'nhớ ra tên anh ấy' phải dùng 「想起」. Câu bên trái chỉ đúng với nghĩa 'tôi nghĩ ra (đặt) tên cho anh ấy'."
+        },
+        {
+          "wrong": "我听起了他的声音。",
+          "right": "我听出了他的声音。",
+          "noteVi": "Nhận ra một giọng nói: 「听出」. 「起」 không có nghĩa 'nhận ra'."
+        },
+        {
+          "wrong": "请记起我的电话号码。",
+          "right": "请记下我的电话号码。",
+          "noteVi": "Ghi lại cho khỏi quên: 「记下」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-20-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ người trong gia đình với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "爱人",
+          "vợ / chồng"
+        ],
+        [
+          "夫妻",
+          "vợ chồng"
+        ],
+        [
+          "姐妹",
+          "chị em gái"
+        ],
+        [
+          "老人",
+          "người già"
+        ],
+        [
+          "大人",
+          "người lớn"
+        ],
+        [
+          "结婚",
+          "kết hôn"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-20-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "关系",
+          "quan hệ"
+        ],
+        [
+          "照顾",
+          "chăm sóc"
+        ],
+        [
+          "身边",
+          "bên cạnh"
+        ],
+        [
+          "面前",
+          "trước mặt"
+        ],
+        [
+          "环境",
+          "môi trường"
+        ],
+        [
+          "直到",
+          "mãi đến"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-20-e03",
+      "type": "match",
+      "promptVi": "Nối từ chỉ thời gian với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "前年",
+          "năm kia"
+        ],
+        [
+          "去年",
+          "năm ngoái"
+        ],
+        [
+          "明年",
+          "năm sau"
+        ],
+        [
+          "后年",
+          "năm sau nữa"
+        ],
+        [
+          "过去",
+          "trước đây"
+        ],
+        [
+          "不久",
+          "không lâu"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-20-e04",
+      "type": "choice",
+      "promptVi": "「这是我爱人。」 nghĩa là gì?",
+      "options": [
+        "Đây là vợ (hoặc chồng) tôi.",
+        "Đây là người yêu tôi.",
+        "Đây là người tôi quý nhất."
+      ],
+      "answer": 0,
+      "explainVi": "「爱人」 là vợ hoặc chồng. 'Người yêu' là 男朋友 / 女朋友."
+    },
+    {
+      "id": "hsk3-20-e05",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi muốn gặp bạn.)",
+      "options": [
+        "我想跟你见面。",
+        "我想见面你。",
+        "我想见面跟你。"
+      ],
+      "answer": 0,
+      "explainVi": "「见面」 không có tân ngữ sau; người đi kèm đặt trước với 「跟」.",
+      "grammar": [
+        153
+      ]
+    },
+    {
+      "id": "hsk3-20-e06",
+      "type": "order",
+      "vi": "Chúng tôi đã gặp nhau hai lần.",
+      "tiles": [
+        "两次",
+        "我们",
+        "面",
+        "见过"
+      ],
+      "answers": [
+        "我们见过两次面"
+      ],
+      "explainVi": "「过」 và số lần chen vào giữa 「见」 và 「面」.",
+      "grammar": [
+        153
+      ]
+    },
+    {
+      "id": "hsk3-20-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他",
+      "after": "一个日本女孩儿结婚了。",
+      "answers": [
+        "跟"
+      ],
+      "options": [
+        "跟",
+        "给",
+        "对"
+      ],
+      "vi": "Anh ấy cưới một cô gái người Nhật.",
+      "explainVi": "Kết hôn với ai: 跟 / 和 + người + 结婚.",
+      "grammar": [
+        153
+      ]
+    },
+    {
+      "id": "hsk3-20-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi về nhà tắm một cái.)",
+      "options": [
+        "我回家洗了个澡。",
+        "我回家洗澡了个。",
+        "我回家洗个了澡。"
+      ],
+      "answer": 0,
+      "explainVi": "「了个」 chen vào giữa 「洗」 và 「澡」, theo thứ tự 洗 + 了 + 个 + 澡.",
+      "grammar": [
+        153
+      ]
+    },
+    {
+      "id": "hsk3-20-e09",
+      "type": "translate",
+      "vi": "Chị gái tôi cưới năm ngoái.",
+      "answers": [
+        "我姐姐去年结婚了。",
+        "我姐姐去年结了婚。",
+        "我姐姐是去年结[的婚|婚的]。"
+      ],
+      "examples": [
+        {
+          "answer": "我姐姐去年结婚了。",
+          "score": 100
+        },
+        {
+          "answer": "我姐姐是去年结的婚。",
+          "score": 100
+        },
+        {
+          "answer": "我姐姐是去年结婚的。",
+          "score": 100
+        },
+        {
+          "answer": "我姐姐结婚了去年。",
+          "score": 0,
+          "note": "Thời gian (去年) đứng trước động từ"
+        },
+        {
+          "answer": "我姐姐前年结婚了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        153
+      ]
+    },
+    {
+      "id": "hsk3-20-e10",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你跟他见过面吗？",
+        "promptVi": "Bạn đã gặp anh ấy chưa? (Giả sử: đã gặp một lần.)",
+        "answers": [
+          "(我们)见过一次(面)。",
+          "(我)跟他见过一次(面)。",
+          "见过。"
+        ],
+        "examples": [
+          {
+            "answer": "我们见过一次面。",
+            "score": 100
+          },
+          {
+            "answer": "我跟他见过一次面。",
+            "score": 100
+          },
+          {
+            "answer": "见过。",
+            "score": 100
+          },
+          {
+            "answer": "我们见面过一次。",
+            "score": 0,
+            "note": "过 và số lần phải chen vào giữa: 见过一次面"
+          },
+          {
+            "answer": "我们没见过面。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        153
+      ]
+    },
+    {
+      "id": "hsk3-20-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hai đứa chúng tôi đều thích thể thao.)",
+      "options": [
+        "我们两个都喜欢运动。",
+        "两个我们都喜欢运动。",
+        "我们的两个都喜欢运动。"
+      ],
+      "answer": 0,
+      "explainVi": "Cụm đồng vị: đại từ trước, số lượng sau, không có 「的」.",
+      "grammar": [
+        180
+      ]
+    },
+    {
+      "id": "hsk3-20-e12",
+      "type": "order",
+      "vi": "Ba chị em chúng tôi đều đã lập gia đình.",
+      "tiles": [
+        "三个",
+        "都结婚了",
+        "我们",
+        "姐妹"
+      ],
+      "answers": [
+        "我们姐妹三个都结婚了"
+      ],
+      "explainVi": "Thứ tự: đại từ (我们) + danh từ (姐妹) + số lượng (三个), ngược với tiếng Việt 'ba chị em chúng tôi'.",
+      "grammar": [
+        180
+      ]
+    },
+    {
+      "id": "hsk3-20-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他们",
+      "after": "两个都在银行工作。",
+      "answers": [
+        "夫妻"
+      ],
+      "options": [
+        "夫妻",
+        "爱人",
+        "大人"
+      ],
+      "vi": "Hai vợ chồng họ đều làm ở ngân hàng.",
+      "explainVi": "「夫妻」 chỉ cả hai vợ chồng; 「爱人」 chỉ một người (vợ hoặc chồng).",
+      "grammar": [
+        180
+      ]
+    },
+    {
+      "id": "hsk3-20-e14",
+      "type": "translate",
+      "vi": "Tất cả chúng ta cùng chụp ảnh nhé.",
+      "answers": [
+        "[我们|咱们]大家一起[拍照|照相]吧。",
+        "大家一起[拍照|照相]吧。"
+      ],
+      "examples": [
+        {
+          "answer": "我们大家一起拍照吧。",
+          "score": 100
+        },
+        {
+          "answer": "咱们大家一起照相吧。",
+          "score": 100
+        },
+        {
+          "answer": "大家一起拍照吧。",
+          "score": 100
+        },
+        {
+          "answer": "我们的大家一起拍照吧。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Cụm đồng vị không có 的"
+        }
+      ],
+      "grammar": [
+        180
+      ]
+    },
+    {
+      "id": "hsk3-20-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Dưới sự giúp đỡ của thầy, tiếng Trung của tôi tiến bộ rất nhiều.)",
+      "options": [
+        "在老师的帮助下，我的汉语提高了很多。",
+        "在下老师的帮助，我的汉语提高了很多。",
+        "我的汉语提高了很多在老师的帮助下。"
+      ],
+      "answer": 0,
+      "explainVi": "「下」 đứng sau 「老师的帮助」, và cả cụm đứng đầu câu.",
+      "grammar": [
+        201
+      ]
+    },
+    {
+      "id": "hsk3-20-e16",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "在学习",
+      "after": "，他常常帮助我。",
+      "answers": [
+        "上"
+      ],
+      "options": [
+        "上",
+        "下",
+        "前"
+      ],
+      "vi": "Về mặt học tập, cậu ấy thường giúp đỡ tôi.",
+      "explainVi": "'Về mặt…' dùng 「在……上」.",
+      "grammar": [
+        201
+      ]
+    },
+    {
+      "id": "hsk3-20-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "在大家的关心",
+      "after": "，他的病很快就好了。",
+      "answers": [
+        "下"
+      ],
+      "options": [
+        "下",
+        "上",
+        "里"
+      ],
+      "vi": "Nhờ sự quan tâm của mọi người, bệnh của anh ấy khỏi rất nhanh.",
+      "explainVi": "'Dưới sự…, nhờ có…' dùng 「在……下」.",
+      "grammar": [
+        201
+      ]
+    },
+    {
+      "id": "hsk3-20-e18",
+      "type": "order",
+      "vi": "Trong cuộc sống, chúng ta sẽ gặp rất nhiều vấn đề.",
+      "tiles": [
+        "会遇到",
+        "我们",
+        "很多问题",
+        "在生活中"
+      ],
+      "answers": [
+        "在生活中我们会遇到很多问题",
+        "我们在生活中会遇到很多问题"
+      ],
+      "explainVi": "「在生活中」 đứng đầu câu hoặc sau chủ ngữ, trước động từ.",
+      "grammar": [
+        201
+      ]
+    },
+    {
+      "id": "hsk3-20-e19",
+      "type": "translate",
+      "vi": "Trong số những bức ảnh này, tôi thích nhất tấm này.",
+      "answers": [
+        "(在)这些照片[中|里]，我最喜欢这(一)张(照片)。"
+      ],
+      "examples": [
+        {
+          "answer": "在这些照片中，我最喜欢这一张。",
+          "score": 100
+        },
+        {
+          "answer": "在这些照片里，我最喜欢这张照片。",
+          "score": 100
+        },
+        {
+          "answer": "这些照片中，我最喜欢这张。",
+          "score": 100
+        },
+        {
+          "answer": "在这些照片中，我最喜欢那张。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        201
+      ]
+    },
+    {
+      "id": "hsk3-20-e20",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng. (Nhìn bức ảnh này, tôi nhớ lại chuyện hồi nhỏ.)",
+      "zh": "看到这张照片，我想＿了小时候的事。",
+      "options": [
+        "起",
+        "出",
+        "下"
+      ],
+      "answer": 0,
+      "explainVi": "Nhớ lại chuyện đã có: 「想起」. 「想出」 là nghĩ ra cái mới.",
+      "grammar": [
+        206
+      ]
+    },
+    {
+      "id": "hsk3-20-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他想",
+      "after": "了一个好办法。",
+      "answers": [
+        "出"
+      ],
+      "options": [
+        "出",
+        "起",
+        "下"
+      ],
+      "vi": "Anh ấy nghĩ ra một cách hay.",
+      "explainVi": "Nghĩ ra cái mới (办法): 「想出」.",
+      "grammar": [
+        206
+      ]
+    },
+    {
+      "id": "hsk3-20-e22",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "请记",
+      "after": "我的电话号码。",
+      "answers": [
+        "下"
+      ],
+      "options": [
+        "下",
+        "起",
+        "出"
+      ],
+      "vi": "Hãy ghi lại số điện thoại của tôi.",
+      "explainVi": "Ghi lại, giữ lại: 「记下」.",
+      "grammar": [
+        206
+      ]
+    },
+    {
+      "id": "hsk3-20-e23",
+      "type": "choice",
+      "promptVi": "「我听出了他的声音。」 nghĩa là gì?",
+      "options": [
+        "Tôi nhận ra giọng anh ấy.",
+        "Tôi nghe thấy anh ấy đi ra ngoài.",
+        "Tôi nghe hết giọng anh ấy."
+      ],
+      "answer": 0,
+      "explainVi": "「听出」 = nghe mà nhận ra.",
+      "grammar": [
+        206
+      ]
+    },
+    {
+      "id": "hsk3-20-e24",
+      "type": "translate",
+      "vi": "Tôi nhớ ra tên anh ấy rồi.",
+      "answers": [
+        "我想起[了|来](他的名字)(了)。",
+        "我想起他的名字(来)了。"
+      ],
+      "examples": [
+        {
+          "answer": "我想起他的名字了。",
+          "score": 100
+        },
+        {
+          "answer": "我想起了他的名字。",
+          "score": 100
+        },
+        {
+          "answer": "我想起来了。",
+          "score": 100
+        },
+        {
+          "answer": "我想出了他的名字。",
+          "score": 0,
+          "note": "想出 là nghĩ ra cái mới; nhớ ra là 想起"
+        }
+      ],
+      "grammar": [
+        206
+      ]
+    },
+    {
+      "id": "hsk3-20-e25",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你是在哪儿长大的？",
+        "promptVi": "Bạn lớn lên ở đâu? (Giả sử: Hà Nội.)",
+        "answers": [
+          "(我)(是)在河内长大的。",
+          "河内。"
+        ],
+        "examples": [
+          {
+            "answer": "我是在河内长大的。",
+            "score": 100
+          },
+          {
+            "answer": "在河内长大的。",
+            "score": 100
+          },
+          {
+            "answer": "河内。",
+            "score": 100
+          },
+          {
+            "answer": "我长大在河内。",
+            "score": 0,
+            "note": "在河内 phải đứng trước 长大"
+          },
+          {
+            "answer": "我是在上海长大的。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-20-e26",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "他们结婚＿就搬到了上海。",
+      "options": [
+        "不久",
+        "不一会儿"
+      ],
+      "answer": 0,
+      "explainVi": "Sau khi cưới đến lúc chuyển nhà là vài tháng, nên dùng 「不久」. 「不一会儿」 chỉ vài phút."
+    },
+    {
+      "id": "hsk3-20-e27",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他工作到很晚，",
+      "after": "十一点才回家。",
+      "answers": [
+        "直到"
+      ],
+      "options": [
+        "直到",
+        "一直",
+        "已经"
+      ],
+      "vi": "Anh ấy làm việc đến khuya, mãi đến mười một giờ mới về nhà.",
+      "explainVi": "Mẫu 「直到……才……」: mãi đến … mới …"
+    },
+    {
+      "id": "hsk3-20-e28",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "照片里有几位老人？",
+        "promptVi": "Trong ảnh có mấy cụ già?",
+        "picture": "👴👵",
+        "expected": {
+          "number": 2,
+          "noun": "老人",
+          "sentence": "照片里有两位老人。"
+        },
+        "examples": [
+          {
+            "answer": "照片里有两位老人。",
+            "score": 100
+          },
+          {
+            "answer": "有两个老人。",
+            "score": 100
+          },
+          {
+            "answer": "照片里有两老人。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "照片里有二位老人。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "照片里有三位老人。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,980 @@
+{
+  "id": "hsk1-15",
+  "goalsVi": [
+    "Nói về công việc: làm ở đâu, mấy giờ đi làm, mấy giờ tan làm",
+    "Gọi người khác lịch sự bằng 「先生」, 「女士」; nói 'có người…, có người…' với 「有的」",
+    "Dùng đúng động từ ly hợp như 睡觉, 上班, 说话",
+    "Nói câu có cụm chủ-vị (我知道他在公司上班) và câu ghép không cần từ nối"
+  ],
+  "words": [
+    {
+      "no": 62,
+      "word": "工作",
+      "meaningsVi": [
+        "làm việc",
+        "công việc, nghề nghiệp"
+      ],
+      "noteVi": "Âm Hán Việt là 'công tác', nhưng 「工作」 thường chỉ có nghĩa là làm việc, công việc, không phải 'đi công tác'. 'Bạn làm nghề gì?' là 「你做什么工作？」.",
+      "examples": [
+        {
+          "zh": "我爸爸在医院工作。",
+          "py": "wǒ bà ba zài yī yuàn gōng zuò",
+          "vi": "Bố tôi làm việc ở bệnh viện."
+        },
+        {
+          "zh": "你做什么工作？",
+          "py": "nǐ zuò shén me gōng zuò",
+          "vi": "Bạn làm nghề gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 63,
+      "word": "公司",
+      "meaningsVi": [
+        "công ty"
+      ],
+      "examples": [
+        {
+          "zh": "我哥哥的公司在上海。",
+          "py": "wǒ gē ge de gōng sī zài shàng hǎi",
+          "vi": "Công ty của anh tôi ở Thượng Hải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 176,
+      "word": "上班",
+      "meaningsVi": [
+        "đi làm, vào làm (theo giờ làm việc)"
+      ],
+      "noteVi": "'Đi làm ở công ty' là 「在公司上班」, không nói 「上班公司」 hay 「上班在公司」. Đây là động từ ly hợp (xem phần ngữ pháp).",
+      "examples": [
+        {
+          "zh": "你在哪儿上班？",
+          "py": "nǐ zài nǎ r shàng bān",
+          "vi": "Bạn làm ở đâu?"
+        },
+        {
+          "zh": "我爸爸八点上班。",
+          "py": "wǒ bà ba bā diǎn shàng bān",
+          "vi": "Bố tôi đi làm lúc 8 giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 227,
+      "word": "下班",
+      "meaningsVi": [
+        "tan làm, hết giờ làm"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈下午五点下班。",
+          "py": "mā ma xià wǔ wǔ diǎn xià bān",
+          "vi": "Mẹ tan làm lúc 5 giờ chiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 231,
+      "word": "先生",
+      "meaningsVi": [
+        "ông, anh (cách gọi lịch sự với nam giới)",
+        "chồng (của ai đó)"
+      ],
+      "noteVi": "Gọi bằng họ + 「先生」: 王先生 (ông Vương, anh Vương). Âm Hán Việt 'tiên sinh' nhưng ngày nay không có nghĩa là 'thầy giáo'. 「她先生」 là chồng của cô ấy.",
+      "examples": [
+        {
+          "zh": "王先生，您好！",
+          "py": "wáng xiān sheng nín hǎo",
+          "vi": "Chào ông Vương ạ!"
+        },
+        {
+          "zh": "她先生在公司上班。",
+          "py": "tā xiān sheng zài gōng sī shàng bān",
+          "vi": "Chồng chị ấy đi làm ở công ty."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 155,
+      "word": "女士",
+      "meaningsVi": [
+        "bà, chị, cô (cách gọi lịch sự với phụ nữ)"
+      ],
+      "noteVi": "Họ + 「女士」: 李女士 (bà Lý, chị Lý). Cách gọi trang trọng, hay dùng ở công ty, nơi công cộng.",
+      "examples": [
+        {
+          "zh": "李女士，请坐。",
+          "py": "lǐ nǚ shì qǐng zuò",
+          "vi": "Mời chị Lý ngồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 142,
+      "word": "男",
+      "meaningsVi": [
+        "nam, con trai, (giống) đực"
+      ],
+      "noteVi": "「男」 đứng **trước** danh từ: 男老师 (giáo viên nam), 男孩子 (bé trai). Tiếng Việt nói 'giáo viên nam', nhưng tiếng Trung không nói 「老师男」.",
+      "examples": [
+        {
+          "zh": "我们学校有很多男老师。",
+          "py": "wǒ men xué xiào yǒu hěn duō nán lǎo shī",
+          "vi": "Trường chúng tôi có nhiều giáo viên nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 152,
+      "word": "女",
+      "meaningsVi": [
+        "nữ, con gái, (giống) cái"
+      ],
+      "noteVi": "Giống 「男」, 「女」 đứng trước danh từ: 女医生 (nữ bác sĩ), 女孩子 (bé gái).",
+      "examples": [
+        {
+          "zh": "他有两个孩子，一个男孩子，一个女孩子。",
+          "py": "tā yǒu liǎng gè hái zi yí gè nán hái zi yí gè nǚ hái zi",
+          "vi": "Anh ấy có hai đứa con, một trai một gái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 197,
+      "word": "说话",
+      "meaningsVi": [
+        "nói chuyện, nói"
+      ],
+      "noteVi": "「说话」 không có tân ngữ phía sau. 'Nói chuyện với ai' là 「和……说话」: 我和老师说话.",
+      "examples": [
+        {
+          "zh": "他在和朋友说话。",
+          "py": "tā zài hé péng you shuō huà",
+          "vi": "Anh ấy đang nói chuyện với bạn."
+        },
+        {
+          "zh": "请不要说话。",
+          "py": "qǐng bú yào shuō huà",
+          "vi": "Xin đừng nói chuyện."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 264,
+      "word": "有的",
+      "meaningsVi": [
+        "có (người, cái) …, một số"
+      ],
+      "noteVi": "「有的」 đứng trước danh từ, thường ở **đầu câu**, và hay dùng thành cặp: 有的……，有的…… (có người…, có người…). Không đặt sau động từ: không nói 「我认识有的人」.",
+      "examples": [
+        {
+          "zh": "有的人喜欢看电影，有的人喜欢看电视。",
+          "py": "yǒu de rén xǐ huan kàn diàn yǐng yǒu de rén xǐ huan kàn diàn shì",
+          "vi": "Có người thích xem phim, có người thích xem tivi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 266,
+      "word": "有些",
+      "meaningsVi": [
+        "một số, có những"
+      ],
+      "noteVi": "Giống 「有的」, 「有些」 thường đứng ở đầu câu: 有些人, 有些汉字.",
+      "examples": [
+        {
+          "zh": "有些汉字我不会写。",
+          "py": "yǒu xiē hàn zì wǒ bú huì xiě",
+          "vi": "Có những chữ Hán tôi không biết viết."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 255,
+      "word": "一半",
+      "meaningsVi": [
+        "một nửa"
+      ],
+      "noteVi": "「一半」 dùng như một danh từ: 一半的学生, 看了一半. Khác 「半」 (bài 4, 5) đi với lượng từ: 半个小时, 一个半小时.",
+      "examples": [
+        {
+          "zh": "这本书我看了一半。",
+          "py": "zhè běn shū wǒ kàn le yí bàn",
+          "vi": "Quyển sách này tôi đọc được một nửa rồi."
+        },
+        {
+          "zh": "一半的学生是越南人。",
+          "py": "yí bàn de xué shēng shì yuè nán rén",
+          "vi": "Một nửa số học sinh là người Việt Nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 7,
+      "titleVi": "Động từ ly hợp: 睡觉, 上班, 说话…",
+      "summaryVi": "Động từ ly hợp có dạng 'động từ + tân ngữ' (睡 + 觉) nên không mang thêm tân ngữ, và có thể tách ra: 睡一个小时觉.",
+      "explanationVi": [
+        "Một số động từ hai chữ thật ra là **động từ + tân ngữ**: 睡觉 (ngủ), 说话 (nói chuyện), 上课, 下课, 上班, 下班, 看病, 生病. Chúng gọi là động từ ly hợp ('ly' là tách ra, 'hợp' là gộp lại).",
+        "Vì bên trong đã có tân ngữ, động từ ly hợp **không mang thêm tân ngữ** phía sau. 'Nói chuyện với thầy' là 「和老师说话」, không nói 「说话老师」 hay 「说话和老师」. 'Đi làm ở công ty' là 「在公司上班」.",
+        "Thời lượng và 「了」 chen vào **giữa** hai chữ: 睡一个小时觉 (ngủ một tiếng), 上两个小时课 (học hai tiếng), 下了课 (tan học xong). Không nói 「睡觉一个小时」. Cũng có thể bỏ chữ sau: 我睡了八个小时.",
+        "「看病」 và 「生病」 cũng vậy: 我去医院看病 (Tôi đi bệnh viện khám bệnh); 'khám bệnh cho tôi' là 「给我看病」, không nói 「看病我」."
+      ],
+      "patterns": [
+        "Động từ + (了 / thời lượng) + tân ngữ: 睡一个小时觉",
+        "和 + người + 说话",
+        "在 + nơi chốn + 上班"
+      ],
+      "examples": [
+        {
+          "zh": "我中午睡一个小时觉。",
+          "py": "wǒ zhōng wǔ shuì yí gè xiǎo shí jiào",
+          "vi": "Buổi trưa tôi ngủ một tiếng."
+        },
+        {
+          "zh": "我们下午上两个小时课。",
+          "py": "wǒ men xià wǔ shàng liǎng gè xiǎo shí kè",
+          "vi": "Buổi chiều chúng tôi học hai tiếng."
+        },
+        {
+          "zh": "下了课，我去书店。",
+          "py": "xià le kè wǒ qù shū diàn",
+          "vi": "Tan học xong, tôi đi hiệu sách."
+        },
+        {
+          "zh": "他在和女朋友说话。",
+          "py": "tā zài hé nǚ péng you shuō huà",
+          "vi": "Anh ấy đang nói chuyện với bạn gái."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我中午睡觉一个小时。",
+          "right": "我中午睡一个小时觉。",
+          "noteVi": "Thời lượng chen vào giữa 「睡」 và 「觉」; hoặc bỏ 「觉」: 我中午睡一个小时."
+        },
+        {
+          "wrong": "我想说话和老师。",
+          "right": "我想和老师说话。",
+          "noteVi": "Tiếng Việt nói 'nói chuyện với thầy', nhưng tiếng Trung đặt 「和老师」 trước 「说话」."
+        },
+        {
+          "wrong": "我上班在公司。",
+          "right": "我在公司上班。",
+          "noteVi": "「在 + nơi chốn」 đứng trước 「上班」.",
+          "issue": "place_order"
+        }
+      ],
+      "morphemes": [
+        "觉"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 31,
+      "titleVi": "Cụm chủ-vị: một 'câu nhỏ' nằm trong câu",
+      "summaryVi": "Cụm chủ-vị có chủ ngữ và vị ngữ riêng, làm một thành phần của câu lớn: 他工作很忙, 我知道他在公司上班.",
+      "explanationVi": [
+        "Cụm chủ-vị là một nhóm từ có **chủ ngữ + vị ngữ** riêng, giống một câu nhỏ, nhưng nằm trong một câu lớn hơn.",
+        "Cụm chủ-vị làm **vị ngữ**: 他工作很忙 (Anh ấy công việc rất bận, tức là công việc của anh ấy rất bận). Chủ ngữ của câu là 「他」, vị ngữ là cụm 「工作很忙」. Tiếng Việt cũng có kiểu câu này: 'Cô ấy hát rất hay' (她唱歌很好听).",
+        "Cụm chủ-vị làm **tân ngữ** sau 「知道」, 「觉得」, 「听见」, 「看见」…: 我知道他在公司上班, 我觉得这个电影很好看. Tiếng Việt hay thêm 'là' (tôi biết **là**…, tôi thấy **là**…), nhưng tiếng Trung **không** thêm 「是」.",
+        "Cụm chủ-vị + 「的」 làm **định ngữ** cho danh từ: 妈妈做的饭 (cơm mẹ nấu)."
+      ],
+      "patterns": [
+        "Chủ ngữ + [chủ ngữ nhỏ + vị ngữ nhỏ]",
+        "知道 / 觉得 / 听见 + [chủ ngữ + vị ngữ]",
+        "[chủ ngữ + động từ] + 的 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "他工作很忙。",
+          "py": "tā gōng zuò hěn máng",
+          "vi": "Công việc của anh ấy rất bận."
+        },
+        {
+          "zh": "我知道她在公司上班。",
+          "py": "wǒ zhī dào tā zài gōng sī shàng bān",
+          "vi": "Tôi biết cô ấy đi làm ở công ty."
+        },
+        {
+          "zh": "我觉得这个电影很好看。",
+          "py": "wǒ jué de zhè ge diàn yǐng hěn hǎo kàn",
+          "vi": "Tôi thấy bộ phim này rất hay."
+        },
+        {
+          "zh": "妈妈做的饭很好吃。",
+          "py": "mā ma zuò de fàn hěn hǎo chī",
+          "vi": "Cơm mẹ nấu rất ngon."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我觉得是这个电影很好看。",
+          "right": "我觉得这个电影很好看。",
+          "noteVi": "'Tôi thấy là…': chữ 'là' ở đây không dịch bằng 「是」."
+        },
+        {
+          "wrong": "他工作是很忙。",
+          "right": "他工作很忙。",
+          "noteVi": "Trước tính từ không dùng 「是」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 59,
+      "titleVi": "Câu ghép không dùng từ nối",
+      "summaryVi": "Các vế câu đặt cạnh nhau, ngăn bằng dấu phẩy, không cần từ nối: 我是老师，他是医生。",
+      "explanationVi": [
+        "Tiếng Trung rất hay ghép các vế câu **chỉ bằng dấu phẩy**, không cần từ nối. Người nghe tự hiểu quan hệ giữa các vế qua ý nghĩa.",
+        "Các vế có thể nói những việc song song (我是老师，他是医生), những việc nối tiếp nhau (他七点起床，八点上班), hoặc nguyên nhân và kết quả (今天下雨，我不去公司了).",
+        "Lỗi hay gặp: dùng 「和」 để nối hai vế câu như chữ 'và' trong tiếng Việt. 「和」 chỉ nối **danh từ, đại từ** (我和他); hai vế câu thì chỉ cần dấu phẩy: 我在公司上班，我妹妹在大学读书."
+      ],
+      "patterns": [
+        "Vế 1，vế 2。"
+      ],
+      "examples": [
+        {
+          "zh": "我是老师，他是医生。",
+          "py": "wǒ shì lǎo shī tā shì yī shēng",
+          "vi": "Tôi là giáo viên, anh ấy là bác sĩ."
+        },
+        {
+          "zh": "他七点起床，八点上班。",
+          "py": "tā qī diǎn qǐ chuáng bā diǎn shàng bān",
+          "vi": "Anh ấy dậy lúc 7 giờ, 8 giờ đi làm."
+        },
+        {
+          "zh": "今天下雨，我不去公司了。",
+          "py": "jīn tiān xià yǔ wǒ bú qù gōng sī le",
+          "vi": "Hôm nay trời mưa, tôi không đến công ty nữa."
+        },
+        {
+          "zh": "有的人在说话，有的人在看书。",
+          "py": "yǒu de rén zài shuō huà yǒu de rén zài kàn shū",
+          "vi": "Có người đang nói chuyện, có người đang đọc sách."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我在公司上班和我妹妹在大学读书。",
+          "right": "我在公司上班，我妹妹在大学读书。",
+          "noteVi": "「和」 không nối hai vế câu; chỉ cần dấu phẩy."
+        },
+        {
+          "wrong": "他七点起床和八点上班。",
+          "right": "他七点起床，八点上班。",
+          "noteVi": "Hai việc nối tiếp nhau chỉ cần đặt cạnh nhau, ngăn bằng dấu phẩy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-15-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa.",
+      "pairs": [
+        [
+          "工作",
+          "làm việc, công việc"
+        ],
+        [
+          "公司",
+          "công ty"
+        ],
+        [
+          "上班",
+          "đi làm"
+        ],
+        [
+          "下班",
+          "tan làm"
+        ],
+        [
+          "说话",
+          "nói chuyện"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-15-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa.",
+      "pairs": [
+        [
+          "先生",
+          "ông, anh (gọi nam giới)"
+        ],
+        [
+          "女士",
+          "bà, chị (gọi phụ nữ)"
+        ],
+        [
+          "男老师",
+          "giáo viên nam"
+        ],
+        [
+          "女医生",
+          "nữ bác sĩ"
+        ],
+        [
+          "一半",
+          "một nửa"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-15-e03",
+      "type": "choice",
+      "promptVi": "「王先生」 nghĩa là gì?",
+      "options": [
+        "ông Vương, anh Vương",
+        "thầy giáo Vương",
+        "anh trai của Vương"
+      ],
+      "answer": 0,
+      "explainVi": "「先生」 là cách gọi lịch sự với nam giới, không có nghĩa là thầy giáo."
+    },
+    {
+      "id": "hsk1-15-e04",
+      "type": "choice",
+      "promptVi": "Cách nói nào nghĩa là 'giáo viên nữ'?",
+      "options": [
+        "女老师",
+        "老师女",
+        "女士老师"
+      ],
+      "answer": 0,
+      "explainVi": "「女」 đứng trước danh từ, ngược với tiếng Việt."
+    },
+    {
+      "id": "hsk1-15-e05",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这本书我看了",
+      "after": "。",
+      "answers": [
+        "一半"
+      ],
+      "options": [
+        "一半",
+        "半",
+        "有些"
+      ],
+      "vi": "Quyển sách này tôi đọc được một nửa rồi."
+    },
+    {
+      "id": "hsk1-15-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi nói chuyện với thầy giáo.)",
+      "options": [
+        "我和老师说话。",
+        "我说话老师。",
+        "我说话和老师。"
+      ],
+      "answer": 0,
+      "explainVi": "「说话」 không mang tân ngữ; 「和 + người」 đứng trước 「说话」.",
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Trưa nay tôi ngủ một tiếng.)",
+      "options": [
+        "我中午睡了一个小时。",
+        "我中午睡觉了一个小时。",
+        "我中午睡觉一个小时了。"
+      ],
+      "answer": 0,
+      "explainVi": "Thời lượng không đứng sau cả cụm 「睡觉」. Nói 「睡了一个小时」 hoặc 「睡了一个小时觉」.",
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e08",
+      "type": "order",
+      "vi": "Bố tôi đi làm ở công ty.",
+      "tiles": [
+        "上班",
+        "公司",
+        "我",
+        "在",
+        "爸爸"
+      ],
+      "answers": [
+        "我爸爸在公司上班"
+      ],
+      "explainVi": "「在公司」 đứng trước 「上班」.",
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e09",
+      "type": "order",
+      "vi": "Buổi chiều chúng tôi học hai tiếng.",
+      "tiles": [
+        "课",
+        "我们",
+        "两个小时",
+        "上",
+        "下午"
+      ],
+      "answers": [
+        "我们下午上两个小时课",
+        "下午我们上两个小时课"
+      ],
+      "explainVi": "Thời lượng 「两个小时」 chen vào giữa 「上」 và 「课」.",
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e10",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我想和你",
+      "after": "。",
+      "answers": [
+        "说话"
+      ],
+      "options": [
+        "说话",
+        "上班",
+        "睡觉"
+      ],
+      "vi": "Tôi muốn nói chuyện với bạn.",
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e11",
+      "type": "translate",
+      "vi": "Anh ấy đi làm ở công ty.",
+      "answers": [
+        "他在公司[上班|工作]。"
+      ],
+      "examples": [
+        {
+          "answer": "他在公司上班。",
+          "score": 100
+        },
+        {
+          "answer": "他在公司工作。",
+          "score": 100
+        },
+        {
+          "answer": "他上班在公司。",
+          "score": 80,
+          "issues": [
+            "place_order"
+          ]
+        },
+        {
+          "answer": "他在医院上班。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e12",
+      "type": "translate",
+      "vi": "Tôi muốn nói chuyện với thầy Vương.",
+      "answers": [
+        "我想和王老师说话。"
+      ],
+      "examples": [
+        {
+          "answer": "我想和王老师说话。",
+          "score": 100
+        },
+        {
+          "answer": "我不想和王老师说话。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi thấy là bộ phim này rất hay.)",
+      "options": [
+        "我觉得这个电影很好看。",
+        "我觉得是这个电影很好看。",
+        "我是觉得这个电影好看很。"
+      ],
+      "answer": 0,
+      "explainVi": "Sau 「觉得」 là cả một cụm chủ-vị 「这个电影很好看」; không thêm 「是」 như chữ 'là' trong tiếng Việt.",
+      "grammar": [
+        31
+      ]
+    },
+    {
+      "id": "hsk1-15-e14",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我知道他",
+      "after": "公司上班。",
+      "answers": [
+        "在"
+      ],
+      "options": [
+        "在",
+        "是",
+        "和"
+      ],
+      "vi": "Tôi biết anh ấy đi làm ở công ty.",
+      "grammar": [
+        31
+      ]
+    },
+    {
+      "id": "hsk1-15-e15",
+      "type": "order",
+      "vi": "Công việc của bố tôi rất bận.",
+      "tiles": [
+        "很",
+        "工作",
+        "我爸爸",
+        "忙"
+      ],
+      "answers": [
+        "我爸爸工作很忙"
+      ],
+      "grammar": [
+        31
+      ]
+    },
+    {
+      "id": "hsk1-15-e16",
+      "type": "translate",
+      "vi": "Tôi biết cô ấy làm việc ở bệnh viện.",
+      "answers": [
+        "我知道她在医院[工作|上班]。"
+      ],
+      "examples": [
+        {
+          "answer": "我知道她在医院工作。",
+          "score": 100
+        },
+        {
+          "answer": "我知道她在医院上班。",
+          "score": 100
+        },
+        {
+          "answer": "我知道是她在医院工作。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Chữ 'là' (biết là…) không dịch bằng 「是」"
+        },
+        {
+          "answer": "我不知道她在医院工作。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        31
+      ]
+    },
+    {
+      "id": "hsk1-15-e17",
+      "type": "order",
+      "vi": "Anh ấy dậy lúc 7 giờ, 8 giờ đi làm.",
+      "tiles": [
+        "八点",
+        "起床",
+        "他",
+        "上班",
+        "七点"
+      ],
+      "answers": [
+        "他七点起床八点上班"
+      ],
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e18",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi làm ở công ty, em gái tôi học đại học.)",
+      "options": [
+        "我在公司上班，我妹妹在大学读书。",
+        "我在公司上班和我妹妹在大学读书。",
+        "我在公司上班，和我妹妹在大学读书。"
+      ],
+      "answer": 0,
+      "explainVi": "「和」 không nối hai vế câu như 'và' trong tiếng Việt; chỉ cần dấu phẩy.",
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e19",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "有的人喜欢喝茶，",
+      "after": "人喜欢喝牛奶。",
+      "answers": [
+        "有的"
+      ],
+      "options": [
+        "有的",
+        "一半",
+        "和"
+      ],
+      "vi": "Có người thích uống trà, có người thích uống sữa.",
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e20",
+      "type": "translate",
+      "vi": "Tôi là giáo viên, chồng tôi là bác sĩ.",
+      "answers": [
+        "我是老师，我(的)先生是医生。"
+      ],
+      "examples": [
+        {
+          "answer": "我是老师，我先生是医生。",
+          "score": 100
+        },
+        {
+          "answer": "我是老师，我的先生是医生。",
+          "score": 100
+        },
+        {
+          "answer": "我是医生，我先生是老师。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e21",
+      "type": "translate",
+      "vi": "Có người đang hát, có người đang nói chuyện.",
+      "answers": [
+        "[有的|有些]人[(正)在唱歌(呢)|唱歌呢]，[有的|有些]人[(正)在说话(呢)|说话呢]。"
+      ],
+      "examples": [
+        {
+          "answer": "有的人在唱歌，有的人在说话。",
+          "score": 100
+        },
+        {
+          "answer": "有的人唱歌呢，有的人说话呢。",
+          "score": 100
+        },
+        {
+          "answer": "有些人正在唱歌，有些人正在说话。",
+          "score": 100
+        },
+        {
+          "answer": "有的人在唱歌，有的人在睡觉。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e22",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你几点上班，几点下班？",
+        "promptVi": "Bạn đi làm lúc mấy giờ, tan làm lúc mấy giờ? (Giả sử bạn đi làm lúc 8 giờ sáng, tan làm lúc 5 giờ chiều.)",
+        "answers": [
+          "(我)(早上)八点上班，(下午)五点下班。"
+        ],
+        "examples": [
+          {
+            "answer": "我八点上班，五点下班。",
+            "score": 100
+          },
+          {
+            "answer": "早上八点上班，下午五点下班。",
+            "score": 100
+          },
+          {
+            "answer": "我九点上班，五点下班。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你爸爸做什么工作？",
+        "promptVi": "Bố bạn làm nghề gì? (Giả sử bố bạn là bác sĩ, làm ở bệnh viện.)",
+        "answers": [
+          "([我爸爸|他])是医生(，(他)在医院[工作|上班])。"
+        ],
+        "examples": [
+          {
+            "answer": "他是医生。",
+            "score": 100
+          },
+          {
+            "answer": "我爸爸是医生，在医院工作。",
+            "score": 100
+          },
+          {
+            "answer": "是医生，他在医院上班。",
+            "score": 100
+          },
+          {
+            "answer": "他是老师。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        59
+      ]
+    },
+    {
+      "id": "hsk1-15-e24",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你爸爸在哪儿上班？",
+        "promptVi": "Bố bạn làm ở đâu? (Trả lời về bố bạn: nơi nào cũng được.)",
+        "expected": {
+          "sentence": "我爸爸在公司上班。"
+        },
+        "examples": [
+          {
+            "answer": "我爸爸在公司上班。",
+            "score": 100
+          },
+          {
+            "answer": "在医院。",
+            "score": 100
+          },
+          {
+            "answer": "他在河内上班。",
+            "score": 100
+          },
+          {
+            "answer": "他上班在公司。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ]
+          }
+        ]
+      },
+      "grammar": [
+        7
+      ]
+    },
+    {
+      "id": "hsk1-15-e25",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这儿有几个医生？",
+        "promptVi": "Ở đây có mấy bác sĩ?",
+        "picture": "👨‍⚕️👩‍⚕️👨‍⚕️",
+        "expected": {
+          "number": 3,
+          "noun": "医生",
+          "sentence": "这儿有三个医生。"
+        },
+        "examples": [
+          {
+            "answer": "这儿有三个医生。",
+            "score": 100
+          },
+          {
+            "answer": "有三个。",
+            "score": 100
+          },
+          {
+            "answer": "有三医生。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有两个医生。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

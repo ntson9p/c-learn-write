@@ -1,0 +1,1579 @@
+{
+  "id": "hsk3-04",
+  "goalsVi": [
+    "Gọi tên quần áo, giày dép, màu sắc và lượng từ đi kèm: 一件衬衫, 一条裙子, 一双鞋",
+    "Hỏi cỡ, thử, đổi, chọn quần áo: 大小合适吗？ 我可以试一下吗？ 能换一件吗？",
+    "Nói mức độ với 「比较」, 「挺」, 「特别」, 「更」, 「还」, 「有些」, 「极」",
+    "So sánh: A 比 B 更/还 + tính từ; A 跟 B 一样; A 跟 B 一样 + tính từ",
+    "Nói 'càng … càng …' với 「越……越……」 và 'vừa phải' với 「不A不B」 (不大不小)",
+    "Phân biệt 「或者」 (câu kể) với 「还是」 (câu hỏi lựa chọn)"
+  ],
+  "words": [
+    {
+      "no": 558,
+      "word": "衬衫",
+      "meaningsVi": [
+        "áo sơ mi"
+      ],
+      "noteVi": "Lượng từ là 「件」: 一件衬衫.",
+      "examples": [
+        {
+          "zh": "这件白色的衬衫多少钱？",
+          "py": "zhè jiàn bái sè de chèn shān duō shao qián",
+          "vi": "Chiếc áo sơ mi màu trắng này bao nhiêu tiền?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 824,
+      "word": "上衣",
+      "meaningsVi": [
+        "áo (mặc phần trên cơ thể)"
+      ],
+      "noteVi": "「上衣」 chỉ chung các loại áo mặc phần trên, đối lập với quần, váy. Lượng từ 「件」.",
+      "examples": [
+        {
+          "zh": "我想买一件上衣和一条裤子。",
+          "py": "wǒ xiǎng mǎi yí jiàn shàng yī hé yì tiáo kù zi",
+          "vi": "Tôi muốn mua một chiếc áo và một chiếc quần."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 577,
+      "word": "大衣",
+      "meaningsVi": [
+        "áo khoác dài, áo măng tô"
+      ],
+      "noteVi": "「大衣」 là áo khoác dài mặc mùa lạnh, không phải 'áo to'. Lượng từ 「件」.",
+      "examples": [
+        {
+          "zh": "天气冷了，你要穿大衣。",
+          "py": "tiān qì lěng le nǐ yào chuān dà yī",
+          "vi": "Trời lạnh rồi, con phải mặc áo khoác vào."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 812,
+      "word": "裙子",
+      "meaningsVi": [
+        "váy"
+      ],
+      "noteVi": "Lượng từ 「条」: 一条裙子.",
+      "examples": [
+        {
+          "zh": "这条红色的裙子很漂亮。",
+          "py": "zhè tiáo hóng sè de qún zi hěn piào liang",
+          "vi": "Chiếc váy màu đỏ này rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 606,
+      "word": "短裤",
+      "meaningsVi": [
+        "quần soóc, quần đùi"
+      ],
+      "noteVi": "短 (ngắn) + 裤 (quần). Lượng từ 「条」.",
+      "examples": [
+        {
+          "zh": "天气太热了，我想穿短裤。",
+          "py": "tiān qì tài rè le wǒ xiǎng chuān duǎn kù",
+          "vi": "Trời nóng quá, tôi muốn mặc quần soóc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 901,
+      "word": "鞋",
+      "meaningsVi": [
+        "giày, dép"
+      ],
+      "noteVi": "Lượng từ 「双」 (đôi): 一双鞋. Đi giày cũng dùng 「穿」: 穿鞋.",
+      "examples": [
+        {
+          "zh": "这双鞋有点儿小。",
+          "py": "zhè shuāng xié yǒu diǎn r xiǎo",
+          "vi": "Đôi giày này hơi chật."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 845,
+      "word": "双",
+      "meaningsVi": [
+        "đôi (lượng từ)"
+      ],
+      "noteVi": "Dùng cho những thứ đi thành cặp: 一双鞋 (một đôi giày). 'Hai đôi' là 两双.",
+      "examples": [
+        {
+          "zh": "我想买一双新鞋。",
+          "py": "wǒ xiǎng mǎi yì shuāng xīn xié",
+          "vi": "Tôi muốn mua một đôi giày mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 681,
+      "word": "黄色",
+      "meaningsVi": [
+        "màu vàng"
+      ],
+      "examples": [
+        {
+          "zh": "我不太喜欢黄色的衣服。",
+          "py": "wǒ bú tài xǐ huan huáng sè de yī fu",
+          "vi": "Tôi không thích quần áo màu vàng lắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 744,
+      "word": "蓝",
+      "meaningsVi": [
+        "xanh lam, xanh da trời"
+      ],
+      "noteVi": "Tiếng Việt 'xanh' chỉ cả xanh lá và xanh lam; tiếng Trung tách rõ: 「绿」 là xanh lá, 「蓝」 là xanh lam, xanh dương. Trời xanh: 天很蓝.",
+      "examples": [
+        {
+          "zh": "今天的天很蓝。",
+          "py": "jīn tiān de tiān hěn lán",
+          "vi": "Hôm nay trời rất xanh."
+        },
+        {
+          "zh": "他穿了一件蓝衬衫。",
+          "py": "tā chuān le yí jiàn lán chèn shān",
+          "vi": "Anh ấy mặc một chiếc áo sơ mi xanh lam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 575,
+      "word": "大小",
+      "meaningsVi": [
+        "cỡ, kích cỡ, độ to nhỏ"
+      ],
+      "noteVi": "Hai tính từ trái nghĩa 大 (to) + 小 (nhỏ) ghép lại thành danh từ chỉ kích cỡ. Hỏi vừa không: 大小合适吗？",
+      "examples": [
+        {
+          "zh": "这双鞋大小合适吗？",
+          "py": "zhè shuāng xié dà xiǎo hé shì ma",
+          "vi": "Đôi giày này cỡ có vừa không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 605,
+      "word": "短",
+      "meaningsVi": [
+        "ngắn"
+      ],
+      "noteVi": "Trái nghĩa với 「长」 (cháng: dài).",
+      "examples": [
+        {
+          "zh": "这条裙子太短了。",
+          "py": "zhè tiáo qún zi tài duǎn le",
+          "vi": "Chiếc váy này ngắn quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 721,
+      "word": "旧",
+      "meaningsVi": [
+        "cũ"
+      ],
+      "noteVi": "「旧」 dùng cho đồ vật đã dùng lâu, trái nghĩa với 「新」: 旧衣服, 旧手机. Người già thì nói 「老」, không nói 旧.",
+      "examples": [
+        {
+          "zh": "这件衣服太旧了，我想买件新的。",
+          "py": "zhè jiàn yī fu tài jiù le wǒ xiǎng mǎi jiàn xīn de",
+          "vi": "Bộ quần áo này cũ quá rồi, tôi muốn mua bộ mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 667,
+      "word": "合适",
+      "meaningsVi": [
+        "vừa, vừa vặn",
+        "thích hợp, phù hợp"
+      ],
+      "noteVi": "「合适」 là tính từ: 这件衣服很合适. Không dùng như động từ có tân ngữ: không nói 合适我, mà nói 我穿很合适.",
+      "examples": [
+        {
+          "zh": "这件衬衫你穿很合适。",
+          "py": "zhè jiàn chèn shān nǐ chuān hěn hé shì",
+          "vi": "Chiếc áo sơ mi này bạn mặc rất vừa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 780,
+      "word": "难看",
+      "meaningsVi": [
+        "xấu, khó coi"
+      ],
+      "noteVi": "Trái nghĩa với 「好看」. Nói về người hoặc đồ của người khác thì nên tế nhị, dùng 「不太好看」.",
+      "examples": [
+        {
+          "zh": "这个颜色有点儿难看。",
+          "py": "zhè ge yán sè yǒu diǎn r nán kàn",
+          "vi": "Màu này hơi xấu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 834,
+      "word": "试",
+      "meaningsVi": [
+        "thử"
+      ],
+      "noteVi": "Thử quần áo: 试一下, 试试. Hỏi người bán: 我可以试一下吗？ Đừng nhầm với 「考试」 (thi).",
+      "examples": [
+        {
+          "zh": "我可以试一下这件大衣吗？",
+          "py": "wǒ kě yǐ shì yí xià zhè jiàn dà yī ma",
+          "vi": "Tôi có thể thử chiếc áo khoác này không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 680,
+      "word": "换",
+      "meaningsVi": [
+        "đổi, thay"
+      ],
+      "noteVi": "换 + vật: 换一件 (đổi chiếc khác), 换衣服 (thay quần áo).",
+      "examples": [
+        {
+          "zh": "这件太小了，能换一件大的吗？",
+          "py": "zhè jiàn tài xiǎo le néng huàn yí jiàn dà de ma",
+          "vi": "Chiếc này chật quá, đổi cho tôi chiếc to hơn được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 913,
+      "word": "选",
+      "meaningsVi": [
+        "chọn"
+      ],
+      "noteVi": "「选」 khẩu ngữ hơn 「选择」.",
+      "examples": [
+        {
+          "zh": "你帮我选一件吧。",
+          "py": "nǐ bāng wǒ xuǎn yí jiàn ba",
+          "vi": "Bạn chọn giúp tôi một chiếc đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 914,
+      "word": "选择",
+      "meaningsVi": [
+        "chọn, lựa chọn",
+        "sự lựa chọn"
+      ],
+      "noteVi": "「选择」 trang trọng hơn 「选」 và làm được danh từ: 这是你的选择 (Đây là lựa chọn của bạn).",
+      "examples": [
+        {
+          "zh": "这儿的衣服太多了，我不知道怎么选择。",
+          "py": "zhè r de yī fu tài duō le wǒ bù zhī dào zěn me xuǎn zé",
+          "vi": "Quần áo ở đây nhiều quá, tôi không biết chọn thế nào."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 927,
+      "word": "一样",
+      "meaningsVi": [
+        "giống nhau, như nhau"
+      ],
+      "noteVi": "A 跟/和 B 一样 (A giống B); A 跟 B 一样 + tính từ (A … bằng B). Phủ định: A 跟 B 不一样.",
+      "examples": [
+        {
+          "zh": "我的手机跟你的一样。",
+          "py": "wǒ de shǒu jī gēn nǐ de yí yàng",
+          "vi": "Điện thoại của tôi giống của bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 520,
+      "word": "比较",
+      "meaningsVi": [
+        "khá, tương đối (phó từ)",
+        "so sánh (động từ)"
+      ],
+      "noteVi": "Phó từ 「比较」 = 'khá, tương đối': 比较便宜. Không dùng 「比较」 trong câu có 「比」: không nói 这件比那件比较贵. Động từ: 比较一下 (so sánh một chút).",
+      "examples": [
+        {
+          "zh": "这家店的衣服比较便宜。",
+          "py": "zhè jiā diàn de yī fu bǐ jiào pián yi",
+          "vi": "Quần áo ở cửa hàng này khá rẻ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 646,
+      "word": "更",
+      "meaningsVi": [
+        "càng, hơn (nữa)"
+      ],
+      "noteVi": "「更」 đứng trước tính từ hoặc động từ chỉ tâm lý: 更好看, 更喜欢. Dùng được trong câu 「比」: 这件比那件更好看.",
+      "examples": [
+        {
+          "zh": "我觉得这件更好看。",
+          "py": "wǒ jué de zhè jiàn gèng hǎo kàn",
+          "vi": "Tôi thấy chiếc này đẹp hơn."
+        },
+        {
+          "zh": "我更喜欢蓝的。",
+          "py": "wǒ gèng xǐ huan lán de",
+          "vi": "Tôi thích cái màu xanh hơn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 851,
+      "word": "特别",
+      "meaningsVi": [
+        "đặc biệt, rất, cực kỳ (phó từ)",
+        "đặc biệt, khác thường (tính từ)"
+      ],
+      "examples": [
+        {
+          "zh": "这条裙子特别漂亮。",
+          "py": "zhè tiáo qún zi tè bié piào liang",
+          "vi": "Chiếc váy này cực kỳ đẹp."
+        },
+        {
+          "zh": "这件衣服的颜色很特别。",
+          "py": "zhè jiàn yī fu de yán sè hěn tè bié",
+          "vi": "Màu của bộ quần áo này rất đặc biệt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 858,
+      "word": "挺",
+      "meaningsVi": [
+        "khá, rất (khẩu ngữ)"
+      ],
+      "noteVi": "「挺」 là phó từ khẩu ngữ, mức độ gần với 「很」, hay dùng thành 「挺……的」: 挺好的, 挺漂亮的.",
+      "examples": [
+        {
+          "zh": "这件衬衫挺好看的。",
+          "py": "zhè jiàn chèn shān tǐng hǎo kàn de",
+          "vi": "Chiếc áo sơ mi này khá đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 690,
+      "word": "极",
+      "meaningsVi": [
+        "cực kỳ, vô cùng"
+      ],
+      "noteVi": "「极」 đứng trước tính từ hoặc động từ, mang màu sắc văn viết: 极少 (cực ít). Trong khẩu ngữ hay nói 「……极了」 (好极了), sẽ học ở bài sau.",
+      "examples": [
+        {
+          "zh": "他极少买新衣服。",
+          "py": "tā jí shǎo mǎi xīn yī fu",
+          "vi": "Anh ấy rất hiếm khi mua quần áo mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 959,
+      "word": "越",
+      "meaningsVi": [
+        "càng (越……越……: càng … càng …)"
+      ],
+      "examples": [
+        {
+          "zh": "汉语越学越有意思。",
+          "py": "hàn yǔ yuè xué yuè yǒu yì si",
+          "vi": "Tiếng Hán càng học càng thấy hay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 685,
+      "word": "或",
+      "meaningsVi": [
+        "hoặc"
+      ],
+      "noteVi": "「或」 = 「或者」 nhưng ngắn hơn, hay dùng trong văn viết. Không dùng trong câu hỏi lựa chọn.",
+      "examples": [
+        {
+          "zh": "我们星期六或星期天去买鞋吧。",
+          "py": "wǒ men xīng qī liù huò xīng qī tiān qù mǎi xié ba",
+          "vi": "Chúng ta đi mua giày vào thứ bảy hoặc chủ nhật nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 686,
+      "word": "或者",
+      "meaningsVi": [
+        "hoặc, hoặc là"
+      ],
+      "noteVi": "「或者」 dùng trong câu kể: 我想买白色的或者黑色的. Câu hỏi lựa chọn phải dùng 「还是」: 你要白色的还是黑色的？",
+      "examples": [
+        {
+          "zh": "我想买一件衬衫或者一条裙子。",
+          "py": "wǒ xiǎng mǎi yí jiàn chèn shān huò zhě yì tiáo qún zi",
+          "vi": "Tôi muốn mua một chiếc áo sơ mi hoặc một chiếc váy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 164,
+      "titleVi": "Phó từ chỉ mức độ: 比较, 还, 更, 特别, 挺, 有些, 越, 极",
+      "summaryVi": "Các phó từ chỉ mức độ đứng trước tính từ (hoặc động từ tâm lý): 比较便宜 (khá rẻ), 挺好看的 (khá đẹp), 特别贵 (cực kỳ đắt), 有些大 (hơi to), 更好 (tốt hơn), 还不错 (cũng được).",
+      "explanationVi": [
+        "Ngoài 很, 非常, 太, 有点儿 đã học, bài này thêm nhiều phó từ chỉ mức độ, đều đứng **trước tính từ** (hoặc động từ tâm lý như 喜欢): 「比较」 (khá, tương đối), 「挺」 (khá, rất; khẩu ngữ, hay nói 挺……的), 「特别」 (đặc biệt, cực kỳ), 「极」 (vô cùng; văn viết: 极少), 「有些」 (hơi, có phần; giống 有点儿).",
+        "「更」 (càng, hơn nữa) và 「还」 (còn … hơn) dùng để **so sánh**: 这件更好看 (Chiếc này đẹp hơn). Trong câu có 「比」 chỉ dùng được 「更」, 「还」: 这件比那件更贵. Các phó từ 很, 非常, 特别, 挺, 比较 **không** đứng trong câu có 「比」.",
+        "「还」 còn có nghĩa 'cũng khá, tạm được' khi đi với 不错, 可以, 行: 这件衣服还不错 (Bộ này cũng được đấy). 「越」 dùng trong mẫu 「越……越……」 (càng … càng …), có điểm ngữ pháp riêng.",
+        "Mức độ tăng dần (chỉ để tham khảo): 有点儿/有些 → 比较 → 挺/很 → 特别/非常 → 极. Chú ý 「有点儿」, 「有些」 thường dùng cho điều **không như ý**: 有点儿贵, 有些大; khen thì dùng 挺, 很, 特别."
+      ],
+      "patterns": [
+        "比较/挺/特别/极/有些 + tính từ",
+        "挺 + tính từ + 的",
+        "还 + 不错/可以/行",
+        "更/还 + tính từ (so sánh)"
+      ],
+      "examples": [
+        {
+          "zh": "这家店的衣服比较便宜。",
+          "py": "zhè jiā diàn de yī fu bǐ jiào pián yi",
+          "vi": "Quần áo ở cửa hàng này khá rẻ."
+        },
+        {
+          "zh": "这条裙子挺漂亮的，可是有些短。",
+          "py": "zhè tiáo qún zi tǐng piào liang de kě shì yǒu xiē duǎn",
+          "vi": "Chiếc váy này khá đẹp, nhưng hơi ngắn."
+        },
+        {
+          "zh": "这双鞋特别舒服。",
+          "py": "zhè shuāng xié tè bié shū fu",
+          "vi": "Đôi giày này cực kỳ êm chân."
+        },
+        {
+          "zh": "这件衣服还不错，我买了。",
+          "py": "zhè jiàn yī fu hái bú cuò wǒ mǎi le",
+          "vi": "Bộ quần áo này cũng được đấy, tôi mua."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这件衬衫比那件比较贵。",
+          "right": "这件衬衫比那件贵。",
+          "noteVi": "Trong câu có 「比」 không dùng 「比较」, 「很」, 「特别」…; muốn nhấn mạnh thì dùng 「更」 hoặc 「还」: 这件衬衫比那件更贵."
+        },
+        {
+          "wrong": "这件衣服有点儿漂亮。",
+          "right": "这件衣服挺漂亮的。",
+          "noteVi": "「有点儿」, 「有些」 thường dùng cho điều không như ý (有点儿贵, 有点儿小). Dùng để khen nghe không tự nhiên; khen thì dùng 「挺」, 「很」, 「特别」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 177,
+      "titleVi": "Liên từ 「或」, 「或者」: hoặc",
+      "summaryVi": "「或者」 (văn viết: 「或」) nối hai khả năng trong câu kể; câu hỏi lựa chọn thì dùng 「还是」.",
+      "explanationVi": [
+        "「或者」 nghĩa là 'hoặc', nối hai từ, hai cụm từ hay hai vế để nói **một trong hai đều được**: 我想买一件衬衫或者一条裙子. 「或」 nghĩa như 「或者」, ngắn hơn, hay dùng trong văn viết: 星期六或星期天.",
+        "Điểm quan trọng: tiếng Việt dùng 'hay', 'hoặc' cho cả câu hỏi lẫn câu kể, còn tiếng Trung tách rõ. **Câu hỏi** lựa chọn ('… hay …?') dùng 「还是」 (đã học ở HSK2): 你要白色的还是黑色的？ **Câu kể** ('… hoặc …') dùng 「或者」: 白色的或者黑色的都可以.",
+        "「或者」 cũng nối được hai cụm động từ: 周末我在家看书，或者去打球."
+      ],
+      "patterns": [
+        "A + 或者/或 + B (câu kể)",
+        "A + 还是 + B？ (câu hỏi lựa chọn)"
+      ],
+      "examples": [
+        {
+          "zh": "白色的或者黑色的都可以。",
+          "py": "bái sè de huò zhě hēi sè de dōu kě yǐ",
+          "vi": "Màu trắng hay màu đen đều được."
+        },
+        {
+          "zh": "周末我在家看书，或者去打球。",
+          "py": "zhōu mò wǒ zài jiā kàn shū huò zhě qù dǎ qiú",
+          "vi": "Cuối tuần tôi ở nhà đọc sách, hoặc đi chơi bóng."
+        },
+        {
+          "zh": "你可以穿这件衬衫或那件上衣。",
+          "py": "nǐ kě yǐ chuān zhè jiàn chèn shān huò nà jiàn shàng yī",
+          "vi": "Bạn có thể mặc chiếc áo sơ mi này hoặc chiếc áo kia."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你想买白色的或者黑色的？",
+          "right": "你想买白色的还是黑色的？",
+          "noteVi": "Câu hỏi lựa chọn dùng 「还是」, không dùng 「或者」. 「或者」 chỉ dùng trong câu kể."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 183,
+      "titleVi": "Cụm bốn chữ 「不A不B」: không … không … (vừa phải)",
+      "summaryVi": "不 + A + 不 + B (A, B là tính từ trái nghĩa): vừa phải, vừa đúng (不大不小, 不冷不热).",
+      "explanationVi": [
+        "Đặt 「不」 trước hai tính từ **trái nghĩa** một âm tiết, ta được cụm bốn chữ nghĩa là 'không quá A cũng không quá B', tức là **vừa phải**, vừa đúng: 不大不小 (không to không nhỏ, vừa), 不多不少 (không nhiều không ít), 不冷不热 (không lạnh không nóng), 不长不短. Tiếng Việt cũng nói 'không to không nhỏ', nên dễ hiểu.",
+        "Cụm này thường làm vị ngữ, hay đi kèm 「很合适」: 这双鞋不大不小，很合适. Bản thân cụm đã đủ nghĩa, **không thêm** 很, 非常 trước nó.",
+        "Thứ tự hai tính từ thường cố định (不大不小, 不多不少, 不冷不热, 不长不短), nên học thuộc cả cụm. Với một số cặp từ khác, 「不A不B」 lại mang nghĩa chê ('chẳng ra … cũng chẳng ra …'), sẽ gặp ở cấp cao hơn."
+      ],
+      "patterns": [
+        "不 + A + 不 + B (A, B là tính từ trái nghĩa)"
+      ],
+      "examples": [
+        {
+          "zh": "这双鞋不大不小，很合适。",
+          "py": "zhè shuāng xié bú dà bù xiǎo hěn hé shì",
+          "vi": "Đôi giày này không to không nhỏ, rất vừa."
+        },
+        {
+          "zh": "今天天气不冷不热，特别舒服。",
+          "py": "jīn tiān tiān qì bù lěng bú rè tè bié shū fu",
+          "vi": "Hôm nay trời không lạnh không nóng, cực kỳ dễ chịu."
+        },
+        {
+          "zh": "这条裙子不长不短，你穿很好看。",
+          "py": "zhè tiáo qún zi bù cháng bù duǎn nǐ chuān hěn hǎo kàn",
+          "vi": "Chiếc váy này không dài không ngắn, bạn mặc rất đẹp."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这双鞋很不大不小。",
+          "right": "这双鞋不大不小，很合适。",
+          "noteVi": "「不大不小」 đã đủ nghĩa 'vừa vặn', không thêm 「很」 phía trước."
+        },
+        {
+          "wrong": "这条裙子不长短。",
+          "right": "这条裙子不长不短。",
+          "noteVi": "Mỗi tính từ đều phải có 「不」 phía trước: 不长不短."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 197,
+      "titleVi": "越……越……: càng … càng …",
+      "summaryVi": "越 A 越 B: B thay đổi theo A (càng A càng B): 汉语越学越有意思, 雨越下越大.",
+      "explanationVi": [
+        "「越 A 越 B」 nghĩa là 'càng A càng B': mức độ của B tăng lên theo A. Giống hệt 'càng … càng …' của tiếng Việt: 汉语越学越有意思 (Tiếng Hán càng học càng thấy hay), 雨越下越大 (Mưa càng lúc càng to).",
+        "「越」 là phó từ nên đứng **sau chủ ngữ**: 他越说越高兴. Nếu hai vế có hai chủ ngữ khác nhau thì mỗi chủ ngữ đứng trước 「越」 của mình: 你越说，我越不懂 (Bạn càng nói tôi càng không hiểu). Không nói 越你说，越我不懂.",
+        "Sau 「越」 thứ hai là tính từ hoặc động từ, **không thêm** 很, 非常, 太: nói 越学越有意思, không nói 越学越很有意思."
+      ],
+      "patterns": [
+        "Chủ ngữ + 越 + A + 越 + B",
+        "Chủ ngữ 1 + 越 + A，chủ ngữ 2 + 越 + B"
+      ],
+      "examples": [
+        {
+          "zh": "雨越下越大，我们回家吧。",
+          "py": "yǔ yuè xià yuè dà wǒ men huí jiā ba",
+          "vi": "Mưa càng lúc càng to, chúng ta về nhà thôi."
+        },
+        {
+          "zh": "这件衣服我越看越喜欢。",
+          "py": "zhè jiàn yī fu wǒ yuè kàn yuè xǐ huan",
+          "vi": "Bộ quần áo này tôi càng nhìn càng thích."
+        },
+        {
+          "zh": "你越说，我越不懂。",
+          "py": "nǐ yuè shuō wǒ yuè bù dǒng",
+          "vi": "Bạn càng nói tôi càng không hiểu."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "越你说，越我不懂。",
+          "right": "你越说，我越不懂。",
+          "noteVi": "「越」 là phó từ, đứng sau chủ ngữ."
+        },
+        {
+          "wrong": "汉语越学越很有意思。",
+          "right": "汉语越学越有意思。",
+          "noteVi": "Sau 「越」 không thêm 「很」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 221,
+      "titleVi": "So sánh: A 比 B + 更/还 + tính từ (A còn … hơn B)",
+      "summaryVi": "A 比 B 更/还 + tính từ: A còn … hơn B (B cũng đã khá … rồi): 这件比那件更贵.",
+      "explanationVi": [
+        "Ở HSK2 đã học 「A 比 B + tính từ」: 这件比那件贵. Thêm 「更」 hoặc 「还」 trước tính từ để nói A **còn … hơn** B, ngầm hiểu B cũng đã khá … rồi: 那件很贵，这件比那件更贵 (Chiếc kia đắt rồi, chiếc này còn đắt hơn).",
+        "「更」 thiên về so sánh bình thường; 「还」 mang thêm cảm xúc ngạc nhiên, nhấn mạnh 'thậm chí còn': 弟弟比哥哥还高！ (Em trai còn cao hơn cả anh!).",
+        "Trong câu 「比」, **chỉ** dùng 「更」, 「还」 trước tính từ; không dùng 很, 非常, 特别, 比较, 挺. Thứ tự cũng khác tiếng Việt: tiếng Việt nói 'chiếc này **đắt hơn** chiếc kia' (tính từ + hơn + B), tiếng Trung nói 这件**比那件**更贵 (比 + B đứng trước tính từ)."
+      ],
+      "patterns": [
+        "A + 比 + B + 更/还 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "这件衬衫比那件更好看。",
+          "py": "zhè jiàn chèn shān bǐ nà jiàn gèng hǎo kàn",
+          "vi": "Chiếc áo sơ mi này còn đẹp hơn chiếc kia."
+        },
+        {
+          "zh": "我妹妹比我还高。",
+          "py": "wǒ mèi mei bǐ wǒ hái gāo",
+          "vi": "Em gái tôi còn cao hơn cả tôi."
+        },
+        {
+          "zh": "今天比昨天更冷。",
+          "py": "jīn tiān bǐ zuó tiān gèng lěng",
+          "vi": "Hôm nay còn lạnh hơn hôm qua."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这件衬衫更贵比那件。",
+          "right": "这件衬衫比那件更贵。",
+          "noteVi": "Dịch theo thứ tự tiếng Việt 'đắt hơn chiếc kia' là sai: 「比 + B」 đứng trước tính từ."
+        },
+        {
+          "wrong": "这件衬衫比那件特别贵。",
+          "right": "这件衬衫比那件还贵。",
+          "noteVi": "Trong câu 「比」 không dùng 「特别」, 「很」, 「非常」; dùng 「更」 hoặc 「还」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 222,
+      "titleVi": "So sánh ngang bằng: A 跟 B 一样 (A giống B)",
+      "summaryVi": "A 跟/和 B 一样: A giống B; phủ định là A 跟 B 不一样.",
+      "explanationVi": [
+        "Muốn nói hai người, hai vật **giống nhau**, dùng 「A 跟 B 一样」: 我的鞋跟你的一样 (Giày của tôi giống của bạn). 「跟」 có thể thay bằng 「和」.",
+        "Khác tiếng Việt: trong 'A giống B', 'giống' đứng giữa A và B như một động từ; còn tiếng Trung 「一样」 đứng **cuối**, B đứng sau 「跟」: 我的衬衫跟你的一样. Không nói 我的衬衫一样你的.",
+        "Phủ định: đặt 「不」 trước 「一样」: A 跟 B **不一样** (A khác B). Không đặt 「不」 trước 「跟」. Câu hỏi: A 跟 B 一样吗？"
+      ],
+      "patterns": [
+        "A + 跟/和 + B + 一样",
+        "A + 跟/和 + B + 不一样"
+      ],
+      "examples": [
+        {
+          "zh": "我的鞋跟你的一样。",
+          "py": "wǒ de xié gēn nǐ de yí yàng",
+          "vi": "Giày của tôi giống của bạn."
+        },
+        {
+          "zh": "这件上衣的颜色跟那件不一样。",
+          "py": "zhè jiàn shàng yī de yán sè gēn nà jiàn bù yí yàng",
+          "vi": "Màu của chiếc áo này khác chiếc kia."
+        },
+        {
+          "zh": "你的手机和我的一样吗？",
+          "py": "nǐ de shǒu jī hé wǒ de yí yàng ma",
+          "vi": "Điện thoại của bạn có giống của tôi không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我的衬衫一样你的。",
+          "right": "我的衬衫跟你的一样。",
+          "noteVi": "Dịch theo tiếng Việt 'giống của bạn' là sai: B đứng sau 「跟」, 「一样」 đứng cuối."
+        },
+        {
+          "wrong": "我的鞋不跟你的一样。",
+          "right": "我的鞋跟你的不一样。",
+          "noteVi": "「不」 đứng trước 「一样」, không đứng trước 「跟」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 223,
+      "titleVi": "A 跟 B 一样 + tính từ: A … bằng B",
+      "summaryVi": "A 跟 B 一样 + tính từ: A … bằng B (我跟他一样高: Tôi cao bằng anh ấy).",
+      "explanationVi": [
+        "Muốn nói A và B **bằng nhau** về một mặt nào đó, đặt tính từ sau 「一样」: 我跟他一样高 (Tôi cao bằng anh ấy), 这条裙子跟那条一样长.",
+        "Tiếng Việt đặt tính từ trước: 'cao **bằng** anh ấy'; tiếng Trung đặt tính từ **cuối câu**, sau 「一样」. Không nói 我高跟他一样.",
+        "Trước tính từ không thêm 很. Phủ định có hai cách: 我跟他不一样高, hoặc dùng 「没有」 (HSK2): 我没有他高 (Tôi không cao bằng anh ấy)."
+      ],
+      "patterns": [
+        "A + 跟/和 + B + 一样 + tính từ",
+        "A + 跟 + B + 不一样 + tính từ",
+        "A + 没有 + B + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "我妹妹跟我一样高。",
+          "py": "wǒ mèi mei gēn wǒ yí yàng gāo",
+          "vi": "Em gái tôi cao bằng tôi."
+        },
+        {
+          "zh": "这条裙子跟那条一样长。",
+          "py": "zhè tiáo qún zi gēn nà tiáo yí yàng cháng",
+          "vi": "Chiếc váy này dài bằng chiếc kia."
+        },
+        {
+          "zh": "这儿的衣服跟商场里的一样贵。",
+          "py": "zhè r de yī fu gēn shāng chǎng lǐ de yí yàng guì",
+          "vi": "Quần áo ở đây đắt như ở trung tâm thương mại."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这条裙子贵跟那条一样。",
+          "right": "这条裙子跟那条一样贵。",
+          "noteVi": "Dịch theo tiếng Việt 'đắt bằng chiếc kia' là sai: tính từ đứng cuối câu, sau 「一样」."
+        },
+        {
+          "wrong": "我跟他一样很高。",
+          "right": "我跟他一样高。",
+          "noteVi": "Trong mẫu so sánh này không thêm 「很」 trước tính từ. (Có 「很」, câu sẽ hiểu thành 'giống anh ấy, tôi rất cao', không còn là so sánh.)"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-04-e01",
+      "type": "match",
+      "promptVi": "Nối tên quần áo, giày dép với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "衬衫",
+          "áo sơ mi"
+        ],
+        [
+          "上衣",
+          "áo (mặc phần trên)"
+        ],
+        [
+          "大衣",
+          "áo khoác dài"
+        ],
+        [
+          "裙子",
+          "váy"
+        ],
+        [
+          "短裤",
+          "quần soóc"
+        ],
+        [
+          "鞋",
+          "giày"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-04-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "合适",
+          "vừa, hợp"
+        ],
+        [
+          "难看",
+          "xấu, khó coi"
+        ],
+        [
+          "旧",
+          "cũ"
+        ],
+        [
+          "短",
+          "ngắn"
+        ],
+        [
+          "试",
+          "thử"
+        ],
+        [
+          "换",
+          "đổi"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-04-e03",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "我想买一＿鞋。",
+      "options": [
+        "双",
+        "条",
+        "件"
+      ],
+      "answer": 0,
+      "explainVi": "Giày đi thành đôi: 一双鞋. 「条」 dùng cho quần, váy; 「件」 dùng cho áo."
+    },
+    {
+      "id": "hsk3-04-e04",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "门口有几双鞋？",
+        "promptVi": "Ở cửa có mấy đôi giày? (Trong hình: 3 đôi giày.)",
+        "picture": "👟👟 👞👞 👠👠",
+        "expected": {
+          "number": 3,
+          "noun": "鞋",
+          "sentence": "门口有三双鞋。"
+        },
+        "examples": [
+          {
+            "answer": "门口有三双鞋。",
+            "score": 100
+          },
+          {
+            "answer": "有三双。",
+            "score": 100
+          },
+          {
+            "answer": "门口有三个鞋。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "门口有三鞋。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "门口有六双鞋。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-04-e05",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "床上有几条裙子？",
+        "promptVi": "Trên giường có mấy chiếc váy?",
+        "picture": "👗👗",
+        "expected": {
+          "number": 2,
+          "noun": "裙子",
+          "sentence": "床上有两条裙子。"
+        },
+        "examples": [
+          {
+            "answer": "床上有两条裙子。",
+            "score": 100
+          },
+          {
+            "answer": "有两条。",
+            "score": 100
+          },
+          {
+            "answer": "床上有两件裙子。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "床上有二条裙子。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "床上有三条裙子。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-04-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Đôi giày này còn rẻ hơn đôi kia.)",
+      "options": [
+        "这双鞋比那双更便宜。",
+        "这双鞋比那双比较便宜。",
+        "这双鞋比那双特别便宜。"
+      ],
+      "answer": 0,
+      "explainVi": "Trong câu 「比」 chỉ dùng 「更」 hoặc 「还」 trước tính từ.",
+      "grammar": [
+        164,
+        221
+      ]
+    },
+    {
+      "id": "hsk3-04-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这件大衣",
+      "after": "漂亮的，我很喜欢。",
+      "answers": [
+        "挺"
+      ],
+      "options": [
+        "挺",
+        "更",
+        "越"
+      ],
+      "vi": "Chiếc áo khoác này khá đẹp, tôi rất thích.",
+      "explainVi": "「挺……的」: khá …, rất ….",
+      "grammar": [
+        164
+      ]
+    },
+    {
+      "id": "hsk3-04-e08",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这件衣服",
+      "after": "不错，我买了。",
+      "answers": [
+        "还"
+      ],
+      "options": [
+        "还",
+        "越",
+        "极"
+      ],
+      "vi": "Bộ quần áo này cũng được đấy, tôi mua.",
+      "explainVi": "「还不错」: cũng được, khá ổn.",
+      "grammar": [
+        164
+      ]
+    },
+    {
+      "id": "hsk3-04-e09",
+      "type": "translate",
+      "vi": "Đôi giày này rất đẹp, nhưng hơi đắt.",
+      "answers": [
+        "这双鞋[很|挺|特别|非常]好看，[可是|但是|只是]有[点儿|些]贵。"
+      ],
+      "examples": [
+        {
+          "answer": "这双鞋很好看，可是有点儿贵。",
+          "score": 100
+        },
+        {
+          "answer": "这双鞋挺好看，但是有些贵。",
+          "score": 100
+        },
+        {
+          "answer": "这双鞋特别好看，只是有点儿贵。",
+          "score": 100
+        },
+        {
+          "answer": "这条鞋很好看，可是有点儿贵。",
+          "score": 0
+        },
+        {
+          "answer": "这双鞋很好看，可是有点儿便宜。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        164
+      ]
+    },
+    {
+      "id": "hsk3-04-e10",
+      "type": "choice",
+      "promptVi": "Bạn muốn khen chiếc váy của bạn mình. Câu nào tự nhiên nhất?",
+      "options": [
+        "你的裙子挺漂亮的！",
+        "你的裙子有点儿漂亮！",
+        "你的裙子比漂亮！"
+      ],
+      "answer": 0,
+      "explainVi": "「有点儿」 thường dùng cho điều không như ý; khen thì dùng 「挺……的」, 「很」, 「特别」.",
+      "grammar": [
+        164
+      ]
+    },
+    {
+      "id": "hsk3-04-e11",
+      "type": "order",
+      "vi": "Chiếc áo sơ mi này còn đắt hơn chiếc kia.",
+      "tiles": [
+        "这件衬衫",
+        "比",
+        "那件",
+        "还",
+        "贵"
+      ],
+      "answers": [
+        "这件衬衫比那件还贵"
+      ],
+      "explainVi": "A + 比 + B + 还 + tính từ.",
+      "grammar": [
+        221
+      ]
+    },
+    {
+      "id": "hsk3-04-e12",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chiếc áo sơ mi này còn đắt hơn chiếc kia.)",
+      "options": [
+        "这件衬衫比那件更贵。",
+        "这件衬衫更贵比那件。",
+        "这件衬衫比更贵那件。"
+      ],
+      "answer": 0,
+      "explainVi": "「比 + B」 đứng trước 「更 + tính từ」, khác thứ tự tiếng Việt 'đắt hơn chiếc kia'.",
+      "grammar": [
+        221
+      ]
+    },
+    {
+      "id": "hsk3-04-e13",
+      "type": "translate",
+      "vi": "Hôm nay còn lạnh hơn hôm qua.",
+      "answers": [
+        "今天比昨天[更|还]冷。"
+      ],
+      "examples": [
+        {
+          "answer": "今天比昨天更冷。",
+          "score": 100
+        },
+        {
+          "answer": "今天比昨天还冷。",
+          "score": 100
+        },
+        {
+          "answer": "今天比昨天冷。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 「更/还」 cho ý 'còn … hơn'"
+        },
+        {
+          "answer": "今天比昨天很冷。",
+          "score": 0,
+          "note": "Câu 「比」 không dùng 「很」"
+        },
+        {
+          "answer": "今天更冷比昨天。",
+          "score": 0
+        },
+        {
+          "answer": "昨天比今天更冷。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        221
+      ]
+    },
+    {
+      "id": "hsk3-04-e14",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的衬衫跟你的",
+      "after": "。",
+      "answers": [
+        "一样"
+      ],
+      "options": [
+        "一样",
+        "比较",
+        "更"
+      ],
+      "vi": "Áo sơ mi của tôi giống của bạn.",
+      "grammar": [
+        222
+      ]
+    },
+    {
+      "id": "hsk3-04-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Giày của tôi khác giày của bạn.)",
+      "options": [
+        "我的鞋跟你的不一样。",
+        "我的鞋不跟你的一样。",
+        "我的鞋一样不你的。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định: 「不」 đứng trước 「一样」.",
+      "grammar": [
+        222
+      ]
+    },
+    {
+      "id": "hsk3-04-e16",
+      "type": "order",
+      "vi": "Màu của chiếc áo này khác chiếc kia.",
+      "tiles": [
+        "这件上衣的颜色",
+        "跟",
+        "那件",
+        "不一样"
+      ],
+      "answers": [
+        "这件上衣的颜色跟那件不一样"
+      ],
+      "grammar": [
+        222
+      ]
+    },
+    {
+      "id": "hsk3-04-e17",
+      "type": "translate",
+      "vi": "Em gái tôi cao bằng tôi.",
+      "answers": [
+        "我妹妹[跟|和]我一样高。"
+      ],
+      "examples": [
+        {
+          "answer": "我妹妹跟我一样高。",
+          "score": 100
+        },
+        {
+          "answer": "我妹妹和我一样高。",
+          "score": 100
+        },
+        {
+          "answer": "我妹妹跟我一样很高。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Không thêm 「很」 trước tính từ"
+        },
+        {
+          "answer": "我妹妹高跟我一样。",
+          "score": 0
+        },
+        {
+          "answer": "我妹妹比我高。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        223
+      ]
+    },
+    {
+      "id": "hsk3-04-e18",
+      "type": "order",
+      "vi": "Chiếc váy này dài bằng chiếc kia.",
+      "tiles": [
+        "这条裙子",
+        "跟",
+        "那条",
+        "一样",
+        "长"
+      ],
+      "answers": [
+        "这条裙子跟那条一样长"
+      ],
+      "explainVi": "Tính từ 「长」 đứng cuối câu, sau 「一样」.",
+      "grammar": [
+        223
+      ]
+    },
+    {
+      "id": "hsk3-04-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chiếc váy này đắt bằng chiếc kia.)",
+      "options": [
+        "这条裙子跟那条一样贵。",
+        "这条裙子贵跟那条一样。",
+        "这条裙子一样贵跟那条。"
+      ],
+      "answer": 0,
+      "grammar": [
+        223
+      ]
+    },
+    {
+      "id": "hsk3-04-e20",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你想要白色的",
+      "after": "黑色的？",
+      "answers": [
+        "还是"
+      ],
+      "options": [
+        "还是",
+        "或者",
+        "和"
+      ],
+      "vi": "Bạn muốn cái màu trắng hay cái màu đen?",
+      "explainVi": "Câu hỏi lựa chọn dùng 「还是」, không dùng 「或者」.",
+      "grammar": [
+        177
+      ]
+    },
+    {
+      "id": "hsk3-04-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我想买一件衬衫",
+      "after": "一条裙子。",
+      "answers": [
+        "或者"
+      ],
+      "options": [
+        "或者",
+        "还是",
+        "也"
+      ],
+      "vi": "Tôi muốn mua một chiếc áo sơ mi hoặc một chiếc váy.",
+      "explainVi": "Câu kể dùng 「或者」.",
+      "grammar": [
+        177
+      ]
+    },
+    {
+      "id": "hsk3-04-e22",
+      "type": "translate",
+      "vi": "Chúng ta đi mua giày vào thứ bảy hoặc chủ nhật nhé.",
+      "answers": [
+        "[我们|咱们]星期六[或者|或]星期[天|日]去买鞋吧。",
+        "星期六[或者|或]星期[天|日][我们|咱们]去买鞋吧。"
+      ],
+      "examples": [
+        {
+          "answer": "我们星期六或者星期天去买鞋吧。",
+          "score": 100
+        },
+        {
+          "answer": "咱们星期六或星期日去买鞋吧。",
+          "score": 100
+        },
+        {
+          "answer": "星期六或者星期天我们去买鞋吧。",
+          "score": 100
+        },
+        {
+          "answer": "我们星期六还是星期天去买鞋吧。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        177
+      ]
+    },
+    {
+      "id": "hsk3-04-e23",
+      "type": "order",
+      "vi": "Tiếng Hán càng học càng thấy hay.",
+      "tiles": [
+        "汉语",
+        "越",
+        "学",
+        "越",
+        "有意思"
+      ],
+      "answers": [
+        "汉语越学越有意思"
+      ],
+      "grammar": [
+        197
+      ]
+    },
+    {
+      "id": "hsk3-04-e24",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn càng nói tôi càng không hiểu.)",
+      "options": [
+        "你越说，我越不懂。",
+        "越你说，越我不懂。",
+        "你说越，我不懂越。"
+      ],
+      "answer": 0,
+      "explainVi": "「越」 là phó từ, đứng sau chủ ngữ, trước động từ.",
+      "grammar": [
+        197
+      ]
+    },
+    {
+      "id": "hsk3-04-e25",
+      "type": "translate",
+      "vi": "Mưa càng lúc càng to.",
+      "answers": [
+        "雨越下越大。",
+        "雨越来越大。"
+      ],
+      "examples": [
+        {
+          "answer": "雨越下越大。",
+          "score": 100
+        },
+        {
+          "answer": "雨越来越大。",
+          "score": 100
+        },
+        {
+          "answer": "雨越下越很大。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Sau 「越」 không thêm 「很」"
+        },
+        {
+          "answer": "雨越下越小。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        197
+      ]
+    },
+    {
+      "id": "hsk3-04-e26",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这双鞋不大不",
+      "after": "，很合适。",
+      "answers": [
+        "小"
+      ],
+      "options": [
+        "小",
+        "大",
+        "长"
+      ],
+      "vi": "Đôi giày này không to không nhỏ, rất vừa.",
+      "explainVi": "「不A不B」 dùng hai tính từ trái nghĩa: 不大不小.",
+      "grammar": [
+        183
+      ]
+    },
+    {
+      "id": "hsk3-04-e27",
+      "type": "choice",
+      "promptVi": "「今天天气不冷不热。」 nghĩa là gì?",
+      "options": [
+        "Hôm nay trời dễ chịu, không lạnh cũng không nóng.",
+        "Hôm nay trời lúc lạnh lúc nóng.",
+        "Hôm nay trời không lạnh mà rất nóng."
+      ],
+      "answer": 0,
+      "grammar": [
+        183
+      ]
+    },
+    {
+      "id": "hsk3-04-e28",
+      "type": "order",
+      "vi": "Chiếc áo sơ mi này không dài không ngắn, rất vừa.",
+      "tiles": [
+        "这件衬衫",
+        "不长",
+        "不短",
+        "很合适"
+      ],
+      "answers": [
+        "这件衬衫不长不短很合适"
+      ],
+      "grammar": [
+        183
+      ]
+    },
+    {
+      "id": "hsk3-04-e29",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你的鞋跟我的一样吗？",
+        "promptVi": "Giày của bạn có giống giày của tôi không? (Giả sử hai đôi khác nhau.)",
+        "answers": [
+          "(我的鞋跟你的)不一样。",
+          "(我的鞋)跟你的不一样。"
+        ],
+        "examples": [
+          {
+            "answer": "不一样。",
+            "score": 100
+          },
+          {
+            "answer": "我的鞋跟你的不一样。",
+            "score": 100
+          },
+          {
+            "answer": "跟你的不一样。",
+            "score": 100
+          },
+          {
+            "answer": "我的鞋不跟你的一样。",
+            "score": 0
+          },
+          {
+            "answer": "一样。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        222
+      ]
+    },
+    {
+      "id": "hsk3-04-e30",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "衬衫和大衣，哪个更贵？",
+        "promptVi": "Áo sơ mi và áo khoác, cái nào đắt hơn? (Áo sơ mi 200 tệ, áo khoác 600 tệ.)",
+        "answers": [
+          "大衣更贵。",
+          "大衣。",
+          "大衣比衬衫([更|还])贵。",
+          "衬衫比大衣便宜。"
+        ],
+        "examples": [
+          {
+            "answer": "大衣更贵。",
+            "score": 100
+          },
+          {
+            "answer": "大衣比衬衫更贵。",
+            "score": 100
+          },
+          {
+            "answer": "大衣比衬衫贵。",
+            "score": 100
+          },
+          {
+            "answer": "大衣比衬衫很贵。",
+            "score": 85,
+            "issues": [
+              "extra_word"
+            ],
+            "note": "Câu 「比」 không dùng 「很」"
+          },
+          {
+            "answer": "衬衫更贵。",
+            "score": 0
+          },
+          {
+            "answer": "大衣更贵比衬衫。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        221
+      ]
+    }
+  ]
+}

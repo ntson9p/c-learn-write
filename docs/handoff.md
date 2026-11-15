@@ -12,6 +12,59 @@
   - 295 test đều qua; repo có 11 commit trên nhánh `master` (commit cuối cùng thêm chính tài liệu này).
 - **Việc tiếp theo** (mục 10): xây một **web app hoàn chỉnh dạy ngữ pháp và từ vựng tiếng Trung**, giúp người học đạt trình độ từ **HSK1 đến HSK3**, dùng lại bộ chấm này cho các bài tập tự luận.
 
+> **Cập nhật 2026-11-14 (phiên 2).** Giai đoạn 0 và 1 đã xong: môi trường cloud chạy Node 22.23.4, 295 test qua; chủ dự án đã chốt 12 quyết định và **duyệt kế hoạch [docs/plan.md](plan.md)** (đề cương thi HSK 2025, PWA Preact + Vite, monorepo npm workspaces, FSRS, nội dung do Claude soạn nháp và giáo viên duyệt…). Mọi việc làm trên nhánh `claude/gifted-euler-v75r1k`, không commit vào `master`; hỏi chủ dự án trước khi mở pull request, merge hoặc triển khai. Kế hoạch là nguồn chính cho các bước tiếp theo; các mục 9–11 bên dưới chỉ còn giá trị lịch sử.
+
+## 1b. Tiến độ triển khai kế hoạch (cập nhật sau mỗi bước lớn)
+
+Cập nhật lần cuối: 2026-11-15. Nhánh `claude/gifted-euler-v75r1k`; CI GitHub Actions (`.github/workflows/ci.yml`) chạy xanh. `npm run check`: 405 test (bộ chấm 313, nội dung khóa học, app); `npm run e2e`: 7 test.
+
+**Toàn bộ nội dung HSK1–HSK3 đã có** (`data/levels.json`: cả ba cấp `complete`, test bắt buộc phủ đủ đề cương):
+
+| Cấp | Bài | Từ | Điểm ngữ pháp | Bài tập soạn sẵn |
+|---|---|---|---|---|
+| HSK1 | 15 | 300/300 | 70/70 | 361 |
+| HSK2 | 10 | 200/200 | 78/78 | 301 |
+| HSK3 | 20 | 500/500 | 96/96 | 576 |
+
+| Giai đoạn | Trạng thái |
+|---|---|
+| 0–1. Tiếp nhận, khảo sát, quyết định | Xong; `docs/plan.md` đã được duyệt |
+| 2. Nền tảng | Xong. Bộ chấm ở `packages/grader` (`@c-learn-write/grader`), nội dung ở `packages/course`, app PWA ở `apps/web` (Preact 10 + Vite 8, vite-plugin-pwa, idb, hash router, chuỗi tiếng Việt ở `apps/web/src/strings.ts`). `npm run e2e` = build + Playwright |
+| 3. Dữ liệu | Xong. `packages/course`: nguồn khóa commit (`sources/`), dữ liệu đề cương (`data/hsk/`), chương trình (`data/curriculum.json`), 45 bài (`data/lessons/hsk1..3/`), bộ kiểm tra (`src/validate.ts`), công cụ: `content:brief`, `content:fill`, `review:export`, `review:import`. Hướng dẫn: [content-guide.md](content-guide.md); điểm cần giáo viên xem: [review-notes.md](review-notes.md) |
+| 4. Từ vựng | Xong: thẻ từ, FSRS (ts-fsrs 6.0.0), giọng đọc thiết bị, từ điển, sao lưu |
+| 5. Ngữ pháp và bài tập | Xong cho cả ba cấp: trang ngữ pháp, 6 dạng bài tập + bài tập từ vựng tự sinh. Bộ chấm đã sửa các lỗi báo nhầm/chấm sai phát hiện khi soạn (mỗi lỗi có test; danh sách ở review-notes.md) |
+| 6. Kiểm tra và tiến độ | Xong: kiểm tra cuối bài (≥ 80% mở bài sau), kiểm tra cấp, trang tiến độ |
+| 7. Phát hành | Phần làm được trong repo đã xong: workflow `deploy.yml` (chỉ chạy tay), README, axe-core trên 11 màn hình (sáng/tối), giả lập Pixel 7 và iPhone 13 (engine Chromium) trên 15 màn hình, Lighthouse trên bản build ở máy (xem dưới). **Chưa triển khai:** chờ chủ dự án bật Pages và đồng ý; chưa thử trên điện thoại thật; chưa thử engine WebKit/Safari thật (môi trường chỉ có Chromium) |
+| 8. HSK2 + luyện viết | Xong: 10 bài HSK2; luyện viết (hanzi-writer) cho 250 chữ viết tay HSK2–3 |
+| 9. HSK3 | Xong: 20 bài HSK3 |
+| Duyệt nội dung | **Chưa có giáo viên duyệt**: mọi mục vẫn mang nhãn "Chưa duyệt" |
+
+Lighthouse 13.5.0 (2026-11-15, chạy trên `vite preview` của bản build ở máy, cấu hình mobile mặc định, Chromium headless). Thang 100; FCP và LCP tính bằng giây:
+
+| Màn hình | Hiệu năng | Truy cập | Thực hành tốt | SEO | FCP | LCP |
+|---|---|---|---|---|---|---|
+| Trang chủ | 94 | 100 | 100 | 91 | 1,4 | 2,9 |
+| Bài học | 89 | 100 | 100 | 91 | 1,3 | 3,7 |
+| Luyện tập | 89 | 100 | 100 | 91 | 1,2 | 3,8 |
+| Từ điển | 96 | 100 | 100 | 91 | 1,2 | 2,8 |
+
+- **SEO:** điểm bị trừ chỉ vì `robots.txt` (máy chủ thử trả về `index.html`). Trên GitHub Pages dạng trang dự án, `robots.txt` nằm ở tên miền gốc, ngoài tầm của repo.
+- **Lighthouse 12 trở đi không còn mục PWA.** Khả năng chạy offline được kiểm bằng test đầu-cuối.
+- **Cần đo lại** trên địa chỉ GitHub Pages thật sau khi triển khai.
+
+Việc còn lại (cần chủ dự án hoặc người ngoài repo):
+- **Triển khai GitHub Pages:** chủ dự án bật Pages (Settings → Pages → Source: GitHub Actions) và đồng ý, rồi chạy workflow **Deploy to GitHub Pages**. Sau đó đo lại Lighthouse trên địa chỉ thật.
+- **Mở pull request / merge vào `master`:** chỉ làm khi chủ dự án yêu cầu.
+- **Giáo viên duyệt nội dung** theo [review-notes.md](review-notes.md) và [content-guide.md](content-guide.md#5-giáo-viên-duyệt-bằng-bảng-tính).
+- **Thử trên điện thoại thật** (Android Chrome, iPhone Safari): cài PWA, dùng khi mất mạng, giọng đọc.
+
+Lưu ý khi làm tiếp:
+- `content:fill` sinh pinyin từ pinyin-pro: 得 thường bị đọc dé (phải sửa tay thành de sau động từ/tính từ, děi khi là "phải"), và cần rà các chữ 过, 地, 还, 只, 长, 着, 假. Các agent đã sửa tay ở mọi bài hiện có; bài mới cần rà lại.
+- Script Node trong `packages/course/scripts` chạy thẳng file `.ts` (Node 22.18+ tự bỏ kiểu); import tương đối phải ghi đuôi `.ts`.
+- **Bộ lọc nội dung của Claude** đã hai lần chặn câu trả lời đúng lúc sắp viết ra bảng âm tiết pinyin chuẩn (có lẽ vì trùng văn bản phổ biến). Đừng gõ tay các danh sách chuẩn dài; hãy sinh chúng từ dữ liệu. Commit và push sau mỗi bước nhỏ vì tiến trình có thể bị khởi động lại.
+- Không đưa câu ví dụ chính thức (例句) của đề cương vào repo.
+- Soạn bài song song bằng agent: mỗi agent chỉ ghi file bài của mình, chạy `content:fill -- <bài>` và `CONTENT_FILTER=<bài> npx vitest run --project course`; người điều phối kiểm tra và commit. Khi commit lúc agent còn đang ghi, chạy `CONTENT_FILTER=<các bài sẽ commit> npm run check` và chỉ commit khi lệnh thoát thành công.
+
 ## 2. Làm việc với chủ dự án (quan trọng)
 
 - Trả lời chủ dự án bằng **tiếng Việt**.
@@ -101,7 +154,7 @@ Các nguyên tắc thiết kế (nên giữ khi phát triển tiếp):
 | `arabic_digits` | 4个 → 四个 (khi câu hỏi yêu cầu chữ Hán) | 5 |
 | `traditional_converted` | 蘋果 → 苹果 (chỉ ghi chú) | 0 |
 
-Mỗi câu hỏi có thể đổi mức trừ qua trường `penalties`. Cách viết câu hỏi của từng loại có trong [README.md](../README.md#viết-câu-hỏi).
+Mỗi câu hỏi có thể đổi mức trừ qua trường `penalties`. Cách viết câu hỏi của từng loại có trong [packages/grader/README.md](../packages/grader/README.md#viết-câu-hỏi).
 
 ### Dữ liệu từ vựng (chưa được giáo viên duyệt)
 

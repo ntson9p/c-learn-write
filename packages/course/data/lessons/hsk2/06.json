@@ -1,0 +1,1405 @@
+{
+  "id": "hsk2-06",
+  "goalsVi": [
+    "Nói về lớp học và kỳ thi: 班, 教室, 考试, 题, 词, 本子, 笔",
+    "Nói kết quả của hành động bằng bổ ngữ kết quả: 听懂, 写错, 做完, 学会, 做好; phủ định bằng 「没」: 我没听懂",
+    "Nói 'Tuy … nhưng …' với 「虽然……，但是……」 và nối câu bằng 但(是), 那, 还是, 因为, 所以",
+    "Đặt đối tượng lên đầu câu: 这本书我看完了, 那个词我忘了",
+    "Đặt cụm động từ, cụm chủ-vị trước danh từ làm định ngữ: 我昨天买的笔, 老师教的词"
+  ],
+  "words": [
+    {
+      "no": 304,
+      "word": "班",
+      "meaningsVi": [
+        "lớp (tập thể học sinh, sinh viên học cùng nhau)"
+      ],
+      "noteVi": "「班」 là lớp theo nghĩa **nhóm người học cùng nhau** (我们班有三十个学生); phòng học là 「教室」; tiết học, môn học là 「课」. Tiếng Việt đều gọi là 'lớp'.",
+      "examples": [
+        {
+          "zh": "我们班有二十五个学生。",
+          "py": "wǒ men bān yǒu èr shí wǔ gè xué shēng",
+          "vi": "Lớp chúng tôi có 25 học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 368,
+      "word": "教室",
+      "meaningsVi": [
+        "phòng học, lớp học (căn phòng)"
+      ],
+      "noteVi": "「教」 trong 「教室」 đọc **jiào** (thanh 4), khác 「教」 jiāo (dạy). Âm Hán Việt là 'giáo thất'.",
+      "examples": [
+        {
+          "zh": "老师在教室里等我们。",
+          "py": "lǎo shī zài jiào shì lǐ děng wǒ men",
+          "vi": "Thầy giáo đang đợi chúng tôi trong lớp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 367,
+      "word": "教",
+      "meaningsVi": [
+        "dạy"
+      ],
+      "noteVi": "Dạy ai cái gì: 教 + người + môn/việc: 王老师教我们汉语. Đọc jiāo (thanh 1).",
+      "examples": [
+        {
+          "zh": "李老师教我们汉语。",
+          "py": "lǐ lǎo shī jiāo wǒ men hàn yǔ",
+          "vi": "Cô Lý dạy chúng tôi tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 380,
+      "word": "考",
+      "meaningsVi": [
+        "thi, kiểm tra"
+      ],
+      "noteVi": "「考」 + môn thi: 考汉语 (thi tiếng Trung), 考大学 (thi đại học).",
+      "examples": [
+        {
+          "zh": "我们明天考汉语。",
+          "py": "wǒ men míng tiān kǎo hàn yǔ",
+          "vi": "Ngày mai chúng tôi thi tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 381,
+      "word": "考试",
+      "meaningsVi": [
+        "thi (động từ)",
+        "kỳ thi, bài thi (danh từ)"
+      ],
+      "noteVi": "「考试」 không đi với tân ngữ: nói 考汉语 hoặc 汉语考试 (bài thi tiếng Trung), không nói 考试汉语. Âm Hán Việt là 'khảo thí'.",
+      "examples": [
+        {
+          "zh": "下个星期我们有考试。",
+          "py": "xià gè xīng qī wǒ men yǒu kǎo shì",
+          "vi": "Tuần sau chúng tôi có bài thi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 442,
+      "word": "题",
+      "meaningsVi": [
+        "đề, câu hỏi (trong bài tập, bài thi)"
+      ],
+      "noteVi": "Âm Hán Việt là 'đề'. 'Làm bài' nói 「做题」. Lượng từ chuẩn của 「题」 là 「道」 (học sau); khi nói hay dùng 「这个题」.",
+      "examples": [
+        {
+          "zh": "这个题我不会做。",
+          "py": "zhè ge tí wǒ bú huì zuò",
+          "vi": "Câu này tôi không biết làm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 322,
+      "word": "词",
+      "meaningsVi": [
+        "từ (từ ngữ)"
+      ],
+      "noteVi": "「词」 là từ, có thể gồm một hoặc nhiều chữ (老师, 考试); 「字」 là chữ, một chữ Hán.",
+      "examples": [
+        {
+          "zh": "今天我们学了十个新词。",
+          "py": "jīn tiān wǒ men xué le shí gè xīn cí",
+          "vi": "Hôm nay chúng tôi học mười từ mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 337,
+      "word": "懂",
+      "meaningsVi": [
+        "hiểu"
+      ],
+      "noteVi": "Hay đứng sau 「听」, 「看」 làm bổ ngữ: 听懂 (nghe hiểu), 看懂 (đọc hiểu, xem hiểu). Kể một lần chưa hiểu: 我没听懂.",
+      "examples": [
+        {
+          "zh": "你懂了吗？——懂了。",
+          "py": "nǐ dǒng le ma dǒng le",
+          "vi": "Bạn hiểu chưa? — Hiểu rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 326,
+      "word": "错",
+      "meaningsVi": [
+        "sai, nhầm"
+      ],
+      "noteVi": "Đứng sau động từ để nói làm sai: 写错 (viết sai), 说错 (nói nhầm), 听错 (nghe nhầm). Chú ý: 「不错」 thường nghĩa là 'khá tốt, được đấy' (bài 3).",
+      "examples": [
+        {
+          "zh": "对不起，我错了。",
+          "py": "duì bu qǐ wǒ cuò le",
+          "vi": "Xin lỗi, tôi sai rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 448,
+      "word": "完",
+      "meaningsVi": [
+        "xong, hết"
+      ],
+      "noteVi": "Thường đứng ngay sau động từ làm bổ ngữ: 做完 (làm xong), 吃完 (ăn xong, ăn hết), 看完 (xem xong, đọc xong). Âm Hán Việt là 'hoàn' (như 'hoàn thành').",
+      "examples": [
+        {
+          "zh": "你看完这本书了吗？",
+          "py": "nǐ kàn wán zhè běn shū le ma",
+          "vi": "Bạn đọc xong quyển sách này chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 308,
+      "word": "本子",
+      "meaningsVi": [
+        "quyển vở, cuốn sổ"
+      ],
+      "examples": [
+        {
+          "zh": "我的本子在书包里。",
+          "py": "wǒ de běn zi zài shū bāo lǐ",
+          "vi": "Vở của tôi ở trong cặp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 310,
+      "word": "笔",
+      "meaningsVi": [
+        "bút"
+      ],
+      "noteVi": "Âm Hán Việt là 'bút'. Lượng từ của 「笔」 là 「支」 (học sau), không dùng 「个」.",
+      "examples": [
+        {
+          "zh": "你有笔吗？——有，给你。",
+          "py": "nǐ yǒu bǐ ma yǒu gěi nǐ",
+          "vi": "Bạn có bút không? — Có, đây này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 379,
+      "word": "开学",
+      "meaningsVi": [
+        "khai giảng, bắt đầu năm học (học kỳ)"
+      ],
+      "noteVi": "「开学」 là trường bắt đầu năm học hoặc học kỳ mới; 「上课」 là vào học (mỗi buổi, mỗi tiết).",
+      "examples": [
+        {
+          "zh": "我们九月开学。",
+          "py": "wǒ men jiǔ yuè kāi xué",
+          "vi": "Chúng tôi khai giảng vào tháng Chín."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 342,
+      "word": "高中",
+      "meaningsVi": [
+        "trường cấp ba, trung học phổ thông"
+      ],
+      "noteVi": "「中学」 gồm cấp hai và cấp ba; 「高中」 là cấp ba. 'Lên cấp ba' nói 上高中. Âm Hán Việt là 'cao trung'.",
+      "examples": [
+        {
+          "zh": "我弟弟今年上高中了。",
+          "py": "wǒ dì di jīn nián shàng gāo zhōng le",
+          "vi": "Em trai tôi năm nay lên cấp ba rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 365,
+      "word": "记得",
+      "meaningsVi": [
+        "nhớ, còn nhớ"
+      ],
+      "noteVi": "「记得」 là còn nhớ điều đã biết: 我记得他的名字. 「得」 đọc nhẹ: jìde. Trái nghĩa là 「忘」.",
+      "examples": [
+        {
+          "zh": "你还记得我吗？",
+          "py": "nǐ hái jì de wǒ ma",
+          "vi": "Bạn còn nhớ tôi không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 452,
+      "word": "忘",
+      "meaningsVi": [
+        "quên"
+      ],
+      "noteVi": "Hay nói 「忘了」: 我忘了 (Tôi quên mất rồi). Dặn ai đừng quên: 别忘了…… Âm Hán Việt là 'vong'.",
+      "examples": [
+        {
+          "zh": "别忘了明天考试！",
+          "py": "bié wàng le míng tiān kǎo shì",
+          "vi": "Đừng quên mai thi nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 438,
+      "word": "虽然",
+      "meaningsVi": [
+        "tuy, mặc dù"
+      ],
+      "noteVi": "Âm Hán Việt là 'tuy nhiên' nhưng nghĩa là 'tuy', 'mặc dù', đứng ở vế đầu và thường đi với 「但是」: 虽然……，但是…… 'Tuy nhiên' đứng đầu câu của tiếng Việt lại gần với 「但是」 hơn.",
+      "examples": [
+        {
+          "zh": "这个本子虽然便宜，但是很好看。",
+          "py": "zhè ge běn zi suī rán pián yi dàn shì hěn hǎo kàn",
+          "vi": "Quyển vở này tuy rẻ nhưng rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 330,
+      "word": "但",
+      "meaningsVi": [
+        "nhưng"
+      ],
+      "noteVi": "「但」 là cách nói ngắn của 「但是」, nghĩa như nhau.",
+      "examples": [
+        {
+          "zh": "他很想去，但没有时间。",
+          "py": "tā hěn xiǎng qù dàn méi yǒu shí jiān",
+          "vi": "Anh ấy rất muốn đi, nhưng không có thời gian."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 331,
+      "word": "但是",
+      "meaningsVi": [
+        "nhưng, nhưng mà"
+      ],
+      "noteVi": "Đứng đầu vế câu sau, trước chủ ngữ: ……，但是我没有时间.",
+      "examples": [
+        {
+          "zh": "这件衣服很漂亮，但是太贵了。",
+          "py": "zhè jiàn yī fu hěn piào liang dàn shì tài guì le",
+          "vi": "Cái áo này rất đẹp, nhưng đắt quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 99,
+      "titleVi": "Liên từ nối vế câu: 但(是), 虽然, 那, 还是, 因为, 所以",
+      "summaryVi": "Các liên từ đứng đầu vế câu để nối hai vế: nhưng (但/但是), tuy (虽然), vậy thì (那), hay là (还是), vì (因为), nên (所以).",
+      "explanationVi": [
+        "Liên từ nối hai vế câu và cho biết quan hệ giữa chúng. Giống tiếng Việt, liên từ thường đứng **đầu vế câu**, trước chủ ngữ: 我很想去，**但是**我没有时间.",
+        "Ý ngược lại: 「但是」, 「但」 (nhưng); 「虽然」 (tuy) mở đầu vế trước, xem điểm 「虽然……，但是……」. Nguyên nhân – kết quả: 「因为」 (vì) và 「所以」 (nên), đã học ở bài 5. Khi 「因为」 đi với cả một vế câu (因为他生病了), nó là liên từ; khi chỉ đi với danh từ (因为工作), nó là giới từ.",
+        "「那」 (vậy thì, thế thì) mở đầu câu đáp lại, dựa vào điều người kia vừa nói: ——我不想喝茶。——**那**你喝咖啡吧。 Ở đây không dùng 「所以」, vì 「所以」 nối hai vế trong lời của cùng một người.",
+        "「还是」 (hay là) nối hai khả năng trong câu hỏi lựa chọn (đã học ở bài 3): 你今天去还是明天去？"
+      ],
+      "patterns": [
+        "Vế 1，但(是) + vế 2",
+        "Vế 1，所以 + vế 2",
+        "——……。——那 + lời đề nghị",
+        "A 还是 B？"
+      ],
+      "examples": [
+        {
+          "zh": "我很想去，但是我没有时间。",
+          "py": "wǒ hěn xiǎng qù dàn shì wǒ méi yǒu shí jiān",
+          "vi": "Tôi rất muốn đi, nhưng tôi không có thời gian."
+        },
+        {
+          "zh": "——我不想喝茶。——那你喝咖啡吧。",
+          "py": "wǒ bù xiǎng hē chá nà nǐ hē kā fēi ba",
+          "vi": "— Tôi không muốn uống trà. — Thế thì bạn uống cà phê nhé."
+        },
+        {
+          "zh": "你喝红茶还是绿茶？",
+          "py": "nǐ hē hóng chá hái shi lǜ chá",
+          "vi": "Bạn uống hồng trà hay trà xanh?"
+        },
+        {
+          "zh": "因为明天考试，所以我今天不出门。",
+          "py": "yīn wèi míng tiān kǎo shì suǒ yǐ wǒ jīn tiān bù chū mén",
+          "vi": "Vì mai thi nên hôm nay tôi không ra ngoài."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我很想去，我但是没有时间。",
+          "right": "我很想去，但是我没有时间。",
+          "noteVi": "「但是」 đứng đầu vế câu, trước chủ ngữ, giống 'nhưng' của tiếng Việt."
+        },
+        {
+          "wrong": "——我不想喝茶。——所以你喝咖啡吧。",
+          "right": "——我不想喝茶。——那你喝咖啡吧。",
+          "noteVi": "Đáp lại lời người khác với ý 'vậy thì …' dùng 「那」, không dùng 「所以」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 104,
+      "titleVi": "Cụm động từ + bổ ngữ: 听懂, 写错, 做完",
+      "summaryVi": "Động từ + một từ chỉ kết quả tạo thành cụm động bổ: 听懂 (nghe hiểu), 写错 (viết sai), 做完 (làm xong).",
+      "explanationVi": [
+        "Cụm động bổ gồm **động từ + bổ ngữ**: bổ ngữ đứng ngay sau động từ, nói kết quả của hành động: 听**懂** (nghe → hiểu), 写**错** (viết → sai), 做**完** (làm → xong), 学**会** (học → biết).",
+        "Tiếng Việt cũng nói như vậy: 'nghe hiểu', 'viết sai', 'làm xong', 'học được'. Nhưng tiếng Việt hay để tân ngữ chen vào giữa ('đọc **sách** xong'), còn tiếng Trung giữ động từ và bổ ngữ **liền nhau**, tân ngữ đứng sau cả cụm: 看完书 (đọc xong sách), không nói 看书完.",
+        "Cách dùng chi tiết (với 「了」, phủ định bằng 「没」) xem điểm 'Bổ ngữ kết quả: động từ + 错/懂/好/会/完'."
+      ],
+      "patterns": [
+        "Động từ + bổ ngữ kết quả (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "我看完这本书了。",
+          "py": "wǒ kàn wán zhè běn shū le",
+          "vi": "Tôi đọc xong quyển sách này rồi."
+        },
+        {
+          "zh": "这个字你写错了。",
+          "py": "zhè ge zì nǐ xiě cuò le",
+          "vi": "Chữ này bạn viết sai rồi."
+        },
+        {
+          "zh": "我听懂了，谢谢老师！",
+          "py": "wǒ tīng dǒng le xiè xie lǎo shī",
+          "vi": "Em nghe hiểu rồi, cảm ơn thầy!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我看书完了。",
+          "right": "我看完书了。",
+          "noteVi": "Dịch theo tiếng Việt 'đọc sách xong' là sai: 「完」 phải đứng ngay sau động từ 「看」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 109,
+      "titleVi": "Cụm động từ",
+      "summaryVi": "Cụm từ có động từ làm trung tâm (学汉语, 在家看书, 写完); cả cụm dùng như một động từ: làm vị ngữ, tân ngữ, chủ ngữ.",
+      "explanationVi": [
+        "Cụm động từ là cụm từ mà **động từ là phần chính**, các phần khác đi kèm nó: động từ + tân ngữ (学汉语), trạng ngữ + động từ (经常去, 在家看书), động từ + bổ ngữ (写完, 听懂).",
+        "Cụm động từ thường làm **vị ngữ**: 我们**在教室上课**. Nó cũng làm được **tân ngữ** (我喜欢**看电影**), **chủ ngữ** (**教小孩儿**很累), hoặc **định ngữ** khi có 「的」 (**来上课的**学生).",
+        "Trong cụm động từ, trạng ngữ (thời gian, nơi chốn, 经常, 都…) đứng **trước** động từ, bổ ngữ đứng **sau**: 经常在家看书, 看完. Đừng để nơi chốn ra cuối như tiếng Việt."
+      ],
+      "patterns": [
+        "Động từ + tân ngữ",
+        "Trạng ngữ + động từ",
+        "Động từ + bổ ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我喜欢在家看书。",
+          "py": "wǒ xǐ huan zài jiā kàn shū",
+          "vi": "Tôi thích đọc sách ở nhà."
+        },
+        {
+          "zh": "教小孩儿很累。",
+          "py": "jiāo xiǎo hái r hěn lèi",
+          "vi": "Dạy trẻ con rất mệt."
+        },
+        {
+          "zh": "我们每天都在这个教室上课。",
+          "py": "wǒ men měi tiān dōu zài zhè ge jiào shì shàng kè",
+          "vi": "Ngày nào chúng tôi cũng học ở phòng học này."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们上课在这个教室。",
+          "right": "我们在这个教室上课。",
+          "noteVi": "Trong cụm động từ, nơi chốn (在这个教室) đứng trước động từ, không đứng cuối như tiếng Việt.",
+          "issue": "place_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 110,
+      "titleVi": "Cụm tính từ",
+      "summaryVi": "Cụm từ có tính từ làm trung tâm (很累, 有点儿疼, 非常好, 不太舒服); thường làm vị ngữ hoặc định ngữ.",
+      "explanationVi": [
+        "Cụm tính từ có **tính từ là phần chính**, thường có phó từ chỉ mức độ đứng **trước**: 很累, 非常好, 有点儿疼, 太贵了, 不太舒服.",
+        "Tiếng Việt hay để từ chỉ mức độ **sau** tính từ: 'đẹp **lắm**', 'mệt **quá**'. Tiếng Trung đặt trước: 很漂亮, 太累了. Không nói 漂亮很.",
+        "Cụm tính từ làm **vị ngữ** thì không cần 「是」: 今天我有点儿累. Khi đứng trước danh từ làm **định ngữ**, cụm tính từ cần 「的」: 一个非常好**的**老师, không nói 非常好老师."
+      ],
+      "patterns": [
+        "很/非常/有点儿/太/不太 + tính từ",
+        "Cụm tính từ + 的 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "今天我有点儿累。",
+          "py": "jīn tiān wǒ yǒu diǎn r lèi",
+          "vi": "Hôm nay tôi hơi mệt."
+        },
+        {
+          "zh": "他是一个非常好的老师。",
+          "py": "tā shì yí gè fēi cháng hǎo de lǎo shī",
+          "vi": "Thầy ấy là một giáo viên rất tốt."
+        },
+        {
+          "zh": "这个椅子不太舒服。",
+          "py": "zhè ge yǐ zi bú tài shū fu",
+          "vi": "Cái ghế này ngồi không thoải mái lắm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这件衣服漂亮很。",
+          "right": "这件衣服很漂亮。",
+          "noteVi": "Theo thói quen 'đẹp lắm', người Việt hay đặt 「很」 sau tính từ. 「很」 phải đứng trước: 很漂亮."
+        },
+        {
+          "wrong": "他是一个非常好老师。",
+          "right": "他是一个非常好的老师。",
+          "noteVi": "Cụm tính từ (非常好) đứng trước danh từ phải có 「的」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 115,
+      "titleVi": "Chủ ngữ là đối tượng của hành động: 这本书我看完了",
+      "summaryVi": "Đối tượng chịu tác động (sách, đề, từ…) đứng đầu câu làm chủ ngữ mà không cần từ bị động: 饭做好了, 这个词我忘了.",
+      "explanationVi": [
+        "Thông thường tân ngữ đứng sau động từ: 我看完了这本书. Khi muốn **nói về** đối tượng đó, có thể đặt nó lên **đầu câu**: **这本书**我看完了 (Quyển sách này tôi đọc xong rồi), **饭**做好了 (Cơm nấu xong rồi). Không cần thêm từ nào như 'bị', 'được'.",
+        "Tiếng Việt cũng nói như vậy: 'Cơm nấu xong rồi', 'Từ này tôi quên rồi'. Vì thế kiểu câu này khá dễ với người Việt.",
+        "Đối tượng đứng đầu câu phải là thứ **đã xác định**, người nghe biết là cái nào: 这本书, 那个词, 考试的题. Không dùng 'một …' (一本书) ở đầu câu. Sau động từ thường có bổ ngữ hoặc 「了」: 做完了, 忘了, 写错了."
+      ],
+      "patterns": [
+        "Đối tượng + động từ (+ bổ ngữ) + 了",
+        "Đối tượng + chủ ngữ + động từ (+ bổ ngữ) + 了"
+      ],
+      "examples": [
+        {
+          "zh": "这本书我看完了。",
+          "py": "zhè běn shū wǒ kàn wán le",
+          "vi": "Quyển sách này tôi đọc xong rồi."
+        },
+        {
+          "zh": "饭做好了，大家来吃吧。",
+          "py": "fàn zuò hǎo le dà jiā lái chī ba",
+          "vi": "Cơm nấu xong rồi, mọi người đến ăn đi."
+        },
+        {
+          "zh": "那个词我忘了。",
+          "py": "nà ge cí wǒ wàng le",
+          "vi": "Từ đó tôi quên mất rồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "一本书我看完了。",
+          "right": "这本书我看完了。",
+          "noteVi": "Đối tượng đặt ở đầu câu phải là thứ đã xác định (这本书), không dùng 'một …' (一本书)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 117,
+      "titleVi": "Động từ, cụm động từ, cụm chủ-vị làm định ngữ: 我买的笔",
+      "summaryVi": "Động từ/cụm động từ/cụm chủ-vị + 的 đứng **trước** danh từ để bổ nghĩa: 老师教的词 (những từ thầy dạy), 来上课的学生 (học sinh đến học).",
+      "explanationVi": [
+        "Định ngữ là phần bổ nghĩa cho danh từ, luôn đứng **trước** danh từ. Ngoài tính từ, định ngữ có thể là một **động từ** (学**的**词 — những từ đã học), một **cụm động từ** (来上课**的**学生 — học sinh đến học), hoặc một **cụm chủ-vị** (老师教**的**词 — những từ thầy dạy; 我昨天买**的**笔 — cái bút hôm qua tôi mua).",
+        "Giữa định ngữ và danh từ **phải có** 「的」. Bỏ 「的」 thì câu thành nghĩa khác hoặc sai: 我买的笔 (cái bút tôi mua) khác 我买笔 (tôi mua bút).",
+        "Đây là chỗ khác lớn với tiếng Việt: tiếng Việt để phần bổ nghĩa **sau** danh từ ('cái bút **tôi mua hôm qua**'), tiếng Trung để **trước** ('**我昨天买的**笔'). Cách làm: tìm danh từ chính, chuyển phần bổ nghĩa lên trước nó và thêm 「的」."
+      ],
+      "patterns": [
+        "Động từ/cụm động từ + 的 + danh từ",
+        "Chủ ngữ + động từ + 的 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "这是老师昨天教的词。",
+          "py": "zhè shì lǎo shī zuó tiān jiāo de cí",
+          "vi": "Đây là những từ thầy dạy hôm qua."
+        },
+        {
+          "zh": "今天来上课的学生不多。",
+          "py": "jīn tiān lái shàng kè de xué shēng bù duō",
+          "vi": "Hôm nay học sinh đến học không nhiều."
+        },
+        {
+          "zh": "我昨天买的本子很好看。",
+          "py": "wǒ zuó tiān mǎi de běn zi hěn hǎo kàn",
+          "vi": "Quyển vở tôi mua hôm qua rất đẹp."
+        },
+        {
+          "zh": "昨天学的词你都记得吗？",
+          "py": "zuó tiān xué de cí nǐ dōu jì de ma",
+          "vi": "Những từ học hôm qua bạn còn nhớ hết không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这是笔我昨天买的。",
+          "right": "这是我昨天买的笔。",
+          "noteVi": "Theo thứ tự tiếng Việt 'bút tôi mua hôm qua' là sai: phần bổ nghĩa (我昨天买的) đứng trước danh từ (笔)."
+        },
+        {
+          "wrong": "我昨天买本子很好看。",
+          "right": "我昨天买的本子很好看。",
+          "noteVi": "Thiếu 「的」 giữa định ngữ (我昨天买) và danh từ (本子)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 118,
+      "titleVi": "Bổ ngữ kết quả: động từ + 错/懂/好/会/完",
+      "summaryVi": "「错」 (sai), 「懂」 (hiểu), 「好」 (xong, tốt), 「会」 (biết), 「完」 (xong) đứng sau động từ nói kết quả: 写错, 听懂, 做好, 学会, 做完.",
+      "explanationVi": [
+        "Năm bổ ngữ kết quả hay gặp: **错**: làm sai (写错, 说错, 听错); **懂**: hiểu (听懂, 看懂); **会**: học rồi biết làm (学会); **完**: xong, hết (做完, 看完, 吃完); **好**: xong xuôi, tốt, sẵn sàng (做好, 准备好: 饭做好了 là cơm nấu xong, ăn được rồi).",
+        "Việc đã có kết quả thường thêm 「了」: 我做完了, 我写错了一个字. Tân ngữ đứng sau cả cụm: 我写完汉字了, 我写错了两个字.",
+        "Phủ định dùng **「没(有)」**, không dùng 「不」, và bỏ 「了」: 我没听懂 (Tôi chưa nghe hiểu), 我还没做完 (Tôi chưa làm xong). Câu hỏi: 你听懂了吗？ / 你做完了没有？",
+        "Chú ý: 'Tôi nghe không hiểu' đừng dịch thành 我不听懂. Kể một lần chưa hiểu thì nói 我没听懂."
+      ],
+      "patterns": [
+        "Động từ + 错/懂/好/会/完 (+ tân ngữ) + 了",
+        "没(有) + động từ + bổ ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "你听懂了吗？——听懂了。",
+          "py": "nǐ tīng dǒng le ma tīng dǒng le",
+          "vi": "Bạn nghe hiểu chưa? — Hiểu rồi."
+        },
+        {
+          "zh": "我跟妈妈学会做饭了。",
+          "py": "wǒ gēn mā ma xué huì zuò fàn le",
+          "vi": "Tôi học nấu ăn với mẹ, giờ đã biết nấu rồi."
+        },
+        {
+          "zh": "对不起，我说错了。",
+          "py": "duì bu qǐ wǒ shuō cuò le",
+          "vi": "Xin lỗi, tôi nói nhầm."
+        },
+        {
+          "zh": "我还没做完，你等我一会儿。",
+          "py": "wǒ hái méi zuò wán nǐ děng wǒ yí huì r",
+          "vi": "Tôi chưa làm xong, bạn đợi tôi một lát."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我不听懂。",
+          "right": "我没听懂。",
+          "noteVi": "Phủ định bổ ngữ kết quả dùng 「没」: 没听懂."
+        },
+        {
+          "wrong": "我还没做完了。",
+          "right": "我还没做完。",
+          "noteVi": "Câu phủ định với 「没」 không có 「了」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 139,
+      "titleVi": "Câu ghép chuyển ý: 虽然……，但是……",
+      "summaryVi": "「虽然」 + sự thật A，「但是」 + B (trái với điều A khiến người ta nghĩ) — giống 'Tuy … nhưng …' của tiếng Việt.",
+      "explanationVi": [
+        "Vế đầu với 「虽然」 nêu một sự thật; vế sau với 「但是」 (hoặc 「但」) nói điều **ngược lại** với dự đoán: 虽然很累，但是我很高兴 (Tuy mệt nhưng tôi rất vui). Cách dùng giống 'Tuy/Mặc dù … nhưng …' của tiếng Việt: dùng **cả hai** từ cùng lúc là bình thường.",
+        "「虽然」 đứng trước hoặc sau chủ ngữ của vế đầu: 虽然他很忙 / 他虽然很忙. 「但是」 luôn đứng **đầu** vế sau, trước chủ ngữ.",
+        "Có thể bỏ 「虽然」, chỉ dùng 「但是」: 他很忙，但是每天都学汉语. Nhưng đã dùng 「虽然」 thì vế sau cần 「但是」/「但」 (có thể thêm 「还是」: vẫn): 虽然下雨了，但是我们还是去上课了."
+      ],
+      "patterns": [
+        "虽然 + A，但(是) + B",
+        "Chủ ngữ + 虽然 + A，但(是) + B"
+      ],
+      "examples": [
+        {
+          "zh": "虽然很累，但是我很高兴。",
+          "py": "suī rán hěn lèi dàn shì wǒ hěn gāo xìng",
+          "vi": "Tuy mệt nhưng tôi rất vui."
+        },
+        {
+          "zh": "她虽然是外国人，但是很喜欢吃中国菜。",
+          "py": "tā suī rán shì wài guó rén dàn shì hěn xǐ huan chī zhōng guó cài",
+          "vi": "Cô ấy tuy là người nước ngoài nhưng rất thích ăn món Trung Quốc."
+        },
+        {
+          "zh": "虽然考试的题很多，但是我都做完了。",
+          "py": "suī rán kǎo shì de tí hěn duō dàn shì wǒ dōu zuò wán le",
+          "vi": "Tuy đề thi có nhiều câu nhưng tôi đã làm xong hết."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "虽然他很累，他但是很高兴。",
+          "right": "虽然他很累，但是他很高兴。",
+          "noteVi": "「但是」 đứng đầu vế sau, trước chủ ngữ."
+        },
+        {
+          "wrong": "虽然下雨了，我们去上课了。",
+          "right": "虽然下雨了，但是我们还是去上课了。",
+          "noteVi": "Đã dùng 「虽然」 thì vế sau cần 「但是」 (hoặc 「但」); thêm 「还是」 (vẫn) câu càng tự nhiên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-06-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ trường lớp với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "班",
+          "lớp (tập thể học sinh)"
+        ],
+        [
+          "教室",
+          "phòng học"
+        ],
+        [
+          "考试",
+          "thi, kỳ thi"
+        ],
+        [
+          "题",
+          "đề, câu hỏi"
+        ],
+        [
+          "词",
+          "từ"
+        ],
+        [
+          "本子",
+          "quyển vở"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-06-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "懂",
+          "hiểu"
+        ],
+        [
+          "错",
+          "sai"
+        ],
+        [
+          "完",
+          "xong"
+        ],
+        [
+          "忘",
+          "quên"
+        ],
+        [
+          "记得",
+          "nhớ"
+        ],
+        [
+          "教",
+          "dạy"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-06-e03",
+      "type": "fill",
+      "promptVi": "Điền bổ ngữ thích hợp.",
+      "before": "这个字你写",
+      "after": "了。",
+      "answers": [
+        "错"
+      ],
+      "options": [
+        "错",
+        "完",
+        "会"
+      ],
+      "vi": "Chữ này bạn viết sai rồi.",
+      "grammar": [
+        118,
+        104
+      ]
+    },
+    {
+      "id": "hsk2-06-e04",
+      "type": "fill",
+      "promptVi": "Điền bổ ngữ thích hợp.",
+      "before": "我跟爸爸学",
+      "after": "开车了。",
+      "answers": [
+        "会"
+      ],
+      "options": [
+        "会",
+        "完",
+        "懂"
+      ],
+      "vi": "Tôi học lái xe với bố, giờ đã biết lái rồi.",
+      "grammar": [
+        118
+      ]
+    },
+    {
+      "id": "hsk2-06-e05",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi chưa nghe hiểu.)",
+      "options": [
+        "我没听懂。",
+        "我不听懂。",
+        "我听没懂。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định bổ ngữ kết quả dùng 「没」 đặt trước cả cụm: 没听懂.",
+      "grammar": [
+        118
+      ]
+    },
+    {
+      "id": "hsk2-06-e06",
+      "type": "order",
+      "vi": "Bạn đọc xong quyển sách này chưa?",
+      "tiles": [
+        "你",
+        "看完",
+        "这本书",
+        "了吗"
+      ],
+      "answers": [
+        "你看完这本书了吗"
+      ],
+      "explainVi": "Động từ và bổ ngữ đứng liền nhau (看完), tân ngữ (这本书) đứng sau.",
+      "grammar": [
+        118,
+        104
+      ]
+    },
+    {
+      "id": "hsk2-06-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi làm bài xong rồi.)",
+      "options": [
+        "我做完题了。",
+        "我做题完了。",
+        "我完做题了。"
+      ],
+      "answer": 0,
+      "explainVi": "「完」 đứng ngay sau động từ 「做」, tân ngữ 「题」 đứng sau cả cụm.",
+      "grammar": [
+        104,
+        118
+      ]
+    },
+    {
+      "id": "hsk2-06-e08",
+      "type": "fill",
+      "promptVi": "Điền liên từ thích hợp.",
+      "before": "虽然今天很累，",
+      "after": "我很高兴。",
+      "answers": [
+        "但是"
+      ],
+      "options": [
+        "但是",
+        "所以",
+        "因为"
+      ],
+      "vi": "Tuy hôm nay rất mệt nhưng tôi rất vui.",
+      "grammar": [
+        139,
+        99
+      ]
+    },
+    {
+      "id": "hsk2-06-e09",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tuy tôi rất mệt nhưng tôi vẫn muốn học.)",
+      "options": [
+        "虽然我很累，但是我还想学习。",
+        "虽然我很累，我但是还想学习。",
+        "我很累虽然，但是我还想学习。"
+      ],
+      "answer": 0,
+      "explainVi": "「虽然」 mở đầu vế trước (hoặc đứng sau chủ ngữ), 「但是」 đứng đầu vế sau, trước chủ ngữ.",
+      "grammar": [
+        139
+      ]
+    },
+    {
+      "id": "hsk2-06-e10",
+      "type": "order",
+      "vi": "Tuy hôm nay trời mưa nhưng chúng tôi vẫn đi học.",
+      "tiles": [
+        "虽然",
+        "今天下雨",
+        "但是",
+        "我们",
+        "还是",
+        "去上学了"
+      ],
+      "answers": [
+        "虽然今天下雨但是我们还是去上学了"
+      ],
+      "grammar": [
+        139
+      ]
+    },
+    {
+      "id": "hsk2-06-e11",
+      "type": "translate",
+      "vi": "Tuy tôi rất muốn đi nhưng tôi không có thời gian.",
+      "answers": [
+        "虽然我很想去，但(是)我没(有)时间。",
+        "我虽然很想去，但(是)(我)没(有)时间。"
+      ],
+      "examples": [
+        {
+          "answer": "虽然我很想去，但是我没有时间。",
+          "score": 100
+        },
+        {
+          "answer": "我虽然很想去，但没时间。",
+          "score": 100
+        },
+        {
+          "answer": "虽然我很想去，我但是没有时间。",
+          "score": 0,
+          "note": "「但是」 phải đứng trước chủ ngữ"
+        },
+        {
+          "answer": "虽然我很想去，所以我没有时间。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        139,
+        99
+      ]
+    },
+    {
+      "id": "hsk2-06-e12",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "——我不想喝茶。——＿你喝咖啡吧。",
+      "options": [
+        "那",
+        "所以",
+        "但是"
+      ],
+      "answer": 0,
+      "explainVi": "「那」 (vậy thì) mở đầu câu đáp lại điều người kia vừa nói.",
+      "grammar": [
+        99
+      ]
+    },
+    {
+      "id": "hsk2-06-e13",
+      "type": "fill",
+      "promptVi": "Điền liên từ thích hợp.",
+      "before": "你想今天去",
+      "after": "明天去？",
+      "answers": [
+        "还是"
+      ],
+      "options": [
+        "还是",
+        "但是",
+        "所以"
+      ],
+      "vi": "Bạn muốn đi hôm nay hay ngày mai?",
+      "grammar": [
+        99
+      ]
+    },
+    {
+      "id": "hsk2-06-e14",
+      "type": "choice",
+      "promptVi": "「这本书我看完了。」 nghĩa là gì?",
+      "options": [
+        "Quyển sách này tôi đọc xong rồi.",
+        "Tôi chưa đọc quyển sách này.",
+        "Tôi muốn đọc quyển sách này."
+      ],
+      "answer": 0,
+      "grammar": [
+        115
+      ]
+    },
+    {
+      "id": "hsk2-06-e15",
+      "type": "order",
+      "vi": "Từ này tôi quên mất rồi.",
+      "tiles": [
+        "这个词",
+        "我",
+        "忘",
+        "了"
+      ],
+      "answers": [
+        "这个词我忘了",
+        "我忘了这个词"
+      ],
+      "explainVi": "Có thể đặt đối tượng (这个词) lên đầu câu khi muốn nói về nó.",
+      "grammar": [
+        115
+      ]
+    },
+    {
+      "id": "hsk2-06-e16",
+      "type": "translate",
+      "vi": "Các câu trong đề thi tôi đều làm xong rồi.",
+      "answers": [
+        "(考试的)题我都做完了。"
+      ],
+      "examples": [
+        {
+          "answer": "考试的题我都做完了。",
+          "score": 100
+        },
+        {
+          "answer": "题我都做完了。",
+          "score": 100
+        },
+        {
+          "answer": "题我做完了。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 都 (đều)"
+        },
+        {
+          "answer": "题我都做错了。",
+          "score": 0,
+          "note": "做错 là làm sai"
+        }
+      ],
+      "grammar": [
+        115,
+        118
+      ]
+    },
+    {
+      "id": "hsk2-06-e17",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Đây là cái bút tôi mua hôm qua.)",
+      "options": [
+        "这是我昨天买的笔。",
+        "这是笔我昨天买的。",
+        "这是我昨天买笔。"
+      ],
+      "answer": 0,
+      "explainVi": "Phần bổ nghĩa (我昨天买的) đứng trước danh từ (笔), giữa có 「的」.",
+      "grammar": [
+        117
+      ]
+    },
+    {
+      "id": "hsk2-06-e18",
+      "type": "order",
+      "vi": "Hôm nay học sinh đến học không nhiều.",
+      "tiles": [
+        "今天",
+        "来上课的",
+        "学生",
+        "不多"
+      ],
+      "answers": [
+        "今天来上课的学生不多"
+      ],
+      "explainVi": "Cụm động từ 来上课 + 的 đứng trước danh từ 学生.",
+      "grammar": [
+        117,
+        109
+      ]
+    },
+    {
+      "id": "hsk2-06-e19",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这是老师",
+      "after": "的词。",
+      "answers": [
+        "教"
+      ],
+      "options": [
+        "教",
+        "教室",
+        "考试"
+      ],
+      "vi": "Đây là những từ thầy giáo dạy.",
+      "grammar": [
+        117
+      ]
+    },
+    {
+      "id": "hsk2-06-e20",
+      "type": "translate",
+      "vi": "Quyển vở tôi mua rất đẹp.",
+      "answers": [
+        "我买的本子很[好看|漂亮]。"
+      ],
+      "examples": [
+        {
+          "answer": "我买的本子很好看。",
+          "score": 100
+        },
+        {
+          "answer": "我买的本子很漂亮。",
+          "score": 100
+        },
+        {
+          "answer": "本子我买的很好看。",
+          "score": 0,
+          "note": "Dịch theo thứ tự tiếng Việt 'vở tôi mua'"
+        },
+        {
+          "answer": "我卖的本子很好看。",
+          "score": 0,
+          "note": "卖 là bán, 买 là mua"
+        }
+      ],
+      "grammar": [
+        117
+      ]
+    },
+    {
+      "id": "hsk2-06-e21",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几个本子？",
+        "promptVi": "Trên bàn có mấy quyển vở?",
+        "picture": "📒📒📒",
+        "expected": {
+          "number": 3,
+          "noun": "本子",
+          "sentence": "桌子上有三个本子。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有三个本子。",
+            "score": 100
+          },
+          {
+            "answer": "有三本。",
+            "score": 100
+          },
+          {
+            "answer": "三个。",
+            "score": 100
+          },
+          {
+            "answer": "有三条本子。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有四个本子。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-06-e22",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "老师在哪儿？",
+        "promptVi": "Thầy giáo ở đâu? (Trong hình: thầy giáo đang ở trong phòng học.)",
+        "picture": "🏫👨‍🏫",
+        "expected": {
+          "places": [
+            "教室"
+          ],
+          "localizer": "里",
+          "sentence": "老师在教室里。"
+        },
+        "examples": [
+          {
+            "answer": "老师在教室里。",
+            "score": 100
+          },
+          {
+            "answer": "在教室。",
+            "score": 100
+          },
+          {
+            "answer": "他在教室里。",
+            "score": 100
+          },
+          {
+            "answer": "老师在里教室。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "老师在教室外边。",
+            "score": 20,
+            "note": "Ở ngoài, không phải ở trong"
+          },
+          {
+            "answer": "老师在家。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-06-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你听懂了吗？",
+        "promptVi": "Bạn nghe hiểu chưa? (Giả sử bạn chưa hiểu.)",
+        "answers": [
+          "(我)没(有)听懂。",
+          "没(有)。"
+        ],
+        "examples": [
+          {
+            "answer": "我没听懂。",
+            "score": 100
+          },
+          {
+            "answer": "没有。",
+            "score": 100
+          },
+          {
+            "answer": "我没有听懂。",
+            "score": 100
+          },
+          {
+            "answer": "我没听懂了。",
+            "score": 85,
+            "issues": [
+              "extra_word"
+            ],
+            "note": "Câu phủ định với 没 không có 了"
+          },
+          {
+            "answer": "我不听懂。",
+            "score": 0
+          },
+          {
+            "answer": "我听懂了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        118
+      ]
+    },
+    {
+      "id": "hsk2-06-e24",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你吃完饭了吗？",
+        "promptVi": "Bạn ăn cơm xong chưa? (Giả sử bạn ăn xong rồi.)",
+        "answers": [
+          "(我)吃完(饭)了。",
+          "(我)吃好了。"
+        ],
+        "examples": [
+          {
+            "answer": "我吃完饭了。",
+            "score": 100
+          },
+          {
+            "answer": "吃完了。",
+            "score": 100
+          },
+          {
+            "answer": "我吃好了。",
+            "score": 100
+          },
+          {
+            "answer": "我吃饭完了。",
+            "score": 0,
+            "note": "Dịch theo tiếng Việt 'ăn cơm xong'"
+          },
+          {
+            "answer": "我没吃完。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        118,
+        104
+      ]
+    },
+    {
+      "id": "hsk2-06-e25",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Cái áo này đẹp lắm.)",
+      "options": [
+        "这件衣服很漂亮。",
+        "这件衣服漂亮很。",
+        "这件很漂亮衣服。"
+      ],
+      "answer": 0,
+      "explainVi": "Phó từ chỉ mức độ (很) đứng trước tính từ: 很漂亮.",
+      "grammar": [
+        110
+      ]
+    },
+    {
+      "id": "hsk2-06-e26",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他是一个非常好",
+      "after": "老师。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "了",
+        "很"
+      ],
+      "vi": "Thầy ấy là một giáo viên rất tốt.",
+      "explainVi": "Cụm tính từ đứng trước danh từ cần 「的」.",
+      "grammar": [
+        110
+      ]
+    },
+    {
+      "id": "hsk2-06-e27",
+      "type": "match",
+      "promptVi": "Nối cụm từ với cấu tạo của nó.",
+      "pairs": [
+        [
+          "学汉语",
+          "cụm động từ: động từ + tân ngữ"
+        ],
+        [
+          "写完",
+          "cụm động từ: động từ + bổ ngữ"
+        ],
+        [
+          "在家看书",
+          "cụm động từ: trạng ngữ + động từ"
+        ],
+        [
+          "非常累",
+          "cụm tính từ: phó từ + tính từ"
+        ]
+      ],
+      "grammar": [
+        109,
+        110
+      ]
+    },
+    {
+      "id": "hsk2-06-e28",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng tôi học ở phòng học này.)",
+      "options": [
+        "我们在这个教室上课。",
+        "我们上课在这个教室。",
+        "我们在上课这个教室。"
+      ],
+      "answer": 0,
+      "explainVi": "Trong cụm động từ, nơi chốn (在这个教室) đứng trước động từ 「上课」.",
+      "grammar": [
+        109
+      ]
+    }
+  ]
+}

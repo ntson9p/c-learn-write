@@ -1,0 +1,1274 @@
+{
+  "id": "hsk1-05",
+  "goalsVi": [
+    "Hỏi và nói giờ: 现在几点？现在八点半。",
+    "Kể thời gian biểu một ngày: mấy giờ dậy, mấy giờ đi ngủ, buổi nào bận",
+    "Hỏi có/không bằng câu chính phản: 你忙不忙？你有没有时间？",
+    "Phân biệt 「点」 (giờ) với 「小时」 (tiếng), 「分」 với 「分钟」"
+  ],
+  "words": [
+    {
+      "no": 33,
+      "word": "点",
+      "meaningsVi": [
+        "giờ (khi nói giờ đồng hồ)"
+      ],
+      "noteVi": "「八点」 là 8 giờ (thời điểm); 'tám tiếng' (khoảng thời gian) là 「八个小时」. 2 giờ nói 「两点」, không nói 「二点」.",
+      "examples": [
+        {
+          "zh": "现在八点。",
+          "py": "xiàn zài bā diǎn",
+          "vi": "Bây giờ là 8 giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 55,
+      "word": "分",
+      "meaningsVi": [
+        "phút (khi nói giờ)"
+      ],
+      "noteVi": "Dùng sau 「点」: 九点十分 (9 giờ 10 phút). Dưới 10 phút thường thêm 「零」: 九点零五分.",
+      "examples": [
+        {
+          "zh": "现在九点十分。",
+          "py": "xiàn zài jiǔ diǎn shí fēn",
+          "vi": "Bây giờ là 9 giờ 10 phút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 56,
+      "word": "分钟",
+      "meaningsVi": [
+        "phút (khoảng thời gian)"
+      ],
+      "noteVi": "「分钟」 nói khoảng thời gian bao lâu: 十分钟 (mười phút). Khi nói giờ đồng hồ thì dùng 「分」: 八点十分.",
+      "examples": [
+        {
+          "zh": "一个小时有六十分钟。",
+          "py": "yí gè xiǎo shí yǒu liù shí fēn zhōng",
+          "vi": "Một tiếng có sáu mươi phút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 236,
+      "word": "小时",
+      "meaningsVi": [
+        "giờ, tiếng (khoảng thời gian)"
+      ],
+      "noteVi": "Đếm số tiếng thường dùng 「个」: 一个小时, 两个小时. Âm Hán Việt là 'tiểu thời'.",
+      "examples": [
+        {
+          "zh": "一天有二十四个小时。",
+          "py": "yì tiān yǒu èr shí sì gè xiǎo shí",
+          "vi": "Một ngày có hai mươi bốn tiếng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 7,
+      "word": "半",
+      "meaningsVi": [
+        "rưỡi (khi nói giờ)",
+        "nửa"
+      ],
+      "noteVi": "八点半 = 8 giờ rưỡi. 'Nửa tiếng' là 「半个小时」: 「半」 đứng trước lượng từ.",
+      "examples": [
+        {
+          "zh": "我七点半起床。",
+          "py": "wǒ qī diǎn bàn qǐ chuáng",
+          "vi": "Tôi dậy lúc bảy giờ rưỡi."
+        },
+        {
+          "zh": "我中午睡半个小时。",
+          "py": "wǒ zhōng wǔ shuì bàn gè xiǎo shí",
+          "vi": "Buổi trưa tôi ngủ nửa tiếng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 232,
+      "word": "现在",
+      "meaningsVi": [
+        "bây giờ, hiện nay"
+      ],
+      "examples": [
+        {
+          "zh": "你现在忙吗？",
+          "py": "nǐ xiàn zài máng ma",
+          "vi": "Bây giờ bạn có bận không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 186,
+      "word": "时间",
+      "meaningsVi": [
+        "thời gian"
+      ],
+      "noteVi": "「有时间」 = rảnh, có thời gian; 「没有时间」 = không rảnh.",
+      "examples": [
+        {
+          "zh": "今天我没有时间。",
+          "py": "jīn tiān wǒ méi yǒu shí jiān",
+          "vi": "Hôm nay tôi không có thời gian."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 185,
+      "word": "时候",
+      "meaningsVi": [
+        "lúc, khi"
+      ],
+      "noteVi": "「什么时候」 = khi nào, lúc nào. Cụm này đứng trước động từ: 你什么时候去北京？",
+      "examples": [
+        {
+          "zh": "你什么时候去北京？",
+          "py": "nǐ shén me shí hou qù běi jīng",
+          "vi": "Khi nào bạn đi Bắc Kinh?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 275,
+      "word": "早上",
+      "meaningsVi": [
+        "buổi sáng (sáng sớm)"
+      ],
+      "noteVi": "「早上」 là sáng sớm, khoảng lúc thức dậy; 「上午」 là cả buổi sáng đến trưa. Chào buổi sáng: 「早上好！」 hoặc 「早！」.",
+      "examples": [
+        {
+          "zh": "我早上六点起床。",
+          "py": "wǒ zǎo shang liù diǎn qǐ chuáng",
+          "vi": "Tôi dậy lúc sáu giờ sáng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 178,
+      "word": "上午",
+      "meaningsVi": [
+        "buổi sáng (đến trưa)"
+      ],
+      "examples": [
+        {
+          "zh": "我上午很忙。",
+          "py": "wǒ shàng wǔ hěn máng",
+          "vi": "Buổi sáng tôi rất bận."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 291,
+      "word": "中午",
+      "meaningsVi": [
+        "buổi trưa"
+      ],
+      "examples": [
+        {
+          "zh": "你中午睡觉吗？",
+          "py": "nǐ zhōng wǔ shuì jiào ma",
+          "vi": "Buổi trưa bạn có ngủ không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 229,
+      "word": "下午",
+      "meaningsVi": [
+        "buổi chiều"
+      ],
+      "examples": [
+        {
+          "zh": "下午三点我去朋友家。",
+          "py": "xià wǔ sān diǎn wǒ qù péng you jiā",
+          "vi": "Ba giờ chiều tôi đến nhà bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 217,
+      "word": "晚上",
+      "meaningsVi": [
+        "buổi tối"
+      ],
+      "examples": [
+        {
+          "zh": "你晚上几点睡觉？",
+          "py": "nǐ wǎn shang jǐ diǎn shuì jiào",
+          "vi": "Buổi tối bạn đi ngủ lúc mấy giờ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 5,
+      "word": "白天",
+      "meaningsVi": [
+        "ban ngày"
+      ],
+      "examples": [
+        {
+          "zh": "白天我很忙，晚上不忙。",
+          "py": "bái tiān wǒ hěn máng wǎn shang bù máng",
+          "vi": "Ban ngày tôi bận, buổi tối thì không bận."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 273,
+      "word": "早",
+      "meaningsVi": [
+        "sớm",
+        "(lời chào buổi sáng) chào"
+      ],
+      "examples": [
+        {
+          "zh": "我妈妈起床很早。",
+          "py": "wǒ mā ma qǐ chuáng hěn zǎo",
+          "vi": "Mẹ tôi dậy rất sớm."
+        },
+        {
+          "zh": "老师早！",
+          "py": "lǎo shī zǎo",
+          "vi": "Em chào thầy/cô buổi sáng ạ!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 215,
+      "word": "晚",
+      "meaningsVi": [
+        "muộn, trễ"
+      ],
+      "noteVi": "「晚」 là tính từ (muộn); 'buổi tối' là 「晚上」.",
+      "examples": [
+        {
+          "zh": "他睡觉很晚，起床也很晚。",
+          "py": "tā shuì jiào hěn wǎn qǐ chuáng yě hěn wǎn",
+          "vi": "Anh ấy đi ngủ rất muộn, dậy cũng rất muộn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 161,
+      "word": "起床",
+      "meaningsVi": [
+        "thức dậy, ra khỏi giường"
+      ],
+      "examples": [
+        {
+          "zh": "你早上几点起床？",
+          "py": "nǐ zǎo shang jǐ diǎn qǐ chuáng",
+          "vi": "Buổi sáng bạn dậy lúc mấy giờ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 194,
+      "word": "睡",
+      "meaningsVi": [
+        "ngủ"
+      ],
+      "noteVi": "Nói ngủ bao lâu dùng 「睡」 + thời lượng: 睡八个小时. Không nói 「睡觉八个小时」.",
+      "examples": [
+        {
+          "zh": "我晚上睡八个小时。",
+          "py": "wǒ wǎn shang shuì bā gè xiǎo shí",
+          "vi": "Buổi tối tôi ngủ tám tiếng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 195,
+      "word": "睡觉",
+      "meaningsVi": [
+        "đi ngủ, ngủ"
+      ],
+      "noteVi": "Chữ 「觉」 ở đây đọc jiào. 「睡觉」 đã gồm cả 'ngủ' nên không thêm tân ngữ sau nó.",
+      "examples": [
+        {
+          "zh": "我晚上十一点睡觉。",
+          "py": "wǒ wǎn shang shí yī diǎn shuì jiào",
+          "vi": "Tôi đi ngủ lúc 11 giờ tối."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 167,
+      "word": "去",
+      "meaningsVi": [
+        "đi, đến (nơi nào đó)"
+      ],
+      "noteVi": "「去」 + nơi chốn, không cần giới từ: 去北京 (đi Bắc Kinh), 去朋友家 (đến nhà bạn).",
+      "examples": [
+        {
+          "zh": "明天我去上海。",
+          "py": "míng tiān wǒ qù shàng hǎi",
+          "vi": "Ngày mai tôi đi Thượng Hải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 99,
+      "word": "看",
+      "meaningsVi": [
+        "xem, nhìn",
+        "thăm (người)"
+      ],
+      "examples": [
+        {
+          "zh": "你看，这是我妈妈。",
+          "py": "nǐ kàn zhè shì wǒ mā ma",
+          "vi": "Bạn xem này, đây là mẹ tôi."
+        },
+        {
+          "zh": "星期天我去看爸爸妈妈。",
+          "py": "xīng qī tiān wǒ qù kàn bà ba mā ma",
+          "vi": "Chủ nhật tôi đi thăm bố mẹ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 299,
+      "word": "做",
+      "meaningsVi": [
+        "làm"
+      ],
+      "examples": [
+        {
+          "zh": "你今天下午做什么？",
+          "py": "nǐ jīn tiān xià wǔ zuò shén me",
+          "vi": "Chiều nay bạn làm gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 118,
+      "word": "忙",
+      "meaningsVi": [
+        "bận"
+      ],
+      "noteVi": "Là tính từ: 我很忙 (không nói 「我是忙」). Hỏi: 你忙吗？ hoặc 你忙不忙？",
+      "examples": [
+        {
+          "zh": "我今天很忙。",
+          "py": "wǒ jīn tiān hěn máng",
+          "vi": "Hôm nay tôi rất bận."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 187,
+      "word": "事",
+      "meaningsVi": [
+        "việc, chuyện"
+      ],
+      "noteVi": "「有事」 = có việc (bận). 'Không có việc gì' là 「没有事」.",
+      "examples": [
+        {
+          "zh": "明天我有事。",
+          "py": "míng tiān wǒ yǒu shì",
+          "vi": "Ngày mai tôi có việc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 14,
+      "titleVi": "Lượng từ chỉ thời gian",
+      "summaryVi": "日, 号, 岁, 点, 分, 年, 天 đứng ngay sau số, không cần 「个」: 三天, 两年, 八点, 十分。",
+      "explanationVi": [
+        "Một số từ chỉ thời gian **tự là lượng từ**, nên đứng ngay sau số, không thêm 「个」: 三天 (ba ngày), 两年 (hai năm), 五岁 (năm tuổi), 八点 (tám giờ), 十分 (mười phút), 十五号 / 十五日 (ngày 15).",
+        "Ngược lại, 「星期」, 「小时」 và 「月」 (khi nói khoảng thời gian) thường cần 「个」: 两个星期, 三个小时, 一个月.",
+        "Trước các lượng từ này, số 2 là 「两」: 两天, 两年, 两岁, 两点. Riêng phút và ngày tháng dùng 「二」: 两点零二分, 二月二号.",
+        "Phân biệt: 「八点」 là 8 giờ (thời điểm), 「八个小时」 là 8 tiếng (khoảng thời gian); 「十分」 là 10 phút khi nói giờ, 「十分钟」 là 10 phút (bao lâu)."
+      ],
+      "patterns": [
+        "Số + 天 / 年 / 岁 / 点 / 分 / 号 / 日",
+        "Số + 个 + 星期 / 小时 / 月"
+      ],
+      "examples": [
+        {
+          "zh": "我妹妹两岁。",
+          "py": "wǒ mèi mei liǎng suì",
+          "vi": "Em gái tôi hai tuổi."
+        },
+        {
+          "zh": "一个星期有七天。",
+          "py": "yí gè xīng qī yǒu qī tiān",
+          "vi": "Một tuần có bảy ngày."
+        },
+        {
+          "zh": "现在两点十分。",
+          "py": "xiàn zài liǎng diǎn shí fēn",
+          "vi": "Bây giờ là 2 giờ 10 phút."
+        },
+        {
+          "zh": "我晚上睡八个小时。",
+          "py": "wǒ wǎn shang shuì bā gè xiǎo shí",
+          "vi": "Buổi tối tôi ngủ tám tiếng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "一个星期有七个天。",
+          "right": "一个星期有七天。",
+          "noteVi": "「天」 tự là lượng từ, không thêm 「个」."
+        },
+        {
+          "wrong": "他二岁。",
+          "right": "他两岁。",
+          "noteVi": "Trước lượng từ 「岁」, số 2 nói là 「两」.",
+          "issue": "er_liang"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 37,
+      "titleVi": "Vị ngữ là động từ hoặc tính từ",
+      "summaryVi": "Vị ngữ có thể là động từ, cụm động từ (我七点起床) hoặc tính từ, cụm tính từ (我很忙).",
+      "explanationVi": [
+        "Vị ngữ là phần nói chủ ngữ **làm gì** hoặc **thế nào**. Nó có thể là động từ, cụm động từ: 我睡觉, 我去北京, 我七点起床; hoặc tính từ, cụm tính từ: 我很忙, 他很高兴.",
+        "Từ chỉ thời gian (今天, 早上, 七点) đứng **trước động từ**, ngay trước hoặc ngay sau chủ ngữ: 我早上七点起床 = 早上七点我起床. Tiếng Việt hay đặt thời gian ở cuối câu ('Tôi dậy lúc bảy giờ'), tiếng Trung thì không.",
+        "Vị ngữ là tính từ thì không dùng 「是」: 我很忙, không nói 「我是忙」."
+      ],
+      "patterns": [
+        "Chủ ngữ + (thời gian) + động từ (+ tân ngữ)",
+        "Chủ ngữ + 很 + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "他今天很忙。",
+          "py": "tā jīn tiān hěn máng",
+          "vi": "Hôm nay anh ấy rất bận."
+        },
+        {
+          "zh": "我们星期六去北京。",
+          "py": "wǒ men xīng qī liù qù běi jīng",
+          "vi": "Thứ Bảy chúng tôi đi Bắc Kinh."
+        },
+        {
+          "zh": "妈妈早上六点起床。",
+          "py": "mā ma zǎo shang liù diǎn qǐ chuáng",
+          "vi": "Mẹ dậy lúc sáu giờ sáng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他是忙。",
+          "right": "他很忙。",
+          "noteVi": "Tính từ làm vị ngữ không cần 「是」; thường thêm 「很」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 49,
+      "titleVi": "Câu hỏi chính phản (A 不 A)",
+      "summaryVi": "Đặt dạng khẳng định và phủ định cạnh nhau để hỏi có/không: 你忙不忙？你是不是学生？你有没有时间？",
+      "explanationVi": [
+        "Ngoài cách thêm 「吗」, có thể hỏi có/không bằng cách đặt động từ hoặc tính từ ở **dạng khẳng định + dạng phủ định** cạnh nhau: 忙不忙, 是不是, 去不去, 会不会. Giống tiếng Việt hỏi 'Bạn **có** bận **không**?'",
+        "Với 「有」, dạng phủ định là 「没有」, nên hỏi 「有没有」: 你有没有时间？",
+        "Câu chính phản **không thêm 「吗」**, và không thêm 「很」 trước tính từ: nói 「你忙不忙？」, không nói 「你很忙不忙？」.",
+        "「不」 ở giữa thường đọc nhẹ. Trả lời bằng dạng khẳng định hoặc phủ định: 很忙 / 不忙, 有 / 没有."
+      ],
+      "patterns": [
+        "Chủ ngữ + A 不 A (+ tân ngữ)？",
+        "Chủ ngữ + 有没有 + danh từ？"
+      ],
+      "examples": [
+        {
+          "zh": "你忙不忙？",
+          "py": "nǐ máng bu máng",
+          "vi": "Bạn có bận không?"
+        },
+        {
+          "zh": "你是不是中国人？",
+          "py": "nǐ shì bu shì zhōng guó rén",
+          "vi": "Bạn có phải là người Trung Quốc không?"
+        },
+        {
+          "zh": "你明天有没有时间？",
+          "py": "nǐ míng tiān yǒu méi yǒu shí jiān",
+          "vi": "Ngày mai bạn có rảnh không?"
+        },
+        {
+          "zh": "他会不会说汉语？",
+          "py": "tā huì bu huì shuō hàn yǔ",
+          "vi": "Anh ấy có biết nói tiếng Trung không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你忙不忙吗？",
+          "right": "你忙不忙？",
+          "noteVi": "Câu chính phản đã là câu hỏi, không thêm 「吗」."
+        },
+        {
+          "wrong": "你有不有时间？",
+          "right": "你有没有时间？",
+          "noteVi": "Phủ định của 「有」 là 「没有」, nên hỏi 「有没有」.",
+          "issue": "bu_you"
+        },
+        {
+          "wrong": "你很忙不忙？",
+          "right": "你忙不忙？",
+          "noteVi": "Trong câu chính phản không dùng 「很」 trước tính từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 70,
+      "titleVi": "Cách nói giờ",
+      "summaryVi": "Số + 点 (giờ) + số + 分 (phút): 八点十分; 「半」 là rưỡi; buổi đứng trước giờ: 早上七点。",
+      "explanationVi": [
+        "Giờ: số + 「点」: 一点, 两点 (không nói 「二点」), 十二点. Phút: số + 「分」: 八点十分 (8 giờ 10). Dưới 10 phút thêm 「零」: 八点零五分. Rưỡi: 「半」: 八点半.",
+        "Thứ tự từ lớn đến nhỏ: **buổi trước, giờ sau**: 早上七点, 下午三点, 晚上十点. Tiếng Việt nói 'bảy giờ sáng', tiếng Trung nói 「早上七点」.",
+        "Cụm thời gian đứng **trước động từ**: 我早上七点起床 (Tôi dậy lúc 7 giờ sáng). Không đặt sau động từ như tiếng Việt: không nói 「我起床七点」.",
+        "Hỏi giờ: 现在几点？ (Bây giờ là mấy giờ?), 你几点睡觉？ (Bạn đi ngủ lúc mấy giờ?)."
+      ],
+      "patterns": [
+        "Số + 点 (+ số + 分)",
+        "Số + 点半",
+        "(Buổi) + giờ + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "现在两点零五分。",
+          "py": "xiàn zài liǎng diǎn líng wǔ fēn",
+          "vi": "Bây giờ là 2 giờ 5 phút."
+        },
+        {
+          "zh": "我早上七点起床。",
+          "py": "wǒ zǎo shang qī diǎn qǐ chuáng",
+          "vi": "Tôi dậy lúc 7 giờ sáng."
+        },
+        {
+          "zh": "现在是下午四点二十分。",
+          "py": "xiàn zài shì xià wǔ sì diǎn èr shí fēn",
+          "vi": "Bây giờ là 4 giờ 20 chiều."
+        },
+        {
+          "zh": "我们八点半见！",
+          "py": "wǒ men bā diǎn bàn jiàn",
+          "vi": "Chúng ta gặp nhau lúc 8 giờ rưỡi nhé!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我起床七点。",
+          "right": "我七点起床。",
+          "noteVi": "Tiếng Việt nói 'dậy lúc bảy giờ', nhưng tiếng Trung đặt giờ trước động từ."
+        },
+        {
+          "wrong": "现在二点。",
+          "right": "现在两点。",
+          "noteVi": "2 giờ nói là 「两点」.",
+          "issue": "er_liang"
+        },
+        {
+          "wrong": "我七点早上起床。",
+          "right": "我早上七点起床。",
+          "noteVi": "Buổi (早上) đứng trước giờ (七点), ngược với tiếng Việt 'bảy giờ sáng'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-05-e01",
+      "type": "match",
+      "promptVi": "Nối các buổi trong ngày với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "早上",
+          "sáng sớm"
+        ],
+        [
+          "上午",
+          "buổi sáng"
+        ],
+        [
+          "中午",
+          "buổi trưa"
+        ],
+        [
+          "下午",
+          "buổi chiều"
+        ],
+        [
+          "晚上",
+          "buổi tối"
+        ],
+        [
+          "白天",
+          "ban ngày"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-05-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "起床",
+          "thức dậy"
+        ],
+        [
+          "睡觉",
+          "đi ngủ"
+        ],
+        [
+          "去",
+          "đi"
+        ],
+        [
+          "看",
+          "xem, nhìn"
+        ],
+        [
+          "做",
+          "làm"
+        ],
+        [
+          "忙",
+          "bận"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-05-e03",
+      "type": "choice",
+      "promptVi": "「八点半」 là mấy giờ?",
+      "options": [
+        "8 giờ rưỡi",
+        "8 tiếng",
+        "nửa tiếng"
+      ],
+      "answer": 0,
+      "explainVi": "「点」 là giờ đồng hồ, 「半」 là rưỡi.",
+      "grammar": [
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e04",
+      "type": "choice",
+      "promptVi": "Chọn số thích hợp: 'Bây giờ là 2 giờ.'",
+      "zh": "现在＿点。",
+      "options": [
+        "两",
+        "二"
+      ],
+      "answer": 0,
+      "explainVi": "2 giờ nói là 「两点」.",
+      "grammar": [
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e05",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我早上七点起床。",
+        "我起床早上七点。",
+        "我七点早上起床。"
+      ],
+      "answer": 0,
+      "explainVi": "Thời gian đứng trước động từ; buổi trong ngày đứng trước giờ.",
+      "grammar": [
+        70,
+        37
+      ]
+    },
+    {
+      "id": "hsk1-05-e06",
+      "type": "fill",
+      "promptVi": "Điền từ để thành câu hỏi chính phản.",
+      "before": "你忙",
+      "after": "忙？",
+      "answers": [
+        "不"
+      ],
+      "options": [
+        "不",
+        "很",
+        "吗"
+      ],
+      "vi": "Bạn có bận không?",
+      "grammar": [
+        49
+      ]
+    },
+    {
+      "id": "hsk1-05-e07",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "你有",
+      "after": "时间？",
+      "answers": [
+        "没有"
+      ],
+      "options": [
+        "没有",
+        "不有",
+        "不"
+      ],
+      "vi": "Bạn có rảnh không?",
+      "explainVi": "Phủ định của 「有」 là 「没有」, nên hỏi 「有没有」.",
+      "grammar": [
+        49
+      ]
+    },
+    {
+      "id": "hsk1-05-e08",
+      "type": "order",
+      "vi": "Bạn có phải là học sinh không?",
+      "tiles": [
+        "是",
+        "不",
+        "是",
+        "你",
+        "学生"
+      ],
+      "answers": [
+        "你是不是学生"
+      ],
+      "grammar": [
+        49
+      ]
+    },
+    {
+      "id": "hsk1-05-e09",
+      "type": "order",
+      "vi": "Tôi đi ngủ lúc 11 giờ tối.",
+      "tiles": [
+        "睡觉",
+        "晚上",
+        "我",
+        "十一点"
+      ],
+      "answers": [
+        "我晚上十一点睡觉",
+        "晚上十一点我睡觉"
+      ],
+      "explainVi": "Buổi đứng trước giờ, cả cụm thời gian đứng trước động từ.",
+      "grammar": [
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e10",
+      "type": "order",
+      "vi": "Ba giờ chiều tôi đến nhà bạn.",
+      "tiles": [
+        "下午",
+        "去",
+        "三点",
+        "我",
+        "朋友家"
+      ],
+      "answers": [
+        "我下午三点去朋友家",
+        "下午三点我去朋友家"
+      ],
+      "grammar": [
+        37,
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "一个星期有七天。",
+        "一个星期有七个天。",
+        "一星期有七个天。"
+      ],
+      "answer": 0,
+      "explainVi": "「天」 tự là lượng từ, không thêm 「个」.",
+      "grammar": [
+        14
+      ]
+    },
+    {
+      "id": "hsk1-05-e12",
+      "type": "choice",
+      "promptVi": "'Hai tiếng đồng hồ' nói thế nào?",
+      "options": [
+        "两个小时",
+        "两点",
+        "二个小时"
+      ],
+      "answer": 0,
+      "explainVi": "「两点」 là 2 giờ (thời điểm). Trước lượng từ 「个」 dùng 「两」, không dùng 「二」.",
+      "grammar": [
+        14,
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e13",
+      "type": "fill",
+      "promptVi": "Điền lượng từ thích hợp.",
+      "before": "我哥哥今年二十",
+      "after": "。",
+      "answers": [
+        "岁"
+      ],
+      "options": [
+        "岁",
+        "年",
+        "个"
+      ],
+      "vi": "Năm nay anh trai tôi hai mươi tuổi.",
+      "grammar": [
+        14
+      ]
+    },
+    {
+      "id": "hsk1-05-e14",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "现在几点？",
+        "promptVi": "Bây giờ là mấy giờ? (Đồng hồ chỉ 9 giờ 30.)",
+        "picture": "🕤",
+        "answers": [
+          "(现在)(是)九点半。",
+          "(现在)(是)九点三十(分)。"
+        ],
+        "examples": [
+          {
+            "answer": "现在九点半。",
+            "score": 100
+          },
+          {
+            "answer": "九点三十分。",
+            "score": 100
+          },
+          {
+            "answer": "现在是九点办。",
+            "score": 95,
+            "issues": [
+              "homophone_char"
+            ]
+          },
+          {
+            "answer": "现在十点半。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e15",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你早上几点起床？",
+        "promptVi": "Buổi sáng bạn dậy lúc mấy giờ? (Giả sử bạn dậy lúc 6 giờ.)",
+        "answers": [
+          "(我)(早上)六点起床。",
+          "早上六点我起床。",
+          "六点。"
+        ],
+        "examples": [
+          {
+            "answer": "我早上六点起床。",
+            "score": 100
+          },
+          {
+            "answer": "六点。",
+            "score": 100
+          },
+          {
+            "answer": "我早上七点起床。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        70,
+        37
+      ]
+    },
+    {
+      "id": "hsk1-05-e16",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你今天忙不忙？",
+        "promptVi": "Hôm nay bạn có bận không? (Giả sử hôm nay bạn rất bận.)",
+        "answers": [
+          "(我)(今天)很忙。",
+          "忙。"
+        ],
+        "examples": [
+          {
+            "answer": "我今天很忙。",
+            "score": 100
+          },
+          {
+            "answer": "忙。",
+            "score": 100
+          },
+          {
+            "answer": "我忙。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ]
+          },
+          {
+            "answer": "我今天不忙。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        49,
+        37
+      ]
+    },
+    {
+      "id": "hsk1-05-e17",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你明天有没有时间？",
+        "promptVi": "Ngày mai bạn có rảnh không? (Giả sử ngày mai bạn có việc, không rảnh.)",
+        "answers": [
+          "(我)(明天)没有时间。",
+          "(我)(明天)有事。",
+          "没有。"
+        ],
+        "examples": [
+          {
+            "answer": "我明天没有时间。",
+            "score": 100
+          },
+          {
+            "answer": "我有事。",
+            "score": 100
+          },
+          {
+            "answer": "我明天不有时间。",
+            "score": 80,
+            "issues": [
+              "bu_you"
+            ]
+          },
+          {
+            "answer": "我明天有时间。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        49
+      ]
+    },
+    {
+      "id": "hsk1-05-e18",
+      "type": "translate",
+      "vi": "Bây giờ là 2 giờ 5 phút.",
+      "answers": [
+        "现在(是)两点零五(分)。",
+        "现在(是)两点五分。"
+      ],
+      "examples": [
+        {
+          "answer": "现在两点零五分。",
+          "score": 100
+        },
+        {
+          "answer": "现在两点零五。",
+          "score": 100
+        },
+        {
+          "answer": "现在二点零五分。",
+          "score": 90,
+          "issues": [
+            "er_liang"
+          ]
+        },
+        {
+          "answer": "现在两点十五分。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e19",
+      "type": "translate",
+      "vi": "Bạn có đi Bắc Kinh không?",
+      "answers": [
+        "你去不去北京？",
+        "你去北京吗？",
+        "你去北京不去？"
+      ],
+      "examples": [
+        {
+          "answer": "你去不去北京？",
+          "score": 100
+        },
+        {
+          "answer": "你去北京吗？",
+          "score": 100
+        },
+        {
+          "answer": "你去不去上海？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        49
+      ]
+    },
+    {
+      "id": "hsk1-05-e20",
+      "type": "translate",
+      "vi": "Buổi chiều tôi rất bận.",
+      "answers": [
+        "我下午很忙。",
+        "下午我很忙。"
+      ],
+      "examples": [
+        {
+          "answer": "我下午很忙。",
+          "score": 100
+        },
+        {
+          "answer": "下午我很忙。",
+          "score": 100
+        },
+        {
+          "answer": "我下午忙。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "我上午很忙。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        37
+      ]
+    },
+    {
+      "id": "hsk1-05-e21",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "一天有多少个小时？",
+        "promptVi": "Một ngày có bao nhiêu tiếng?",
+        "answers": [
+          "(一天有)二十四(个)小时。"
+        ],
+        "examples": [
+          {
+            "answer": "一天有二十四个小时。",
+            "score": 100
+          },
+          {
+            "answer": "二十四个小时。",
+            "score": 100
+          },
+          {
+            "answer": "一天有二十四小时。",
+            "score": 100
+          },
+          {
+            "answer": "一天有十二个小时。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        14
+      ]
+    },
+    {
+      "id": "hsk1-05-e22",
+      "type": "choice",
+      "promptVi": "Trong câu 「我妈妈很忙。」, vị ngữ là gì?",
+      "options": [
+        "很忙",
+        "我妈妈",
+        "妈妈很忙"
+      ],
+      "answer": 0,
+      "explainVi": "Chủ ngữ là 「我妈妈」; vị ngữ là cụm tính từ 「很忙」.",
+      "grammar": [
+        37
+      ]
+    },
+    {
+      "id": "hsk1-05-e23",
+      "type": "order",
+      "vi": "Anh ấy có biết nói tiếng Trung không?",
+      "tiles": [
+        "会",
+        "不",
+        "会",
+        "他",
+        "说",
+        "汉语"
+      ],
+      "answers": [
+        "他会不会说汉语"
+      ],
+      "grammar": [
+        49
+      ]
+    },
+    {
+      "id": "hsk1-05-e24",
+      "type": "translate",
+      "vi": "Tôi dậy lúc 6 giờ rưỡi sáng.",
+      "answers": [
+        "我(早上)六点[半|三十(分)]起床。",
+        "早上六点半我起床。"
+      ],
+      "examples": [
+        {
+          "answer": "我早上六点半起床。",
+          "score": 100
+        },
+        {
+          "answer": "早上六点半我起床。",
+          "score": 100
+        },
+        {
+          "answer": "我早上六点办起床。",
+          "score": 95,
+          "issues": [
+            "homophone_char"
+          ]
+        },
+        {
+          "answer": "我七点半起床。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        70
+      ]
+    },
+    {
+      "id": "hsk1-05-e25",
+      "type": "choice",
+      "promptVi": "'Tôi ngủ tám tiếng' nói thế nào?",
+      "options": [
+        "我睡八个小时。",
+        "我睡八点。",
+        "我睡觉八个小时。"
+      ],
+      "answer": 0,
+      "explainVi": "Khoảng thời gian dùng 「八个小时」; 「八点」 là 8 giờ. Nói ngủ bao lâu dùng 「睡」, không dùng 「睡觉」.",
+      "grammar": [
+        14
+      ]
+    }
+  ]
+}

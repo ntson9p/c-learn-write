@@ -1,0 +1,1532 @@
+{
+  "id": "hsk2-10",
+  "goalsVi": [
+    "Nói về chuyến du lịch: mua vé máy bay, ra sân bay, ở khách sạn, xem thời tiết nắng hay âm u",
+    "Kể những việc đã từng làm với 「过」: 我去过北京, 我没坐过飞机, 你去过几次？",
+    "Dùng bổ ngữ xu hướng kép: 走进来, 跑出去, 拿出来, 飞起来, 跑回家去",
+    "Dùng cụm danh từ đúng trật tự (我们住的酒店) và câu 「是」 nêu đặc điểm (今天是晴天)",
+    "So sánh 'không … bằng' với 「没有」 và hỏi lựa chọn với 「是……，还是……」"
+  ],
+  "words": [
+    {
+      "no": 394,
+      "word": "旅游",
+      "meaningsVi": [
+        "du lịch, đi du lịch"
+      ],
+      "noteVi": "Nói 'đi du lịch ở đâu': 去 + nơi chốn + 旅游: 去北京旅游. Không nói 旅游北京 theo kiểu tiếng Việt 'du lịch Bắc Kinh'.",
+      "examples": [
+        {
+          "zh": "明年我想去中国旅游。",
+          "py": "míng nián wǒ xiǎng qù zhōng guó lǚ yóu",
+          "vi": "Năm sau tôi muốn đi du lịch Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 317,
+      "word": "出国",
+      "meaningsVi": [
+        "ra nước ngoài, xuất ngoại"
+      ],
+      "noteVi": "「出国」 là 'động từ + tân ngữ' (出 + 国), nên 「过」, 「了」 chen vào giữa: 出过国, 出了国.",
+      "examples": [
+        {
+          "zh": "我今年第一次出国。",
+          "py": "wǒ jīn nián dì yī cì chū guó",
+          "vi": "Năm nay là lần đầu tiên tôi ra nước ngoài."
+        },
+        {
+          "zh": "我想出国旅游。",
+          "py": "wǒ xiǎng chū guó lǚ yóu",
+          "vi": "Tôi muốn đi du lịch nước ngoài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 363,
+      "word": "机场",
+      "meaningsVi": [
+        "sân bay"
+      ],
+      "noteVi": "Âm Hán Việt là 'cơ trường' (机 = máy, như trong 飞机).",
+      "examples": [
+        {
+          "zh": "我们打车去机场吧。",
+          "py": "wǒ men dǎ chē qù jī chǎng ba",
+          "vi": "Chúng mình bắt taxi ra sân bay đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 364,
+      "word": "机票",
+      "meaningsVi": [
+        "vé máy bay"
+      ],
+      "examples": [
+        {
+          "zh": "我在网上买了机票。",
+          "py": "wǒ zài wǎng shang mǎi le jī piào",
+          "vi": "Tôi đã mua vé máy bay trên mạng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 340,
+      "word": "飞",
+      "meaningsVi": [
+        "bay"
+      ],
+      "noteVi": "Âm Hán Việt là 'phi' (như 'phi cơ' = 飞机).",
+      "examples": [
+        {
+          "zh": "这只鸟飞得真高。",
+          "py": "zhè zhī niǎo fēi de zhēn gāo",
+          "vi": "Con chim này bay cao thật."
+        },
+        {
+          "zh": "我们坐的飞机下午三点飞。",
+          "py": "wǒ men zuò de fēi jī xià wǔ sān diǎn fēi",
+          "vi": "Máy bay của chúng tôi ba giờ chiều cất cánh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 416,
+      "word": "票",
+      "meaningsVi": [
+        "vé"
+      ],
+      "noteVi": "Ghép với nhiều từ: 机票 (vé máy bay), 门票 (vé vào cửa), 火车票 (vé tàu hỏa). Âm Hán Việt là 'phiếu'.",
+      "examples": [
+        {
+          "zh": "你买火车票了吗？",
+          "py": "nǐ mǎi huǒ chē piào le ma",
+          "vi": "Bạn mua vé tàu chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 402,
+      "word": "门票",
+      "meaningsVi": [
+        "vé vào cửa"
+      ],
+      "examples": [
+        {
+          "zh": "门票多少钱？",
+          "py": "mén piào duō shao qián",
+          "vi": "Vé vào cửa bao nhiêu tiền?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 375,
+      "word": "酒店",
+      "meaningsVi": [
+        "khách sạn"
+      ],
+      "noteVi": "Âm Hán Việt là 'tửu điếm' nhưng 「酒店」 ngày nay là **khách sạn**, không phải quán rượu.",
+      "examples": [
+        {
+          "zh": "我们住的酒店离机场很近。",
+          "py": "wǒ men zhù de jiǔ diàn lí jī chǎng hěn jìn",
+          "vi": "Khách sạn chúng tôi ở rất gần sân bay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 420,
+      "word": "晴",
+      "meaningsVi": [
+        "nắng, (trời) quang, tạnh ráo"
+      ],
+      "noteVi": "「晴」 là tính từ. Ngày nắng là 晴天: 今天是晴天. 「天晴了」 là trời đã tạnh, nắng lên.",
+      "examples": [
+        {
+          "zh": "下午天晴了。",
+          "py": "xià wǔ tiān qíng le",
+          "vi": "Buổi chiều trời nắng lên rồi."
+        },
+        {
+          "zh": "今天是晴天。",
+          "py": "jīn tiān shì qíng tiān",
+          "vi": "Hôm nay trời nắng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 476,
+      "word": "阴",
+      "meaningsVi": [
+        "(trời) âm u, nhiều mây"
+      ],
+      "noteVi": "Ngày trời âm u là 阴天. Âm Hán Việt là 'âm' (như 'âm dương').",
+      "examples": [
+        {
+          "zh": "今天是阴天，可能会下雨。",
+          "py": "jīn tiān shì yīn tiān kě néng huì xià yǔ",
+          "vi": "Hôm nay trời âm u, có thể sẽ mưa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 411,
+      "word": "鸟",
+      "meaningsVi": [
+        "chim, con chim"
+      ],
+      "noteVi": "Lượng từ là 「只」: 一只鸟.",
+      "examples": [
+        {
+          "zh": "那是一只很漂亮的鸟。",
+          "py": "nà shì yì zhī hěn piào liang de niǎo",
+          "vi": "Đó là một con chim rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 349,
+      "word": "过年",
+      "meaningsVi": [
+        "ăn Tết, đón năm mới"
+      ],
+      "noteVi": "「过」 ở đây là 'trải qua, đón' (bài 8: 过生日). 「过年」 thường chỉ Tết Nguyên đán.",
+      "examples": [
+        {
+          "zh": "你回家过年吗？",
+          "py": "nǐ huí jiā guò nián ma",
+          "vi": "Bạn có về nhà ăn Tết không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 351,
+      "word": "过",
+      "meaningsVi": [
+        "đã từng (trợ từ, đặt sau động từ: 去过, 吃过)"
+      ],
+      "noteVi": "Trợ từ 「过」 đọc nhẹ guo, khác với động từ 过 guò (đi qua). Phủ định: 没 + động từ + 过: 我没去过.",
+      "examples": [
+        {
+          "zh": "我去过北京，没去过上海。",
+          "py": "wǒ qù guo běi jīng méi qù guo shàng hǎi",
+          "vi": "Tôi từng đến Bắc Kinh, chưa đến Thượng Hải bao giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 350,
+      "word": "过去",
+      "meaningsVi": [
+        "đi qua (đó), sang (bên đó), rời chỗ người nói"
+      ],
+      "noteVi": "Người được nói đến đi từ chỗ người nói sang chỗ khác. 「过去」 nghĩa 'quá khứ' (danh từ) sẽ học ở HSK3.",
+      "examples": [
+        {
+          "zh": "车站就在那边，我们走过去吧。",
+          "py": "chē zhàn jiù zài nà biān wǒ men zǒu guò qù ba",
+          "vi": "Bến xe ở ngay bên kia, chúng mình đi bộ qua đó nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 348,
+      "word": "过来",
+      "meaningsVi": [
+        "đi qua (đây), lại đây, sang (bên này)"
+      ],
+      "examples": [
+        {
+          "zh": "你过来一下！",
+          "py": "nǐ guò lái yí xià",
+          "vi": "Bạn lại đây một chút!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 425,
+      "word": "上来",
+      "meaningsVi": [
+        "đi lên (chỗ người nói)"
+      ],
+      "examples": [
+        {
+          "zh": "我在二楼，你上来吧。",
+          "py": "wǒ zài èr lóu nǐ shàng lái ba",
+          "vi": "Mình ở tầng hai, bạn lên đây đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 427,
+      "word": "上去",
+      "meaningsVi": [
+        "đi lên (đó, rời chỗ người nói)"
+      ],
+      "examples": [
+        {
+          "zh": "你的房间在三楼，我们上去吧。",
+          "py": "nǐ de fáng jiān zài sān lóu wǒ men shàng qù ba",
+          "vi": "Phòng của bạn ở tầng ba, chúng ta đi lên đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 458,
+      "word": "下来",
+      "meaningsVi": [
+        "đi xuống (chỗ người nói)"
+      ],
+      "examples": [
+        {
+          "zh": "你快下来，我们在楼下等你。",
+          "py": "nǐ kuài xià lái wǒ men zài lóu xià děng nǐ",
+          "vi": "Bạn mau xuống đây, bọn mình đợi bạn ở dưới nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 460,
+      "word": "下去",
+      "meaningsVi": [
+        "đi xuống (đó, rời chỗ người nói)"
+      ],
+      "examples": [
+        {
+          "zh": "大卫在楼下等我们，我们下去吧。",
+          "py": "dà wèi zài lóu xià děng wǒ men wǒ men xià qù ba",
+          "vi": "David đang đợi chúng ta ở dưới nhà, chúng ta xuống đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 418,
+      "word": "起来",
+      "meaningsVi": [
+        "dậy, đứng dậy, ngồi dậy",
+        "lên (bổ ngữ, hướng từ dưới lên: 飞起来)"
+      ],
+      "noteVi": "「起来」 không có cặp '起去'. Đứng dậy là 站起来 (chữ 「站」 nghĩa 'đứng' sẽ học ở HSK3).",
+      "examples": [
+        {
+          "zh": "七点了，快起来吧！",
+          "py": "qī diǎn le kuài qǐ lái ba",
+          "vi": "Bảy giờ rồi, dậy mau lên!"
+        },
+        {
+          "zh": "你看，那只鸟飞起来了！",
+          "py": "nǐ kàn nà zhī niǎo fēi qǐ lái le",
+          "vi": "Nhìn kìa, con chim kia bay lên rồi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 101,
+      "titleVi": "Trợ từ động thái 「过」: vị trí và cách phủ định",
+      "summaryVi": "「过」 (đọc nhẹ guo) đứng ngay sau động từ: 去过, 吃过; phủ định là 没(有) + động từ + 过; hỏi …过……吗？ hoặc …过……没有？",
+      "explanationVi": [
+        "Trợ từ 「过」 đứng **ngay sau động từ**, trước tân ngữ: 我去过北京, 他看过这个电影. Nó đọc nhẹ guo, khác với động từ 过 guò (đi qua) ở bài 8.",
+        "**Phủ định:** 没(有) + động từ + 过, và vẫn **giữ** 「过」: 我没去过北京. Không dùng 「不」: không nói 我不去过. (Khác với 「了」: 我去了 → 我没去, bỏ 了; còn 「过」 thì giữ lại.)",
+        "**Câu hỏi:** 你去过北京吗？/ 你去过北京没有？/ 你去没去过北京？ Trả lời ngắn: 去过 hoặc 没去过.",
+        "**Động từ ly hợp** (bài 9): 「过」 chen vào giữa hai phần: 游过泳, 出过国, 帮过我的忙. Không nói 游泳过."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + 过 + tân ngữ",
+        "Chủ ngữ + 没(有) + động từ + 过 + tân ngữ",
+        "Chủ ngữ + động từ + 过 + tân ngữ + 吗/没有？"
+      ],
+      "examples": [
+        {
+          "zh": "我看过这个电影。",
+          "py": "wǒ kàn guo zhè ge diàn yǐng",
+          "vi": "Tôi xem bộ phim này rồi."
+        },
+        {
+          "zh": "他没去过上海。",
+          "py": "tā méi qù guo shàng hǎi",
+          "vi": "Anh ấy chưa từng đến Thượng Hải."
+        },
+        {
+          "zh": "你学过汉语吗？——学过一年。",
+          "py": "nǐ xué guo hàn yǔ ma xué guo yì nián",
+          "vi": "Bạn đã học tiếng Hán bao giờ chưa? — Học một năm rồi."
+        },
+        {
+          "zh": "我没游过泳。",
+          "py": "wǒ méi yóu guo yǒng",
+          "vi": "Tôi chưa bơi bao giờ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我没去北京过。",
+          "right": "我没去过北京。",
+          "noteVi": "「过」 đứng ngay sau động từ, trước tân ngữ."
+        },
+        {
+          "wrong": "我不去过北京。",
+          "right": "我没去过北京。",
+          "noteVi": "Phủ định của 「过」 dùng 「没(有)」, không dùng 「不」."
+        },
+        {
+          "wrong": "我没游泳过。",
+          "right": "我没游过泳。",
+          "noteVi": "「游泳」 là động từ ly hợp: 「过」 chen vào giữa 「游」 và 「泳」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 108,
+      "titleVi": "Cụm danh từ: phần miêu tả đứng trước danh từ (我们住的酒店)",
+      "summaryVi": "Trong cụm danh từ, mọi phần miêu tả (của ai, thế nào, làm gì, bao nhiêu) đều đứng **trước** danh từ chính, thường nối bằng 「的」: 我买的机票.",
+      "explanationVi": [
+        "Cụm danh từ có một danh từ làm trung tâm và dùng được như một danh từ (làm chủ ngữ, tân ngữ). Trong tiếng Trung, **mọi phần miêu tả đều đứng trước danh từ chính**, ngược với tiếng Việt: 'vé máy bay **của tôi**' = **我的**机票; 'khách sạn **chúng tôi ở**' = **我们住的**酒店.",
+        "Phần miêu tả có thể là: đại từ, danh từ (我的票, 妈妈的手机); tính từ (很贵的门票, 漂亮的鸟); cụm động từ (我昨天买的机票, 去机场的公交车); số + lượng từ (一只鸟, 这两个酒店).",
+        "Khi nào bỏ được 「的」? Với quan hệ thân thiết, đơn vị (我妈妈, 我们学校), tính từ một âm tiết (新衣服, 大房间), danh từ chỉ loại (中国朋友, 汉语书). Cụm động từ và tính từ có 很 thì **phải** có 「的」: 很大的酒店, 我买的票.",
+        "Khi có nhiều phần, thứ tự thường là: 这/那 + số + lượng từ + phần miêu tả + danh từ: 那两个很大的房间; hoặc cụm động từ + 的 + 这/那 + lượng từ + danh từ: 我买的那本书."
+      ],
+      "patterns": [
+        "Định ngữ + 的 + danh từ",
+        "Cụm động từ + 的 + danh từ",
+        "这/那 + số + lượng từ + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我们住的酒店很新。",
+          "py": "wǒ men zhù de jiǔ diàn hěn xīn",
+          "vi": "Khách sạn chúng tôi ở rất mới."
+        },
+        {
+          "zh": "这是我昨天买的机票。",
+          "py": "zhè shì wǒ zuó tiān mǎi de jī piào",
+          "vi": "Đây là vé máy bay tôi mua hôm qua."
+        },
+        {
+          "zh": "去机场的公交车在哪儿？",
+          "py": "qù jī chǎng de gōng jiāo chē zài nǎ r",
+          "vi": "Xe buýt đi sân bay ở đâu?"
+        },
+        {
+          "zh": "我买的那本书很有意思。",
+          "py": "wǒ mǎi de nà běn shū hěn yǒu yì si",
+          "vi": "Quyển sách tôi mua rất hay."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "机票我的在哪儿？",
+          "right": "我的机票在哪儿？",
+          "noteVi": "Dịch theo trật tự 'vé máy bay của tôi' là sai: 「我的」 đứng trước danh từ."
+        },
+        {
+          "wrong": "酒店我们住很新。",
+          "right": "我们住的酒店很新。",
+          "noteVi": "Phần miêu tả (我们住) đứng trước danh từ 「酒店」 và cần 「的」."
+        },
+        {
+          "wrong": "这是很贵门票。",
+          "right": "这是很贵的门票。",
+          "noteVi": "Tính từ có 「很」 đứng trước danh từ thì phải có 「的」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 121,
+      "titleVi": "Bổ ngữ xu hướng kép: 走进来, 跑出去, 飞起来",
+      "summaryVi": "Động từ + 上/下/进/出/回/过/起 + 来/去: vừa chỉ hướng di chuyển (lên, xuống, vào, ra…), vừa chỉ hướng so với người nói (来 lại gần, 去 đi xa): 他跑进来了.",
+      "explanationVi": [
+        "Bài 8 đã học hai loại bổ ngữ xu hướng đơn: 「来」/「去」 (so với người nói) và 上/下/进/出/过/回 (lên, xuống, vào, ra, qua, về). Ghép chúng lại được **bổ ngữ xu hướng kép**: 上来, 上去, 下来, 下去, 进来, 进去, 出来, 出去, 回来, 回去, 过来, 过去 và 起来.",
+        "Bổ ngữ kép đặt sau động từ chỉ cách di chuyển: 走进来 (đi vào đây), 跑出去 (chạy ra ngoài đó), 拿过来 (cầm lại đây), 走下来 (đi xuống đây), 飞起来 (bay lên). Phần giữa cho biết **hướng** (vào, ra, lên, xuống…), chữ cuối 来/去 cho biết **lại gần** hay **đi xa** người nói. Riêng 起来 (lên, dậy: từ dưới lên) không có '起去'.",
+        "**Tân ngữ chỉ nơi chốn** đứng **trước** 「来」/「去」: 走进教室来, 跑上楼去, 跑回家去. Không nói 走进来教室, 跑回去家 (tiếng Việt nói 'chạy về nhà' nên rất dễ sai). **Tân ngữ chỉ đồ vật** đứng trước hoặc sau 「来」/「去」 đều được: 拿出一本书来 = 拿出来一本书.",
+        "「了」 thường đứng ở cuối câu: 他跑出去了, 鸟飞起来了. Câu có 「从」: 他从房间里跑出来了 (Anh ấy từ trong phòng chạy ra)."
+      ],
+      "patterns": [
+        "Động từ + 上/下/进/出/回/过/起 + 来/去",
+        "Động từ + 进/出/上/下/回 + nơi chốn + 来/去",
+        "Động từ + 出 + đồ vật + 来 = Động từ + 出来 + đồ vật"
+      ],
+      "examples": [
+        {
+          "zh": "老师走进教室来了。",
+          "py": "lǎo shī zǒu jìn jiào shì lái le",
+          "vi": "Thầy giáo đi vào lớp rồi."
+        },
+        {
+          "zh": "外面下雨了，孩子们都跑回家去了。",
+          "py": "wài miàn xià yǔ le hái zi men dōu pǎo huí jiā qù le",
+          "vi": "Bên ngoài mưa rồi, bọn trẻ đều chạy về nhà cả."
+        },
+        {
+          "zh": "他从书包里拿出来一本书。",
+          "py": "tā cóng shū bāo lǐ ná chū lái yì běn shū",
+          "vi": "Cậu ấy lấy từ trong cặp ra một quyển sách."
+        },
+        {
+          "zh": "他从楼上走下来了。",
+          "py": "tā cóng lóu shàng zǒu xià lái le",
+          "vi": "Anh ấy từ trên lầu đi xuống."
+        },
+        {
+          "zh": "你走过来，我看看。",
+          "py": "nǐ zǒu guò lái wǒ kàn kàn",
+          "vi": "Bạn đi lại đây cho mình xem nào."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他走进来教室了。",
+          "right": "他走进教室来了。",
+          "noteVi": "Nơi chốn (教室) đứng giữa 「进」 và 「来」."
+        },
+        {
+          "wrong": "他跑回去家了。",
+          "right": "他跑回家去了。",
+          "noteVi": "Nơi chốn (家) đứng giữa 「回」 và 「去」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 128,
+      "titleVi": "Câu 「是」 giải thích, nêu đặc điểm: 今天是晴天, 他是高个子",
+      "summaryVi": "「是」 còn dùng để giải thích hoặc nêu đặc điểm của chủ ngữ: 今天是阴天, 我的机票是明天上午的, 门票是一百块.",
+      "explanationVi": [
+        "Ở HSK1, 「是」 nói A **là** B: 我是学生. Ở bài này, 「是」 còn dùng để **nêu đặc điểm** hoặc **giải thích** về chủ ngữ. Sau 「是」 thường là danh từ có phần miêu tả: 今天是晴天 (Hôm nay trời nắng), 我哥哥是高个子 (Anh tôi người cao), 她是大眼睛 (Cô ấy mắt to).",
+        "Hay dùng 「是 + cụm 的」 để nói rõ thông tin: 我的机票是明天上午的 (Vé của tôi là chuyến sáng mai), 这个酒店是新的. Cũng dùng để nói giá, số lượng: 门票是一百块.",
+        "「晴」, 「阴」 là tính từ; sau 「是」 phải dùng danh từ 晴天, 阴天: 今天是晴天, không nói 今天是晴. Tương tự, 「是」 + tính từ phải có 「的」: 这个酒店是新的 (hoặc nói 这个酒店很新).",
+        "Phủ định dùng 「不是」: 今天不是晴天, 我的机票不是明天的."
+      ],
+      "patterns": [
+        "Chủ ngữ + 是 + (tính từ) + danh từ",
+        "Chủ ngữ + 是 + … + 的",
+        "Chủ ngữ + 是 + giá tiền / số lượng"
+      ],
+      "examples": [
+        {
+          "zh": "明天是阴天，可能会下雨。",
+          "py": "míng tiān shì yīn tiān kě néng huì xià yǔ",
+          "vi": "Ngày mai trời âm u, có thể sẽ mưa."
+        },
+        {
+          "zh": "我哥哥是高个子。",
+          "py": "wǒ gē ge shì gāo gè zi",
+          "vi": "Anh trai tôi là người cao."
+        },
+        {
+          "zh": "我的机票是明天上午的。",
+          "py": "wǒ de jī piào shì míng tiān shàng wǔ de",
+          "vi": "Vé máy bay của tôi là chuyến sáng mai."
+        },
+        {
+          "zh": "这儿的门票是一百块。",
+          "py": "zhè r de mén piào shì yì bǎi kuài",
+          "vi": "Vé vào cửa ở đây giá một trăm tệ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "今天是晴。",
+          "right": "今天是晴天。",
+          "noteVi": "「晴」 là tính từ; sau 「是」 dùng danh từ 「晴天」."
+        },
+        {
+          "wrong": "这个酒店是新。",
+          "right": "这个酒店是新的。",
+          "noteVi": "「是」 + tính từ phải có 「的」 ở cuối; hoặc bỏ 「是」: 这个酒店很新."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 133,
+      "titleVi": "So sánh với 「有/没有」: A没有B（那么）高",
+      "summaryVi": "A没有B（这么/那么）+ tính từ: A không … bằng B; A有B（这么/那么）+ tính từ: A … bằng B. Đây là cách phủ định tự nhiên của câu 「比」.",
+      "explanationVi": [
+        "**A + 没有 + B + tính từ** nghĩa là 'A không … bằng B': 我没有哥哥高 (Tôi không cao bằng anh trai). Đây là cách phủ định thường dùng nhất của câu 「比」: 哥哥比我高 → 我没有哥哥高.",
+        "**A + 有 + B + tính từ** nghĩa là 'A … bằng B, A đạt tới mức của B', hay dùng trong câu hỏi: 你弟弟有你高吗？ (Em trai bạn cao bằng bạn chưa?).",
+        "Có thể thêm 「这么」 hoặc 「那么」 trước tính từ để nhấn mạnh mức độ của B: 河内没有北京那么冷 (Hà Nội không lạnh như Bắc Kinh). 「这么」 dùng khi B ở gần, ngay trước mắt (người, vật ở đây); 「那么」 dùng khi B ở xa.",
+        "Trong câu này **không** dùng 很, 非常 và **không** thêm 一点儿, 多了, số lượng sau tính từ: không nói 我没有他很高, 火车没有飞机快多了. Cũng không nói 我比他不高."
+      ],
+      "patterns": [
+        "A + 没有 + B + (这么/那么) + tính từ",
+        "A + 有 + B + (这么/那么) + tính từ + 吗？"
+      ],
+      "examples": [
+        {
+          "zh": "河内没有北京那么冷。",
+          "py": "hé nèi méi yǒu běi jīng nà me lěng",
+          "vi": "Hà Nội không lạnh như Bắc Kinh."
+        },
+        {
+          "zh": "坐火车没有坐飞机快。",
+          "py": "zuò huǒ chē méi yǒu zuò fēi jī kuài",
+          "vi": "Đi tàu hỏa không nhanh bằng đi máy bay."
+        },
+        {
+          "zh": "你弟弟有你这么高吗？",
+          "py": "nǐ dì di yǒu nǐ zhè me gāo ma",
+          "vi": "Em trai bạn cao bằng bạn chưa?"
+        },
+        {
+          "zh": "这个酒店没有那个酒店贵。",
+          "py": "zhè ge jiǔ diàn méi yǒu nà ge jiǔ diàn guì",
+          "vi": "Khách sạn này không đắt bằng khách sạn kia."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我比他不高。",
+          "right": "我没有他高。",
+          "noteVi": "Muốn nói 'không cao bằng' thì dùng 「没有」."
+        },
+        {
+          "wrong": "我没有他很高。",
+          "right": "我没有他那么高。",
+          "noteVi": "Câu 「没有」 so sánh không dùng 「很」; muốn nhấn mạnh thì dùng 「那么」/「这么」."
+        },
+        {
+          "wrong": "火车没有飞机快多了。",
+          "right": "火车没有飞机快。",
+          "noteVi": "Sau tính từ trong câu 「没有」 không thêm 多了, 一点儿 hay số lượng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 138,
+      "titleVi": "Câu ghép lựa chọn: （是）……，还是……",
+      "summaryVi": "Đưa ra hai khả năng (hai vế câu) để chọn một: 你是坐飞机去，还是坐火车去？ (Bạn đi máy bay hay đi tàu hỏa?).",
+      "explanationVi": [
+        "Bài 3 đã học câu hỏi lựa chọn với 「还是」 nối hai từ: 你喝茶还是喝咖啡？ Ở bài này, hai lựa chọn là hai **vế câu** đầy đủ hơn, vế đầu thường có 「是」: 你们是今天走，还是明天走？",
+        "「是」 đứng trước lựa chọn thứ nhất, 「还是」 đứng trước lựa chọn thứ hai; giữa hai vế thường có dấu phẩy. Có thể bỏ 「是」: 你坐飞机去，还是坐火车去？",
+        "Câu hỏi với 「还是」 **không** thêm 「吗」 ở cuối. Trả lời bằng cách chọn một vế: 坐飞机去.",
+        "Cấu trúc này cũng nằm được trong câu kể, khi chưa biết hay chưa quyết định: 我不知道他是今天来，还是明天来 (Tôi không biết anh ấy đến hôm nay hay ngày mai)."
+      ],
+      "patterns": [
+        "Chủ ngữ + (是) + lựa chọn A，还是 + lựa chọn B？",
+        "Chủ ngữ + 不知道 + (是) + A，还是 + B"
+      ],
+      "examples": [
+        {
+          "zh": "你是坐飞机去，还是坐火车去？",
+          "py": "nǐ shì zuò fēi jī qù hái shi zuò huǒ chē qù",
+          "vi": "Bạn đi máy bay hay đi tàu hỏa?"
+        },
+        {
+          "zh": "我们是住酒店，还是住朋友家？",
+          "py": "wǒ men shì zhù jiǔ diàn hái shi zhù péng you jiā",
+          "vi": "Chúng ta ở khách sạn hay ở nhà bạn?"
+        },
+        {
+          "zh": "过年的时候，你是回家，还是去旅游？",
+          "py": "guò nián de shí hou nǐ shì huí jiā hái shi qù lǚ yóu",
+          "vi": "Dịp Tết bạn về nhà hay đi du lịch?"
+        },
+        {
+          "zh": "我不知道他是今天来，还是明天来。",
+          "py": "wǒ bù zhī dào tā shì jīn tiān lái hái shi míng tiān lái",
+          "vi": "Tôi không biết anh ấy đến hôm nay hay ngày mai."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你是坐飞机去，还是坐火车去吗？",
+          "right": "你是坐飞机去，还是坐火车去？",
+          "noteVi": "Câu hỏi lựa chọn với 「还是」 không dùng 「吗」."
+        },
+        {
+          "wrong": "你还是坐飞机去，是坐火车去？",
+          "right": "你是坐飞机去，还是坐火车去？",
+          "noteVi": "「是」 đứng trước lựa chọn thứ nhất, 「还是」 đứng trước lựa chọn thứ hai."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 144,
+      "titleVi": "Kể trải nghiệm: động từ + 过 ('đã từng')",
+      "summaryVi": "Động từ + 过 cho biết một việc **đã từng** xảy ra trước đây và nay thành kinh nghiệm: 我去过中国 (Tôi từng đến Trung Quốc rồi).",
+      "explanationVi": [
+        "「过」 nói về **kinh nghiệm**: việc đã xảy ra ít nhất một lần trước đây, bây giờ không còn tiếp diễn. Giống 'đã từng', '… bao giờ chưa' trong tiếng Việt: 你吃过饺子吗？ (Bạn ăn sủi cảo bao giờ chưa?).",
+        "So sánh với 「了」: 他去了北京 (Anh ấy đã đi Bắc Kinh, có thể bây giờ vẫn ở đó); 他去过北京 (Anh ấy từng đến Bắc Kinh, nay đã về).",
+        "Đếm số lần: động từ + 过 + số + 次 + tân ngữ: 我去过两次北京; với nơi chốn cũng nói được 我去过北京两次. Tân ngữ là đại từ (他, 你) thì số lần đứng **sau** đại từ: 我见过他两次. Hỏi: 你去过几次？",
+        "Có thể thêm thời gian trước động từ: 去年我去过一次上海. Chưa từng bao giờ: 我还没坐过飞机 (Tôi còn chưa đi máy bay bao giờ)."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + 过 + tân ngữ",
+        "Động từ + 过 + số + 次 + tân ngữ",
+        "Động từ + 过 + đại từ + số + 次"
+      ],
+      "examples": [
+        {
+          "zh": "你去过中国吗？——去过，我去过两次。",
+          "py": "nǐ qù guo zhōng guó ma qù guo wǒ qù guo liǎng cì",
+          "vi": "Bạn đã đến Trung Quốc bao giờ chưa? — Đến rồi, tôi đến hai lần rồi."
+        },
+        {
+          "zh": "我还没坐过飞机。",
+          "py": "wǒ hái méi zuò guo fēi jī",
+          "vi": "Tôi còn chưa đi máy bay bao giờ."
+        },
+        {
+          "zh": "去年我去过一次北京。",
+          "py": "qù nián wǒ qù guo yí cì běi jīng",
+          "vi": "Năm ngoái tôi đã đến Bắc Kinh một lần."
+        },
+        {
+          "zh": "这个酒店我住过，很不错。",
+          "py": "zhè ge jiǔ diàn wǒ zhù guo hěn bú cuò",
+          "vi": "Khách sạn này tôi từng ở rồi, khá tốt."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我去北京过两次。",
+          "right": "我去过两次北京。",
+          "noteVi": "「过」 đứng ngay sau động từ 「去」."
+        },
+        {
+          "wrong": "我见过两次他。",
+          "right": "我见过他两次。",
+          "noteVi": "Tân ngữ là đại từ thì số lần (两次) đứng sau đại từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-10-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "机场",
+          "sân bay"
+        ],
+        [
+          "机票",
+          "vé máy bay"
+        ],
+        [
+          "门票",
+          "vé vào cửa"
+        ],
+        [
+          "酒店",
+          "khách sạn"
+        ],
+        [
+          "旅游",
+          "du lịch"
+        ],
+        [
+          "出国",
+          "ra nước ngoài"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-10-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "晴",
+          "nắng"
+        ],
+        [
+          "阴",
+          "âm u"
+        ],
+        [
+          "鸟",
+          "chim"
+        ],
+        [
+          "飞",
+          "bay"
+        ],
+        [
+          "过年",
+          "ăn Tết"
+        ],
+        [
+          "票",
+          "vé"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-10-e03",
+      "type": "match",
+      "promptVi": "Nối bổ ngữ xu hướng với nghĩa.",
+      "pairs": [
+        [
+          "上来",
+          "lên đây"
+        ],
+        [
+          "上去",
+          "lên đó"
+        ],
+        [
+          "下来",
+          "xuống đây"
+        ],
+        [
+          "下去",
+          "xuống đó"
+        ],
+        [
+          "过来",
+          "qua đây"
+        ],
+        [
+          "过去",
+          "qua đó"
+        ]
+      ],
+      "grammar": [
+        121
+      ]
+    },
+    {
+      "id": "hsk2-10-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi chưa từng đến Bắc Kinh.)",
+      "options": [
+        "我没去过北京。",
+        "我不去过北京。",
+        "我没去北京过。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định: 没 + động từ + 过 + tân ngữ.",
+      "grammar": [
+        101,
+        144
+      ]
+    },
+    {
+      "id": "hsk2-10-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你吃",
+      "after": "饺子吗？",
+      "answers": [
+        "过"
+      ],
+      "options": [
+        "过",
+        "着",
+        "得"
+      ],
+      "vi": "Bạn đã ăn sủi cảo bao giờ chưa?",
+      "explainVi": "Hỏi về kinh nghiệm ('bao giờ chưa') dùng 「过」.",
+      "grammar": [
+        101,
+        144
+      ]
+    },
+    {
+      "id": "hsk2-10-e06",
+      "type": "order",
+      "vi": "Tôi chưa bơi bao giờ.",
+      "tiles": [
+        "泳",
+        "我",
+        "游过",
+        "没"
+      ],
+      "answers": [
+        "我没游过泳"
+      ],
+      "explainVi": "「过」 chen vào giữa động từ ly hợp 「游泳」.",
+      "grammar": [
+        101
+      ]
+    },
+    {
+      "id": "hsk2-10-e07",
+      "type": "translate",
+      "vi": "Bạn đã đến Trung Quốc bao giờ chưa?",
+      "answers": [
+        "你去过中国[吗|没有]？",
+        "你[去没去过|有没有去过]中国？"
+      ],
+      "examples": [
+        {
+          "answer": "你去过中国吗？",
+          "score": 100
+        },
+        {
+          "answer": "你去过中国没有？",
+          "score": 100
+        },
+        {
+          "answer": "你去没去过中国？",
+          "score": 100
+        },
+        {
+          "answer": "你去过北京吗？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        144,
+        101
+      ]
+    },
+    {
+      "id": "hsk2-10-e08",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你坐过飞机吗？",
+        "promptVi": "Bạn đã đi máy bay bao giờ chưa? (Giả sử bạn đã đi hai lần.)",
+        "answers": [
+          "(我)坐过(两次)(飞机)。",
+          "坐过，(我)坐过两次。"
+        ],
+        "examples": [
+          {
+            "answer": "坐过。",
+            "score": 100
+          },
+          {
+            "answer": "我坐过两次。",
+            "score": 100
+          },
+          {
+            "answer": "我坐过两次飞机。",
+            "score": 100
+          },
+          {
+            "answer": "坐过，我坐过两次。",
+            "score": 100
+          },
+          {
+            "answer": "我没坐过飞机。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        144
+      ]
+    },
+    {
+      "id": "hsk2-10-e09",
+      "type": "choice",
+      "promptVi": "「他去过北京。」 nghĩa là gì?",
+      "options": [
+        "Anh ấy đã từng đến Bắc Kinh.",
+        "Anh ấy đang ở Bắc Kinh.",
+        "Anh ấy sắp đi Bắc Kinh."
+      ],
+      "answer": 0,
+      "grammar": [
+        144
+      ]
+    },
+    {
+      "id": "hsk2-10-e10",
+      "type": "order",
+      "vi": "Năm ngoái tôi đã đến Thượng Hải một lần.",
+      "tiles": [
+        "一次",
+        "我",
+        "去过",
+        "上海",
+        "去年"
+      ],
+      "answers": [
+        "去年我去过一次上海",
+        "我去年去过一次上海",
+        "去年我去过上海一次",
+        "我去年去过上海一次"
+      ],
+      "explainVi": "Số lần (一次) đứng sau 「去过」, trước hoặc sau nơi chốn.",
+      "grammar": [
+        144
+      ]
+    },
+    {
+      "id": "hsk2-10-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Vé máy bay của tôi ở đâu?)",
+      "options": [
+        "我的机票在哪儿？",
+        "机票我的在哪儿？",
+        "机票的我在哪儿？"
+      ],
+      "answer": 0,
+      "explainVi": "Phần miêu tả (我的) đứng trước danh từ.",
+      "grammar": [
+        108
+      ]
+    },
+    {
+      "id": "hsk2-10-e12",
+      "type": "order",
+      "vi": "Khách sạn chúng tôi ở rất mới.",
+      "tiles": [
+        "酒店",
+        "住",
+        "很新",
+        "我们",
+        "的"
+      ],
+      "answers": [
+        "我们住的酒店很新"
+      ],
+      "explainVi": "「我们住的」 đứng trước danh từ 「酒店」.",
+      "grammar": [
+        108
+      ]
+    },
+    {
+      "id": "hsk2-10-e13",
+      "type": "fill",
+      "promptVi": "Chọn chữ đúng.",
+      "before": "这是我昨天买",
+      "after": "机票。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "地",
+        "得"
+      ],
+      "vi": "Đây là vé máy bay tôi mua hôm qua.",
+      "grammar": [
+        108
+      ]
+    },
+    {
+      "id": "hsk2-10-e14",
+      "type": "translate",
+      "vi": "Đây là vé máy bay tôi mua.",
+      "answers": [
+        "这是我买的机票。"
+      ],
+      "examples": [
+        {
+          "answer": "这是我买的机票。",
+          "score": 100
+        },
+        {
+          "answer": "这是我买机票。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 的"
+        },
+        {
+          "answer": "这是机票我买的。",
+          "score": 0,
+          "note": "Sai trật tự: phần miêu tả phải đứng trước danh từ"
+        }
+      ],
+      "grammar": [
+        108
+      ]
+    },
+    {
+      "id": "hsk2-10-e15",
+      "type": "fill",
+      "promptVi": "Chọn bổ ngữ đúng.",
+      "before": "你看，那只鸟飞",
+      "after": "了！",
+      "answers": [
+        "起来"
+      ],
+      "options": [
+        "起来",
+        "下去",
+        "进去"
+      ],
+      "vi": "Nhìn kìa, con chim kia bay lên rồi!",
+      "grammar": [
+        121
+      ]
+    },
+    {
+      "id": "hsk2-10-e16",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Thầy giáo đi vào lớp rồi.)",
+      "options": [
+        "老师走进教室来了。",
+        "老师走进来教室了。",
+        "老师走来进教室了。"
+      ],
+      "answer": 0,
+      "explainVi": "Nơi chốn (教室) đứng giữa 「进」 và 「来」.",
+      "grammar": [
+        121
+      ]
+    },
+    {
+      "id": "hsk2-10-e17",
+      "type": "order",
+      "vi": "Bọn trẻ đều chạy về nhà cả rồi.",
+      "tiles": [
+        "去了",
+        "孩子们",
+        "跑回",
+        "家",
+        "都"
+      ],
+      "answers": [
+        "孩子们都跑回家去了"
+      ],
+      "explainVi": "Nơi chốn (家) đứng giữa 「跑回」 và 「去」.",
+      "grammar": [
+        121
+      ]
+    },
+    {
+      "id": "hsk2-10-e18",
+      "type": "choice",
+      "promptVi": "Bạn đang ở tầng một, bạn của bạn ở tầng ba. Bạn gọi to bảo bạn ấy đi xuống chỗ mình:",
+      "options": [
+        "你快下来！",
+        "你快下去！",
+        "你快上来！"
+      ],
+      "answer": 0,
+      "explainVi": "Đi xuống, về phía người nói: 「下来」.",
+      "grammar": [
+        121
+      ]
+    },
+    {
+      "id": "hsk2-10-e19",
+      "type": "translate",
+      "vi": "Anh ấy từ trong phòng chạy ra.",
+      "answers": [
+        "他从房间(里)跑出来(了)。"
+      ],
+      "examples": [
+        {
+          "answer": "他从房间里跑出来了。",
+          "score": 100
+        },
+        {
+          "answer": "他从房间跑出来了。",
+          "score": 100
+        },
+        {
+          "answer": "他从房间里跑出来。",
+          "score": 100
+        },
+        {
+          "answer": "他跑出来从房间里。",
+          "score": 0,
+          "note": "Sai trật tự: 从房间里 phải đứng trước động từ"
+        },
+        {
+          "answer": "他从房间里跑进来了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        121
+      ]
+    },
+    {
+      "id": "hsk2-10-e20",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hôm nay trời nắng.)",
+      "options": [
+        "今天是晴天。",
+        "今天是晴。",
+        "今天是很晴天。"
+      ],
+      "answer": 0,
+      "explainVi": "「晴」 là tính từ; sau 「是」 dùng danh từ 「晴天」.",
+      "grammar": [
+        128
+      ]
+    },
+    {
+      "id": "hsk2-10-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的机票是明天上午",
+      "after": "。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "了",
+        "吗"
+      ],
+      "vi": "Vé máy bay của tôi là chuyến sáng mai.",
+      "grammar": [
+        128
+      ]
+    },
+    {
+      "id": "hsk2-10-e22",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "明天天气怎么样？",
+        "promptVi": "Ngày mai thời tiết thế nào? (Giả sử ngày mai trời âm u.)",
+        "answers": [
+          "(明天)(是)阴天。"
+        ],
+        "examples": [
+          {
+            "answer": "明天是阴天。",
+            "score": 100
+          },
+          {
+            "answer": "阴天。",
+            "score": 100
+          },
+          {
+            "answer": "明天阴天。",
+            "score": 100
+          },
+          {
+            "answer": "明天是晴天。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        128
+      ]
+    },
+    {
+      "id": "hsk2-10-e23",
+      "type": "choice",
+      "promptVi": "Câu nào có nghĩa 'Hà Nội không lạnh bằng Bắc Kinh'?",
+      "options": [
+        "河内没有北京冷。",
+        "北京没有河内冷。",
+        "河内比北京冷。"
+      ],
+      "answer": 0,
+      "grammar": [
+        133
+      ]
+    },
+    {
+      "id": "hsk2-10-e24",
+      "type": "order",
+      "vi": "Đi tàu hỏa không nhanh bằng đi máy bay.",
+      "tiles": [
+        "坐飞机",
+        "没有",
+        "快",
+        "坐火车"
+      ],
+      "answers": [
+        "坐火车没有坐飞机快"
+      ],
+      "grammar": [
+        133
+      ]
+    },
+    {
+      "id": "hsk2-10-e25",
+      "type": "translate",
+      "vi": "Tôi không cao bằng anh trai.",
+      "answers": [
+        "我没有(我)哥哥([这么|那么])高。"
+      ],
+      "examples": [
+        {
+          "answer": "我没有哥哥高。",
+          "score": 100
+        },
+        {
+          "answer": "我没有哥哥那么高。",
+          "score": 100
+        },
+        {
+          "answer": "我没有我哥哥这么高。",
+          "score": 100
+        },
+        {
+          "answer": "我没有哥哥很高。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Câu 没有 so sánh không dùng 很"
+        },
+        {
+          "answer": "哥哥没有我高。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        133
+      ]
+    },
+    {
+      "id": "hsk2-10-e26",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你弟弟",
+      "after": "你这么高吗？",
+      "answers": [
+        "有"
+      ],
+      "options": [
+        "有",
+        "是",
+        "比"
+      ],
+      "vi": "Em trai bạn cao bằng bạn chưa?",
+      "grammar": [
+        133
+      ]
+    },
+    {
+      "id": "hsk2-10-e27",
+      "type": "choice",
+      "promptVi": "Câu hỏi nào đúng?",
+      "options": [
+        "你是坐飞机去，还是坐火车去？",
+        "你是坐飞机去，还是坐火车去吗？",
+        "你还是坐飞机去，是坐火车去？"
+      ],
+      "answer": 0,
+      "explainVi": "「是」 trước lựa chọn thứ nhất, 「还是」 trước lựa chọn thứ hai, cuối câu không có 「吗」.",
+      "grammar": [
+        138
+      ]
+    },
+    {
+      "id": "hsk2-10-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你是坐飞机去，还是坐火车去？",
+        "promptVi": "Bạn đi máy bay hay đi tàu hỏa? (Giả sử bạn đi máy bay.)",
+        "answers": [
+          "(我)坐飞机(去)。"
+        ],
+        "examples": [
+          {
+            "answer": "我坐飞机去。",
+            "score": 100
+          },
+          {
+            "answer": "坐飞机。",
+            "score": 100
+          },
+          {
+            "answer": "我坐火车去。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        138
+      ]
+    },
+    {
+      "id": "hsk2-10-e29",
+      "type": "order",
+      "vi": "Chúng ta ở khách sạn hay ở nhà bạn?",
+      "tiles": [
+        "还是",
+        "我们",
+        "住朋友家",
+        "是",
+        "住酒店"
+      ],
+      "answers": [
+        "我们是住酒店还是住朋友家"
+      ],
+      "grammar": [
+        138
+      ]
+    },
+    {
+      "id": "hsk2-10-e30",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "外边有几只鸟？",
+        "promptVi": "Bên ngoài có mấy con chim?",
+        "picture": "🐦🐦🐦🐦🐦",
+        "expected": {
+          "number": 5,
+          "noun": "鸟",
+          "sentence": "外边有五只鸟。"
+        },
+        "examples": [
+          {
+            "answer": "外边有五只鸟。",
+            "score": 100
+          },
+          {
+            "answer": "有五只。",
+            "score": 100
+          },
+          {
+            "answer": "五只鸟。",
+            "score": 100
+          },
+          {
+            "answer": "外边有五个鸟。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "外边有五鸟。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "外边有六只鸟。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-10-e31",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你的机票在哪儿？",
+        "promptVi": "Vé máy bay của bạn ở đâu? (Trong hình: vé máy bay ở trong túi.)",
+        "expected": {
+          "places": [
+            "包",
+            "书包"
+          ],
+          "localizer": "里",
+          "sentence": "机票在包里。"
+        },
+        "examples": [
+          {
+            "answer": "机票在包里。",
+            "score": 100
+          },
+          {
+            "answer": "在我的包里。",
+            "score": 100
+          },
+          {
+            "answer": "包里。",
+            "score": 100
+          },
+          {
+            "answer": "在包。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "在里包。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "机票在桌子上。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

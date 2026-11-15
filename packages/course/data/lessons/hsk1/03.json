@@ -1,0 +1,1301 @@
+{
+  "id": "hsk1-03",
+  "goalsVi": [
+    "Giới thiệu các thành viên trong gia đình: 这是我爸爸。",
+    "Nói mình có hay không có anh chị em: 我有一个哥哥，没有妹妹。",
+    "Hỏi và nói nhà có mấy người; đếm từ 1 đến 5 với lượng từ 「个」, 「口」",
+    "Nói sở hữu với 「的」 và nối danh từ bằng 「和」"
+  ],
+  "words": [
+    {
+      "no": 86,
+      "word": "家",
+      "meaningsVi": [
+        "nhà, gia đình"
+      ],
+      "noteVi": "「我家」 = nhà tôi, gia đình tôi. Trước 「家」 thường không cần 「的」: 我家, 你家, 王老师家.",
+      "examples": [
+        {
+          "zh": "这是我家。",
+          "py": "zhè shì wǒ jiā",
+          "vi": "Đây là nhà tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 87,
+      "word": "家人",
+      "meaningsVi": [
+        "người nhà, người trong gia đình"
+      ],
+      "examples": [
+        {
+          "zh": "我的家人都很好。",
+          "py": "wǒ de jiā rén dōu hěn hǎo",
+          "vi": "Người nhà tôi đều khỏe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 3,
+      "word": "爸爸",
+      "meaningsVi": [
+        "bố, ba, cha"
+      ],
+      "examples": [
+        {
+          "zh": "这是我爸爸。",
+          "py": "zhè shì wǒ bà ba",
+          "vi": "Đây là bố tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 114,
+      "word": "妈妈",
+      "meaningsVi": [
+        "mẹ, má"
+      ],
+      "examples": [
+        {
+          "zh": "我妈妈是老师。",
+          "py": "wǒ mā ma shì lǎo shī",
+          "vi": "Mẹ tôi là giáo viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 58,
+      "word": "哥哥",
+      "meaningsVi": [
+        "anh trai"
+      ],
+      "examples": [
+        {
+          "zh": "我有一个哥哥。",
+          "py": "wǒ yǒu yí gè gē ge",
+          "vi": "Tôi có một anh trai."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 92,
+      "word": "姐姐",
+      "meaningsVi": [
+        "chị gái"
+      ],
+      "examples": [
+        {
+          "zh": "她是我姐姐。",
+          "py": "tā shì wǒ jiě jie",
+          "vi": "Cô ấy là chị gái tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 31,
+      "word": "弟弟",
+      "meaningsVi": [
+        "em trai"
+      ],
+      "noteVi": "Tiếng Việt chỉ cần nói 'em', tiếng Trung luôn phân biệt: 「弟弟」 (em trai), 「妹妹」 (em gái).",
+      "examples": [
+        {
+          "zh": "我弟弟也是学生。",
+          "py": "wǒ dì di yě shì xué shēng",
+          "vi": "Em trai tôi cũng là học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 123,
+      "word": "妹妹",
+      "meaningsVi": [
+        "em gái"
+      ],
+      "examples": [
+        {
+          "zh": "我没有妹妹。",
+          "py": "wǒ méi yǒu mèi mei",
+          "vi": "Tôi không có em gái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 48,
+      "word": "儿子",
+      "meaningsVi": [
+        "con trai"
+      ],
+      "noteVi": "「儿子」 là con trai của mình (quan hệ cha mẹ – con), không phải 'cậu bé' nói chung.",
+      "examples": [
+        {
+          "zh": "王老师有两个儿子。",
+          "py": "wáng lǎo shī yǒu liǎng gè ér zi",
+          "vi": "Thầy Vương có hai con trai."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 153,
+      "word": "女儿",
+      "meaningsVi": [
+        "con gái"
+      ],
+      "examples": [
+        {
+          "zh": "这是我女儿，她叫小红。",
+          "py": "zhè shì wǒ nǚ ér tā jiào xiǎo hóng",
+          "vi": "Đây là con gái tôi, cháu tên là Tiểu Hồng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 68,
+      "word": "孩子",
+      "meaningsVi": [
+        "con, con cái",
+        "trẻ con, đứa trẻ"
+      ],
+      "noteVi": "「孩子」 là con nói chung, không nói rõ trai hay gái; cũng dùng để chỉ trẻ em.",
+      "examples": [
+        {
+          "zh": "你有孩子吗？",
+          "py": "nǐ yǒu hái zi ma",
+          "vi": "Anh chị có con không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 263,
+      "word": "有",
+      "meaningsVi": [
+        "có"
+      ],
+      "noteVi": "Phủ định của 「有」 là 「没有」, không bao giờ nói 「不有」.",
+      "examples": [
+        {
+          "zh": "我有两个姐姐。",
+          "py": "wǒ yǒu liǎng gè jiě jie",
+          "vi": "Tôi có hai chị gái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 122,
+      "word": "没有",
+      "meaningsVi": [
+        "không có"
+      ],
+      "noteVi": "Ở bài này 「没有」 là phủ định của 「有」. Nghĩa 'chưa' (chưa làm gì) sẽ học ở bài sau.",
+      "examples": [
+        {
+          "zh": "他没有哥哥。",
+          "py": "tā méi yǒu gē ge",
+          "vi": "Anh ấy không có anh trai."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 78,
+      "word": "和",
+      "meaningsVi": [
+        "và, với"
+      ],
+      "noteVi": "「和」 chỉ nối hai danh từ hoặc đại từ (爸爸和妈妈). Không dùng 「和」 để nối hai câu như chữ 'và' trong tiếng Việt.",
+      "examples": [
+        {
+          "zh": "我和我弟弟都是学生。",
+          "py": "wǒ hé wǒ dì di dōu shì xué shēng",
+          "vi": "Tôi và em trai tôi đều là học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 30,
+      "word": "的",
+      "meaningsVi": [
+        "của (đặt sau người sở hữu)"
+      ],
+      "noteVi": "Thứ tự ngược với tiếng Việt: 'bạn của tôi' → 「我的朋友」. Với người thân, nhà, nhóm của mình, thường bỏ 「的」: 我妈妈, 我家.",
+      "examples": [
+        {
+          "zh": "她是我的同学。",
+          "py": "tā shì wǒ de tóng xué",
+          "vi": "Cô ấy là bạn cùng lớp của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 279,
+      "word": "这",
+      "meaningsVi": [
+        "đây, này"
+      ],
+      "noteVi": "「这是…」 = 'Đây là…'. Cách nói 'cái này, người này' (这个) sẽ học ở bài 6.",
+      "examples": [
+        {
+          "zh": "这是我妈妈。",
+          "py": "zhè shì wǒ mā ma",
+          "vi": "Đây là mẹ tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 136,
+      "word": "那",
+      "meaningsVi": [
+        "kia, đó"
+      ],
+      "noteVi": "「那」 (nà, thanh 4: kia) khác 「哪」 (nǎ, thanh 3: nào).",
+      "examples": [
+        {
+          "zh": "那是我哥哥。",
+          "py": "nà shì wǒ gē ge",
+          "vi": "Kia là anh trai tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 181,
+      "word": "谁",
+      "meaningsVi": [
+        "ai"
+      ],
+      "noteVi": "Đọc shéi (hay dùng khi nói) hoặc shuí. Giống 「什么」, 「谁」 đứng đúng chỗ của người được hỏi; câu có 「谁」 không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "她是谁？",
+          "py": "tā shì shéi",
+          "vi": "Cô ấy là ai?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 85,
+      "word": "几",
+      "meaningsVi": [
+        "mấy (hỏi số lượng nhỏ, thường dưới 10)"
+      ],
+      "noteVi": "「几」 phải đi với lượng từ, như 'mấy **người**': 几个, 几口. Câu có 「几」 không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "你家有几口人？",
+          "py": "nǐ jiā yǒu jǐ kǒu rén",
+          "vi": "Nhà bạn có mấy người?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 60,
+      "word": "个",
+      "meaningsVi": [
+        "(lượng từ chung, dùng nhiều nhất) cái, con, người…"
+      ],
+      "noteVi": "Giữa số và danh từ phải có lượng từ, như tiếng Việt nói 'một **người** bạn': 一个朋友, không nói 「一朋友」. 「个」 thường đọc nhẹ (ge).",
+      "examples": [
+        {
+          "zh": "他有一个女儿。",
+          "py": "tā yǒu yí gè nǚ ér",
+          "vi": "Anh ấy có một cô con gái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 104,
+      "word": "口",
+      "meaningsVi": [
+        "(lượng từ) người — khi nói số người trong gia đình",
+        "miệng"
+      ],
+      "noteVi": "「口」 chỉ dùng khi nói nhà có mấy người: 我家有五口人. Đếm người ở chỗ khác thì dùng 「个」: 三个学生.",
+      "examples": [
+        {
+          "zh": "我家有三口人。",
+          "py": "wǒ jiā yǒu sān kǒu rén",
+          "vi": "Nhà tôi có ba người."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 254,
+      "word": "一",
+      "meaningsVi": [
+        "một"
+      ],
+      "noteVi": "Đứng một mình đọc yī. Trước thanh 4 đọc yí (一个 yí ge); trước thanh 1, 2, 3 đọc yì.",
+      "examples": [
+        {
+          "zh": "我有一个妹妹。",
+          "py": "wǒ yǒu yí gè mèi mei",
+          "vi": "Tôi có một em gái."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 49,
+      "word": "二",
+      "meaningsVi": [
+        "hai (khi đếm, đọc số)"
+      ],
+      "noteVi": "Đếm 1, 2, 3 thì nói 「一、二、三」. Nhưng trước lượng từ phải dùng 「两」: 两个, không nói 「二个」.",
+      "examples": [
+        {
+          "zh": "一、二、三、四、五！",
+          "py": "yī èr sān sì wǔ",
+          "vi": "Một, hai, ba, bốn, năm!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 111,
+      "word": "两",
+      "meaningsVi": [
+        "hai (đứng trước lượng từ)"
+      ],
+      "noteVi": "'Hai người', 'hai cái' dùng 「两」: 两个, 两口. Âm Hán Việt 'lưỡng'.",
+      "examples": [
+        {
+          "zh": "我有两个弟弟。",
+          "py": "wǒ yǒu liǎng gè dì di",
+          "vi": "Tôi có hai em trai."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 173,
+      "word": "三",
+      "meaningsVi": [
+        "ba (số 3)"
+      ],
+      "examples": [
+        {
+          "zh": "我们三个人都是学生。",
+          "py": "wǒ men sān gè rén dōu shì xué shēng",
+          "vi": "Cả ba chúng tôi đều là học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 198,
+      "word": "四",
+      "meaningsVi": [
+        "bốn (số 4)"
+      ],
+      "noteVi": "「四」 (sì) dễ nghe nhầm với 「十」 (shí, mười) sẽ học ở bài 4: chú ý âm s và sh.",
+      "examples": [
+        {
+          "zh": "我家有四口人：爸爸、妈妈、哥哥和我。",
+          "py": "wǒ jiā yǒu sì kǒu rén bà ba mā ma gē ge hé wǒ",
+          "vi": "Nhà tôi có bốn người: bố, mẹ, anh trai và tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 223,
+      "word": "五",
+      "meaningsVi": [
+        "năm (số 5)"
+      ],
+      "examples": [
+        {
+          "zh": "王老师家有五口人。",
+          "py": "wáng lǎo shī jiā yǒu wǔ kǒu rén",
+          "vi": "Nhà thầy Vương có năm người."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 23,
+      "titleVi": "Liên từ 「和」: và",
+      "summaryVi": "「和」 nối hai danh từ hoặc đại từ: 爸爸和妈妈, 我和你; không nối hai câu.",
+      "explanationVi": [
+        "「和」 nghĩa là 'và, với', dùng để nối **danh từ với danh từ**, **đại từ với đại từ**: 爸爸和妈妈 (bố và mẹ), 我和他 (tôi và anh ấy).",
+        "Khác tiếng Việt: chữ 'và' nối được hai câu (Tôi là học sinh và anh ấy là giáo viên), còn 「和」 thì **không**. Hai câu chỉ cần ngăn bằng dấu phẩy: 我是学生，他是老师。",
+        "Khi kể từ ba thứ trở lên, đặt 「和」 trước thứ cuối cùng, các thứ khác ngăn bằng dấu 「、」: 爸爸、妈妈和我."
+      ],
+      "patterns": [
+        "A 和 B",
+        "A、B 和 C"
+      ],
+      "examples": [
+        {
+          "zh": "爸爸和妈妈都是老师。",
+          "py": "bà ba hé mā ma dōu shì lǎo shī",
+          "vi": "Bố và mẹ đều là giáo viên."
+        },
+        {
+          "zh": "我和她是同学。",
+          "py": "wǒ hé tā shì tóng xué",
+          "vi": "Tôi và cô ấy là bạn cùng lớp."
+        },
+        {
+          "zh": "我有一个哥哥和一个妹妹。",
+          "py": "wǒ yǒu yí gè gē ge hé yí gè mèi mei",
+          "vi": "Tôi có một anh trai và một em gái."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我是学生和我哥哥是老师。",
+          "right": "我是学生，我哥哥是老师。",
+          "noteVi": "「和」 không nối hai câu như 'và' trong tiếng Việt; dùng dấu phẩy để ngăn hai câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 24,
+      "titleVi": "Trợ từ 「的」: của",
+      "summaryVi": "Người sở hữu + 的 + vật/người được sở hữu: 我的朋友 (bạn của tôi).",
+      "explanationVi": [
+        "「的」 giống chữ 'của', nhưng thứ tự **ngược với tiếng Việt**: người sở hữu đứng trước, 「的」 ở giữa, vật hay người được sở hữu đứng sau. 'Bạn của tôi' → 「我的朋友」; 'con gái của thầy Vương' → 「王老师的女儿」.",
+        "Khi nói về người thân, gia đình, nhóm của mình, thường **bỏ** 「的」: 我妈妈, 我哥哥, 我家, 我们老师. Nói 「我的妈妈」 cũng đúng.",
+        "Có thể ghép nhiều tầng: 我朋友的妈妈 (mẹ của bạn tôi)."
+      ],
+      "patterns": [
+        "Người sở hữu + 的 + danh từ",
+        "Đại từ + danh từ chỉ người thân (bỏ 的)"
+      ],
+      "examples": [
+        {
+          "zh": "这是我的朋友。",
+          "py": "zhè shì wǒ de péng you",
+          "vi": "Đây là bạn của tôi."
+        },
+        {
+          "zh": "她是王老师的女儿。",
+          "py": "tā shì wáng lǎo shī de nǚ ér",
+          "vi": "Cô ấy là con gái của thầy Vương."
+        },
+        {
+          "zh": "那是我妈妈。",
+          "py": "nà shì wǒ mā ma",
+          "vi": "Kia là mẹ tôi."
+        },
+        {
+          "zh": "这是我朋友的哥哥。",
+          "py": "zhè shì wǒ péng you de gē ge",
+          "vi": "Đây là anh trai của bạn tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这是朋友的我。",
+          "right": "这是我的朋友。",
+          "noteVi": "Tiếng Việt nói 'bạn của tôi', tiếng Trung đặt người sở hữu lên trước: 「我的朋友」."
+        },
+        {
+          "wrong": "这是妈妈我。",
+          "right": "这是我妈妈。",
+          "noteVi": "'Mẹ tôi' là 「我妈妈」: 「我」 đứng trước 「妈妈」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 28,
+      "titleVi": "Cụm liên hợp (cụm từ ngang hàng)",
+      "summaryVi": "Hai hay nhiều từ ngang hàng ghép lại thành một cụm, có hoặc không có 「和」: 爸爸妈妈, 哥哥和姐姐.",
+      "explanationVi": [
+        "Cụm liên hợp gồm hai hay nhiều từ **ngang hàng**, không từ nào bổ nghĩa cho từ nào: 爸爸妈妈 (bố mẹ), 哥哥和姐姐 (anh trai và chị gái), 我和你 (tôi và bạn).",
+        "Có thể nối bằng 「和」 hoặc đặt sát nhau, giống tiếng Việt nói 'bố mẹ' hay 'bố và mẹ'. Phân biệt với 「的」: 哥哥的姐姐 là 'chị gái **của** anh trai', còn 哥哥姐姐 là 'anh trai **và** chị gái'.",
+        "Cả cụm đóng vai trò như một danh từ: làm chủ ngữ (爸爸妈妈都是老师) hoặc tân ngữ (我有哥哥和姐姐)."
+      ],
+      "patterns": [
+        "A + B",
+        "A + 和 + B",
+        "A、B + 和 + C"
+      ],
+      "examples": [
+        {
+          "zh": "我爸爸妈妈都是越南人。",
+          "py": "wǒ bà ba mā ma dōu shì yuè nán rén",
+          "vi": "Bố mẹ tôi đều là người Việt Nam."
+        },
+        {
+          "zh": "他有哥哥和姐姐。",
+          "py": "tā yǒu gē ge hé jiě jie",
+          "vi": "Anh ấy có anh trai và chị gái."
+        },
+        {
+          "zh": "大卫、玛丽和安娜都是我的同学。",
+          "py": "dà wèi mǎ lì hé ān nà dōu shì wǒ de tóng xué",
+          "vi": "David, Mary và Anna đều là bạn cùng lớp của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 38,
+      "titleVi": "Tân ngữ là danh từ, đại từ hoặc cụm danh từ",
+      "summaryVi": "Tân ngữ đứng sau động từ, có thể là đại từ (他), danh từ (哥哥) hoặc cả một cụm danh từ (王老师的儿子).",
+      "explanationVi": [
+        "Tân ngữ là người hay vật chịu tác động của động từ; nó đứng **sau động từ**, giống tiếng Việt: 我认识**他** (Tôi quen anh ấy), 我有**一个哥哥** (Tôi có một anh trai).",
+        "Tân ngữ có thể là đại từ, danh từ, tên riêng hoặc một cụm danh từ dài: 我认识**王老师的儿子**.",
+        "Trong cụm danh từ, từ bổ nghĩa đứng **trước** danh từ chính, ngược với tiếng Việt: 'một người bạn Trung Quốc' là 「一个中国朋友」."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + tân ngữ (danh từ / đại từ / cụm danh từ)"
+      ],
+      "examples": [
+        {
+          "zh": "我认识他。",
+          "py": "wǒ rèn shi tā",
+          "vi": "Tôi quen anh ấy."
+        },
+        {
+          "zh": "她有一个中国朋友。",
+          "py": "tā yǒu yí gè zhōng guó péng you",
+          "vi": "Cô ấy có một người bạn Trung Quốc."
+        },
+        {
+          "zh": "你认识王老师的女儿吗？",
+          "py": "nǐ rèn shi wáng lǎo shī de nǚ ér ma",
+          "vi": "Bạn có quen con gái của thầy Vương không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我有一个朋友中国。",
+          "right": "我有一个中国朋友。",
+          "noteVi": "Tiếng Việt nói 'người bạn Trung Quốc', tiếng Trung đặt 「中国」 trước 「朋友」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 53,
+      "titleVi": "Câu chữ 「有」: có (sở hữu)",
+      "summaryVi": "A 有 B: A có B. Phủ định: A 没有 B (không nói 不有). Hỏi: A 有 B 吗？ / A 有几个 B？",
+      "explanationVi": [
+        "「有」 nói ai có cái gì, có ai: 我有一个哥哥 (Tôi có một anh trai).",
+        "Phủ định của 「有」 **luôn là 「没有」**: 我没有妹妹. Không nói 「不有」 — đây là lỗi rất hay gặp vì tiếng Việt chỉ có một chữ 'không'.",
+        "Khi có số lượng, phải có lượng từ giữa số và danh từ: 一个哥哥, 五口人. Số 2 trước lượng từ là 「两」: 两个弟弟.",
+        "Hỏi có/không: thêm 「吗」: 你有哥哥吗？ Hỏi số lượng: dùng 「几」 + lượng từ: 你有几个哥哥？ 你家有几口人？"
+      ],
+      "patterns": [
+        "A + 有 + (số + lượng từ) + B",
+        "A + 没有 + B",
+        "A + 有 + 几 + lượng từ + B？"
+      ],
+      "examples": [
+        {
+          "zh": "我有一个哥哥。",
+          "py": "wǒ yǒu yí gè gē ge",
+          "vi": "Tôi có một anh trai."
+        },
+        {
+          "zh": "我没有妹妹。",
+          "py": "wǒ méi yǒu mèi mei",
+          "vi": "Tôi không có em gái."
+        },
+        {
+          "zh": "你有几个孩子？",
+          "py": "nǐ yǒu jǐ gè hái zi",
+          "vi": "Anh chị có mấy người con?"
+        },
+        {
+          "zh": "他家有五口人。",
+          "py": "tā jiā yǒu wǔ kǒu rén",
+          "vi": "Nhà anh ấy có năm người."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我不有妹妹。",
+          "right": "我没有妹妹。",
+          "noteVi": "Phủ định của 「有」 là 「没有」, không dùng 「不」.",
+          "issue": "bu_you"
+        },
+        {
+          "wrong": "我有二个哥哥。",
+          "right": "我有两个哥哥。",
+          "noteVi": "Trước lượng từ, số 2 nói là 「两」.",
+          "issue": "er_liang"
+        },
+        {
+          "wrong": "他有三孩子。",
+          "right": "他有三个孩子。",
+          "noteVi": "Giữa số và danh từ phải có lượng từ, như tiếng Việt nói 'ba **đứa** con'.",
+          "issue": "missing_measure_word"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-03-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ người trong gia đình với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "爸爸",
+          "bố"
+        ],
+        [
+          "妈妈",
+          "mẹ"
+        ],
+        [
+          "哥哥",
+          "anh trai"
+        ],
+        [
+          "姐姐",
+          "chị gái"
+        ],
+        [
+          "弟弟",
+          "em trai"
+        ],
+        [
+          "妹妹",
+          "em gái"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-03-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "儿子",
+          "con trai"
+        ],
+        [
+          "女儿",
+          "con gái"
+        ],
+        [
+          "孩子",
+          "con, trẻ con"
+        ],
+        [
+          "家人",
+          "người nhà"
+        ],
+        [
+          "谁",
+          "ai"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-03-e03",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Đây là mẹ tôi'?",
+      "options": [
+        "这是我妈妈。",
+        "这是妈妈我。",
+        "这是妈妈的我。"
+      ],
+      "answer": 0,
+      "explainVi": "Người sở hữu đứng trước: 「我妈妈」 hoặc 「我的妈妈」.",
+      "grammar": [
+        24
+      ]
+    },
+    {
+      "id": "hsk1-03-e04",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我",
+      "after": "妹妹。",
+      "answers": [
+        "没有"
+      ],
+      "options": [
+        "没有",
+        "不有",
+        "不是"
+      ],
+      "vi": "Tôi không có em gái.",
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e05",
+      "type": "fill",
+      "promptVi": "Điền số thích hợp.",
+      "before": "我有",
+      "after": "个哥哥。",
+      "answers": [
+        "两"
+      ],
+      "options": [
+        "两",
+        "二"
+      ],
+      "vi": "Tôi có hai anh trai.",
+      "explainVi": "Trước lượng từ 「个」, số 2 nói là 「两」.",
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e06",
+      "type": "order",
+      "vi": "Đây là bạn của tôi.",
+      "tiles": [
+        "的",
+        "朋友",
+        "这",
+        "是",
+        "我"
+      ],
+      "answers": [
+        "这是我的朋友"
+      ],
+      "explainVi": "Người sở hữu + 的 + người được sở hữu: 我的朋友.",
+      "grammar": [
+        24,
+        38
+      ]
+    },
+    {
+      "id": "hsk1-03-e07",
+      "type": "order",
+      "vi": "Bố và mẹ tôi đều là giáo viên.",
+      "tiles": [
+        "和",
+        "妈妈",
+        "都",
+        "是",
+        "老师",
+        "我爸爸"
+      ],
+      "answers": [
+        "我爸爸和妈妈都是老师"
+      ],
+      "grammar": [
+        23,
+        28
+      ]
+    },
+    {
+      "id": "hsk1-03-e08",
+      "type": "order",
+      "vi": "Nhà tôi có năm người.",
+      "tiles": [
+        "有",
+        "人",
+        "五",
+        "我家",
+        "口"
+      ],
+      "answers": [
+        "我家有五口人"
+      ],
+      "explainVi": "Nói số người trong nhà dùng lượng từ 「口」: 五口人.",
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e09",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我没有哥哥。",
+        "我不有哥哥。",
+        "我不是有哥哥。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định của 「有」 là 「没有」.",
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e10",
+      "type": "choice",
+      "promptVi": "Câu nào dùng 「和」 đúng?",
+      "options": [
+        "爸爸和妈妈都是老师。",
+        "爸爸是老师和妈妈是老师。",
+        "爸爸是老师和妈妈也是。"
+      ],
+      "answer": 0,
+      "explainVi": "「和」 chỉ nối danh từ, đại từ; không nối hai câu.",
+      "grammar": [
+        23
+      ]
+    },
+    {
+      "id": "hsk1-03-e11",
+      "type": "choice",
+      "promptVi": "Chọn từ để hỏi: 'Nhà bạn có mấy người?'",
+      "zh": "你家有＿口人？",
+      "options": [
+        "几",
+        "什么",
+        "谁"
+      ],
+      "answer": 0,
+      "explainVi": "Hỏi số lượng nhỏ dùng 「几」 + lượng từ.",
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e12",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "大卫家有几口人？",
+        "promptVi": "Nhà David có mấy người? (Trong hình: bố, mẹ, chị gái và David.)",
+        "picture": "👨👩👧👦",
+        "expected": {
+          "number": 4,
+          "noun": "人",
+          "sentence": "大卫家有四口人。"
+        },
+        "examples": [
+          {
+            "answer": "大卫家有四口人。",
+            "score": 100
+          },
+          {
+            "answer": "有四口人。",
+            "score": 100
+          },
+          {
+            "answer": "他家有四个人。",
+            "score": 100
+          },
+          {
+            "answer": "大卫家有五口人。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e13",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "王老师有几个孩子？",
+        "promptVi": "Thầy Vương có mấy người con? (Trong hình: con trai và con gái của thầy.)",
+        "picture": "👦👧",
+        "expected": {
+          "number": 2,
+          "noun": "孩子",
+          "sentence": "王老师有两个孩子。"
+        },
+        "examples": [
+          {
+            "answer": "王老师有两个孩子。",
+            "score": 100
+          },
+          {
+            "answer": "两个。",
+            "score": 100
+          },
+          {
+            "answer": "他有二个孩子。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "他有两孩子。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "他有三个孩子。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e14",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "这是谁？",
+        "promptVi": "Đây là ai? (Trong ảnh là mẹ của bạn.)",
+        "picture": "👩",
+        "answers": [
+          "[这|她]是我(的)妈妈。",
+          "(是)我(的)妈妈。"
+        ],
+        "examples": [
+          {
+            "answer": "这是我妈妈。",
+            "score": 100
+          },
+          {
+            "answer": "她是我的妈妈。",
+            "score": 100
+          },
+          {
+            "answer": "我妈妈。",
+            "score": 100
+          },
+          {
+            "answer": "这是我爸爸。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        24
+      ]
+    },
+    {
+      "id": "hsk1-03-e15",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你有哥哥吗？",
+        "promptVi": "Bạn có anh trai không? (Giả sử bạn không có anh trai.)",
+        "answers": [
+          "(我)没有(哥哥)。"
+        ],
+        "examples": [
+          {
+            "answer": "我没有哥哥。",
+            "score": 100
+          },
+          {
+            "answer": "没有。",
+            "score": 100
+          },
+          {
+            "answer": "我不有哥哥。",
+            "score": 80,
+            "issues": [
+              "bu_you"
+            ]
+          },
+          {
+            "answer": "我有哥哥。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e16",
+      "type": "translate",
+      "vi": "Tôi có hai em gái.",
+      "answers": [
+        "我有两个妹妹。"
+      ],
+      "examples": [
+        {
+          "answer": "我有两个妹妹。",
+          "score": 100
+        },
+        {
+          "answer": "我有二个妹妹。",
+          "score": 90,
+          "issues": [
+            "er_liang"
+          ]
+        },
+        {
+          "answer": "我有两妹妹。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "我有两个姐姐。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e17",
+      "type": "translate",
+      "vi": "Đây là bạn cùng lớp của tôi.",
+      "answers": [
+        "这是我(的)同学。"
+      ],
+      "examples": [
+        {
+          "answer": "这是我的同学。",
+          "score": 100
+        },
+        {
+          "answer": "这是我同学。",
+          "score": 100
+        },
+        {
+          "answer": "那是我的同学。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        24,
+        38
+      ]
+    },
+    {
+      "id": "hsk1-03-e18",
+      "type": "translate",
+      "vi": "Bố và mẹ tôi đều là người Việt Nam.",
+      "answers": [
+        "[我|我的]爸爸(和)妈妈都是越南人。",
+        "[我|我的]爸爸和[我|我的]妈妈都是越南人。"
+      ],
+      "examples": [
+        {
+          "answer": "我爸爸和妈妈都是越南人。",
+          "score": 100
+        },
+        {
+          "answer": "我爸爸妈妈都是越南人。",
+          "score": 100
+        },
+        {
+          "answer": "我爸爸和妈妈是越南人。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "我爸爸和妈妈都是中国人。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        23,
+        28
+      ]
+    },
+    {
+      "id": "hsk1-03-e19",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "她是王老师",
+      "after": "女儿。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "和",
+        "是"
+      ],
+      "vi": "Cô ấy là con gái của thầy Vương.",
+      "grammar": [
+        24
+      ]
+    },
+    {
+      "id": "hsk1-03-e20",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我",
+      "after": "我妹妹都是学生。",
+      "answers": [
+        "和"
+      ],
+      "options": [
+        "和",
+        "的",
+        "也"
+      ],
+      "vi": "Tôi và em gái tôi đều là học sinh.",
+      "grammar": [
+        23
+      ]
+    },
+    {
+      "id": "hsk1-03-e21",
+      "type": "choice",
+      "promptVi": "Trong câu 「我认识王老师的儿子。」, tân ngữ của 「认识」 là gì?",
+      "options": [
+        "王老师的儿子",
+        "王老师",
+        "儿子"
+      ],
+      "answer": 0,
+      "explainVi": "Tân ngữ có thể là cả một cụm danh từ: 「王老师的儿子」 (con trai của thầy Vương).",
+      "grammar": [
+        38
+      ]
+    },
+    {
+      "id": "hsk1-03-e22",
+      "type": "order",
+      "vi": "Tôi có một người bạn Trung Quốc.",
+      "tiles": [
+        "一个",
+        "中国",
+        "朋友",
+        "我",
+        "有"
+      ],
+      "answers": [
+        "我有一个中国朋友"
+      ],
+      "explainVi": "Từ bổ nghĩa 「中国」 đứng trước 「朋友」, ngược với tiếng Việt.",
+      "grammar": [
+        38,
+        53
+      ]
+    },
+    {
+      "id": "hsk1-03-e23",
+      "type": "choice",
+      "promptVi": "「哥哥姐姐」 nghĩa là gì?",
+      "options": [
+        "anh trai và chị gái",
+        "chị gái của anh trai",
+        "anh trai của chị gái"
+      ],
+      "answer": 0,
+      "explainVi": "Hai danh từ ngang hàng đặt sát nhau là cụm liên hợp: 'anh trai và chị gái'. 'Chị gái của anh trai' phải có 「的」: 哥哥的姐姐.",
+      "grammar": [
+        28
+      ]
+    },
+    {
+      "id": "hsk1-03-e24",
+      "type": "translate",
+      "vi": "Tôi có một anh trai và một chị gái.",
+      "answers": [
+        "我有一个哥哥(和)一个姐姐。"
+      ],
+      "examples": [
+        {
+          "answer": "我有一个哥哥和一个姐姐。",
+          "score": 100
+        },
+        {
+          "answer": "我有一个哥哥，一个姐姐。",
+          "score": 100
+        },
+        {
+          "answer": "我有一个哥哥和两个姐姐。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        23,
+        28,
+        53
+      ]
+    }
+  ]
+}

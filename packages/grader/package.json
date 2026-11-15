@@ -1,0 +1,23 @@
+{
+  "name": "@c-learn-write/grader",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Rule-based grader for Chinese learners' free-text answers (no LLM).",
+  "type": "module",
+  "license": "MIT",
+  "exports": {
+    ".": "./src/index.ts",
+    "./questions": "./questions/index.ts"
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit -p .",
+    "test": "vitest run",
+    "demo": "vite",
+    "demo:build": "vite build",
+    "demo:preview": "vite preview"
+  },
+  "dependencies": {
+    "opencc-js": "^1.4.2",
+    "pinyin-pro": "^3.29.5"
+  }
+}

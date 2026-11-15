@@ -1,0 +1,1487 @@
+{
+  "id": "hsk2-04",
+  "goalsVi": [
+    "Gọi đồ uống, món ăn ở quán: 我要一杯奶茶, 我们点一条鱼吧",
+    "Mời, nhờ, bảo người khác làm gì: 我请你喝咖啡, 妈妈让我买牛奶, 你能帮我一下吗？",
+    "Tặng, nói cho ai biết điều gì: 我送给你一块手表, 我告诉你一件事",
+    "Khuyên, chọn cách tốt hơn với 「还是……吧」; liệt kê với 「什么的」",
+    "Dùng 这么, 那么, 这样, 那样 và các trợ từ cuối câu 吧, 呢, 的, 啊 cho tự nhiên"
+  ],
+  "words": [
+    {
+      "no": 377,
+      "word": "咖啡",
+      "meaningsVi": [
+        "cà phê"
+      ],
+      "noteVi": "Lượng từ hay dùng là 「杯」: 一杯咖啡 (một cốc cà phê).",
+      "examples": [
+        {
+          "zh": "我请你喝咖啡吧。",
+          "py": "wǒ qǐng nǐ hē kā fēi ba",
+          "vi": "Để tôi mời bạn uống cà phê nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 354,
+      "word": "红茶",
+      "meaningsVi": [
+        "hồng trà, trà đen"
+      ],
+      "noteVi": "Người Trung Quốc gọi loại trà mà tiếng Việt gọi là 'trà đen' là 「红茶」 (trà đỏ), theo màu nước trà. Đừng dịch 'trà đen' thành 黑色的茶.",
+      "examples": [
+        {
+          "zh": "我不喝咖啡，我喝红茶。",
+          "py": "wǒ bù hē kā fēi wǒ hē hóng chá",
+          "vi": "Tôi không uống cà phê, tôi uống hồng trà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 395,
+      "word": "绿茶",
+      "meaningsVi": [
+        "trà xanh"
+      ],
+      "examples": [
+        {
+          "zh": "越南人很喜欢喝绿茶。",
+          "py": "yuè nán rén hěn xǐ huan hē lǜ chá",
+          "vi": "Người Việt Nam rất thích uống trà xanh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 408,
+      "word": "奶茶",
+      "meaningsVi": [
+        "trà sữa"
+      ],
+      "examples": [
+        {
+          "zh": "我要一杯奶茶。",
+          "py": "wǒ yào yì bēi nǎi chá",
+          "vi": "Cho tôi một cốc trà sữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 423,
+      "word": "肉",
+      "meaningsVi": [
+        "thịt"
+      ],
+      "examples": [
+        {
+          "zh": "我不吃肉。",
+          "py": "wǒ bù chī ròu",
+          "vi": "Tôi không ăn thịt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 483,
+      "word": "鱼",
+      "meaningsVi": [
+        "cá"
+      ],
+      "noteVi": "Lượng từ là 「条」: 一条鱼 (một con cá).",
+      "examples": [
+        {
+          "zh": "我们点一条鱼吧。",
+          "py": "wǒ men diǎn yì tiáo yú ba",
+          "vi": "Chúng mình gọi một con cá nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 339,
+      "word": "饭馆",
+      "meaningsVi": [
+        "quán ăn, tiệm cơm"
+      ],
+      "noteVi": "「饭馆」 thường nhỏ, bình dân; 「饭店」 có thể là nhà hàng lớn hoặc khách sạn. Lượng từ là 「家」: 一家饭馆.",
+      "examples": [
+        {
+          "zh": "学校门口有一家饭馆。",
+          "py": "xué xiào mén kǒu yǒu yì jiā fàn guǎn",
+          "vi": "Trước cổng trường có một quán ăn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 336,
+      "word": "点",
+      "meaningsVi": [
+        "gọi (món ăn, đồ uống)"
+      ],
+      "noteVi": "「点菜」 = gọi món. Đừng nhầm với 「点」 chỉ giờ (八点) đã học ở HSK1.",
+      "examples": [
+        {
+          "zh": "你点菜吧。",
+          "py": "nǐ diǎn cài ba",
+          "vi": "Bạn gọi món đi."
+        },
+        {
+          "zh": "我点一杯咖啡。",
+          "py": "wǒ diǎn yì bēi kā fēi",
+          "vi": "Tôi gọi một cốc cà phê."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 401,
+      "word": "门口",
+      "meaningsVi": [
+        "cửa, cổng, trước cửa"
+      ],
+      "noteVi": "「门口」 đã là nơi chốn, dùng ngay sau 「在」: 在门口, 在学校门口; không cần thêm 「里」.",
+      "examples": [
+        {
+          "zh": "我在饭馆门口等你。",
+          "py": "wǒ zài fàn guǎn mén kǒu děng nǐ",
+          "vi": "Tôi đợi bạn ở trước cửa quán ăn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 422,
+      "word": "让",
+      "meaningsVi": [
+        "bảo, để, cho (ai làm gì)"
+      ],
+      "noteVi": "「让 + người + động từ」: 妈妈让我买牛奶 (Mẹ bảo tôi mua sữa). 「让我……」: để tôi …: 让我想一想. 'Không cho ai làm gì' là 「不让」: 妈妈不让我上网.",
+      "examples": [
+        {
+          "zh": "让我想一想。",
+          "py": "ràng wǒ xiǎng yi xiǎng",
+          "vi": "Để tôi nghĩ một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 305,
+      "word": "帮",
+      "meaningsVi": [
+        "giúp"
+      ],
+      "noteVi": "「帮 + người (+ động từ)」: 帮我 (giúp tôi), 你帮我看一下 (Bạn xem giúp tôi một chút).",
+      "examples": [
+        {
+          "zh": "你能帮我一下吗？",
+          "py": "nǐ néng bāng wǒ yí xià ma",
+          "vi": "Bạn giúp tôi một chút được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 306,
+      "word": "帮忙",
+      "meaningsVi": [
+        "giúp đỡ, giúp một tay"
+      ],
+      "noteVi": "「帮忙」 đã gồm 'giúp' + 'việc' nên **không** có tân ngữ phía sau: không nói 帮忙我; nói 帮我 hoặc 帮我一个忙, 帮个忙.",
+      "examples": [
+        {
+          "zh": "谢谢你帮忙！",
+          "py": "xiè xie nǐ bāng máng",
+          "vi": "Cảm ơn bạn đã giúp!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 437,
+      "word": "送",
+      "meaningsVi": [
+        "tặng, biếu",
+        "tiễn, đưa (ai đi đâu)"
+      ],
+      "noteVi": "「送给 + người + vật」: tặng ai cái gì. Có thể bỏ 「给」: 送你一本书.",
+      "examples": [
+        {
+          "zh": "这是我送给你的。",
+          "py": "zhè shì wǒ sòng gěi nǐ de",
+          "vi": "Đây là quà tôi tặng bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 343,
+      "word": "告诉",
+      "meaningsVi": [
+        "nói cho biết, cho biết, bảo"
+      ],
+      "noteVi": "「告诉 + người + việc」: 告诉你一件事 (nói cho bạn biết một chuyện). Người nghe đứng ngay sau 「告诉」, không cần 「给」.",
+      "examples": [
+        {
+          "zh": "请你告诉我他的名字。",
+          "py": "qǐng nǐ gào su wǒ tā de míng zi",
+          "vi": "Bạn làm ơn cho tôi biết tên anh ấy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 455,
+      "word": "希望",
+      "meaningsVi": [
+        "hy vọng, mong"
+      ],
+      "noteVi": "「希望」 + cả một câu: 我希望你来 (Tôi mong bạn đến).",
+      "examples": [
+        {
+          "zh": "我希望明天不下雨。",
+          "py": "wǒ xī wàng míng tiān bú xià yǔ",
+          "vi": "Tôi mong ngày mai trời không mưa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 313,
+      "word": "不好意思",
+      "meaningsVi": [
+        "xin lỗi, ngại quá (lịch sự, nhẹ hơn 「对不起」)",
+        "ngại, ngượng"
+      ],
+      "noteVi": "Dùng khi làm phiền người khác, đến muộn, nhờ vả: 不好意思，我来晚了. Nhẹ nhàng hơn 「对不起」.",
+      "examples": [
+        {
+          "zh": "不好意思，我来晚了。",
+          "py": "bù hǎo yì si wǒ lái wǎn le",
+          "vi": "Xin lỗi, tôi đến muộn."
+        },
+        {
+          "zh": "不好意思，让你等了这么长时间。",
+          "py": "bù hǎo yì si ràng nǐ děng le zhè me cháng shí jiān",
+          "vi": "Ngại quá, để bạn đợi lâu như vậy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 488,
+      "word": "这么",
+      "meaningsVi": [
+        "… thế này, … như vậy (chỉ mức độ, cách thức)"
+      ],
+      "noteVi": "「这么 + tính từ」: 这么贵 (đắt thế); 「这么 + động từ」: 这么做 (làm như thế này). Đứng **trước** tính từ, động từ.",
+      "examples": [
+        {
+          "zh": "这件衣服这么贵啊！",
+          "py": "zhè jiàn yī fu zhè me guì a",
+          "vi": "Bộ quần áo này đắt thế cơ à!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 406,
+      "word": "那么",
+      "meaningsVi": [
+        "… như thế, … như vậy (chỉ mức độ, cách thức)",
+        "vậy thì (đứng đầu câu)"
+      ],
+      "examples": [
+        {
+          "zh": "商场里有那么多人，我们在网上买吧。",
+          "py": "shāng chǎng lǐ yǒu nà me duō rén wǒ men zài wǎng shang mǎi ba",
+          "vi": "Trung tâm thương mại đông người như thế, chúng ta mua trên mạng đi."
+        },
+        {
+          "zh": "那么，我们明天见吧。",
+          "py": "nà me wǒ men míng tiān jiàn ba",
+          "vi": "Vậy thì mai gặp nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 489,
+      "word": "这样",
+      "meaningsVi": [
+        "như thế này, như vậy"
+      ],
+      "noteVi": "「这样 + động từ」: 这样做; 「这样的 + danh từ」: 这样的衣服; làm vị ngữ: 是这样啊！ (Ra là vậy!).",
+      "examples": [
+        {
+          "zh": "这个菜要这样做。",
+          "py": "zhè ge cài yào zhè yàng zuò",
+          "vi": "Món này phải làm như thế này."
+        },
+        {
+          "zh": "是这样啊！",
+          "py": "shì zhè yàng a",
+          "vi": "Ra là vậy!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 407,
+      "word": "那样",
+      "meaningsVi": [
+        "như thế kia, như vậy"
+      ],
+      "examples": [
+        {
+          "zh": "我也想买一个那样的书包。",
+          "py": "wǒ yě xiǎng mǎi yí gè nà yàng de shū bāo",
+          "vi": "Tôi cũng muốn mua một cái cặp như thế."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 78,
+      "titleVi": "Đại từ chỉ thị: 这么, 那么, 这样, 那样, 每",
+      "summaryVi": "「这么/那么 + tính từ」: … thế này/thế kia; 「这样/那样 + động từ」 hoặc 「这样的/那样的 + danh từ」: như thế này/như thế kia; 「每」: mỗi.",
+      "explanationVi": [
+        "「这么」, 「那么」 đứng **trước tính từ** để chỉ mức độ, giống '… thế, … vậy': 这么贵 (đắt thế), 那么多人 (đông người như thế). 「这」 chỉ cái gần, đang thấy trước mắt; 「那」 chỉ cái xa hơn hoặc điều người khác vừa nói.",
+        "「这样」, 「那样」 chỉ **cách thức**, đứng trước động từ: 这样做 (làm như thế này). Trước danh từ thì cần 「的」: 这样的衣服 (quần áo như thế này), 那样的书包. 「这么」 cũng đứng trước động từ: 这么做 = 这样做.",
+        "Tiếng Việt đặt 'thế, vậy, như thế' **sau** tính từ, động từ ('đắt thế', 'làm như thế'); tiếng Trung đặt 「这么」, 「这样」 **trước**: 这么贵, 这样做.",
+        "「每」 (bài 2) cũng là đại từ chỉ thị: 每 + lượng từ + danh từ, phía sau thường có 「都」: 每个菜都很好吃 (Món nào cũng ngon)."
+      ],
+      "patterns": [
+        "这么/那么 + tính từ",
+        "这样/那样/这么 + động từ",
+        "这样的/那样的 + danh từ",
+        "每 + lượng từ + danh từ + 都 …"
+      ],
+      "examples": [
+        {
+          "zh": "这杯咖啡怎么这么贵？",
+          "py": "zhè bēi kā fēi zěn me zhè me guì",
+          "vi": "Cốc cà phê này sao đắt thế?"
+        },
+        {
+          "zh": "饭馆里有那么多人啊！",
+          "py": "fàn guǎn lǐ yǒu nà me duō rén a",
+          "vi": "Quán ăn đông người thế kia!"
+        },
+        {
+          "zh": "我想要一个那样的书包。",
+          "py": "wǒ xiǎng yào yí gè nà yàng de shū bāo",
+          "vi": "Tôi muốn có một cái cặp như thế."
+        },
+        {
+          "zh": "每个菜都很好吃。",
+          "py": "měi gè cài dōu hěn hǎo chī",
+          "vi": "Món nào cũng ngon."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这杯咖啡贵这么。",
+          "right": "这杯咖啡这么贵。",
+          "noteVi": "「这么」 đứng trước tính từ, không đứng sau như 'đắt thế' trong tiếng Việt."
+        },
+        {
+          "wrong": "我做这样。",
+          "right": "我这样做。",
+          "noteVi": "'Tôi làm như thế này': 「这样」 đứng trước động từ."
+        },
+        {
+          "wrong": "我想买那样书包。",
+          "right": "我想买那样的书包。",
+          "noteVi": "「这样/那样」 đứng trước danh từ thì cần 「的」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 90,
+      "titleVi": "Phó từ ngữ khí: 都 (đã … rồi), 就 (chính là, ngay), 还是 (vẫn)",
+      "summaryVi": "「都」 nhấn mạnh 'đã … rồi' (都十二点了); 「就」 khẳng định 'chính là, ngay' (我就是王老师, 饭馆就在门口); 「还是」: cân nhắc xong vẫn chọn như cũ (我还是喜欢喝绿茶).",
+      "explanationVi": [
+        "Phó từ ngữ khí cho biết **thái độ, cảm xúc** của người nói. Chúng đứng sau chủ ngữ, trước động từ, tính từ hoặc trước từ chỉ thời gian, số lượng.",
+        "「都」: nhấn mạnh thời gian đã muộn, tuổi đã cao…, cuối câu có 「了」: 都十二点了 (Đã mười hai giờ rồi đấy!). Cách dùng này đã gặp ở bài 2 (「都……了」).",
+        "「就」: **khẳng định, nhấn mạnh** 'chính là, ngay (ở đây)': 我就是王老师 (Tôi chính là thầy Vương), 饭馆就在学校门口 (Quán ăn ở ngay trước cổng trường). Khác với 「就」 ở bài 2 (sớm, ngay sau một việc).",
+        "「还是」: sau khi suy nghĩ, so sánh, người nói **vẫn** chọn như cũ: 我还是喜欢喝绿茶 (Tôi vẫn thích uống trà xanh hơn). Dạng lời khuyên 「还是……吧」 xem ở điểm sau."
+      ],
+      "patterns": [
+        "都 + thời gian/tuổi + 了",
+        "Chủ ngữ + 就 + 是/在 + …",
+        "Chủ ngữ + 还是 + động từ …"
+      ],
+      "examples": [
+        {
+          "zh": "我就是王老师，你找我有什么事？",
+          "py": "wǒ jiù shì wáng lǎo shī nǐ zhǎo wǒ yǒu shén me shì",
+          "vi": "Tôi chính là thầy Vương, em tìm thầy có việc gì?"
+        },
+        {
+          "zh": "饭馆就在学校门口。",
+          "py": "fàn guǎn jiù zài xué xiào mén kǒu",
+          "vi": "Quán ăn ở ngay trước cổng trường."
+        },
+        {
+          "zh": "都十二点了，我们去吃饭吧。",
+          "py": "dōu shí èr diǎn le wǒ men qù chī fàn ba",
+          "vi": "Mười hai giờ rồi đấy, chúng ta đi ăn thôi."
+        },
+        {
+          "zh": "我还是喜欢喝绿茶。",
+          "py": "wǒ hái shi xǐ huan hē lǜ chá",
+          "vi": "Tôi vẫn thích uống trà xanh hơn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "饭馆在就门口。",
+          "right": "饭馆就在门口。",
+          "noteVi": "「就」 đứng trước 「在」."
+        },
+        {
+          "wrong": "就我是王老师。",
+          "right": "我就是王老师。",
+          "noteVi": "「就」 đứng sau chủ ngữ, trước 「是」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 103,
+      "titleVi": "Trợ từ ngữ khí: 吧 (… phải không?), 呢 (… đâu, … mà), 的 (chắc chắn), 啊 (… quá!)",
+      "summaryVi": "「吧」 hỏi để xác nhận điều mình đoán (你是越南人吧？); 「呢」 nhấn mạnh một sự thật (电影还没开始呢); 「的」 khẳng định chắc chắn (我会告诉他的); 「啊」 bày tỏ cảm xúc (多好吃啊！).",
+      "explanationVi": [
+        "「吧」 ở HSK1 dùng để rủ rê, đề nghị (我们去吧). Ở đây 「吧」 đứng cuối câu hỏi khi người nói **đã đoán** và muốn xác nhận, giống '… phải không, … nhỉ': 你是越南人吧？ (Bạn là người Việt Nam phải không?). So với 「吗」, câu với 「吧」 cho thấy người nói gần như chắc chắn.",
+        "「呢」 đứng cuối câu kể để **nhấn mạnh một sự thật**, hay đi với 「还」: 电影还没开始呢 (Phim còn chưa bắt đầu đâu), 他还在睡觉呢 (Nó vẫn còn đang ngủ mà).",
+        "「的」 đứng cuối câu, thường cùng 「会」, cho biết người nói **khẳng định, hứa chắc**: 我会告诉他的 (Tôi sẽ nói với anh ấy, yên tâm), 他会来的 (Anh ấy sẽ đến mà).",
+        "「啊」 làm câu có **cảm xúc**, thân mật hơn: 这个饭馆的鱼多好吃啊！, 好啊！ Tiếng Việt cũng có nhiều trợ từ cuối câu (nhé, mà, à, quá…); hãy học theo tình huống, đừng dịch từng chữ."
+      ],
+      "patterns": [
+        "Câu kể + 吧？ (đoán, muốn xác nhận)",
+        "(还) + … + 呢 (nhấn mạnh sự thật)",
+        "… 会 + động từ … + 的 (khẳng định chắc chắn)",
+        "Câu cảm thán, lời đề nghị + 啊"
+      ],
+      "examples": [
+        {
+          "zh": "你是大卫的妻子吧？",
+          "py": "nǐ shì dà wèi de qī zi ba",
+          "vi": "Chị là vợ của David phải không?"
+        },
+        {
+          "zh": "电影还没开始呢。",
+          "py": "diàn yǐng hái méi kāi shǐ ne",
+          "vi": "Phim còn chưa bắt đầu đâu."
+        },
+        {
+          "zh": "我会告诉他的。",
+          "py": "wǒ huì gào su tā de",
+          "vi": "Tôi sẽ nói với anh ấy mà."
+        },
+        {
+          "zh": "这个饭馆的鱼多好吃啊！",
+          "py": "zhè ge fàn guǎn de yú duō hǎo chī a",
+          "vi": "Cá ở quán này ngon biết bao!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你是越南人吧吗？",
+          "right": "你是越南人吧？",
+          "noteVi": "Câu hỏi với 「吧」 không thêm 「吗」."
+        },
+        {
+          "wrong": "电影还没开始了。",
+          "right": "电影还没开始呢。",
+          "noteVi": "「还没」 + động từ không đi với 「了」; muốn nhấn mạnh 'còn chưa … đâu' thì dùng 「呢」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 107,
+      "titleVi": "Cụm kiêm ngữ: 请他吃饭, 让我想想",
+      "summaryVi": "Động từ 1 + người + động từ 2: người ở giữa vừa là tân ngữ của động từ 1, vừa là chủ ngữ của động từ 2 (请他吃饭: mời anh ấy ăn cơm).",
+      "explanationVi": [
+        "Trong cụm 「请他吃饭」, 「他」 là người được mời (tân ngữ của 「请」), đồng thời là người ăn cơm (chủ ngữ của 「吃饭」). Từ ở giữa 'kiêm' hai vai trò nên gọi là **kiêm ngữ**.",
+        "Động từ thứ nhất hay gặp ở HSK2 là 「请」 (mời), 「让」 (bảo, để), 「叫」 (bảo).",
+        "Thứ tự giống tiếng Việt: 'mời **anh ấy** ăn cơm' = 请**他**吃饭, 'để **tôi** nghĩ' = 让**我**想想. Cụm này có thể làm vị ngữ (xem điểm 'câu kiêm ngữ') hoặc làm tân ngữ: 谢谢你请我喝咖啡."
+      ],
+      "patterns": [
+        "请/让/叫 + người + động từ (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "让我想想。",
+          "py": "ràng wǒ xiǎng xiang",
+          "vi": "Để tôi nghĩ đã."
+        },
+        {
+          "zh": "谢谢你请我喝咖啡。",
+          "py": "xiè xie nǐ qǐng wǒ hē kā fēi",
+          "vi": "Cảm ơn bạn đã mời tôi uống cà phê."
+        },
+        {
+          "zh": "我想请你帮个忙。",
+          "py": "wǒ xiǎng qǐng nǐ bāng ge máng",
+          "vi": "Tôi muốn nhờ bạn giúp một việc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "让想想我。",
+          "right": "让我想想。",
+          "noteVi": "Người (我) đứng ngay sau 「让」, trước động từ thứ hai."
+        },
+        {
+          "wrong": "我想请你帮忙我。",
+          "right": "我想请你帮我。",
+          "noteVi": "「帮忙」 không có tân ngữ phía sau; nói 「帮我」 hoặc 「帮个忙」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 111,
+      "titleVi": "「什么的」: vân vân, … các thứ",
+      "summaryVi": "Đặt 「什么的」 sau một hoặc vài thứ được liệt kê để nói 'vân vân, … các thứ': 咖啡、奶茶什么的.",
+      "explanationVi": [
+        "「什么的」 đứng **sau** một hay nhiều thứ được liệt kê, nghĩa là 'vân vân, … các thứ, … này nọ': 我喜欢喝咖啡、奶茶什么的.",
+        "Thường dùng khi nói chuyện. Có thể đứng sau danh từ (鱼、肉什么的) hoặc sau việc làm (看书、上网什么的).",
+        "「什么的」 ở đây **không** dùng để hỏi, câu kết thúc bằng dấu chấm. Không đặt 「什么的」 trước những thứ được liệt kê."
+      ],
+      "patterns": [
+        "A、B + 什么的"
+      ],
+      "examples": [
+        {
+          "zh": "我们点了鱼、肉什么的。",
+          "py": "wǒ men diǎn le yú ròu shén me de",
+          "vi": "Chúng tôi gọi cá, thịt các thứ."
+        },
+        {
+          "zh": "我晚上经常看书、上网什么的。",
+          "py": "wǒ wǎn shang jīng cháng kàn shū shàng wǎng shén me de",
+          "vi": "Buổi tối tôi thường đọc sách, lên mạng này nọ."
+        },
+        {
+          "zh": "超市里有水果、牛奶、面包什么的。",
+          "py": "chāo shì lǐ yǒu shuǐ guǒ niú nǎi miàn bāo shén me de",
+          "vi": "Trong siêu thị có hoa quả, sữa, bánh mì các thứ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们点了什么的鱼、肉。",
+          "right": "我们点了鱼、肉什么的。",
+          "noteVi": "「什么的」 đứng sau những thứ được liệt kê, như 'vân vân' trong tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 112,
+      "titleVi": "「还是……吧」: … thì hơn, thôi thì … đi",
+      "summaryVi": "「(Chủ ngữ) 还是 + động từ … + 吧」 đưa ra lời khuyên, lựa chọn sau khi cân nhắc: 我们还是坐出租车吧 (Chúng ta đi taxi thì hơn).",
+      "explanationVi": [
+        "Sau khi so sánh, cân nhắc, người nói chọn một cách và khuyên làm theo, giống '… thì hơn', 'thôi thì … đi': 下雨了，我们还是坐出租车吧 (Mưa rồi, chúng ta đi taxi thì hơn).",
+        "「还是」 đứng sau chủ ngữ, trước động từ; 「吧」 ở cuối câu làm lời khuyên nhẹ nhàng. Vế trước thường nói lý do: 这里人太多了，我们还是去那个饭馆吧.",
+        "Đừng nhầm với câu hỏi lựa chọn 「A还是B？」 (bài 3). 「还是……吧」 là câu đề nghị, kết thúc bằng 「吧」 và dấu chấm hoặc dấu chấm than."
+      ],
+      "patterns": [
+        "(Lý do，) chủ ngữ + 还是 + động từ … + 吧"
+      ],
+      "examples": [
+        {
+          "zh": "太晚了，你还是喝牛奶吧。",
+          "py": "tài wǎn le nǐ hái shi hē niú nǎi ba",
+          "vi": "Muộn quá rồi, bạn uống sữa thì hơn."
+        },
+        {
+          "zh": "外边下雨了，我们还是在家吃吧。",
+          "py": "wài bian xià yǔ le wǒ men hái shi zài jiā chī ba",
+          "vi": "Ngoài trời mưa rồi, chúng ta ăn ở nhà thì hơn."
+        },
+        {
+          "zh": "这里人太多了，我们还是去那个饭馆吧。",
+          "py": "zhè lǐ rén tài duō le wǒ men hái shi qù nà ge fàn guǎn ba",
+          "vi": "Ở đây đông người quá, chúng ta sang quán kia thì hơn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我们坐出租车还是吧。",
+          "right": "我们还是坐出租车吧。",
+          "noteVi": "「还是」 đứng trước động từ, 「吧」 đứng cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 136,
+      "titleVi": "Câu kiêm ngữ: chủ ngữ + 请/叫/让 + người + động từ + tân ngữ",
+      "summaryVi": "Ai mời, bảo, để ai làm gì: 妈妈让我买牛奶 (Mẹ bảo tôi mua sữa), 我请你喝咖啡 (Tôi mời bạn uống cà phê).",
+      "explanationVi": [
+        "Câu kiêm ngữ có vị ngữ là cụm kiêm ngữ: **chủ ngữ + 请/叫/让 + người + động từ + tân ngữ**: 老师让我们写汉字 (Cô giáo bảo chúng tôi viết chữ Hán).",
+        "「请」 = mời (lịch sự; 我请你吃饭 còn có nghĩa 'tôi mời, tôi trả tiền'). 「叫」 và 「让」 = bảo, để ai làm gì; 「叫」 hay dùng trong khẩu ngữ: 妈妈叫我回家吃饭.",
+        "Phủ định đặt 「不」 hoặc 「没」 **trước** 「请/叫/让」: 爸爸不让我晚上上网 (Bố không cho tôi lên mạng buổi tối). Chữ 'cho' (cho phép) của tiếng Việt ở đây dịch bằng 「让」.",
+        "Thứ tự giống tiếng Việt ('mẹ bảo tôi mua sữa'). Lỗi hay gặp là đặt người ở cuối câu: 妈妈让买牛奶我."
+      ],
+      "patterns": [
+        "Chủ ngữ + 请/叫/让 + người + động từ + tân ngữ",
+        "Chủ ngữ + 不/没 + 让/叫 + người + động từ …"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈让我去超市买牛奶。",
+          "py": "mā ma ràng wǒ qù chāo shì mǎi niú nǎi",
+          "vi": "Mẹ bảo tôi đi siêu thị mua sữa."
+        },
+        {
+          "zh": "今天我请你们喝咖啡！",
+          "py": "jīn tiān wǒ qǐng nǐ men hē kā fēi",
+          "vi": "Hôm nay tôi mời các bạn uống cà phê!"
+        },
+        {
+          "zh": "老师叫我们写汉字。",
+          "py": "lǎo shī jiào wǒ men xiě hàn zì",
+          "vi": "Cô giáo bảo chúng tôi viết chữ Hán."
+        },
+        {
+          "zh": "爸爸不让我晚上上网。",
+          "py": "bà ba bú ràng wǒ wǎn shang shàng wǎng",
+          "vi": "Bố không cho tôi lên mạng buổi tối."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "妈妈让买牛奶我。",
+          "right": "妈妈让我买牛奶。",
+          "noteVi": "Người được bảo (我) đứng ngay sau 「让」, trước động từ 「买」."
+        },
+        {
+          "wrong": "我请喝咖啡你。",
+          "right": "我请你喝咖啡。",
+          "noteVi": "Người được mời (你) đứng ngay sau 「请」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 137,
+      "titleVi": "Câu hai tân ngữ với 「động từ + 给」: 送给你一个书包",
+      "summaryVi": "Chủ ngữ + động từ + 给 + người + vật: 爸爸送给我一块手表 (Bố tặng tôi một chiếc đồng hồ).",
+      "explanationVi": [
+        "Ở HSK1 đã học 「给 + người + vật」: 给我一本书. Một số động từ có thể thêm 「给」 ngay sau để chỉ người nhận, hay gặp nhất là 「送给」 (tặng cho) và 「卖给」 (bán cho).",
+        "Thứ tự: **động từ + 给 + người nhận + vật**: 爸爸送给我一块手表. Người nhận đứng ngay sau 「给」, vật đứng cuối, giống tiếng Việt 'tặng **cho tôi** một chiếc đồng hồ'.",
+        "Với 「送」 có thể bỏ 「给」: 爸爸送我一块手表. Còn 「告诉」 thì không dùng 「给」: 我告诉你一件事.",
+        "Khi vật đã được nhắc đến, hay dùng cụm chữ 「的」: 这本书是朋友送给我的 (Quyển sách này là bạn tặng tôi)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 送给/卖给 + người + (số lượng +) vật"
+      ],
+      "examples": [
+        {
+          "zh": "爸爸送给我一块手表。",
+          "py": "bà ba sòng gěi wǒ yí kuài shǒu biǎo",
+          "vi": "Bố tặng tôi một chiếc đồng hồ."
+        },
+        {
+          "zh": "我想送给妈妈一件红色的衣服。",
+          "py": "wǒ xiǎng sòng gěi mā ma yí jiàn hóng sè de yī fu",
+          "vi": "Tôi muốn tặng mẹ một bộ quần áo màu đỏ."
+        },
+        {
+          "zh": "他卖给我两条鱼。",
+          "py": "tā mài gěi wǒ liǎng tiáo yú",
+          "vi": "Anh ấy bán cho tôi hai con cá."
+        },
+        {
+          "zh": "这本书是朋友送给我的。",
+          "py": "zhè běn shū shì péng you sòng gěi wǒ de",
+          "vi": "Quyển sách này là bạn tặng tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我送给一个书包你。",
+          "right": "我送给你一个书包。",
+          "noteVi": "Người nhận đứng ngay sau 「给」, vật đứng cuối."
+        },
+        {
+          "wrong": "我告诉给你一件事。",
+          "right": "我告诉你一件事。",
+          "noteVi": "「告诉」 không dùng 「给」: người nghe đứng ngay sau 「告诉」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk2-04-e01",
+      "type": "match",
+      "promptVi": "Nối đồ ăn, đồ uống với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "咖啡",
+          "cà phê"
+        ],
+        [
+          "红茶",
+          "hồng trà"
+        ],
+        [
+          "绿茶",
+          "trà xanh"
+        ],
+        [
+          "奶茶",
+          "trà sữa"
+        ],
+        [
+          "肉",
+          "thịt"
+        ],
+        [
+          "鱼",
+          "cá"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-04-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "饭馆",
+          "quán ăn"
+        ],
+        [
+          "门口",
+          "trước cửa, cổng"
+        ],
+        [
+          "帮忙",
+          "giúp đỡ"
+        ],
+        [
+          "送",
+          "tặng"
+        ],
+        [
+          "告诉",
+          "nói cho biết"
+        ],
+        [
+          "希望",
+          "hy vọng"
+        ]
+      ]
+    },
+    {
+      "id": "hsk2-04-e03",
+      "type": "choice",
+      "promptVi": "Bạn đến muộn, các bạn phải đợi lâu. Bạn nói gì?",
+      "options": [
+        "不好意思，让你们等了这么长时间。",
+        "没关系，让你们等了这么长时间。",
+        "不客气，让你们等了这么长时间。"
+      ],
+      "answer": 0,
+      "explainVi": "「不好意思」 dùng khi mình làm phiền người khác. 「没关系」, 「不客气」 là lời đáp lại lời xin lỗi, lời cảm ơn.",
+      "grammar": [
+        107
+      ]
+    },
+    {
+      "id": "hsk2-04-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Cốc cà phê này sao đắt thế?)",
+      "options": [
+        "这杯咖啡怎么这么贵？",
+        "这杯咖啡怎么贵这么？",
+        "这杯咖啡这么怎么贵？"
+      ],
+      "answer": 0,
+      "explainVi": "「这么」 đứng ngay trước tính từ 「贵」.",
+      "grammar": [
+        78
+      ]
+    },
+    {
+      "id": "hsk2-04-e05",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这个菜要",
+      "after": "做。",
+      "answers": [
+        "这样"
+      ],
+      "options": [
+        "这样",
+        "这个",
+        "每"
+      ],
+      "vi": "Món này phải làm như thế này.",
+      "grammar": [
+        78
+      ]
+    },
+    {
+      "id": "hsk2-04-e06",
+      "type": "order",
+      "vi": "Tôi cũng muốn mua một cái cặp như thế.",
+      "tiles": [
+        "我",
+        "也",
+        "想买",
+        "一个",
+        "那样的",
+        "书包"
+      ],
+      "answers": [
+        "我也想买一个那样的书包",
+        "我也想买那样的一个书包"
+      ],
+      "explainVi": "「那样」 đứng trước danh từ thì cần 「的」: 那样的书包.",
+      "grammar": [
+        78
+      ]
+    },
+    {
+      "id": "hsk2-04-e07",
+      "type": "translate",
+      "vi": "Quán ăn đông người thế!",
+      "answers": [
+        "饭馆里有[这么|那么]多人(啊)！",
+        "饭馆里(的)人[这么|那么]多(啊)！"
+      ],
+      "examples": [
+        {
+          "answer": "饭馆里有这么多人！",
+          "score": 100
+        },
+        {
+          "answer": "饭馆里有那么多人啊！",
+          "score": 100
+        },
+        {
+          "answer": "饭馆里的人这么多啊！",
+          "score": 100
+        },
+        {
+          "answer": "饭馆里没有这么多人。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        78
+      ]
+    },
+    {
+      "id": "hsk2-04-e08",
+      "type": "choice",
+      "promptVi": "「饭馆就在学校门口。」 nghĩa là gì?",
+      "options": [
+        "Quán ăn ở ngay trước cổng trường.",
+        "Quán ăn sắp mở ở cổng trường.",
+        "Quán ăn cũng ở cổng trường."
+      ],
+      "answer": 0,
+      "explainVi": "「就」 ở đây nhấn mạnh 'ngay (ở đó)'.",
+      "grammar": [
+        90
+      ]
+    },
+    {
+      "id": "hsk2-04-e09",
+      "type": "fill",
+      "promptVi": "Điền phó từ thích hợp.",
+      "before": "我",
+      "after": "是王老师，你找我有什么事？",
+      "answers": [
+        "就"
+      ],
+      "options": [
+        "就",
+        "都",
+        "再"
+      ],
+      "vi": "Tôi chính là thầy Vương, em tìm thầy có việc gì?",
+      "grammar": [
+        90
+      ]
+    },
+    {
+      "id": "hsk2-04-e10",
+      "type": "translate",
+      "vi": "Tôi vẫn thích uống trà xanh hơn.",
+      "answers": [
+        "我还是喜欢(喝)绿茶。"
+      ],
+      "examples": [
+        {
+          "answer": "我还是喜欢喝绿茶。",
+          "score": 100
+        },
+        {
+          "answer": "我还是喜欢绿茶。",
+          "score": 100
+        },
+        {
+          "answer": "我还是喜欢喝红茶。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        90
+      ]
+    },
+    {
+      "id": "hsk2-04-e11",
+      "type": "choice",
+      "promptVi": "Bạn đoán người kia là người Việt Nam và muốn xác nhận. Hỏi thế nào tự nhiên nhất?",
+      "options": [
+        "你是越南人吧？",
+        "你是越南人吧吗？",
+        "你是越南人的吗？"
+      ],
+      "answer": 0,
+      "explainVi": "「吧」 cuối câu hỏi: người nói đã đoán và muốn xác nhận. Không dùng cùng 「吗」.",
+      "grammar": [
+        103
+      ]
+    },
+    {
+      "id": "hsk2-04-e12",
+      "type": "fill",
+      "promptVi": "Điền trợ từ thích hợp.",
+      "before": "电影还没开始",
+      "after": "。",
+      "answers": [
+        "呢"
+      ],
+      "options": [
+        "呢",
+        "了",
+        "吗"
+      ],
+      "vi": "Phim còn chưa bắt đầu đâu.",
+      "explainVi": "「还没……呢」: còn chưa … đâu. 「还没」 không đi với 「了」.",
+      "grammar": [
+        103
+      ]
+    },
+    {
+      "id": "hsk2-04-e13",
+      "type": "fill",
+      "promptVi": "Điền trợ từ thích hợp.",
+      "before": "我会告诉他",
+      "after": "。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "吗",
+        "呢"
+      ],
+      "vi": "Tôi sẽ nói với anh ấy mà (chắc chắn).",
+      "grammar": [
+        103
+      ]
+    },
+    {
+      "id": "hsk2-04-e14",
+      "type": "choice",
+      "promptVi": "Trong câu 「这个饭馆的鱼多好吃啊！」, 「啊」 có tác dụng gì?",
+      "options": [
+        "Bày tỏ cảm xúc (khen ngợi)",
+        "Hỏi có hay không",
+        "Cho biết việc đang diễn ra"
+      ],
+      "answer": 0,
+      "grammar": [
+        103
+      ]
+    },
+    {
+      "id": "hsk2-04-e15",
+      "type": "order",
+      "vi": "Mẹ bảo tôi đi siêu thị mua sữa.",
+      "tiles": [
+        "妈妈",
+        "让",
+        "我",
+        "去超市",
+        "买",
+        "牛奶"
+      ],
+      "answers": [
+        "妈妈让我去超市买牛奶"
+      ],
+      "explainVi": "Người được bảo (我) đứng ngay sau 「让」.",
+      "grammar": [
+        136,
+        107
+      ]
+    },
+    {
+      "id": "hsk2-04-e16",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bố không cho tôi lên mạng buổi tối.)",
+      "options": [
+        "爸爸不让我晚上上网。",
+        "爸爸让不我晚上上网。",
+        "爸爸让我上网不晚上。"
+      ],
+      "answer": 0,
+      "explainVi": "「不」 đứng trước 「让」: 不让我… (không cho tôi …).",
+      "grammar": [
+        136
+      ]
+    },
+    {
+      "id": "hsk2-04-e17",
+      "type": "translate",
+      "vi": "Hôm nay tôi mời các bạn uống cà phê.",
+      "answers": [
+        "[今天我|我今天]请你们喝咖啡。"
+      ],
+      "examples": [
+        {
+          "answer": "今天我请你们喝咖啡。",
+          "score": 100
+        },
+        {
+          "answer": "我今天请你们喝咖啡。",
+          "score": 100
+        },
+        {
+          "answer": "今天我请你们喝奶茶。",
+          "score": 0
+        },
+        {
+          "answer": "今天你们请我喝咖啡。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        136
+      ]
+    },
+    {
+      "id": "hsk2-04-e18",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "妈妈让你做什么？",
+        "promptVi": "Mẹ bảo bạn làm gì? (Giả sử mẹ bảo bạn đi mua sữa.)",
+        "answers": [
+          "(妈妈)[让|叫]我(去)买牛奶。",
+          "(去)买牛奶。"
+        ],
+        "examples": [
+          {
+            "answer": "妈妈让我买牛奶。",
+            "score": 100
+          },
+          {
+            "answer": "让我去买牛奶。",
+            "score": 100
+          },
+          {
+            "answer": "买牛奶。",
+            "score": 100
+          },
+          {
+            "answer": "妈妈叫我去买牛奶。",
+            "score": 100
+          },
+          {
+            "answer": "妈妈让我买面包。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        136
+      ]
+    },
+    {
+      "id": "hsk2-04-e19",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我们点了鱼、肉",
+      "after": "。",
+      "answers": [
+        "什么的"
+      ],
+      "options": [
+        "什么的",
+        "什么",
+        "的"
+      ],
+      "vi": "Chúng tôi gọi cá, thịt các thứ.",
+      "grammar": [
+        111
+      ]
+    },
+    {
+      "id": "hsk2-04-e20",
+      "type": "order",
+      "vi": "Buổi tối tôi thường đọc sách, lên mạng này nọ.",
+      "tiles": [
+        "我",
+        "晚上",
+        "经常",
+        "看书、上网",
+        "什么的"
+      ],
+      "answers": [
+        "我晚上经常看书、上网什么的",
+        "晚上我经常看书、上网什么的"
+      ],
+      "grammar": [
+        111
+      ]
+    },
+    {
+      "id": "hsk2-04-e21",
+      "type": "translate",
+      "vi": "Tôi thích uống cà phê, trà sữa các thứ.",
+      "answers": [
+        "我喜欢喝[咖啡、奶茶|奶茶、咖啡]什么的。"
+      ],
+      "examples": [
+        {
+          "answer": "我喜欢喝咖啡、奶茶什么的。",
+          "score": 100
+        },
+        {
+          "answer": "我喜欢喝奶茶，咖啡什么的。",
+          "score": 100
+        },
+        {
+          "answer": "我喜欢喝咖啡、红茶什么的。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        111
+      ]
+    },
+    {
+      "id": "hsk2-04-e22",
+      "type": "choice",
+      "promptVi": "Trời mưa rồi. Bạn khuyên: 'Chúng ta đi taxi thì hơn.' Câu nào đúng?",
+      "options": [
+        "下雨了，我们还是坐出租车吧。",
+        "下雨了，我们坐出租车还是吧。",
+        "下雨了，我们还是坐出租车吗？"
+      ],
+      "answer": 0,
+      "explainVi": "Lời khuyên: 还是 + động từ … + 吧. Câu thứ ba là câu hỏi ('chúng ta vẫn đi taxi à?'), không phải lời khuyên.",
+      "grammar": [
+        112
+      ]
+    },
+    {
+      "id": "hsk2-04-e23",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "外边下雨了，我们",
+      "after": "在家吃吧。",
+      "answers": [
+        "还是"
+      ],
+      "options": [
+        "还是",
+        "跟",
+        "从"
+      ],
+      "vi": "Ngoài trời mưa rồi, chúng ta ăn ở nhà thì hơn.",
+      "grammar": [
+        112
+      ]
+    },
+    {
+      "id": "hsk2-04-e24",
+      "type": "translate",
+      "vi": "Muộn quá rồi, bạn uống sữa thì hơn.",
+      "answers": [
+        "太晚了，你还是喝牛奶吧。"
+      ],
+      "examples": [
+        {
+          "answer": "太晚了，你还是喝牛奶吧。",
+          "score": 100
+        },
+        {
+          "answer": "太晚了，你还是喝牛奶。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 「吧」 nên chưa thành lời khuyên"
+        },
+        {
+          "answer": "太晚了，你还是喝咖啡吧。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        112
+      ]
+    },
+    {
+      "id": "hsk2-04-e25",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bố tặng tôi một chiếc đồng hồ.)",
+      "options": [
+        "爸爸送给我一块手表。",
+        "爸爸送给一块手表我。",
+        "爸爸给送我一块手表。"
+      ],
+      "answer": 0,
+      "explainVi": "Động từ + 给 + người nhận + vật: 送给我一块手表.",
+      "grammar": [
+        137
+      ]
+    },
+    {
+      "id": "hsk2-04-e26",
+      "type": "order",
+      "vi": "Tôi muốn tặng mẹ một bộ quần áo màu đỏ.",
+      "tiles": [
+        "我",
+        "想",
+        "送给",
+        "妈妈",
+        "一件",
+        "红色的",
+        "衣服"
+      ],
+      "answers": [
+        "我想送给妈妈一件红色的衣服"
+      ],
+      "grammar": [
+        137
+      ]
+    },
+    {
+      "id": "hsk2-04-e27",
+      "type": "translate",
+      "vi": "Anh ấy tặng tôi một cái cặp sách.",
+      "answers": [
+        "他送(给)我一个书包。"
+      ],
+      "examples": [
+        {
+          "answer": "他送给我一个书包。",
+          "score": 100
+        },
+        {
+          "answer": "他送我一个书包。",
+          "score": 100
+        },
+        {
+          "answer": "他送给我一书包。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu lượng từ 「个」"
+        },
+        {
+          "answer": "他送给我一个手表。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        137
+      ]
+    },
+    {
+      "id": "hsk2-04-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "这块手表是谁送给你的？",
+        "promptVi": "Chiếc đồng hồ này ai tặng bạn? (Giả sử bố bạn tặng.)",
+        "answers": [
+          "(这块手表)是爸爸送(给我)的。",
+          "爸爸送(给)我的。",
+          "(是)爸爸。"
+        ],
+        "examples": [
+          {
+            "answer": "是爸爸送给我的。",
+            "score": 100
+          },
+          {
+            "answer": "这块手表是爸爸送的。",
+            "score": 100
+          },
+          {
+            "answer": "爸爸。",
+            "score": 100
+          },
+          {
+            "answer": "是妈妈送给我的。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        137
+      ]
+    },
+    {
+      "id": "hsk2-04-e29",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几杯咖啡？",
+        "promptVi": "Trên bàn có mấy cốc cà phê? (Trong hình: 3 cốc.)",
+        "picture": "☕☕☕",
+        "expected": {
+          "number": 3,
+          "noun": "咖啡",
+          "sentence": "桌子上有三杯咖啡。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有三杯咖啡。",
+            "score": 100
+          },
+          {
+            "answer": "三杯。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有三咖啡。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有两杯咖啡。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk2-04-e30",
+      "type": "choice",
+      "promptVi": "「让我想想。」 nghĩa là gì?",
+      "options": [
+        "Để tôi nghĩ một chút.",
+        "Hãy nghĩ về tôi.",
+        "Tôi bảo anh ấy nghĩ."
+      ],
+      "answer": 0,
+      "grammar": [
+        107
+      ]
+    },
+    {
+      "id": "hsk2-04-e31",
+      "type": "translate",
+      "vi": "Bạn giúp tôi một chút được không?",
+      "answers": [
+        "你[能|可以]帮我一下吗？",
+        "你[能|可以]帮帮我吗？",
+        "你[能|可以]帮(我)(一)个忙吗？"
+      ],
+      "examples": [
+        {
+          "answer": "你能帮我一下吗？",
+          "score": 100
+        },
+        {
+          "answer": "你可以帮帮我吗？",
+          "score": 100
+        },
+        {
+          "answer": "你能帮我一个忙吗？",
+          "score": 100
+        },
+        {
+          "answer": "你不能帮我一下吗？",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

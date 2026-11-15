@@ -1,0 +1,1557 @@
+{
+  "id": "hsk3-03",
+  "goalsVi": [
+    "Mua thực phẩm ở chợ, siêu thị: hỏi giá theo 「斤」, 「公斤」, nói giá có 「块」, 「毛」, 「角」",
+    "Nói 'chỉ', 'tổng cộng', 'cùng nhau', 'khắp nơi' với 「只」, 「就」, 「一共」, 「一块儿」, 「到处」, 「只是」",
+    "Hỏi và nói về thứ khác với 「别的」, 「其他」",
+    "Đặt câu giả thiết với 「如果……，就……」 và 「……的话，就……」",
+    "Nói số lượng ước chừng với 「大概」 và hai số liền nhau (两三斤, 十七八岁)"
+  ],
+  "words": [
+    {
+      "no": 716,
+      "word": "斤",
+      "meaningsVi": [
+        "cân Trung Quốc (= 500 gam)"
+      ],
+      "noteVi": "Một 「斤」 chỉ bằng **nửa ki-lô-gam** (500 g), khác 'cân' (1 kg) của tiếng Việt. Ở chợ Trung Quốc, giá thường tính theo 「斤」. Nói số + 斤 + tên hàng, không thêm 「个」: 两斤苹果.",
+      "examples": [
+        {
+          "zh": "苹果五块钱一斤。",
+          "py": "píng guǒ wǔ kuài qián yì jīn",
+          "vi": "Táo năm tệ một cân (nửa ký)."
+        },
+        {
+          "zh": "我买了两斤香蕉。",
+          "py": "wǒ mǎi le liǎng jīn xiāng jiāo",
+          "vi": "Tôi mua hai cân chuối."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 648,
+      "word": "公斤",
+      "meaningsVi": [
+        "ki-lô-gam, cân (kg)"
+      ],
+      "noteVi": "1 公斤 = 2 斤. 'Một cân' trong tiếng Việt tương ứng với 「一公斤」.",
+      "examples": [
+        {
+          "zh": "这个西瓜有五公斤。",
+          "py": "zhè ge xī guā yǒu wǔ gōng jīn",
+          "vi": "Quả dưa hấu này nặng năm cân."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 704,
+      "word": "角",
+      "meaningsVi": [
+        "hào (1/10 tệ, văn viết)"
+      ],
+      "noteVi": "Tiền Trung Quốc: 1 元 = 10 角. Trên bảng giá, văn viết dùng 「元」, 「角」; khẩu ngữ dùng 「块」, 「毛」: 三元五角 = 三块五毛.",
+      "examples": [
+        {
+          "zh": "这个本子三元五角。",
+          "py": "zhè ge běn zi sān yuán wǔ jiǎo",
+          "vi": "Quyển vở này ba tệ năm hào."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 768,
+      "word": "毛",
+      "meaningsVi": [
+        "hào (1/10 tệ, khẩu ngữ)"
+      ],
+      "noteVi": "「毛」 = 「角」 nhưng dùng trong khẩu ngữ. Nói giá có thể bỏ đơn vị cuối: 两块五毛 = 两块五 (2,5 tệ).",
+      "examples": [
+        {
+          "zh": "一个苹果两块五毛。",
+          "py": "yí gè píng guǒ liǎng kuài wǔ máo",
+          "vi": "Một quả táo hai tệ năm hào."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 925,
+      "word": "一共",
+      "meaningsVi": [
+        "tổng cộng, cả thảy"
+      ],
+      "noteVi": "「一共」 là phó từ, đứng trước động từ hoặc trước số lượng: 一共多少钱？ / 我们班一共有二十个人.",
+      "examples": [
+        {
+          "zh": "这些东西一共多少钱？",
+          "py": "zhè xiē dōng xi yí gòng duō shao qián",
+          "vi": "Chỗ đồ này tổng cộng bao nhiêu tiền?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 975,
+      "word": "只",
+      "meaningsVi": [
+        "chỉ"
+      ],
+      "noteVi": "Phó từ 「只」 đọc zhǐ (thanh 3), khác lượng từ 「只」 zhī (一只猫). 「只」 đứng **trước động từ**: 我只买了两斤. Không đặt 「只」 trước chủ ngữ.",
+      "examples": [
+        {
+          "zh": "我只买了两斤苹果。",
+          "py": "wǒ zhǐ mǎi le liǎng jīn píng guǒ",
+          "vi": "Tôi chỉ mua hai cân táo."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 977,
+      "word": "只是",
+      "meaningsVi": [
+        "chỉ là, chỉ … thôi",
+        "có điều, chỉ có điều (nối vế sau)"
+      ],
+      "noteVi": "Đứng đầu vế sau, 「只是」 bổ sung một điểm chưa tốt, nhẹ nhàng hơn 「可是」, 「但是」: 这件衣服很好看，只是有点儿贵.",
+      "examples": [
+        {
+          "zh": "我只是问一下，不买。",
+          "py": "wǒ zhǐ shì wèn yí xià bù mǎi",
+          "vi": "Tôi chỉ hỏi thôi, không mua."
+        },
+        {
+          "zh": "这个西瓜很新鲜，只是有点儿贵。",
+          "py": "zhè ge xī guā hěn xīn xiān zhǐ shì yǒu diǎn r guì",
+          "vi": "Quả dưa hấu này rất tươi, chỉ có điều hơi đắt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 984,
+      "word": "种",
+      "meaningsVi": [
+        "loại, kiểu (lượng từ)"
+      ],
+      "noteVi": "「种」 là lượng từ chỉ chủng loại, dùng với hầu hết danh từ: 这种苹果, 两种茶. 'Loại nào' là 「哪种」. Ở nghĩa này đọc zhǒng.",
+      "examples": [
+        {
+          "zh": "这种苹果很好吃。",
+          "py": "zhè zhǒng píng guǒ hěn hǎo chī",
+          "vi": "Loại táo này rất ngon."
+        },
+        {
+          "zh": "超市里有很多种水果。",
+          "py": "chāo shì lǐ yǒu hěn duō zhǒng shuǐ guǒ",
+          "vi": "Trong siêu thị có rất nhiều loại hoa quả."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 905,
+      "word": "新鲜",
+      "meaningsVi": [
+        "tươi, tươi ngon",
+        "mới lạ"
+      ],
+      "examples": [
+        {
+          "zh": "这儿的鱼都很新鲜。",
+          "py": "zhè r de yú dōu hěn xīn xiān",
+          "vi": "Cá ở đây đều rất tươi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 883,
+      "word": "西瓜",
+      "meaningsVi": [
+        "dưa hấu"
+      ],
+      "examples": [
+        {
+          "zh": "我想买一个大西瓜。",
+          "py": "wǒ xiǎng mǎi yí gè dà xī guā",
+          "vi": "Tôi muốn mua một quả dưa hấu to."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 892,
+      "word": "香蕉",
+      "meaningsVi": [
+        "chuối"
+      ],
+      "examples": [
+        {
+          "zh": "香蕉多少钱一斤？",
+          "py": "xiāng jiāo duō shao qián yì jīn",
+          "vi": "Chuối bao nhiêu tiền một cân?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 796,
+      "word": "瓶子",
+      "meaningsVi": [
+        "cái chai, cái lọ"
+      ],
+      "examples": [
+        {
+          "zh": "瓶子里没有水了。",
+          "py": "píng zi lǐ méi yǒu shuǐ le",
+          "vi": "Trong chai hết nước rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 663,
+      "word": "好多",
+      "meaningsVi": [
+        "rất nhiều, nhiều lắm"
+      ],
+      "noteVi": "「好多」 gần nghĩa 「很多」 nhưng mang màu sắc khẩu ngữ: 好多人, 好多东西.",
+      "examples": [
+        {
+          "zh": "周末超市里有好多人。",
+          "py": "zhōu mò chāo shì lǐ yǒu hǎo duō rén",
+          "vi": "Cuối tuần trong siêu thị có rất nhiều người."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 573,
+      "word": "大概",
+      "meaningsVi": [
+        "khoảng, chừng (trước con số)",
+        "có lẽ, chắc là"
+      ],
+      "noteVi": "Đứng trước con số: 大概十个人 (khoảng mười người). Đứng trước động từ: 他大概不来了 (Có lẽ anh ấy không đến nữa).",
+      "examples": [
+        {
+          "zh": "我们大概等了二十分钟。",
+          "py": "wǒ men dà gài děng le èr shí fēn zhōng",
+          "vi": "Chúng tôi đợi khoảng hai mươi phút."
+        },
+        {
+          "zh": "他大概不来了。",
+          "py": "tā dà gài bù lái le",
+          "vi": "Có lẽ anh ấy không đến nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 552,
+      "word": "差不多",
+      "meaningsVi": [
+        "gần như, xấp xỉ",
+        "gần giống nhau, không khác mấy"
+      ],
+      "noteVi": "Phó từ: 差不多 + số lượng hoặc động từ = 'gần, gần như': 差不多十点了. Tính từ: hai thứ 差不多 = gần giống nhau.",
+      "examples": [
+        {
+          "zh": "这两种苹果差不多。",
+          "py": "zhè liǎng zhǒng píng guǒ chà bu duō",
+          "vi": "Hai loại táo này gần giống nhau."
+        },
+        {
+          "zh": "我差不多每天都去超市。",
+          "py": "wǒ chà bu duō měi tiān dōu qù chāo shì",
+          "vi": "Gần như ngày nào tôi cũng đi siêu thị."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 551,
+      "word": "差",
+      "meaningsVi": [
+        "kém, thiếu (差五分八点: 8 giờ kém 5)",
+        "kém, tồi"
+      ],
+      "noteVi": "Nói giờ kém: 差 + số phút + giờ: 差五分八点 (8 giờ kém 5), 差一刻九点 (9 giờ kém 15). Nói còn thiếu bao nhiêu: 还差两块钱 (còn thiếu hai tệ).",
+      "examples": [
+        {
+          "zh": "现在差五分八点。",
+          "py": "xiàn zài chà wǔ fēn bā diǎn",
+          "vi": "Bây giờ là tám giờ kém năm."
+        },
+        {
+          "zh": "我还差两块钱。",
+          "py": "wǒ hái chà liǎng kuài qián",
+          "vi": "Tôi còn thiếu hai tệ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 531,
+      "word": "别的",
+      "meaningsVi": [
+        "khác, cái khác"
+      ],
+      "noteVi": "「别的」 đứng trước danh từ (别的东西) hoặc đứng một mình (还要别的吗？). Không bỏ 「的」: không nói 别东西.",
+      "examples": [
+        {
+          "zh": "你还要别的吗？",
+          "py": "nǐ hái yào bié de ma",
+          "vi": "Bạn còn lấy gì khác nữa không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 798,
+      "word": "其他",
+      "meaningsVi": [
+        "khác, còn lại"
+      ],
+      "noteVi": "「其他」 chỉ những người, vật **còn lại** trong một nhóm: 其他同学都回家了. Có thể thêm 「的」: 其他的.",
+      "examples": [
+        {
+          "zh": "大卫来了，其他人都没来。",
+          "py": "dà wèi lái le qí tā rén dōu méi lái",
+          "vi": "David đến rồi, những người khác đều không đến."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 836,
+      "word": "收",
+      "meaningsVi": [
+        "nhận, thu",
+        "thu (tiền), lấy (tiền)"
+      ],
+      "noteVi": "Ở cửa hàng, người bán hay nói: 收您一百块 (Nhận của anh/chị một trăm tệ). 「找」 ở đây là 'trả lại tiền thừa'.",
+      "examples": [
+        {
+          "zh": "收您一百块，找您二十。",
+          "py": "shōu nín yì bǎi kuài zhǎo nín èr shí",
+          "vi": "Nhận của anh một trăm tệ, trả lại anh hai mươi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 941,
+      "word": "用",
+      "meaningsVi": [
+        "dùng, sử dụng"
+      ],
+      "noteVi": "「用」 + công cụ + động từ: 用手机买东西 (dùng điện thoại mua đồ). Thứ tự giống tiếng Việt.",
+      "examples": [
+        {
+          "zh": "我常用手机买火车票。",
+          "py": "wǒ cháng yòng shǒu jī mǎi huǒ chē piào",
+          "vi": "Tôi thường dùng điện thoại để mua vé tàu hỏa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 908,
+      "word": "行",
+      "meaningsVi": [
+        "được, ổn (đồng ý)",
+        "giỏi, cừ"
+      ],
+      "noteVi": "Ở nghĩa này đọc xíng. Đồng ý: 行！ (Được!); hỏi ý kiến: ……，行吗？ Phủ định là 「不行」.",
+      "examples": [
+        {
+          "zh": "便宜一点儿，行吗？——行！",
+          "py": "pián yi yì diǎn r xíng ma xíng",
+          "vi": "Rẻ hơn một chút được không? — Được!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 542,
+      "word": "不行",
+      "meaningsVi": [
+        "không được",
+        "kém, không giỏi"
+      ],
+      "noteVi": "Từ chối: 不行，太便宜了. Nói mình còn kém: 我的汉语还不行. 「不行」 mang màu sắc khẩu ngữ hơn 「不可以」.",
+      "examples": [
+        {
+          "zh": "十块钱？不行，太便宜了。",
+          "py": "shí kuài qián bù xíng tài pián yi le",
+          "vi": "Mười tệ à? Không được, rẻ quá."
+        },
+        {
+          "zh": "我的汉语还不行。",
+          "py": "wǒ de hàn yǔ hái bù xíng",
+          "vi": "Tiếng Hán của tôi còn kém."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 819,
+      "word": "如果",
+      "meaningsVi": [
+        "nếu"
+      ],
+      "noteVi": "「如果」 đứng đầu vế điều kiện, vế sau thường có 「就」 (thì) đứng sau chủ ngữ: 如果明天下雨，我们就不去了.",
+      "examples": [
+        {
+          "zh": "如果你有时间，就来我家吃饭吧。",
+          "py": "rú guǒ nǐ yǒu shí jiān jiù lái wǒ jiā chī fàn ba",
+          "vi": "Nếu bạn có thời gian thì đến nhà tôi ăn cơm nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 586,
+      "word": "的话",
+      "meaningsVi": [
+        "nếu … (đặt cuối vế điều kiện)"
+      ],
+      "noteVi": "「的话」 đặt ở **cuối** vế điều kiện: 你不想去的话，就别去了. Dùng một mình hoặc cùng 「如果」: 如果……的话.",
+      "examples": [
+        {
+          "zh": "你不舒服的话，就休息一下吧。",
+          "py": "nǐ bù shū fu de huà jiù xiū xi yí xià ba",
+          "vi": "Nếu bạn thấy khó chịu thì nghỉ một chút đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 926,
+      "word": "一块儿",
+      "meaningsVi": [
+        "cùng nhau (= 一起)",
+        "cùng một chỗ"
+      ],
+      "noteVi": "「一块儿」 = 「一起」 nhưng khẩu ngữ hơn: 咱们一块儿去吧. Đừng nhầm với 「一块」 (một tệ, một miếng).",
+      "examples": [
+        {
+          "zh": "下班以后咱们一块儿去超市吧。",
+          "py": "xià bān yǐ hòu zán men yí kuài r qù chāo shì ba",
+          "vi": "Tan làm xong chúng ta cùng đi siêu thị nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 582,
+      "word": "到处",
+      "meaningsVi": [
+        "khắp nơi, đâu đâu cũng"
+      ],
+      "noteVi": "「到处」 là phó từ, đứng **trước động từ**, hay đi với 「都」: 到处都是人. Tiếng Việt đặt 'khắp nơi' cuối câu ('tìm khắp nơi'), tiếng Trung nói 到处找.",
+      "examples": [
+        {
+          "zh": "我到处找你，你在哪儿？",
+          "py": "wǒ dào chù zhǎo nǐ nǐ zài nǎ r",
+          "vi": "Tôi tìm bạn khắp nơi, bạn ở đâu thế?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 578,
+      "word": "带",
+      "meaningsVi": [
+        "mang, mang theo",
+        "dẫn, đưa (ai đi đâu)"
+      ],
+      "noteVi": "带 + vật: 带钱, 带手机 (mang theo). 带 + người + 去/来 + nơi chốn: 我带你去 (Tôi đưa bạn đi). Hỏi 'Có mang … không?' dùng 「带……了吗？」.",
+      "examples": [
+        {
+          "zh": "你带钱了吗？",
+          "py": "nǐ dài qián le ma",
+          "vi": "Bạn có mang tiền không?"
+        },
+        {
+          "zh": "我带你去那家超市吧。",
+          "py": "wǒ dài nǐ qù nà jiā chāo shì ba",
+          "vi": "Để tôi đưa bạn đến siêu thị đó nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 159,
+      "titleVi": "Đại từ chỉ thị 「别的」 và 「其他」",
+      "summaryVi": "「别的」 và 「其他」 đứng trước danh từ nghĩa là 'khác'; 「其他」 nhấn mạnh phần còn lại trong một nhóm, 「别的」 khẩu ngữ hơn và đứng một mình được.",
+      "explanationVi": [
+        "「别的」 và 「其他」 đều đặt **trước danh từ** với nghĩa 'khác': 别的东西, 其他东西 (đồ khác). Tiếng Việt nói 'đồ **khác**' (danh từ trước, 'khác' sau); tiếng Trung nói ngược lại: 别的东西, không nói 东西别的.",
+        "「其他」 thường chỉ những người, vật **còn lại** trong một nhóm đã biết: 大卫来了，其他同学都没来 (các bạn còn lại không đến). 「其他」 có thể thêm 「的」: 其他的同学. 「别的」 mang màu sắc khẩu ngữ hơn, rất hay dùng khi mua bán: 您还要别的吗？",
+        "「别的」 đứng một mình được, như một danh từ: 还要别的吗？ Không bỏ 「的」: không nói 别东西. Còn 'người khác' thường nói 「别人」 (bài 1)."
+      ],
+      "patterns": [
+        "别的/其他 + danh từ",
+        "还要 + 别的 + 吗？",
+        "……，其他 + danh từ + 都 + ……"
+      ],
+      "examples": [
+        {
+          "zh": "您还要别的吗？——不要了，谢谢。",
+          "py": "nín hái yào bié de ma bú yào le xiè xie",
+          "vi": "Anh còn lấy gì nữa không ạ? — Không, cảm ơn."
+        },
+        {
+          "zh": "这种苹果太贵了，有别的吗？",
+          "py": "zhè zhǒng píng guǒ tài guì le yǒu bié de ma",
+          "vi": "Loại táo này đắt quá, có loại khác không?"
+        },
+        {
+          "zh": "我只喜欢吃香蕉，其他水果都不太喜欢。",
+          "py": "wǒ zhǐ xǐ huan chī xiāng jiāo qí tā shuǐ guǒ dōu bú tài xǐ huan",
+          "vi": "Tôi chỉ thích ăn chuối, các loại hoa quả khác đều không thích lắm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我还想买东西别的。",
+          "right": "我还想买别的东西。",
+          "noteVi": "Theo thứ tự tiếng Việt 'đồ khác' là sai: 「别的」 đứng trước danh từ."
+        },
+        {
+          "wrong": "我还想买别东西。",
+          "right": "我还想买别的东西。",
+          "noteVi": "Không bỏ 「的」 trong 「别的」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 165,
+      "titleVi": "Phó từ phạm vi: 就, 一块儿, 一共, 只, 到处, 只是",
+      "summaryVi": "Các phó từ chỉ phạm vi: 只/就 (chỉ), 只是 (chỉ là), 一共 (tổng cộng), 一块儿 (cùng nhau), 到处 (khắp nơi); hầu hết đứng trước động từ.",
+      "explanationVi": [
+        "「只」 (chỉ) đứng **trước động từ**: 我只买了两斤苹果. 「就」 cũng có nghĩa 'chỉ', hay dùng trong khẩu ngữ: 我就买了一个西瓜 (Tôi chỉ mua một quả dưa hấu). Khác 「只」, 「就」 còn đứng được **trước danh từ, đại từ** để nói 'chỉ có …': 就我一个人去了 (Chỉ có mình tôi đi); không nói 只我一个人去了.",
+        "「只是」 (chỉ là, chỉ … thôi) đứng trước động từ: 我只是问一下. 「只是」 còn đứng đầu vế sau để bổ sung một điểm chưa tốt, nhẹ nhàng hơn 「可是」: 这个西瓜很好，只是有点儿贵.",
+        "「一共」 (tổng cộng) đứng trước động từ hoặc trước số lượng: 一共多少钱？ / 我们一共买了五斤. 「一块儿」 (cùng nhau) = 「一起」, khẩu ngữ hơn: 咱们一块儿去吧.",
+        "「到处」 (khắp nơi) đứng **trước động từ**, thường đi với 「都」: 到处都是人, 我到处找你. Tiếng Việt đặt 'khắp nơi' ở cuối câu ('tìm bạn khắp nơi'), nhưng tiếng Trung không nói 我找你到处."
+      ],
+      "patterns": [
+        "Chủ ngữ + 只/就/只是 + động từ",
+        "就 + danh từ/đại từ (chỉ có …)",
+        "一共 + (động từ) + số lượng",
+        "到处 + 都 + động từ",
+        "……，只是 + ……"
+      ],
+      "examples": [
+        {
+          "zh": "我只买了两斤香蕉。",
+          "py": "wǒ zhǐ mǎi le liǎng jīn xiāng jiāo",
+          "vi": "Tôi chỉ mua hai cân chuối."
+        },
+        {
+          "zh": "就我一个人会说汉语。",
+          "py": "jiù wǒ yí gè rén huì shuō hàn yǔ",
+          "vi": "Chỉ có mình tôi biết nói tiếng Hán."
+        },
+        {
+          "zh": "这些东西一共八十块。",
+          "py": "zhè xiē dōng xi yí gòng bā shí kuài",
+          "vi": "Chỗ đồ này tổng cộng tám mươi tệ."
+        },
+        {
+          "zh": "周末超市里到处都是人。",
+          "py": "zhōu mò chāo shì lǐ dào chù dōu shì rén",
+          "vi": "Cuối tuần trong siêu thị đâu đâu cũng là người."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "只我一个人去了。",
+          "right": "就我一个人去了。",
+          "noteVi": "「只」 là phó từ, đứng trước động từ, không đứng trước chủ ngữ. Muốn nói 'chỉ có tôi' thì dùng 「就」."
+        },
+        {
+          "wrong": "我找你到处。",
+          "right": "我到处找你。",
+          "noteVi": "「到处」 đứng trước động từ, không đứng cuối câu như 'khắp nơi' trong tiếng Việt."
+        },
+        {
+          "wrong": "我买了只两斤苹果。",
+          "right": "我只买了两斤苹果。",
+          "noteVi": "「只」 đứng trước động từ 「买」, không chen vào giữa động từ và số lượng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 179,
+      "titleVi": "Trợ từ 「的话」: nếu …",
+      "summaryVi": "「的话」 đặt cuối vế điều kiện, nghĩa là 'nếu …': 你喜欢的话, 明天下雨的话.",
+      "explanationVi": [
+        "「的话」 là trợ từ, đặt ở **cuối** vế nêu điều kiện, giả thiết: 明天下雨的话，我们就不去了 (Nếu mai trời mưa thì chúng ta không đi nữa). Nghĩa giống 'nếu' của tiếng Việt, nhưng vị trí ngược lại: 'nếu' đứng đầu, 「的话」 đứng cuối.",
+        "「的话」 dùng được **một mình** hoặc **cùng 「如果」**: 如果你喜欢的话 = 你喜欢的话 = 如果你喜欢. Dùng cả hai thì ý giả thiết rõ hơn.",
+        "Phía trước 「的话」 có thể là một câu (你不想去的话), một động từ hay tính từ (贵的话: nếu đắt), hoặc một danh từ (明天的话: nếu là ngày mai)."
+      ],
+      "patterns": [
+        "(如果) + điều kiện + 的话，(chủ ngữ) + 就 + ……"
+      ],
+      "examples": [
+        {
+          "zh": "你喜欢的话，就多买一点儿吧。",
+          "py": "nǐ xǐ huan de huà jiù duō mǎi yì diǎn r ba",
+          "vi": "Nếu bạn thích thì mua nhiều một chút đi."
+        },
+        {
+          "zh": "如果有时间的话，我想去看看你。",
+          "py": "rú guǒ yǒu shí jiān de huà wǒ xiǎng qù kàn kan nǐ",
+          "vi": "Nếu có thời gian, tôi muốn đến thăm bạn."
+        },
+        {
+          "zh": "太贵的话，我就不买了。",
+          "py": "tài guì de huà wǒ jiù bù mǎi le",
+          "vi": "Nếu đắt quá thì tôi không mua nữa."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "的话你不想去，就别去了。",
+          "right": "你不想去的话，就别去了。",
+          "noteVi": "「的话」 đứng cuối vế điều kiện, không đứng đầu câu như 'nếu' trong tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 237,
+      "titleVi": "如果……，就……: nếu … thì …",
+      "summaryVi": "「如果」 ở đầu vế điều kiện, 「就」 ở vế kết quả (sau chủ ngữ): 如果明天下雨，我们就不去了.",
+      "explanationVi": [
+        "Câu giả thiết: vế trước nêu điều kiện với 「如果」 (nếu), vế sau nêu kết quả với 「就」 (thì). Giống 'nếu … thì …' của tiếng Việt: 如果你有时间，就来我家吧.",
+        "「如果」 đứng đầu câu hoặc sau chủ ngữ: 如果你不去 / 你如果不去. Còn 「就」 là phó từ, phải đứng **sau chủ ngữ** của vế sau, ngay trước động từ: 如果明天下雨，我们就不去了. Không nói 就我们不去了 — khác với 'thì' của tiếng Việt đứng trước chủ ngữ ('thì chúng ta không đi').",
+        "Vế sau không có chủ ngữ thì 「就」 đứng đầu vế: 如果你累了，就休息一下. 「就」 cũng có thể bỏ, nhất là khi vế sau đã có 「也」, 「可以」…: 如果你不去，我也不去."
+      ],
+      "patterns": [
+        "如果 + điều kiện，(chủ ngữ) + 就 + kết quả",
+        "Chủ ngữ + 如果 + điều kiện，就 + kết quả"
+      ],
+      "examples": [
+        {
+          "zh": "如果明天下雨，我们就不去了。",
+          "py": "rú guǒ míng tiān xià yǔ wǒ men jiù bú qù le",
+          "vi": "Nếu mai trời mưa thì chúng ta không đi nữa."
+        },
+        {
+          "zh": "你如果累了，就休息一下吧。",
+          "py": "nǐ rú guǒ lèi le jiù xiū xi yí xià ba",
+          "vi": "Nếu bạn mệt thì nghỉ một chút đi."
+        },
+        {
+          "zh": "如果这儿的香蕉不新鲜，咱们就去别的店买。",
+          "py": "rú guǒ zhè r de xiāng jiāo bù xīn xiān zán men jiù qù bié de diàn mǎi",
+          "vi": "Nếu chuối ở đây không tươi thì chúng ta đi cửa hàng khác mua."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "如果明天下雨，就我们不去了。",
+          "right": "如果明天下雨，我们就不去了。",
+          "noteVi": "「就」 là phó từ, đứng sau chủ ngữ 「我们」; khác 'thì' trong tiếng Việt đứng trước chủ ngữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 238,
+      "titleVi": "……的话，就……: nếu … thì … (không cần 「如果」)",
+      "summaryVi": "Điều kiện + 的话，(chủ ngữ) + 就 + kết quả: cách nói giả thiết rất khẩu ngữ, không cần 「如果」.",
+      "explanationVi": [
+        "Trong khẩu ngữ, người Trung Quốc rất hay dùng 「……的话」 thay cho 「如果……」: 你不舒服的话，就休息一下吧. Vế sau vẫn dùng 「就」 như trong câu 「如果……，就……」.",
+        "Ba cách sau cùng nghĩa: 如果你喜欢，就买吧 / 你喜欢的话，就买吧 / 如果你喜欢的话，就买吧. Cách có cả 「如果」 và 「的话」 nghe rõ ý giả thiết nhất.",
+        "Nhớ hai vị trí: 「的话」 ở **cuối** vế điều kiện, 「就」 ở vế sau, **sau chủ ngữ**: 贵的话，我就不买了."
+      ],
+      "patterns": [
+        "Điều kiện + 的话，(chủ ngữ) + 就 + kết quả"
+      ],
+      "examples": [
+        {
+          "zh": "明天不下雨的话，我们就去打球。",
+          "py": "míng tiān bú xià yǔ de huà wǒ men jiù qù dǎ qiú",
+          "vi": "Nếu mai trời không mưa thì chúng ta đi chơi bóng."
+        },
+        {
+          "zh": "西瓜不新鲜的话，我就不买了。",
+          "py": "xī guā bù xīn xiān de huà wǒ jiù bù mǎi le",
+          "vi": "Nếu dưa hấu không tươi thì tôi không mua nữa."
+        },
+        {
+          "zh": "你想吃的话，我明天就带你去。",
+          "py": "nǐ xiǎng chī de huà wǒ míng tiān jiù dài nǐ qù",
+          "vi": "Nếu bạn muốn ăn thì ngày mai tôi đưa bạn đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你喜欢的话，就你买吧。",
+          "right": "你喜欢的话，你就买吧。",
+          "noteVi": "「就」 đứng sau chủ ngữ của vế sau, không đứng trước chủ ngữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 243,
+      "titleVi": "Số ước lượng với 「大概」: khoảng, chừng",
+      "summaryVi": "「大概」 + số lượng nghĩa là 'khoảng, chừng': 大概十块钱, 大概五公斤.",
+      "explanationVi": [
+        "Muốn nói con số không chính xác, đặt 「大概」 (khoảng, chừng) **trước số lượng**: 大概十个人 (khoảng mười người), 大概五公斤 (chừng năm cân). Tiếng Việt cũng đặt 'khoảng' trước số, nên khá dễ dùng.",
+        "「大概」 cũng đứng được trước động từ hay trước 「有」: 我们大概等了二十分钟 / 超市里大概有一百个人. Cả hai cách đều là ước lượng.",
+        "「差不多」 cũng dùng gần như vậy: 差不多十点了 (gần mười giờ rồi). 「大概」 là đoán chừng, con số thật có thể hơn hoặc kém; 「差不多」 thường nhấn mạnh là đã **gần tới** con số đó.",
+        "Ngoài con số, 「大概」 còn có nghĩa 'có lẽ': 他大概不来了 (học kỹ ở bài sau)."
+      ],
+      "patterns": [
+        "大概 + số + lượng từ (+ danh từ)",
+        "Chủ ngữ + 大概 + động từ + số lượng"
+      ],
+      "examples": [
+        {
+          "zh": "这个西瓜大概五公斤。",
+          "py": "zhè ge xī guā dà gài wǔ gōng jīn",
+          "vi": "Quả dưa hấu này khoảng năm cân."
+        },
+        {
+          "zh": "从我家到超市大概走十分钟。",
+          "py": "cóng wǒ jiā dào chāo shì dà gài zǒu shí fēn zhōng",
+          "vi": "Từ nhà tôi đến siêu thị đi bộ khoảng mười phút."
+        },
+        {
+          "zh": "我们班大概有三十个学生。",
+          "py": "wǒ men bān dà gài yǒu sān shí gè xué shēng",
+          "vi": "Lớp chúng tôi có khoảng ba mươi học sinh."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这个西瓜五公斤大概。",
+          "right": "这个西瓜大概五公斤。",
+          "noteVi": "「大概」 đứng trước con số, không đứng cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 244,
+      "titleVi": "Số ước lượng bằng hai số liền nhau: 两三个, 七八斤",
+      "summaryVi": "Hai số liền nhau đặt cạnh nhau để ước lượng: 两三个 (hai ba cái), 七八斤 (bảy tám cân), 十五六岁 (mười lăm mười sáu tuổi).",
+      "explanationVi": [
+        "Giống tiếng Việt 'hai ba người', 'bảy tám cân', tiếng Trung đặt **hai số liền nhau** (số nhỏ trước) trước lượng từ để nói con số ước chừng: 两三个人, 三四天, 七八斤苹果.",
+        "Hai điểm khác tiếng Việt: thứ nhất, số 2 trước lượng từ vẫn là 「两」: 两三个, không nói 二三个. Thứ hai, với số trên mười, chỉ nói 「十」 **một lần**: 十五六岁 (mười lăm mười sáu tuổi), không nói 十五十六岁. Với hàng chục thì nói 二三十个人 (hai ba mươi người), 五六十块.",
+        "Hai số liền nhau đã là ước lượng, nên không thêm 「多」 phía sau: không nói 三四多个."
+      ],
+      "patterns": [
+        "Số n + số n+1 + lượng từ (+ danh từ)",
+        "十 + n + (n+1) + lượng từ",
+        "n + (n+1) + 十 + lượng từ"
+      ],
+      "examples": [
+        {
+          "zh": "我买了两三斤香蕉。",
+          "py": "wǒ mǎi le liǎng sān jīn xiāng jiāo",
+          "vi": "Tôi mua hai ba cân chuối."
+        },
+        {
+          "zh": "那个男生十七八岁。",
+          "py": "nà ge nán shēng shí qī bā suì",
+          "vi": "Cậu con trai kia khoảng mười bảy mười tám tuổi."
+        },
+        {
+          "zh": "商店里有二三十个人。",
+          "py": "shāng diàn lǐ yǒu èr sān shí gè rén",
+          "vi": "Trong cửa hàng có hai ba mươi người."
+        },
+        {
+          "zh": "我等了他四五十分钟。",
+          "py": "wǒ děng le tā sì wǔ shí fēn zhōng",
+          "vi": "Tôi đợi anh ấy bốn năm mươi phút."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我买了二三斤苹果。",
+          "right": "我买了两三斤苹果。",
+          "noteVi": "Số 2 đứng trước lượng từ vẫn là 「两」: 两三斤."
+        },
+        {
+          "wrong": "那个男生十七十八岁。",
+          "right": "那个男生十七八岁。",
+          "noteVi": "Tiếng Việt nói 'mười bảy mười tám', nhưng tiếng Trung chỉ nói 「十」 một lần: 十七八岁."
+        },
+        {
+          "wrong": "我买了三四多个西瓜。",
+          "right": "我买了三四个西瓜。",
+          "noteVi": "Hai số liền nhau đã là ước lượng, không thêm 「多」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-03-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "西瓜",
+          "dưa hấu"
+        ],
+        [
+          "香蕉",
+          "chuối"
+        ],
+        [
+          "新鲜",
+          "tươi"
+        ],
+        [
+          "瓶子",
+          "cái chai"
+        ],
+        [
+          "带",
+          "mang theo"
+        ],
+        [
+          "收",
+          "thu, nhận"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-03-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "斤",
+          "cân (500 gam)"
+        ],
+        [
+          "公斤",
+          "ki-lô-gam"
+        ],
+        [
+          "毛",
+          "hào"
+        ],
+        [
+          "种",
+          "loại"
+        ],
+        [
+          "好多",
+          "rất nhiều"
+        ],
+        [
+          "差不多",
+          "gần như, xấp xỉ"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-03-e03",
+      "type": "choice",
+      "promptVi": "「三块五毛」 là bao nhiêu tiền?",
+      "options": [
+        "3,5 tệ",
+        "35 tệ",
+        "3,05 tệ"
+      ],
+      "answer": 0,
+      "explainVi": "1 块 = 10 毛, nên 五毛 = 0,5 tệ."
+    },
+    {
+      "id": "hsk3-03-e04",
+      "type": "choice",
+      "promptVi": "Một 「斤」 nặng bao nhiêu?",
+      "options": [
+        "500 gam",
+        "1 ki-lô-gam",
+        "100 gam"
+      ],
+      "answer": 0,
+      "explainVi": "1 斤 = 500 gam; 1 公斤 = 2 斤."
+    },
+    {
+      "id": "hsk3-03-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这些东西",
+      "after": "多少钱？",
+      "answers": [
+        "一共"
+      ],
+      "options": [
+        "一共",
+        "一块儿",
+        "到处"
+      ],
+      "vi": "Chỗ đồ này tổng cộng bao nhiêu tiền?",
+      "grammar": [
+        165
+      ]
+    },
+    {
+      "id": "hsk3-03-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "下班以后，咱们",
+      "after": "去超市吧。",
+      "answers": [
+        "一块儿"
+      ],
+      "options": [
+        "一块儿",
+        "一共",
+        "只是"
+      ],
+      "vi": "Tan làm xong, chúng ta cùng đi siêu thị nhé.",
+      "grammar": [
+        165
+      ]
+    },
+    {
+      "id": "hsk3-03-e07",
+      "type": "order",
+      "vi": "Cuối tuần trong siêu thị đâu đâu cũng là người.",
+      "tiles": [
+        "周末",
+        "超市里",
+        "到处",
+        "都是",
+        "人"
+      ],
+      "answers": [
+        "周末超市里到处都是人",
+        "超市里周末到处都是人"
+      ],
+      "explainVi": "「到处」 đứng trước động từ, thường đi với 「都」.",
+      "grammar": [
+        165
+      ]
+    },
+    {
+      "id": "hsk3-03-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi chỉ mua hai cân táo.)",
+      "options": [
+        "我只买了两斤苹果。",
+        "只我买了两斤苹果。",
+        "我买了两斤苹果只。"
+      ],
+      "answer": 0,
+      "explainVi": "「只」 là phó từ, đứng trước động từ 「买」.",
+      "grammar": [
+        165
+      ]
+    },
+    {
+      "id": "hsk3-03-e09",
+      "type": "translate",
+      "vi": "Quả dưa hấu này rất tươi, chỉ có điều hơi đắt.",
+      "answers": [
+        "这个西瓜很新鲜，只是有点儿贵。",
+        "这个西瓜很新鲜，[可是|但是]有点儿贵。"
+      ],
+      "examples": [
+        {
+          "answer": "这个西瓜很新鲜，只是有点儿贵。",
+          "score": 100
+        },
+        {
+          "answer": "这个西瓜很新鲜，可是有点儿贵。",
+          "score": 100
+        },
+        {
+          "answer": "这个西瓜很新鲜，只是有点儿便宜。",
+          "score": 0
+        },
+        {
+          "answer": "这个西瓜不新鲜，只是有点儿贵。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        165
+      ]
+    },
+    {
+      "id": "hsk3-03-e10",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我",
+      "after": "买了一个西瓜，没买别的。",
+      "answers": [
+        "只"
+      ],
+      "options": [
+        "只",
+        "一共",
+        "到处"
+      ],
+      "vi": "Tôi chỉ mua một quả dưa hấu, không mua gì khác.",
+      "grammar": [
+        165,
+        159
+      ]
+    },
+    {
+      "id": "hsk3-03-e11",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "您还要",
+      "after": "吗？",
+      "answers": [
+        "别的"
+      ],
+      "options": [
+        "别的",
+        "别人",
+        "自己"
+      ],
+      "vi": "Anh còn lấy gì khác nữa không ạ?",
+      "grammar": [
+        159
+      ]
+    },
+    {
+      "id": "hsk3-03-e12",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi còn muốn mua đồ khác.)",
+      "options": [
+        "我还想买别的东西。",
+        "我还想买东西别的。",
+        "我还想买别东西。"
+      ],
+      "answer": 0,
+      "explainVi": "「别的」 đứng trước danh từ và không bỏ 「的」.",
+      "grammar": [
+        159
+      ]
+    },
+    {
+      "id": "hsk3-03-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "大卫来了，",
+      "after": "同学都没来。",
+      "answers": [
+        "其他"
+      ],
+      "options": [
+        "其他",
+        "别人",
+        "自己"
+      ],
+      "vi": "David đến rồi, các bạn khác đều không đến.",
+      "explainVi": "「其他」 + danh từ chỉ những người còn lại trong nhóm. 「别人」 là danh từ, không đứng trước 「同学」.",
+      "grammar": [
+        159
+      ]
+    },
+    {
+      "id": "hsk3-03-e14",
+      "type": "order",
+      "vi": "Nếu mai trời mưa thì chúng ta không đi nữa.",
+      "tiles": [
+        "如果",
+        "明天",
+        "下雨",
+        "我们",
+        "就",
+        "不去了"
+      ],
+      "answers": [
+        "如果明天下雨我们就不去了",
+        "明天如果下雨我们就不去了"
+      ],
+      "explainVi": "「就」 đứng sau chủ ngữ 「我们」.",
+      "grammar": [
+        237
+      ]
+    },
+    {
+      "id": "hsk3-03-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "如果你累了，就休息一下吧。",
+        "如果你累了，休息就一下吧。",
+        "就如果你累了，休息一下吧。"
+      ],
+      "answer": 0,
+      "explainVi": "「如果」 mở đầu vế điều kiện, 「就」 đứng trước động từ ở vế sau.",
+      "grammar": [
+        237
+      ]
+    },
+    {
+      "id": "hsk3-03-e16",
+      "type": "translate",
+      "vi": "Nếu bạn có thời gian thì đến nhà tôi ăn cơm nhé.",
+      "answers": [
+        "如果你有时间(的话)，(你)就来我家吃饭吧。",
+        "你如果有时间，(你)就来我家吃饭吧。",
+        "你有时间的话，(你)就来我家吃饭吧。"
+      ],
+      "examples": [
+        {
+          "answer": "如果你有时间，就来我家吃饭吧。",
+          "score": 100
+        },
+        {
+          "answer": "如果你有时间的话，就来我家吃饭吧。",
+          "score": 100
+        },
+        {
+          "answer": "你有时间的话，就来我家吃饭吧。",
+          "score": 100
+        },
+        {
+          "answer": "如果你有时间，你就来我家吃饭吧。",
+          "score": 100
+        },
+        {
+          "answer": "如果你没有时间，就来我家吃饭吧。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        237
+      ]
+    },
+    {
+      "id": "hsk3-03-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你喜欢",
+      "after": "，就多买一点儿吧。",
+      "answers": [
+        "的话"
+      ],
+      "options": [
+        "的话",
+        "如果",
+        "就"
+      ],
+      "vi": "Nếu bạn thích thì mua nhiều một chút đi.",
+      "explainVi": "「的话」 đứng cuối vế điều kiện.",
+      "grammar": [
+        179,
+        238
+      ]
+    },
+    {
+      "id": "hsk3-03-e18",
+      "type": "order",
+      "vi": "Nếu bạn thấy khó chịu thì nghỉ một chút đi.",
+      "tiles": [
+        "你",
+        "不舒服",
+        "的话",
+        "就",
+        "休息一下吧"
+      ],
+      "answers": [
+        "你不舒服的话就休息一下吧"
+      ],
+      "grammar": [
+        238,
+        179
+      ]
+    },
+    {
+      "id": "hsk3-03-e19",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Nếu bạn không muốn đi thì đừng đi nữa.)",
+      "options": [
+        "你不想去的话，就别去了。",
+        "的话你不想去，就别去了。",
+        "你的话不想去，就别去了。"
+      ],
+      "answer": 0,
+      "explainVi": "「的话」 đứng cuối vế điều kiện, không đứng đầu như 'nếu'.",
+      "grammar": [
+        179
+      ]
+    },
+    {
+      "id": "hsk3-03-e20",
+      "type": "translate",
+      "vi": "Nếu đắt quá thì tôi không mua nữa.",
+      "answers": [
+        "太贵的话，我就不买了。",
+        "[太|很]贵的话，我(就)不买了。",
+        "贵的话，我(就)不买了。",
+        "如果[太|很]贵(的话)，我(就)不买了。",
+        "如果贵(的话)，我(就)不买了。"
+      ],
+      "examples": [
+        {
+          "answer": "太贵的话，我就不买了。",
+          "score": 100
+        },
+        {
+          "answer": "如果太贵，我就不买了。",
+          "score": 100
+        },
+        {
+          "answer": "如果太贵的话，我就不买了。",
+          "score": 100
+        },
+        {
+          "answer": "贵的话，我不买了。",
+          "score": 100
+        },
+        {
+          "answer": "太贵的话，就我不买了。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "「就」 đứng sau chủ ngữ: 我就不买了"
+        },
+        {
+          "answer": "太贵的话，我就买了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        238,
+        179
+      ]
+    },
+    {
+      "id": "hsk3-03-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这个西瓜",
+      "after": "五公斤。",
+      "answers": [
+        "大概"
+      ],
+      "options": [
+        "大概",
+        "一共",
+        "到处"
+      ],
+      "vi": "Quả dưa hấu này khoảng năm cân.",
+      "grammar": [
+        243
+      ]
+    },
+    {
+      "id": "hsk3-03-e22",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "从你家到学校要多长时间？",
+        "promptVi": "Từ nhà bạn đến trường mất bao lâu? (Giả sử mất khoảng hai mươi phút.)",
+        "answers": [
+          "([大概|差不多])(要)二十分钟。",
+          "从我家到学校([大概|差不多])(要)二十分钟。"
+        ],
+        "examples": [
+          {
+            "answer": "大概二十分钟。",
+            "score": 100
+          },
+          {
+            "answer": "从我家到学校大概要二十分钟。",
+            "score": 100
+          },
+          {
+            "answer": "差不多二十分钟。",
+            "score": 100
+          },
+          {
+            "answer": "二十分钟大概。",
+            "score": 0
+          },
+          {
+            "answer": "大概十分钟。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        243
+      ]
+    },
+    {
+      "id": "hsk3-03-e23",
+      "type": "choice",
+      "promptVi": "'Mười bảy mười tám tuổi' nói thế nào?",
+      "options": [
+        "十七八岁",
+        "十七十八岁",
+        "七八十岁"
+      ],
+      "answer": 0,
+      "explainVi": "Với số trên mười chỉ nói 「十」 một lần: 十七八岁. 七八十岁 là 'bảy tám mươi tuổi'.",
+      "grammar": [
+        244
+      ]
+    },
+    {
+      "id": "hsk3-03-e24",
+      "type": "fill",
+      "promptVi": "Chọn cách nói đúng.",
+      "before": "我买了",
+      "after": "斤香蕉。",
+      "answers": [
+        "两三"
+      ],
+      "options": [
+        "两三",
+        "二三",
+        "两三多"
+      ],
+      "vi": "Tôi mua hai ba cân chuối.",
+      "explainVi": "Số 2 trước lượng từ vẫn là 「两」; hai số liền nhau không thêm 「多」.",
+      "grammar": [
+        244
+      ]
+    },
+    {
+      "id": "hsk3-03-e25",
+      "type": "translate",
+      "vi": "Trong cửa hàng có khoảng hai ba mươi người.",
+      "answers": [
+        "商店里(大概)有二三十个人。"
+      ],
+      "examples": [
+        {
+          "answer": "商店里有二三十个人。",
+          "score": 100
+        },
+        {
+          "answer": "商店里大概有二三十个人。",
+          "score": 100
+        },
+        {
+          "answer": "商店里有二十三十个人。",
+          "score": 0
+        },
+        {
+          "answer": "商店里有三四十个人。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        244,
+        243
+      ]
+    },
+    {
+      "id": "hsk3-03-e26",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几个西瓜？",
+        "promptVi": "Trên bàn có mấy quả dưa hấu?",
+        "picture": "🍉🍉🍉",
+        "expected": {
+          "number": 3,
+          "noun": "西瓜",
+          "sentence": "桌子上有三个西瓜。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有三个西瓜。",
+            "score": 100
+          },
+          {
+            "answer": "有三个。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有三西瓜。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有三本西瓜。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有两个西瓜。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-03-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "一共多少钱？",
+        "promptVi": "Tổng cộng bao nhiêu tiền? (Bạn mua hai cân táo, mỗi cân sáu tệ.)",
+        "answers": [
+          "(一共)十二块(钱)。",
+          "(一共)十二元。"
+        ],
+        "examples": [
+          {
+            "answer": "一共十二块钱。",
+            "score": 100
+          },
+          {
+            "answer": "十二块。",
+            "score": 100
+          },
+          {
+            "answer": "一共十二元。",
+            "score": 100
+          },
+          {
+            "answer": "一共六块钱。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        165
+      ]
+    },
+    {
+      "id": "hsk3-03-e28",
+      "type": "choice",
+      "promptVi": "Người bán nói: 「十块钱一斤？不行，太便宜了。」 Người bán có đồng ý giá đó không?",
+      "options": [
+        "Không đồng ý",
+        "Đồng ý",
+        "Chưa quyết định"
+      ],
+      "answer": 0,
+      "explainVi": "「不行」 là 'không được'."
+    },
+    {
+      "id": "hsk3-03-e29",
+      "type": "translate",
+      "vi": "Bạn có mang tiền không?",
+      "answers": [
+        "你带钱了吗？",
+        "你带钱了没有？",
+        "你带了钱吗？"
+      ],
+      "examples": [
+        {
+          "answer": "你带钱了吗？",
+          "score": 100
+        },
+        {
+          "answer": "你带钱了没有？",
+          "score": 100
+        },
+        {
+          "answer": "你带了钱吗？",
+          "score": 100
+        },
+        {
+          "answer": "你带钱吗？",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Hỏi việc đã làm chưa (đã mang theo chưa) cần 「了」"
+        },
+        {
+          "answer": "你有钱吗？",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}

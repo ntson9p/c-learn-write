@@ -1,0 +1,1288 @@
+{
+  "id": "hsk3-09",
+  "goalsVi": [
+    "Nói về cảm xúc của mình và người khác: 担心, 放心, 害怕, 着急, 生气, 难过, 奇怪…",
+    "Nêu ý kiến và niềm tin với 认为, 相信; phân biệt với 以为 (tưởng nhầm); nói sở thích với 对……感兴趣",
+    "Rút ra kết luận từ tình hình trước mắt với 「看来」",
+    "Can ngăn, an ủi bằng 「X什么(啊)」: 哭什么啊！急什么？",
+    "Nhấn mạnh bằng câu hỏi tu từ 「不是……吗？」 và câu 「是……的」 nêu nhận định của người nói"
+  ],
+  "words": [
+    {
+      "no": 637,
+      "word": "感到",
+      "meaningsVi": [
+        "cảm thấy"
+      ],
+      "noteVi": "Hay đi với từ chỉ cảm xúc, cảm giác: 感到高兴, 感到奇怪, 感到害怕. 「觉得」 dùng được cho cả cảm xúc lẫn ý kiến (我觉得他说得对); 「感到」 chủ yếu nói cảm xúc và trang trọng hơn một chút.",
+      "examples": [
+        {
+          "zh": "第一次来北京，我感到什么都很新鲜。",
+          "py": "dì yī cì lái běi jīng wǒ gǎn dào shén me dōu hěn xīn xiān",
+          "vi": "Lần đầu đến Bắc Kinh, tôi thấy cái gì cũng mới mẻ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 902,
+      "word": "心里",
+      "meaningsVi": [
+        "trong lòng (suy nghĩ, cảm xúc không nói ra)"
+      ],
+      "noteVi": "Hán Việt là 'tâm lý' nhưng 「心里」 không có nghĩa 'tâm lý' mà là 'trong lòng': 心里很高兴 (trong lòng rất vui), 心里想 (thầm nghĩ).",
+      "examples": [
+        {
+          "zh": "他嘴上不说，心里很着急。",
+          "py": "tā zuǐ shàng bù shuō xīn lǐ hěn zháo jí",
+          "vi": "Ngoài miệng anh ấy không nói, nhưng trong lòng rất sốt ruột."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 579,
+      "word": "担心",
+      "meaningsVi": [
+        "lo, lo lắng (cho ai, về việc gì)"
+      ],
+      "noteVi": "Sau 「担心」 có thể là người, sự việc hoặc cả một câu: 担心孩子, 担心考试, 担心他不来. Khuyên ai đừng lo: 别担心. Trái nghĩa: 「放心」.",
+      "examples": [
+        {
+          "zh": "别担心，医生说我已经好多了。",
+          "py": "bié dān xīn yī shēng shuō wǒ yǐ jīng hǎo duō le",
+          "vi": "Đừng lo, bác sĩ nói tôi đã đỡ nhiều rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 626,
+      "word": "放心",
+      "meaningsVi": [
+        "yên tâm"
+      ],
+      "noteVi": "Hán Việt 'phóng tâm' (buông lòng ra). Hay gặp: 你放心吧 (bạn cứ yên tâm), 我不放心 (tôi không yên tâm), 对……不放心 (không yên tâm về…).",
+      "examples": [
+        {
+          "zh": "你放心吧，我一个人能行。",
+          "py": "nǐ fàng xīn ba wǒ yí gè rén néng xíng",
+          "vi": "Bạn cứ yên tâm, một mình tôi làm được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 662,
+      "word": "害怕",
+      "meaningsVi": [
+        "sợ, sợ hãi"
+      ],
+      "noteVi": "「害怕」 và 「怕」 nghĩa gần nhau. 「害怕」 nhấn mạnh cảm giác sợ hãi, hay đứng một mình làm vị ngữ: 我很害怕. 「怕」 ngắn, khẩu ngữ hơn và còn có nghĩa 'lo là, e là'.",
+      "examples": [
+        {
+          "zh": "晚上一个人在家，她有点儿害怕。",
+          "py": "wǎn shang yí gè rén zài jiā tā yǒu diǎn r hài pà",
+          "vi": "Buổi tối ở nhà một mình, cô ấy hơi sợ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 790,
+      "word": "怕",
+      "meaningsVi": [
+        "sợ (ai, cái gì)",
+        "lo là, e là, sợ rằng"
+      ],
+      "noteVi": "怕 + danh từ: 怕狗, 怕冷. 怕 + cả một câu: lo một việc không hay sẽ xảy ra: 我怕他不认识路 (tôi sợ anh ấy không biết đường). Nghĩa này gần với 「担心」 nhưng khẩu ngữ hơn.",
+      "examples": [
+        {
+          "zh": "我弟弟很怕狗。",
+          "py": "wǒ dì di hěn pà gǒu",
+          "vi": "Em trai tôi rất sợ chó."
+        },
+        {
+          "zh": "我怕他不认识路，给他打个电话吧。",
+          "py": "wǒ pà tā bú rèn shi lù gěi tā dǎ gè diàn huà ba",
+          "vi": "Tôi sợ anh ấy không biết đường, gọi điện cho anh ấy đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 969,
+      "word": "着急",
+      "meaningsVi": [
+        "sốt ruột, cuống lên, lo cuống"
+      ],
+      "noteVi": "「着」 ở đây đọc **zháo**, không đọc zhe. 「着急」 là tính từ: 很着急, 别着急. So với 「担心」 (lo về điều có thể xảy ra), 「着急」 là sốt ruột vì muốn nhanh mà chưa được, thường lộ ra bên ngoài.",
+      "examples": [
+        {
+          "zh": "别着急，慢慢说。",
+          "py": "bié zháo jí màn màn shuō",
+          "vi": "Đừng cuống, cứ từ từ nói."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 691,
+      "word": "急",
+      "meaningsVi": [
+        "gấp, vội",
+        "sốt ruột, cuống"
+      ],
+      "noteVi": "急事 (việc gấp), 很急 (rất gấp). Nghĩa 'sốt ruột' giống 「着急」 nhưng ngắn hơn, hay gặp trong 急什么 (vội gì).",
+      "examples": [
+        {
+          "zh": "我有急事，得马上走。",
+          "py": "wǒ yǒu jí shì děi mǎ shàng zǒu",
+          "vi": "Tôi có việc gấp, phải đi ngay."
+        },
+        {
+          "zh": "你急什么？还有半个小时呢。",
+          "py": "nǐ jí shén me hái yǒu bàn gè xiǎo shí ne",
+          "vi": "Bạn vội gì? Vẫn còn nửa tiếng nữa mà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 829,
+      "word": "生气",
+      "meaningsVi": [
+        "giận, tức giận, nổi giận"
+      ],
+      "noteVi": "Giận ai: 生……的气 (他在生我的气) hoặc 对……生气, 跟……生气. Không nói 生气我 theo trật tự 'giận tôi' của tiếng Việt. Là từ li hợp nên có thể tách: 生什么气 (giận gì mà giận).",
+      "examples": [
+        {
+          "zh": "你别生气了，我下次一定早一点儿来。",
+          "py": "nǐ bié shēng qì le wǒ xià cì yí dìng zǎo yì diǎn r lái",
+          "vi": "Bạn đừng giận nữa, lần sau tôi nhất định sẽ đến sớm hơn một chút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 779,
+      "word": "难过",
+      "meaningsVi": [
+        "buồn, buồn rầu",
+        "khó chịu (trong người)"
+      ],
+      "noteVi": "Hán Việt 'nan quá' dễ làm hiểu nhầm. 「难过」 chủ yếu là **buồn** trong lòng: 心里很难过. Đừng nhầm với 「难看」 (xấu).",
+      "examples": [
+        {
+          "zh": "小狗不见了，孩子难过得哭了。",
+          "py": "xiǎo gǒu bú jiàn le hái zi nán guò de kū le",
+          "vi": "Con chó con mất rồi, đứa bé buồn đến phát khóc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 740,
+      "word": "哭",
+      "meaningsVi": [
+        "khóc"
+      ],
+      "noteVi": "Trái nghĩa với 「笑」. 哭了 (khóc rồi), 别哭了 (đừng khóc nữa).",
+      "examples": [
+        {
+          "zh": "别哭了，妈妈马上就回来。",
+          "py": "bié kū le mā ma mǎ shàng jiù huí lái",
+          "vi": "Đừng khóc nữa, mẹ về ngay thôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 799,
+      "word": "奇怪",
+      "meaningsVi": [
+        "lạ, kỳ lạ",
+        "thấy lạ (vì không hiểu tại sao)"
+      ],
+      "noteVi": "Hán Việt 'kỳ quái' nhưng nghĩa nhẹ hơn: chỉ là 'lạ', không phải 'quái dị'. 真奇怪 (lạ thật). Làm động từ: 我很奇怪他为什么不来 (tôi thấy lạ sao anh ấy không đến).",
+      "examples": [
+        {
+          "zh": "真奇怪，他今天怎么没来上课？",
+          "py": "zhēn qí guài tā jīn tiān zěn me méi lái shàng kè",
+          "vi": "Lạ thật, hôm nay sao cậu ấy không đi học?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 655,
+      "word": "关心",
+      "meaningsVi": [
+        "quan tâm"
+      ],
+      "noteVi": "Tân ngữ đứng ngay sau, không thêm 到 như 'quan tâm **đến**': 关心别人, 关心孩子的学习. Muốn nói 'quan tâm' theo nghĩa 'thích, có hứng thú' (quan tâm đến bóng đá) thì dùng 对足球感兴趣.",
+      "examples": [
+        {
+          "zh": "老师很关心我们的学习和生活。",
+          "py": "lǎo shī hěn guān xīn wǒ men de xué xí hé shēng huó",
+          "vi": "Thầy giáo rất quan tâm đến việc học và cuộc sống của chúng tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 888,
+      "word": "喜爱",
+      "meaningsVi": [
+        "yêu thích, ưa thích"
+      ],
+      "noteVi": "Nghĩa như 「喜欢」 nhưng trang trọng hơn, hay gặp trong văn viết: 大家喜爱的电影 (bộ phim được mọi người yêu thích). Nói chuyện hằng ngày thì dùng 喜欢.",
+      "examples": [
+        {
+          "zh": "这是孩子们最喜爱的电影。",
+          "py": "zhè shì hái zi men zuì xǐ ài de diàn yǐng",
+          "vi": "Đây là bộ phim các em nhỏ yêu thích nhất."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 910,
+      "word": "兴趣",
+      "meaningsVi": [
+        "hứng thú, sự thích thú",
+        "sở thích"
+      ],
+      "noteVi": "Là danh từ: 对……有兴趣 / 没有兴趣 (có / không có hứng thú với…). Không dùng như động từ: không nói 我兴趣足球.",
+      "examples": [
+        {
+          "zh": "学了汉语以后，我对中国有了很大的兴趣。",
+          "py": "xué le hàn yǔ yǐ hòu wǒ duì zhōng guó yǒu le hěn dà de xìng qù",
+          "vi": "Từ khi học tiếng Trung, tôi trở nên rất hứng thú với Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 639,
+      "word": "感兴趣",
+      "meaningsVi": [
+        "thấy hứng thú, thích (cái gì)"
+      ],
+      "noteVi": "Luôn dùng 「对 + đối tượng + 感兴趣」: 我对足球很感兴趣. Không đặt tân ngữ ra sau: không nói 我感兴趣足球. Phủ định: 不感兴趣.",
+      "examples": [
+        {
+          "zh": "你对什么运动感兴趣？",
+          "py": "nǐ duì shén me yùn dòng gǎn xìng qù",
+          "vi": "Bạn thích môn thể thao nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 570,
+      "word": "聪明",
+      "meaningsVi": [
+        "thông minh"
+      ],
+      "noteVi": "Hán Việt và nghĩa giống tiếng Việt. Dùng cho người và cả con vật: 这只狗很聪明.",
+      "examples": [
+        {
+          "zh": "这个孩子真聪明，一看就会。",
+          "py": "zhè ge hái zi zhēn cōng míng yí kàn jiù huì",
+          "vi": "Đứa bé này thông minh thật, nhìn một lần là biết làm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 816,
+      "word": "认为",
+      "meaningsVi": [
+        "cho rằng, nghĩ rằng (nêu ý kiến, nhận định)"
+      ],
+      "noteVi": "Nêu ý kiến, đánh giá sau khi suy nghĩ; trang trọng hơn 「觉得」. Khác 「以为」: 认为 là ý kiến của mình (đúng sai chưa biết), còn 以为 thường là tưởng sai.",
+      "examples": [
+        {
+          "zh": "我认为他说得很对。",
+          "py": "wǒ rèn wéi tā shuō de hěn duì",
+          "vi": "Tôi cho rằng anh ấy nói rất đúng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 933,
+      "word": "以为",
+      "meaningsVi": [
+        "tưởng (là), cứ ngỡ (thường là nghĩ sai)"
+      ],
+      "noteVi": "Dùng khi điều mình nghĩ hóa ra **không đúng**, giống 'tưởng' trong tiếng Việt: 我以为你是中国人 (tôi cứ tưởng bạn là người Trung Quốc). Vế sau hay có 其实, 可是 để nói sự thật.",
+      "examples": [
+        {
+          "zh": "我以为今天是星期五，其实今天才星期四。",
+          "py": "wǒ yǐ wéi jīn tiān shì xīng qī wǔ qí shí jīn tiān cái xīng qī sì",
+          "vi": "Tôi cứ tưởng hôm nay là thứ Sáu, thật ra hôm nay mới thứ Năm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 891,
+      "word": "相信",
+      "meaningsVi": [
+        "tin, tin tưởng"
+      ],
+      "noteVi": "相信 + người / lời nói / cả một câu: 我相信你, 我相信他会来. Không cần thêm 'vào' như tiếng Việt 'tin vào'.",
+      "examples": [
+        {
+          "zh": "我相信你一定能做好。",
+          "py": "wǒ xiāng xìn nǐ yí dìng néng zuò hǎo",
+          "vi": "Tôi tin bạn nhất định làm tốt được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 730,
+      "word": "看来",
+      "meaningsVi": [
+        "xem ra, có vẻ như (kết luận rút ra từ điều thấy được)"
+      ],
+      "noteVi": "Đứng đầu vế câu hoặc sau chủ ngữ, nêu kết luận từ tình hình trước mắt: 下雨了，看来不能去了. Xem thêm phần ngữ pháp.",
+      "examples": [
+        {
+          "zh": "下雨了，看来今天不能去踢球了。",
+          "py": "xià yǔ le kàn lái jīn tiān bù néng qù tī qiú le",
+          "vi": "Trời mưa rồi, xem ra hôm nay không đi đá bóng được rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 185,
+      "titleVi": "「看来」: xem ra, có vẻ như",
+      "summaryVi": "「看来」 nêu một phán đoán, kết luận mà người nói rút ra từ điều vừa thấy, vừa nghe: 已经九点了，看来他不会来了.",
+      "explanationVi": [
+        "「看来」 nghĩa là 'xem ra, có vẻ như, thế thì chắc là'. Người nói dựa vào **dấu hiệu trước mắt** để suy ra một điều: 他还没来，看来他忘了 (Anh ấy vẫn chưa đến, xem ra anh ấy quên rồi). Phần nêu tình hình đứng trước, phần kết luận có 「看来」 đứng sau.",
+        "Vị trí: thường đứng **đầu vế câu** chứa kết luận, có thể có dấu phẩy sau nó (看来，我们得坐出租车去了); cũng có thể đứng sau chủ ngữ: 他看来很累. Vế kết luận hay có 会/不会/得/该/要… và 「了」 ở cuối câu.",
+        "So sánh: 「我觉得」/「我认为」 nêu **ý kiến của tôi**, có chủ ngữ là người. 「看来」 không cần chủ ngữ người, nhấn mạnh kết luận **suy ra từ sự việc**. 「好像」 (hình như) chỉ là cảm giác chưa chắc; 「看来」 thường chắc chắn hơn vì có căn cứ.",
+        "Lỗi hay gặp: dịch 'tôi thấy là…' thành 我看来…. 「看来」 không có chủ ngữ 我 đứng ngay trước; muốn nói 'tôi thấy' thì dùng 我看 hoặc 我觉得."
+      ],
+      "patterns": [
+        "Tình hình，看来 + kết luận (+ 了)",
+        "Chủ ngữ + 看来 + tính từ / động từ"
+      ],
+      "examples": [
+        {
+          "zh": "已经九点了，看来他今天不会来了。",
+          "py": "yǐ jīng jiǔ diǎn le kàn lái tā jīn tiān bú huì lái le",
+          "vi": "Đã chín giờ rồi, xem ra hôm nay anh ấy không đến nữa."
+        },
+        {
+          "zh": "你一直在笑，看来考得不错。",
+          "py": "nǐ yì zhí zài xiào kàn lái kǎo de bú cuò",
+          "vi": "Bạn cứ cười suốt, xem ra thi được đấy nhỉ."
+        },
+        {
+          "zh": "下雨了，看来我们得坐出租车去了。",
+          "py": "xià yǔ le kàn lái wǒ men děi zuò chū zū chē qù le",
+          "vi": "Mưa rồi, xem ra chúng ta phải đi taxi rồi."
+        },
+        {
+          "zh": "他看来很累，让他休息一会儿吧。",
+          "py": "tā kàn lái hěn lèi ràng tā xiū xi yí huì r ba",
+          "vi": "Anh ấy có vẻ rất mệt, để anh ấy nghỉ một lát đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他没来上课，我看来他生病了。",
+          "right": "他没来上课，看来他生病了。",
+          "noteVi": "「看来」 không đi với chủ ngữ 我 đứng ngay trước. Muốn nói 'tôi thấy' thì dùng 我看 hoặc 我觉得: 我看他生病了."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 199,
+      "titleVi": "「X什么(啊)」: … làm gì!, … gì mà …!",
+      "summaryVi": "Đặt 「什么(啊)」 sau một động từ hoặc tính từ để nói 'không cần phải X', tỏ ý không đồng ý, trách nhẹ hoặc an ủi: 哭什么啊！急什么？",
+      "explanationVi": [
+        "「什么」 ở đây **không hỏi** 'cái gì'. 「X什么(啊)」 là câu hỏi tu từ, nghĩa là 'việc gì phải X, X làm gì': 你哭什么啊？ = có gì đâu mà khóc, đừng khóc nữa. Tiếng Việt cũng có cách nói tương tự: 'Khóc cái gì mà khóc!', 'Vội gì!'.",
+        "X thường là động từ hoặc tính từ chỉ cảm xúc, thái độ: 哭, 笑, 急, 着急, 怕, 担心, 忙. Với từ li hợp như 「生气」, 「什么」 chen vào **giữa**: 生什么气 (giận gì mà giận), không nói 生气什么.",
+        "Sau 「X什么」 thường có một câu giải thích vì sao không cần X: 急什么，电影八点才开始呢 (Vội gì, tám giờ phim mới chiếu cơ mà). 「啊」 ở cuối làm giọng mềm hơn.",
+        "Chú ý: đây là cách nói thân mật, dùng với bạn bè, người thân; nói với thầy cô, người lớn dễ bị coi là thiếu lễ phép. Muốn hỏi lý do thật thì dùng 「为什么」: 你为什么哭？ (Sao bạn khóc?)."
+      ],
+      "patterns": [
+        "(Chủ ngữ +) động từ / tính từ + 什么(啊)？",
+        "生 + 什么 + 气(啊)？"
+      ],
+      "examples": [
+        {
+          "zh": "你哭什么啊？这不是什么大事。",
+          "py": "nǐ kū shén me a zhè bú shì shén me dà shì",
+          "vi": "Bạn khóc làm gì? Có phải chuyện gì to tát đâu."
+        },
+        {
+          "zh": "急什么？电影八点才开始呢。",
+          "py": "jí shén me diàn yǐng bā diǎn cái kāi shǐ ne",
+          "vi": "Vội gì? Tám giờ phim mới chiếu cơ mà."
+        },
+        {
+          "zh": "你怕什么？有我呢。",
+          "py": "nǐ pà shén me yǒu wǒ ne",
+          "vi": "Bạn sợ gì chứ? Có tôi đây rồi."
+        },
+        {
+          "zh": "这么小的事，你担心什么啊？",
+          "py": "zhè me xiǎo de shì nǐ dān xīn shén me a",
+          "vi": "Chuyện nhỏ thế này, bạn lo gì chứ?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你怕什么吗？有我呢。",
+          "right": "你怕什么？有我呢。",
+          "noteVi": "Thêm 「吗」 thì 「什么」 thành 'cái gì đó' và câu thành câu hỏi thật 'Bạn có sợ cái gì không?' — sai với ý 'sợ gì chứ'. Câu 「X什么」 không thêm 「吗」."
+        },
+        {
+          "wrong": "老师，您哭什么啊？",
+          "right": "老师，您为什么哭？",
+          "noteVi": "Câu trái đúng ngữ pháp nhưng mang ý 'khóc làm gì' (trách, can), không lễ phép khi nói với thầy cô. Muốn hỏi lý do thật thì dùng 「为什么」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 214,
+      "titleVi": "Câu hỏi tu từ 「不是……吗？」: chẳng phải… sao?",
+      "summaryVi": "「不是……吗？」 có hình thức câu hỏi nhưng dùng để khẳng định mạnh một điều người nói cho là đúng, thường kèm ý nhắc nhở, ngạc nhiên hoặc trách nhẹ: 你不是说今天不来吗？",
+      "explanationVi": [
+        "Câu 「不是……吗？」 không thật sự hỏi mà **khẳng định**: 你不是越南人吗？ = 'Bạn là người Việt Nam cơ mà!'. Người nói tin chắc điều đó, giống tiếng Việt 'chẳng phải… sao?', '… cơ mà?'. Ý nghĩa ngược với mặt chữ: có 不是 nhưng ý là **có, đúng**.",
+        "Hai cách dùng hay gặp: (1) **nhắc lại điều cả hai đều biết** để làm lý do cho lời đề nghị: 你不是喜欢吃饺子吗？多吃一点儿吧. (2) **ngạc nhiên, trách nhẹ** khi thấy sự việc khác với điều mình biết: 你不是说今天不来吗？怎么来了？",
+        "「不是」 đứng trước phần muốn nhấn mạnh: trước động từ (他不是去上海了吗？), trước tính từ (你不是很忙吗？), hoặc như 'là' (这不是你的手机吗？). Câu kết thúc bằng 「吗」, không dùng 「呢」.",
+        "Đừng nhầm với câu hỏi thật 「是不是……？」 (你是不是越南人？ — Bạn có phải người Việt Nam không?). 「是不是」 đã là câu hỏi nên không thêm 「吗」."
+      ],
+      "patterns": [
+        "Chủ ngữ + 不是 + động từ / tính từ… + 吗？",
+        "这 / 那 + 不是 + danh từ + 吗？"
+      ],
+      "examples": [
+        {
+          "zh": "你不是说今天要去医院吗？怎么还在家？",
+          "py": "nǐ bú shì shuō jīn tiān yào qù yī yuàn ma zěn me hái zài jiā",
+          "vi": "Chẳng phải bạn nói hôm nay phải đi bệnh viện sao? Sao vẫn còn ở nhà?"
+        },
+        {
+          "zh": "你不是喜欢吃饺子吗？多吃一点儿吧。",
+          "py": "nǐ bú shì xǐ huan chī jiǎo zi ma duō chī yì diǎn r ba",
+          "vi": "Bạn thích ăn sủi cảo cơ mà? Ăn thêm chút nữa đi."
+        },
+        {
+          "zh": "这不是你的手机吗？怎么在我的包里？",
+          "py": "zhè bú shì nǐ de shǒu jī ma zěn me zài wǒ de bāo lǐ",
+          "vi": "Đây chẳng phải điện thoại của bạn sao? Sao lại ở trong túi tôi?"
+        },
+        {
+          "zh": "他不是去上海了吗？你在哪儿看见他了？",
+          "py": "tā bú shì qù shàng hǎi le ma nǐ zài nǎ r kàn jiàn tā le",
+          "vi": "Anh ấy đi Thượng Hải rồi cơ mà? Bạn nhìn thấy anh ấy ở đâu?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你是不是说今天不来吗？",
+          "right": "你不是说今天不来吗？",
+          "noteVi": "「是不是」 đã là câu hỏi, không thêm 「吗」. Muốn nói 'chẳng phải bạn nói… sao' thì dùng 不是……吗."
+        },
+        {
+          "wrong": "你不是喜欢吃饺子呢？",
+          "right": "你不是喜欢吃饺子吗？",
+          "noteVi": "Câu tu từ 不是…… kết thúc bằng 「吗」, không dùng 「呢」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 228,
+      "titleVi": "Câu 「是……的」 (2): nhấn mạnh nhận định, thái độ của người nói",
+      "summaryVi": "「是 + nhận định + 的」 khẳng định chắc chắn ý kiến, đánh giá của người nói, mang giọng giải thích, thuyết phục: 学汉语是很有意思的, 他是不会生气的.",
+      "explanationVi": [
+        "Ở HSK2 đã học 「是……的」 (1) nhấn mạnh thời gian, nơi chốn, cách thức của một việc **đã xảy ra** (我是坐地铁来的). Kiểu (2) này khác: không kể việc đã xảy ra mà nêu **nhận định, đánh giá, thái độ** của người nói, có ý 'chắc chắn là thế, bạn cứ tin tôi': 你放心，他是不会生气的.",
+        "Giữa 「是」 và 「的」 thường là: tính từ có 很/非常 (是很好的), động từ năng nguyện 会/能/可以/应该 (他是会来的 — anh ấy sẽ đến mà), hoặc phủ định (是不行的, 是不会忘的). Bỏ cả 是 lẫn 的 thì câu vẫn đúng nhưng chỉ là câu kể bình thường: 他会来 / 他是会来的.",
+        "Tiếng Việt hay nói 'là … đấy', 'là … mà': 'Học tiếng Trung là rất thú vị đấy'. Vì vậy người Việt dễ viết 学汉语是很有意思 (thiếu 的) — sai, vì 「是」 không đứng trước tính từ một mình. Hoặc nói cả cặp 是……的, hoặc bỏ cả hai: 学汉语很有意思.",
+        "Phân biệt với kiểu (1): kiểu (1) nói về một lần cụ thể đã xảy ra (hỏi được 什么时候/怎么/在哪儿); kiểu (2) nói chung chung, thường có 会, 能, 可以, 不, 很… ở giữa. Phủ định đặt **trong** phần nhận định: 是不会……的, không nói 不是会……的."
+      ],
+      "patterns": [
+        "Chủ ngữ + 是 + 很/非常 + tính từ + 的",
+        "Chủ ngữ + 是 + (不)会/能/可以 + động từ + 的",
+        "Chủ ngữ + 是 + 不行/不对 + 的"
+      ],
+      "examples": [
+        {
+          "zh": "你放心，他是不会生气的。",
+          "py": "nǐ fàng xīn tā shì bú huì shēng qì de",
+          "vi": "Bạn yên tâm, anh ấy sẽ không giận đâu."
+        },
+        {
+          "zh": "学汉语是很有意思的。",
+          "py": "xué hàn yǔ shì hěn yǒu yì si de",
+          "vi": "Học tiếng Trung là rất thú vị đấy."
+        },
+        {
+          "zh": "这样做是不行的。",
+          "py": "zhè yàng zuò shì bù xíng de",
+          "vi": "Làm như thế là không được đâu."
+        },
+        {
+          "zh": "我相信他是能做好的。",
+          "py": "wǒ xiāng xìn tā shì néng zuò hǎo de",
+          "vi": "Tôi tin là anh ấy làm tốt được mà."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "学汉语是很有意思。",
+          "right": "学汉语是很有意思的。",
+          "noteVi": "「是」 không đứng một mình trước tính từ. Thêm 「的」 ở cuối để thành câu nhấn mạnh, hoặc bỏ 「是」: 学汉语很有意思."
+        },
+        {
+          "wrong": "你放心，他不是会生气的。",
+          "right": "你放心，他是不会生气的。",
+          "noteVi": "Phủ định nằm trong phần nhận định, sau 「是」: 是不会……的."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-09-e01",
+      "type": "match",
+      "promptVi": "Nối từ chỉ cảm xúc với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "担心",
+          "lo lắng"
+        ],
+        [
+          "放心",
+          "yên tâm"
+        ],
+        [
+          "害怕",
+          "sợ hãi"
+        ],
+        [
+          "着急",
+          "sốt ruột"
+        ],
+        [
+          "生气",
+          "tức giận"
+        ],
+        [
+          "难过",
+          "buồn"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-09-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "奇怪",
+          "lạ"
+        ],
+        [
+          "聪明",
+          "thông minh"
+        ],
+        [
+          "关心",
+          "quan tâm"
+        ],
+        [
+          "相信",
+          "tin tưởng"
+        ],
+        [
+          "认为",
+          "cho rằng"
+        ],
+        [
+          "以为",
+          "tưởng (nhầm) là"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-09-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我对足球很感",
+      "after": "。",
+      "answers": [
+        "兴趣"
+      ],
+      "options": [
+        "兴趣",
+        "关心",
+        "喜欢"
+      ],
+      "vi": "Tôi rất có hứng thú với bóng đá.",
+      "explainVi": "Cụm cố định: 对 + đối tượng + 感兴趣."
+    },
+    {
+      "id": "hsk3-09-e04",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "我＿他是日本人，其实他是韩国人。",
+      "options": [
+        "以为",
+        "认为",
+        "相信"
+      ],
+      "answer": 0,
+      "explainVi": "Điều mình nghĩ hóa ra sai (其实…) thì dùng 「以为」 (tưởng)."
+    },
+    {
+      "id": "hsk3-09-e05",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi rất thích Trung Quốc / rất có hứng thú với Trung Quốc.)",
+      "options": [
+        "我对中国很感兴趣。",
+        "我很感兴趣中国。",
+        "我感兴趣对中国。"
+      ],
+      "answer": 0,
+      "explainVi": "Đối tượng đứng sau 「对」, trước 「感兴趣」; không đặt tân ngữ sau 感兴趣."
+    },
+    {
+      "id": "hsk3-09-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你",
+      "after": "吧，我一个人能行。",
+      "answers": [
+        "放心"
+      ],
+      "options": [
+        "放心",
+        "担心",
+        "害怕"
+      ],
+      "vi": "Bạn cứ yên tâm, một mình tôi làm được."
+    },
+    {
+      "id": "hsk3-09-e07",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你",
+      "after": "什么？电影八点才开始呢。",
+      "answers": [
+        "急"
+      ],
+      "options": [
+        "急",
+        "哭",
+        "笑"
+      ],
+      "vi": "Bạn vội gì? Tám giờ phim mới chiếu cơ mà.",
+      "explainVi": "「急什么」 = vội gì, không cần vội; vế sau giải thích lý do (còn sớm).",
+      "grammar": [
+        199
+      ]
+    },
+    {
+      "id": "hsk3-09-e08",
+      "type": "choice",
+      "promptVi": "Bạn của bạn đang khóc vì một chuyện nhỏ. Bạn nói 「你哭什么啊？」. Câu này có nghĩa gì?",
+      "options": [
+        "Có gì đâu mà khóc, đừng khóc nữa.",
+        "Bạn đang khóc cái gì thế? (hỏi thật)",
+        "Bạn có hay khóc không?"
+      ],
+      "answer": 0,
+      "explainVi": "「X什么(啊)」 là câu hỏi tu từ: 'X làm gì', ý khuyên không cần X.",
+      "grammar": [
+        199
+      ]
+    },
+    {
+      "id": "hsk3-09-e09",
+      "type": "order",
+      "vi": "Chuyện nhỏ thế này, bạn lo gì chứ?",
+      "tiles": [
+        "这么小的事",
+        "你",
+        "担心",
+        "什么",
+        "啊"
+      ],
+      "answers": [
+        "这么小的事你担心什么啊"
+      ],
+      "explainVi": "「担心什么」 = lo gì chứ, không cần lo; 「什么」 đứng ngay sau động từ.",
+      "grammar": [
+        199
+      ]
+    },
+    {
+      "id": "hsk3-09-e10",
+      "type": "translate",
+      "vi": "Sợ gì chứ, có tôi đây rồi!",
+      "answers": [
+        "(你)[怕|害怕]什么(啊)，有我呢。"
+      ],
+      "examples": [
+        {
+          "answer": "怕什么，有我呢！",
+          "score": 100
+        },
+        {
+          "answer": "你怕什么啊？有我呢。",
+          "score": 100
+        },
+        {
+          "answer": "你害怕什么？有我呢。",
+          "score": 100
+        },
+        {
+          "answer": "你不怕，有我呢。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        199
+      ]
+    },
+    {
+      "id": "hsk3-09-e11",
+      "type": "choice",
+      "promptVi": "「你不是喜欢吃饺子吗？」 nghĩa là gì?",
+      "options": [
+        "Bạn thích ăn sủi cảo cơ mà (sao không ăn?).",
+        "Bạn không thích ăn sủi cảo à?",
+        "Bạn có thích ăn sủi cảo không?"
+      ],
+      "answer": 0,
+      "explainVi": "「不是……吗？」 là câu hỏi tu từ, ý khẳng định: bạn thích ăn sủi cảo mà.",
+      "grammar": [
+        214
+      ]
+    },
+    {
+      "id": "hsk3-09-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你",
+      "after": "说今天不来吗？怎么来了？",
+      "answers": [
+        "不是"
+      ],
+      "options": [
+        "不是",
+        "是不是",
+        "不"
+      ],
+      "vi": "Chẳng phải bạn nói hôm nay không đến sao? Sao lại đến rồi?",
+      "explainVi": "Câu tu từ 「不是……吗？」. 「是不是」 là câu hỏi thật nên không đi với 吗.",
+      "grammar": [
+        214
+      ]
+    },
+    {
+      "id": "hsk3-09-e13",
+      "type": "order",
+      "vi": "Đây chẳng phải điện thoại của bạn sao?",
+      "tiles": [
+        "这",
+        "不是",
+        "你的",
+        "手机",
+        "吗"
+      ],
+      "answers": [
+        "这不是你的手机吗"
+      ],
+      "grammar": [
+        214
+      ]
+    },
+    {
+      "id": "hsk3-09-e14",
+      "type": "translate",
+      "vi": "Chẳng phải anh ấy đi Thượng Hải rồi sao?",
+      "answers": [
+        "他不是去[上海了|了上海]吗？"
+      ],
+      "examples": [
+        {
+          "answer": "他不是去上海了吗？",
+          "score": 100
+        },
+        {
+          "answer": "他不是去了上海吗？",
+          "score": 100
+        },
+        {
+          "answer": "他不是去北京了吗？",
+          "score": 0
+        },
+        {
+          "answer": "他没去上海吗？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        214
+      ]
+    },
+    {
+      "id": "hsk3-09-e15",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "晚上我们去看电影吧！",
+        "promptVi": "Bạn của bạn rủ tối nay đi xem phim. Hãy nhắc bạn ấy: chẳng phải ngày mai bạn có bài thi sao? (dùng 不是……吗)",
+        "answers": [
+          "你明天不是[有|要]考试吗？",
+          "你不是明天[有|要]考试吗？",
+          {
+            "text": "你明天[有|要]考试。",
+            "score": 70
+          }
+        ],
+        "examples": [
+          {
+            "answer": "你明天不是有考试吗？",
+            "score": 100
+          },
+          {
+            "answer": "你不是明天要考试吗？",
+            "score": 100
+          },
+          {
+            "answer": "你明天要考试。",
+            "score": 70,
+            "note": "Đúng ý nhưng chưa dùng 不是……吗"
+          },
+          {
+            "answer": "你明天没有考试吗？",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        214
+      ]
+    },
+    {
+      "id": "hsk3-09-e16",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn yên tâm, anh ấy chắc chắn không giận đâu.)",
+      "options": [
+        "你放心，他是不会生气的。",
+        "你放心，他不是会生气的。",
+        "你放心，他是不会生气。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định nằm sau 「是」 (是不会……), và câu phải kết thúc bằng 「的」.",
+      "grammar": [
+        228
+      ]
+    },
+    {
+      "id": "hsk3-09-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "学汉语是很有意思",
+      "after": "。",
+      "answers": [
+        "的"
+      ],
+      "options": [
+        "的",
+        "了",
+        "吗"
+      ],
+      "vi": "Học tiếng Trung là rất thú vị đấy.",
+      "explainVi": "「是 + tính từ」 phải có 「的」 ở cuối: 是很有意思的.",
+      "grammar": [
+        228
+      ]
+    },
+    {
+      "id": "hsk3-09-e18",
+      "type": "order",
+      "vi": "Làm như thế là không được đâu.",
+      "tiles": [
+        "这样",
+        "做",
+        "是",
+        "不行",
+        "的"
+      ],
+      "answers": [
+        "这样做是不行的"
+      ],
+      "grammar": [
+        228
+      ]
+    },
+    {
+      "id": "hsk3-09-e19",
+      "type": "translate",
+      "vi": "Bạn yên tâm, anh ấy sẽ đến mà.",
+      "answers": [
+        "(你)放心(吧)，他是会来的。",
+        {
+          "text": "(你)放心(吧)，他会来(的)。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "你放心，他是会来的。",
+          "score": 100
+        },
+        {
+          "answer": "放心吧，他是会来的。",
+          "score": 100
+        },
+        {
+          "answer": "你放心，他会来。",
+          "score": 90,
+          "note": "Đúng nhưng chưa nhấn mạnh bằng 是……的"
+        },
+        {
+          "answer": "你放心，他是不会来的。",
+          "score": 0
+        },
+        {
+          "answer": "你担心，他是会来的。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        228
+      ]
+    },
+    {
+      "id": "hsk3-09-e20",
+      "type": "choice",
+      "promptVi": "Trời mưa rồi. Câu nào đúng? (Xem ra hôm nay không đá bóng được rồi.)",
+      "options": [
+        "下雨了，看来今天不能踢球了。",
+        "下雨了，我看来今天不能踢球了。",
+        "下雨了，今天不能踢球看来了。"
+      ],
+      "answer": 0,
+      "explainVi": "「看来」 đứng đầu vế kết luận, không có chủ ngữ 我 ngay trước nó.",
+      "grammar": [
+        185
+      ]
+    },
+    {
+      "id": "hsk3-09-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "已经十点了，",
+      "after": "他今天不会来了。",
+      "answers": [
+        "看来"
+      ],
+      "options": [
+        "看来",
+        "以为",
+        "认为"
+      ],
+      "vi": "Đã mười giờ rồi, xem ra hôm nay anh ấy không đến nữa.",
+      "explainVi": "Kết luận rút ra từ tình hình (đã mười giờ) dùng 「看来」. 以为, 认为 cần chủ ngữ là người.",
+      "grammar": [
+        185
+      ]
+    },
+    {
+      "id": "hsk3-09-e22",
+      "type": "translate",
+      "vi": "Anh ấy vẫn chưa đến, xem ra anh ấy quên rồi.",
+      "answers": [
+        "他还没(有)来，看来(他)忘了。"
+      ],
+      "examples": [
+        {
+          "answer": "他还没来，看来他忘了。",
+          "score": 100
+        },
+        {
+          "answer": "他还没有来，看来忘了。",
+          "score": 100
+        },
+        {
+          "answer": "他还没来，看来他来了。",
+          "score": 0
+        },
+        {
+          "answer": "他已经来了，看来他忘了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        185
+      ]
+    },
+    {
+      "id": "hsk3-09-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "下雨了，我们还去踢球吗？",
+        "promptVi": "Trời mưa rồi, còn đi đá bóng không? Hãy trả lời: xem ra hôm nay không đi được rồi (dùng 看来).",
+        "answers": [
+          "看来(今天)(我们)不能去(踢球)了。",
+          {
+            "text": "(今天)(我们)不能去(踢球)了。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "看来今天不能去了。",
+            "score": 100
+          },
+          {
+            "answer": "看来我们不能去踢球了。",
+            "score": 100
+          },
+          {
+            "answer": "今天不能去了。",
+            "score": 80,
+            "note": "Đúng ý nhưng chưa dùng 看来"
+          },
+          {
+            "answer": "看来今天能去。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        185
+      ]
+    },
+    {
+      "id": "hsk3-09-e24",
+      "type": "choice",
+      "promptVi": "Câu nào dùng đúng 「兴趣」?",
+      "options": [
+        "我对中国电影很有兴趣。",
+        "我很兴趣中国电影。",
+        "我兴趣中国电影。"
+      ],
+      "answer": 0,
+      "explainVi": "「兴趣」 là danh từ: 对……有兴趣. Không dùng 兴趣 như động từ."
+    },
+    {
+      "id": "hsk3-09-e25",
+      "type": "choice",
+      "promptVi": "「我以为今天是星期五。」 nghĩa là gì?",
+      "options": [
+        "Tôi cứ tưởng hôm nay là thứ Sáu (hóa ra không phải).",
+        "Tôi chắc chắn hôm nay là thứ Sáu.",
+        "Tôi mong hôm nay là thứ Sáu."
+      ],
+      "answer": 0,
+      "explainVi": "「以为」 = tưởng, thường là điều nghĩ sai."
+    },
+    {
+      "id": "hsk3-09-e26",
+      "type": "translate",
+      "vi": "Mẹ rất lo cho sức khỏe của tôi.",
+      "answers": [
+        "妈妈[很|非常]担心我的身体。"
+      ],
+      "examples": [
+        {
+          "answer": "妈妈很担心我的身体。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈非常担心我的身体。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈很放心我的身体。",
+          "score": 0
+        },
+        {
+          "answer": "妈妈很担心我的学习。",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "hsk3-09-e27",
+      "type": "translate",
+      "vi": "Bạn thích môn thể thao nào? (dùng 感兴趣)",
+      "answers": [
+        "你对什么运动[感兴趣|有兴趣]？",
+        "你对哪[种|个]运动[感兴趣|有兴趣]？"
+      ],
+      "examples": [
+        {
+          "answer": "你对什么运动感兴趣？",
+          "score": 100
+        },
+        {
+          "answer": "你对什么运动有兴趣？",
+          "score": 100
+        },
+        {
+          "answer": "你对哪种运动感兴趣？",
+          "score": 100
+        },
+        {
+          "answer": "你感兴趣什么运动？",
+          "score": 0,
+          "note": "Đối tượng phải đứng sau 对, trước 感兴趣"
+        }
+      ]
+    },
+    {
+      "id": "hsk3-09-e28",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "小猫很害怕，它在哪儿？",
+        "promptVi": "Con mèo con sợ quá. Nó ở đâu? (Trong hình: con mèo nấp dưới gầm ghế sofa.)",
+        "expected": {
+          "places": [
+            "沙发"
+          ],
+          "localizer": "下",
+          "sentence": "它在沙发下面。"
+        },
+        "examples": [
+          {
+            "answer": "它在沙发下面。",
+            "score": 100
+          },
+          {
+            "answer": "在沙发下边。",
+            "score": 100
+          },
+          {
+            "answer": "小猫在沙发。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "它在下沙发。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "它在沙发上。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-09-e29",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "有几个孩子在哭？",
+        "promptVi": "Có mấy đứa trẻ đang khóc?",
+        "picture": "😭😭😭😊",
+        "expected": {
+          "number": 3,
+          "noun": "孩子",
+          "sentence": "有三个孩子在哭。"
+        },
+        "examples": [
+          {
+            "answer": "有三个孩子在哭。",
+            "score": 100
+          },
+          {
+            "answer": "三个。",
+            "score": 100
+          },
+          {
+            "answer": "有三孩子在哭。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有四个孩子在哭。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

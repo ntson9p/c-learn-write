@@ -1,0 +1,1273 @@
+{
+  "id": "hsk1-04",
+  "goalsVi": [
+    "Đếm và đọc các số từ 0 đến 99",
+    "Hỏi và nói tuổi: 你今年多少岁？我今年二十岁。",
+    "Nói và hỏi ngày, tháng, năm, thứ trong tuần: 今天几月几号？今天星期几？",
+    "Nói thứ tự với 「第」: 第一, 第二天"
+  ],
+  "words": [
+    {
+      "no": 113,
+      "word": "六",
+      "meaningsVi": [
+        "sáu (số 6)"
+      ],
+      "examples": [
+        {
+          "zh": "我弟弟六岁。",
+          "py": "wǒ dì di liù suì",
+          "vi": "Em trai tôi sáu tuổi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 160,
+      "word": "七",
+      "meaningsVi": [
+        "bảy (số 7)"
+      ],
+      "examples": [
+        {
+          "zh": "我妹妹今年七岁。",
+          "py": "wǒ mèi mei jīn nián qī suì",
+          "vi": "Năm nay em gái tôi bảy tuổi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 2,
+      "word": "八",
+      "meaningsVi": [
+        "tám (số 8)"
+      ],
+      "examples": [
+        {
+          "zh": "明天八号。",
+          "py": "míng tiān bā hào",
+          "vi": "Ngày mai là ngày 8."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 95,
+      "word": "九",
+      "meaningsVi": [
+        "chín (số 9)"
+      ],
+      "examples": [
+        {
+          "zh": "九月有三十天。",
+          "py": "jiǔ yuè yǒu sān shí tiān",
+          "vi": "Tháng Chín có ba mươi ngày."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 184,
+      "word": "十",
+      "meaningsVi": [
+        "mười (số 10)"
+      ],
+      "noteVi": "Ghép số giống tiếng Việt: 十一 (mười một), 二十 (hai mươi), 二十五 (hai mươi lăm), 九十九 (chín mươi chín).",
+      "examples": [
+        {
+          "zh": "王老师有十个学生。",
+          "py": "wáng lǎo shī yǒu shí gè xué shēng",
+          "vi": "Thầy Vương có mười học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 112,
+      "word": "零",
+      "meaningsVi": [
+        "số không, linh, lẻ"
+      ],
+      "noteVi": "Năm đọc từng chữ số: 2026 đọc là 二零二六 (èr líng èr liù). Trong văn bản trang trọng, số 0 của năm thường viết là 「〇」.",
+      "examples": [
+        {
+          "zh": "今年是二零二六年。",
+          "py": "jīn nián shì èr líng èr liù nián",
+          "vi": "Năm nay là năm 2026."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 46,
+      "word": "多",
+      "meaningsVi": [
+        "nhiều",
+        "hơn, ngoài (sau số chẵn chục: 二十多 = hơn hai mươi)"
+      ],
+      "noteVi": "「很多」 + danh từ không cần lượng từ: 很多朋友 (nhiều bạn).",
+      "examples": [
+        {
+          "zh": "他有很多朋友。",
+          "py": "tā yǒu hěn duō péng you",
+          "vi": "Anh ấy có rất nhiều bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 47,
+      "word": "多少",
+      "meaningsVi": [
+        "bao nhiêu"
+      ],
+      "noteVi": "「几」 hỏi số nhỏ (thường dưới 10) và phải có lượng từ; 「多少」 hỏi số bất kỳ, lượng từ có thể bỏ: 多少人.",
+      "examples": [
+        {
+          "zh": "一年有多少天？",
+          "py": "yì nián yǒu duō shao tiān",
+          "vi": "Một năm có bao nhiêu ngày?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 199,
+      "word": "岁",
+      "meaningsVi": [
+        "tuổi"
+      ],
+      "noteVi": "Nói tuổi không cần 「是」: 我二十岁 (Tôi hai mươi tuổi). 「岁」 tự là lượng từ, không thêm 「个」. Hỏi trẻ nhỏ: 你几岁？",
+      "examples": [
+        {
+          "zh": "我今年十九岁。",
+          "py": "wǒ jīn nián shí jiǔ suì",
+          "vi": "Năm nay tôi mười chín tuổi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 149,
+      "word": "年",
+      "meaningsVi": [
+        "năm"
+      ],
+      "noteVi": "「年」 tự là lượng từ: 一年, 两年 (không nói 「两个年」).",
+      "examples": [
+        {
+          "zh": "一年有十二个月。",
+          "py": "yì nián yǒu shí èr gè yuè",
+          "vi": "Một năm có mười hai tháng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 269,
+      "word": "月",
+      "meaningsVi": [
+        "tháng"
+      ],
+      "noteVi": "「一月」 là tháng Một (tên tháng); 「一个月」 là một tháng (khoảng thời gian). Đừng nhầm hai cách nói này.",
+      "examples": [
+        {
+          "zh": "一月是一年的第一个月。",
+          "py": "yī yuè shì yì nián de dì yī gè yuè",
+          "vi": "Tháng Một là tháng đầu tiên của năm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 172,
+      "word": "日",
+      "meaningsVi": [
+        "ngày (trong ngày tháng, hay dùng khi viết)"
+      ],
+      "noteVi": "Viết ngày tháng hay dùng 「日」: 11月15日; khi nói hằng ngày thường dùng 「号」.",
+      "examples": [
+        {
+          "zh": "今天是十一月十五日。",
+          "py": "jīn tiān shì shí yī yuè shí wǔ rì",
+          "vi": "Hôm nay là ngày 15 tháng 11."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 76,
+      "word": "号",
+      "meaningsVi": [
+        "ngày (khi nói ngày tháng)",
+        "số (số nhà, số phòng…)"
+      ],
+      "examples": [
+        {
+          "zh": "今天几号？",
+          "py": "jīn tiān jǐ hào",
+          "vi": "Hôm nay là ngày mấy?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 243,
+      "word": "星期",
+      "meaningsVi": [
+        "tuần, tuần lễ",
+        "thứ (trong 星期一, 星期二…)"
+      ],
+      "noteVi": "Thứ Hai là 「星期一」, thứ Ba là 「星期二」… thứ Bảy là 「星期六」: số trong tiếng Trung nhỏ hơn tiếng Việt một đơn vị. Chủ nhật là 「星期日」 hoặc 「星期天」.",
+      "examples": [
+        {
+          "zh": "今天星期几？",
+          "py": "jīn tiān xīng qī jǐ",
+          "vi": "Hôm nay thứ mấy?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 244,
+      "word": "星期日",
+      "meaningsVi": [
+        "chủ nhật"
+      ],
+      "noteVi": "「星期日」 hay dùng khi viết, 「星期天」 hay dùng khi nói; nghĩa như nhau.",
+      "examples": [
+        {
+          "zh": "明天是星期日。",
+          "py": "míng tiān shì xīng qī rì",
+          "vi": "Ngày mai là chủ nhật."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 245,
+      "word": "星期天",
+      "meaningsVi": [
+        "chủ nhật"
+      ],
+      "examples": [
+        {
+          "zh": "昨天是星期天。",
+          "py": "zuó tiān shì xīng qī tiān",
+          "vi": "Hôm qua là chủ nhật."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 94,
+      "word": "今天",
+      "meaningsVi": [
+        "hôm nay"
+      ],
+      "examples": [
+        {
+          "zh": "今天星期三。",
+          "py": "jīn tiān xīng qī sān",
+          "vi": "Hôm nay là thứ Tư."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 130,
+      "word": "明天",
+      "meaningsVi": [
+        "ngày mai"
+      ],
+      "examples": [
+        {
+          "zh": "明天见！",
+          "py": "míng tiān jiàn",
+          "vi": "Mai gặp lại nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 297,
+      "word": "昨天",
+      "meaningsVi": [
+        "hôm qua"
+      ],
+      "examples": [
+        {
+          "zh": "昨天是九号，今天是十号。",
+          "py": "zuó tiān shì jiǔ hào jīn tiān shì shí hào",
+          "vi": "Hôm qua là ngày 9, hôm nay là ngày 10."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 93,
+      "word": "今年",
+      "meaningsVi": [
+        "năm nay"
+      ],
+      "examples": [
+        {
+          "zh": "我哥哥今年二十五岁。",
+          "py": "wǒ gē ge jīn nián èr shí wǔ suì",
+          "vi": "Năm nay anh trai tôi hai mươi lăm tuổi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 129,
+      "word": "明年",
+      "meaningsVi": [
+        "năm sau, sang năm"
+      ],
+      "examples": [
+        {
+          "zh": "明年我二十岁。",
+          "py": "míng nián wǒ èr shí suì",
+          "vi": "Sang năm tôi hai mươi tuổi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 168,
+      "word": "去年",
+      "meaningsVi": [
+        "năm ngoái, năm trước"
+      ],
+      "noteVi": "「去」 ở đây nghĩa là 'đã qua', không phải 'đi'.",
+      "examples": [
+        {
+          "zh": "去年我妹妹五岁，今年六岁。",
+          "py": "qù nián wǒ mèi mei wǔ suì jīn nián liù suì",
+          "vi": "Năm ngoái em gái tôi năm tuổi, năm nay sáu tuổi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 32,
+      "word": "第",
+      "meaningsVi": [
+        "thứ (đứng trước số để chỉ thứ tự)"
+      ],
+      "noteVi": "「第」 + số: 第一 (thứ nhất), 第二 (thứ hai). Đừng nhầm với thứ trong tuần: 'thứ Hai' là 「星期一」, không phải 「第二」.",
+      "examples": [
+        {
+          "zh": "星期一是一个星期的第一天。",
+          "py": "xīng qī yī shì yí gè xīng qī de dì yī tiān",
+          "vi": "Thứ Hai là ngày đầu tiên trong tuần."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 207,
+      "word": "天",
+      "meaningsVi": [
+        "ngày"
+      ],
+      "noteVi": "「天」 tự là lượng từ: 一天, 三天 (không nói 「三个天」). Nghĩa 'trời' sẽ học sau.",
+      "examples": [
+        {
+          "zh": "一个星期有七天。",
+          "py": "yí gè xīng qī yǒu qī tiān",
+          "vi": "Một tuần có bảy ngày."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 88,
+      "word": "见",
+      "meaningsVi": [
+        "gặp, gặp mặt"
+      ],
+      "noteVi": "Hay dùng khi hẹn: 明天见 (mai gặp nhé), 星期一见 (thứ Hai gặp nhé). 「再见」 là 'tạm biệt'.",
+      "examples": [
+        {
+          "zh": "星期一见！",
+          "py": "xīng qī yī jiàn",
+          "vi": "Thứ Hai gặp lại nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 11,
+      "titleVi": "Số đếm",
+      "summaryVi": "零, 一 … 十 và cách ghép số đến 99 giống tiếng Việt: 十一, 二十, 九十九; 二 và 两.",
+      "explanationVi": [
+        "Mười số cơ bản: 「零」 (0), 「一」, 「二」, 「三」, 「四」, 「五」, 「六」, 「七」, 「八」, 「九」, 「十」. Số từ 11 đến 99 ghép **giống tiếng Việt**: 十一 (mười một), 十五 (mười lăm), 二十 (hai mươi), 二十一 (hai mươi mốt), 九十九 (chín mươi chín).",
+        "Tiếng Việt đổi 'một' thành 'mốt', 'năm' thành 'lăm' (hai mươi mốt, mười lăm); tiếng Trung **không đổi**: 二十一, 十五.",
+        "Số 2 có hai cách nói: khi đếm, đọc số và trong các số như 十二, 二十, 二十二 dùng 「二」; đứng một mình trước lượng từ thì dùng 「两」 (两个, 两岁). Không nói 「两十」 hay 「十两」.",
+        "Số trăm 「百」, nghìn 「千」 sẽ học ở bài 9; 「半」 (rưỡi, nửa) học ở bài 5."
+      ],
+      "patterns": [
+        "十 + số (11–19)",
+        "số + 十 (20, 30 … 90)",
+        "số + 十 + số (21–99)"
+      ],
+      "examples": [
+        {
+          "zh": "我今年二十二岁。",
+          "py": "wǒ jīn nián èr shí èr suì",
+          "vi": "Năm nay tôi hai mươi hai tuổi."
+        },
+        {
+          "zh": "十月有三十一天。",
+          "py": "shí yuè yǒu sān shí yī tiān",
+          "vi": "Tháng Mười có ba mươi mốt ngày."
+        },
+        {
+          "zh": "我妈妈今年四十五岁。",
+          "py": "wǒ mā ma jīn nián sì shí wǔ suì",
+          "vi": "Năm nay mẹ tôi bốn mươi lăm tuổi."
+        },
+        {
+          "zh": "我家有两口人。",
+          "py": "wǒ jiā yǒu liǎng kǒu rén",
+          "vi": "Nhà tôi có hai người."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我哥哥两十岁。",
+          "right": "我哥哥二十岁。",
+          "noteVi": "Trong số có nhiều chữ số, 2 viết là 「二」: 二十.",
+          "issue": "liang_misuse"
+        },
+        {
+          "wrong": "我弟弟二岁。",
+          "right": "我弟弟两岁。",
+          "noteVi": "Trước lượng từ 「岁」, số 2 nói là 「两」.",
+          "issue": "er_liang"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 36,
+      "titleVi": "Vị ngữ là danh từ, số từ hoặc cụm số lượng",
+      "summaryVi": "Vị ngữ có thể là danh từ (星期一) hoặc cụm số lượng (二十岁), không cần động từ: 今天星期一, 我二十岁。",
+      "explanationVi": [
+        "Vị ngữ là phần nói về chủ ngữ. Thường vị ngữ là động từ (我**是**学生) hay tính từ (我**很好**). Nhưng khi nói **ngày, thứ, tuổi, số lượng**, vị ngữ có thể chỉ là danh từ hoặc cụm số lượng.",
+        "Ví dụ: 今天**星期一** (danh từ), 我**二十岁** (số + lượng từ), 我家**五口人** (cụm số lượng). Tiếng Việt cũng nói 'Tôi hai mươi tuổi' không cần 'là'.",
+        "Câu loại này phủ định bằng 「不是」 (xem điểm ngữ pháp 'Câu vị ngữ danh từ')."
+      ],
+      "patterns": [
+        "Chủ ngữ + danh từ (thời gian)",
+        "Chủ ngữ + số + lượng từ"
+      ],
+      "examples": [
+        {
+          "zh": "我二十岁。",
+          "py": "wǒ èr shí suì",
+          "vi": "Tôi hai mươi tuổi."
+        },
+        {
+          "zh": "今天星期一。",
+          "py": "jīn tiān xīng qī yī",
+          "vi": "Hôm nay thứ Hai."
+        },
+        {
+          "zh": "我家五口人。",
+          "py": "wǒ jiā wǔ kǒu rén",
+          "vi": "Nhà tôi năm người."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我妹妹不六岁。",
+          "right": "我妹妹不是六岁。",
+          "noteVi": "「不」 không đứng ngay trước số tuổi; phủ định phải dùng 「不是」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 44,
+      "titleVi": "Câu vị ngữ danh từ",
+      "summaryVi": "Nói ngày, thứ, tuổi có thể bỏ 「是」: 今天星期五; nhưng phủ định phải có 「不是」: 今天不是星期五。",
+      "explanationVi": [
+        "Câu vị ngữ danh từ là câu mà vị ngữ là danh từ hoặc cụm số lượng, **không có động từ**. Câu loại này hay dùng để nói ngày tháng, thứ, tuổi, giờ.",
+        "Câu khẳng định có thể thêm 「是」 hoặc không: 今天星期五 = 今天是星期五.",
+        "Câu phủ định **bắt buộc** có 「是」: 今天**不是**星期五. Không nói 「今天不星期五」.",
+        "Câu hỏi: thêm 「吗」 (今天星期五吗？) hoặc dùng từ để hỏi đặt đúng chỗ của câu trả lời (今天星期几？ 你今年多少岁？)."
+      ],
+      "patterns": [
+        "Chủ ngữ + (是) + danh từ",
+        "Chủ ngữ + 不是 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "今天星期五。",
+          "py": "jīn tiān xīng qī wǔ",
+          "vi": "Hôm nay thứ Sáu."
+        },
+        {
+          "zh": "明天不是星期六。",
+          "py": "míng tiān bú shì xīng qī liù",
+          "vi": "Ngày mai không phải là thứ Bảy."
+        },
+        {
+          "zh": "你今年多少岁？",
+          "py": "nǐ jīn nián duō shao suì",
+          "vi": "Năm nay bạn bao nhiêu tuổi?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "今天不星期一。",
+          "right": "今天不是星期一。",
+          "noteVi": "Phủ định câu vị ngữ danh từ phải dùng 「不是」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 68,
+      "titleVi": "Số thứ tự: 「第」 + số",
+      "summaryVi": "Thêm 「第」 trước số để chỉ thứ tự: 第一 (thứ nhất), 第二天 (ngày thứ hai).",
+      "explanationVi": [
+        "「第」 + số giống 'thứ' + số trong tiếng Việt: 第一 (thứ nhất), 第二 (thứ hai), 第三 (thứ ba).",
+        "Sau 「第」 luôn dùng 「二」, không dùng 「两」: 第二, không nói 「第两」.",
+        "Trước danh từ vẫn cần lượng từ (trừ khi danh từ tự là lượng từ, như 天, 年): 第三**个**学生, nhưng 第一天, 第二年.",
+        "Đừng nhầm với thứ trong tuần: 'thứ Hai' là 「星期一」; 「第二天」 là 'ngày thứ hai' hoặc 'ngày hôm sau'."
+      ],
+      "patterns": [
+        "第 + số",
+        "第 + số + lượng từ + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我是第一个。",
+          "py": "wǒ shì dì yī gè",
+          "vi": "Tôi là người đầu tiên."
+        },
+        {
+          "zh": "她是第三个学生。",
+          "py": "tā shì dì sān gè xué shēng",
+          "vi": "Cô ấy là học sinh thứ ba."
+        },
+        {
+          "zh": "十二月是一年的第十二个月。",
+          "py": "shí èr yuè shì yì nián de dì shí èr gè yuè",
+          "vi": "Tháng Mười Hai là tháng thứ mười hai của năm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他是第两个。",
+          "right": "他是第二个。",
+          "noteVi": "Sau 「第」 dùng 「二」, không dùng 「两」.",
+          "issue": "liang_misuse"
+        },
+        {
+          "wrong": "她是第三学生。",
+          "right": "她是第三个学生。",
+          "noteVi": "Giữa 「第三」 và danh từ vẫn cần lượng từ 「个」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 69,
+      "titleVi": "Cách nói năm, tháng, ngày, thứ",
+      "summaryVi": "Nói từ lớn đến nhỏ: năm → tháng → ngày → thứ: 二零二六年十一月十五号，星期日。",
+      "explanationVi": [
+        "Thứ tự **ngược với tiếng Việt**: tiếng Việt nói 'Chủ nhật, ngày 15 tháng 11 năm 2026', tiếng Trung nói từ lớn đến nhỏ: 二零二六年 → 十一月 → 十五号 → 星期日.",
+        "**Năm** đọc từng chữ số: 2026年 → 二零二六年. **Tháng** là số + 「月」: 一月 … 十二月. **Ngày** là số + 「号」 (khi nói) hoặc 「日」 (khi viết): 十五号, 十五日.",
+        "**Thứ**: 「星期」 + số từ 一 đến 六: 星期一 là **thứ Hai**, 星期二 là thứ Ba … 星期六 là thứ Bảy (số nhỏ hơn tiếng Việt một đơn vị). Chủ nhật là 「星期日」 hoặc 「星期天」, không có 「星期七」.",
+        "Hỏi: 几月几号？ (ngày mấy tháng mấy?), 星期几？ (thứ mấy?). Câu trả lời thường không cần 「是」."
+      ],
+      "patterns": [
+        "… 年 … 月 … 号/日，星期 …",
+        "几月几号？ / 星期几？"
+      ],
+      "examples": [
+        {
+          "zh": "今天是二零二六年十一月十五号。",
+          "py": "jīn tiān shì èr líng èr liù nián shí yī yuè shí wǔ hào",
+          "vi": "Hôm nay là ngày 15 tháng 11 năm 2026."
+        },
+        {
+          "zh": "今天是星期五，明天是星期六。",
+          "py": "jīn tiān shì xīng qī wǔ míng tiān shì xīng qī liù",
+          "vi": "Hôm nay là thứ Sáu, ngày mai là thứ Bảy."
+        },
+        {
+          "zh": "明天几月几号？",
+          "py": "míng tiān jǐ yuè jǐ hào",
+          "vi": "Ngày mai là ngày mấy tháng mấy?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "今天是十五号十一月。",
+          "right": "今天是十一月十五号。",
+          "noteVi": "Tiếng Việt nói 'ngày 15 tháng 11', tiếng Trung nói tháng trước, ngày sau."
+        },
+        {
+          "wrong": "今天是星期七。",
+          "right": "今天是星期日。",
+          "noteVi": "Không có 「星期七」: chủ nhật là 「星期日」 hoặc 「星期天」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-04-e01",
+      "type": "match",
+      "promptVi": "Nối chữ Hán với số.",
+      "pairs": [
+        [
+          "六",
+          "6"
+        ],
+        [
+          "七",
+          "7"
+        ],
+        [
+          "八",
+          "8"
+        ],
+        [
+          "九",
+          "9"
+        ],
+        [
+          "十",
+          "10"
+        ],
+        [
+          "零",
+          "0"
+        ]
+      ],
+      "grammar": [
+        11
+      ]
+    },
+    {
+      "id": "hsk1-04-e02",
+      "type": "match",
+      "promptVi": "Nối từ chỉ thời gian với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "今天",
+          "hôm nay"
+        ],
+        [
+          "明天",
+          "ngày mai"
+        ],
+        [
+          "昨天",
+          "hôm qua"
+        ],
+        [
+          "今年",
+          "năm nay"
+        ],
+        [
+          "明年",
+          "năm sau"
+        ],
+        [
+          "去年",
+          "năm ngoái"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-04-e03",
+      "type": "choice",
+      "promptVi": "「星期二」 là thứ mấy?",
+      "options": [
+        "thứ Ba",
+        "thứ Hai",
+        "ngày thứ hai"
+      ],
+      "answer": 0,
+      "explainVi": "「星期一」 là thứ Hai, 「星期二」 là thứ Ba: số trong tiếng Trung nhỏ hơn tiếng Việt một đơn vị.",
+      "grammar": [
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e04",
+      "type": "choice",
+      "promptVi": "Số 25 viết bằng chữ Hán thế nào?",
+      "options": [
+        "二十五",
+        "五十二",
+        "两十五"
+      ],
+      "answer": 0,
+      "explainVi": "Ghép số giống tiếng Việt: hai mươi lăm = 二十五. Trong số có nhiều chữ số, 2 viết là 「二」.",
+      "grammar": [
+        11
+      ]
+    },
+    {
+      "id": "hsk1-04-e05",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "今天",
+      "after": "几？",
+      "answers": [
+        "星期"
+      ],
+      "options": [
+        "星期",
+        "年",
+        "多少"
+      ],
+      "vi": "Hôm nay thứ mấy?",
+      "grammar": [
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e06",
+      "type": "fill",
+      "promptVi": "Điền số thích hợp.",
+      "before": "他是第",
+      "after": "个。",
+      "answers": [
+        "二"
+      ],
+      "options": [
+        "二",
+        "两"
+      ],
+      "vi": "Anh ấy là người thứ hai.",
+      "explainVi": "Sau 「第」 luôn dùng 「二」, không dùng 「两」.",
+      "grammar": [
+        68,
+        11
+      ]
+    },
+    {
+      "id": "hsk1-04-e07",
+      "type": "order",
+      "vi": "Hôm nay là ngày 15 tháng 11.",
+      "tiles": [
+        "十五号",
+        "今天",
+        "十一月",
+        "是"
+      ],
+      "answers": [
+        "今天是十一月十五号"
+      ],
+      "explainVi": "Tháng đứng trước ngày, ngược với tiếng Việt.",
+      "grammar": [
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e08",
+      "type": "order",
+      "vi": "Năm nay tôi mười chín tuổi.",
+      "tiles": [
+        "今年",
+        "我",
+        "十九",
+        "岁"
+      ],
+      "answers": [
+        "我今年十九岁",
+        "今年我十九岁"
+      ],
+      "grammar": [
+        36
+      ]
+    },
+    {
+      "id": "hsk1-04-e09",
+      "type": "order",
+      "vi": "Hôm nay không phải là thứ Hai.",
+      "tiles": [
+        "不",
+        "星期一",
+        "今天",
+        "是"
+      ],
+      "answers": [
+        "今天不是星期一"
+      ],
+      "explainVi": "Phủ định câu vị ngữ danh từ dùng 「不是」.",
+      "grammar": [
+        44
+      ]
+    },
+    {
+      "id": "hsk1-04-e10",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "今天不是星期天。",
+        "今天不星期天。",
+        "今天星期天不是。"
+      ],
+      "answer": 0,
+      "explainVi": "Câu vị ngữ danh từ khi phủ định phải có 「不是」.",
+      "grammar": [
+        44
+      ]
+    },
+    {
+      "id": "hsk1-04-e11",
+      "type": "choice",
+      "promptVi": "「一月」 nghĩa là gì?",
+      "options": [
+        "tháng Một",
+        "một tháng"
+      ],
+      "answer": 0,
+      "explainVi": "「一月」 là tháng Một; 'một tháng' (khoảng thời gian) là 「一个月」.",
+      "grammar": [
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e12",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "今天几月几号？",
+        "promptVi": "Hôm nay là ngày mấy tháng mấy? (Hôm nay là ngày 15 tháng 11.)",
+        "picture": "📅",
+        "answers": [
+          "(今天)(是)十一月十五[号|日]。",
+          "(今天)(是)十五号。"
+        ],
+        "examples": [
+          {
+            "answer": "今天是十一月十五号。",
+            "score": 100
+          },
+          {
+            "answer": "十一月十五号。",
+            "score": 100
+          },
+          {
+            "answer": "今天十一月十五日。",
+            "score": 100
+          },
+          {
+            "answer": "今天是十一月十六号。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e13",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "今天星期几？",
+        "promptVi": "Hôm nay thứ mấy? (Hôm nay là chủ nhật.)",
+        "answers": [
+          "(今天)(是)星期[日|天]。"
+        ],
+        "examples": [
+          {
+            "answer": "今天星期天。",
+            "score": 100
+          },
+          {
+            "answer": "星期日。",
+            "score": 100
+          },
+          {
+            "answer": "今天是星期一。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        44,
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e14",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "小明今年几岁？",
+        "promptVi": "Tiểu Minh năm nay mấy tuổi? (Tiểu Minh bảy tuổi.)",
+        "answers": [
+          "([小明|他])(今年)七岁。"
+        ],
+        "examples": [
+          {
+            "answer": "他今年七岁。",
+            "score": 100
+          },
+          {
+            "answer": "七岁。",
+            "score": 100
+          },
+          {
+            "answer": "他七个岁。",
+            "score": 85,
+            "issues": [
+              "extra_word"
+            ],
+            "note": "「岁」 tự là lượng từ, không thêm 「个」"
+          },
+          {
+            "answer": "他今年八岁。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        36
+      ]
+    },
+    {
+      "id": "hsk1-04-e15",
+      "type": "translate",
+      "vi": "Ngày mai là thứ Bảy.",
+      "answers": [
+        "明天(是)星期六。"
+      ],
+      "examples": [
+        {
+          "answer": "明天星期六。",
+          "score": 100
+        },
+        {
+          "answer": "明天是星期六。",
+          "score": 100
+        },
+        {
+          "answer": "明天是星期五。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        44,
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e16",
+      "type": "translate",
+      "vi": "Một tuần có bảy ngày.",
+      "answers": [
+        "一(个)星期有七天。"
+      ],
+      "examples": [
+        {
+          "answer": "一个星期有七天。",
+          "score": 100
+        },
+        {
+          "answer": "一星期有七天。",
+          "score": 100
+        },
+        {
+          "answer": "一个星期有七个天。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ]
+        },
+        {
+          "answer": "一个星期有六天。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        11
+      ]
+    },
+    {
+      "id": "hsk1-04-e17",
+      "type": "translate",
+      "vi": "Hôm qua là ngày 8 tháng 9.",
+      "answers": [
+        "昨天(是)九月八[号|日]。"
+      ],
+      "examples": [
+        {
+          "answer": "昨天是九月八号。",
+          "score": 100
+        },
+        {
+          "answer": "昨天九月八日。",
+          "score": 100
+        },
+        {
+          "answer": "昨天是八月九号。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e18",
+      "type": "translate",
+      "vi": "Cô ấy là học sinh thứ ba.",
+      "answers": [
+        "她是第三个学生。"
+      ],
+      "examples": [
+        {
+          "answer": "她是第三个学生。",
+          "score": 100
+        },
+        {
+          "answer": "她是第三学生。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "她是三个学生。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        68
+      ]
+    },
+    {
+      "id": "hsk1-04-e19",
+      "type": "choice",
+      "promptVi": "Cụm nào nghĩa là 'ngày thứ hai'?",
+      "options": [
+        "第二天",
+        "两天",
+        "星期二"
+      ],
+      "answer": 0,
+      "explainVi": "「两天」 là hai ngày; 「星期二」 là thứ Ba.",
+      "grammar": [
+        68
+      ]
+    },
+    {
+      "id": "hsk1-04-e20",
+      "type": "fill",
+      "promptVi": "Chọn cách nói đúng.",
+      "before": "我妹妹今年",
+      "after": "岁。",
+      "answers": [
+        "八"
+      ],
+      "options": [
+        "八",
+        "八个",
+        "是八"
+      ],
+      "vi": "Năm nay em gái tôi tám tuổi.",
+      "explainVi": "「岁」 tự là lượng từ, không thêm 「个」; nói tuổi cũng không cần 「是」.",
+      "grammar": [
+        36
+      ]
+    },
+    {
+      "id": "hsk1-04-e21",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "一年有多少个月？",
+        "promptVi": "Một năm có bao nhiêu tháng?",
+        "picture": "📅",
+        "expected": {
+          "number": 12,
+          "noun": "月",
+          "sentence": "一年有十二个月。"
+        },
+        "examples": [
+          {
+            "answer": "一年有十二个月。",
+            "score": 100
+          },
+          {
+            "answer": "十二个月。",
+            "score": 100
+          },
+          {
+            "answer": "一年有十个月。",
+            "score": 20
+          },
+          {
+            "answer": "一年有十二月。",
+            "score": 0,
+            "note": "「十二月」 là tháng Mười Hai; 'mười hai tháng' là 「十二个月」"
+          }
+        ]
+      },
+      "grammar": [
+        11
+      ]
+    },
+    {
+      "id": "hsk1-04-e22",
+      "type": "choice",
+      "promptVi": "Chọn số thích hợp: 'Em trai tôi hai tuổi.'",
+      "zh": "我弟弟＿岁。",
+      "options": [
+        "两",
+        "二"
+      ],
+      "answer": 0,
+      "explainVi": "Trước lượng từ 「岁」 dùng 「两」: 两岁.",
+      "grammar": [
+        11
+      ]
+    },
+    {
+      "id": "hsk1-04-e23",
+      "type": "translate",
+      "vi": "Em trai tôi sáu tuổi.",
+      "answers": [
+        "我(的)弟弟(今年)六岁。",
+        "今年我(的)弟弟六岁。"
+      ],
+      "examples": [
+        {
+          "answer": "我弟弟六岁。",
+          "score": 100
+        },
+        {
+          "answer": "我弟弟今年六岁。",
+          "score": 100
+        },
+        {
+          "answer": "我弟弟六个岁。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ]
+        },
+        {
+          "answer": "我弟弟七岁。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        36
+      ]
+    },
+    {
+      "id": "hsk1-04-e24",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Hôm nay là thứ Năm'?",
+      "options": [
+        "今天星期四。",
+        "今天星期五。",
+        "今天第四。"
+      ],
+      "answer": 0,
+      "explainVi": "Thứ Năm là 「星期四」. Câu vị ngữ danh từ có thể bỏ 「是」.",
+      "grammar": [
+        44,
+        69
+      ]
+    },
+    {
+      "id": "hsk1-04-e25",
+      "type": "order",
+      "vi": "Thứ Hai là ngày đầu tiên trong tuần.",
+      "tiles": [
+        "第一天",
+        "星期一",
+        "是",
+        "一个星期的"
+      ],
+      "answers": [
+        "星期一是一个星期的第一天"
+      ],
+      "grammar": [
+        68
+      ]
+    }
+  ]
+}

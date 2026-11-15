@@ -1,0 +1,1533 @@
+{
+  "id": "hsk1-06",
+  "goalsVi": [
+    "Hỏi và trả lời 'Đây là cái gì?', chỉ đồ vật bằng 「这个」, 「那个」, 「这些」, 「那些」, 「哪个」",
+    "Đếm đồ vật, con vật với lượng từ 「个」, 「本」, 「只」 (một quyển sách, hai con mèo)",
+    "Miêu tả đồ vật bằng 「大」, 「小」, 「新」, đặt tính từ trước danh từ (新书: sách mới)",
+    "Nghe và gọi điện thoại với 「喂」, 「打电话」"
+  ],
+  "words": [
+    {
+      "no": 281,
+      "word": "这个",
+      "meaningsVi": [
+        "cái này, … này (người, vật ở gần)"
+      ],
+      "noteVi": "「这个」 = 「这」 + lượng từ 「个」. Đứng trước danh từ: 这个人 (người này), 这个手机 (cái điện thoại này). Danh từ có lượng từ riêng thì thay 「个」 bằng lượng từ đó: 这本书 (quyển sách này).",
+      "examples": [
+        {
+          "zh": "这个手机是我的。",
+          "py": "zhè ge shǒu jī shì wǒ de",
+          "vi": "Cái điện thoại này là của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 138,
+      "word": "那个",
+      "meaningsVi": [
+        "cái kia, cái đó, … kia, … đó (người, vật ở xa)"
+      ],
+      "examples": [
+        {
+          "zh": "那个人是我的老师。",
+          "py": "nà ge rén shì wǒ de lǎo shī",
+          "vi": "Người kia là thầy giáo của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 132,
+      "word": "哪个",
+      "meaningsVi": [
+        "cái nào, … nào"
+      ],
+      "noteVi": "「哪」 (nǎ, thanh 3: nào) và 「那」 (nà, thanh 4: kia) viết gần giống nhau, chỉ khác bộ 「口」 bên trái. Câu đã có 「哪个」 thì không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "哪个是你的手机？",
+          "py": "nǎ ge shì nǐ de shǒu jī",
+          "vi": "Cái nào là điện thoại của bạn?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 284,
+      "word": "这些",
+      "meaningsVi": [
+        "những cái này, những … này"
+      ],
+      "noteVi": "Dùng cho số nhiều và không cần lượng từ: 这些书 (những quyển sách này), không nói 这些本书.",
+      "examples": [
+        {
+          "zh": "这些书都是我的。",
+          "py": "zhè xiē shū dōu shì wǒ de",
+          "vi": "Những quyển sách này đều là của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 141,
+      "word": "那些",
+      "meaningsVi": [
+        "những cái kia, những … kia, những … đó"
+      ],
+      "examples": [
+        {
+          "zh": "那些猫是谁的？",
+          "py": "nà xiē māo shì shéi de",
+          "vi": "Mấy con mèo kia là của ai?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 135,
+      "word": "哪些",
+      "meaningsVi": [
+        "những cái nào, những … nào"
+      ],
+      "examples": [
+        {
+          "zh": "你有哪些中文书？",
+          "py": "nǐ yǒu nǎ xiē zhōng wén shū",
+          "vi": "Bạn có những sách tiếng Trung nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 239,
+      "word": "些",
+      "meaningsVi": [
+        "một vài, mấy (lượng từ chỉ số lượng không xác định)"
+      ],
+      "noteVi": "「些」 thường không đứng một mình mà đi sau 「这」, 「那」, 「哪」, 「一」: 这些, 那些, 哪些, 一些.",
+      "examples": [
+        {
+          "zh": "这些手机都很新。",
+          "py": "zhè xiē shǒu jī dōu hěn xīn",
+          "vi": "Mấy cái điện thoại này đều rất mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 258,
+      "word": "一些",
+      "meaningsVi": [
+        "một số, một vài, một ít"
+      ],
+      "noteVi": "一些 + danh từ, không thêm lượng từ khác: 一些书 (một vài quyển sách).",
+      "examples": [
+        {
+          "zh": "我有一些中文书。",
+          "py": "wǒ yǒu yì xiē zhōng wén shū",
+          "vi": "Tôi có một số sách tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 190,
+      "word": "书",
+      "meaningsVi": [
+        "sách"
+      ],
+      "noteVi": "Lượng từ của 「书」 là 「本」: 一本书 (một quyển sách).",
+      "examples": [
+        {
+          "zh": "这本书是王老师的。",
+          "py": "zhè běn shū shì wáng lǎo shī de",
+          "vi": "Quyển sách này là của thầy Vương."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 10,
+      "word": "本",
+      "meaningsVi": [
+        "quyển, cuốn (lượng từ cho sách, vở)"
+      ],
+      "examples": [
+        {
+          "zh": "我有三本汉语书。",
+          "py": "wǒ yǒu sān běn hàn yǔ shū",
+          "vi": "Tôi có ba quyển sách tiếng Hán."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 295,
+      "word": "桌子",
+      "meaningsVi": [
+        "cái bàn"
+      ],
+      "noteVi": "Lượng từ của 「桌子」 là 「张」 (một cái bàn: 一张桌子), sẽ học sau. 「子」 ở đây đọc nhẹ: zhuōzi.",
+      "examples": [
+        {
+          "zh": "我的桌子很大。",
+          "py": "wǒ de zhuō zi hěn dà",
+          "vi": "Bàn của tôi rất to."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 262,
+      "word": "椅子",
+      "meaningsVi": [
+        "cái ghế"
+      ],
+      "noteVi": "Lượng từ của 「椅子」 là 「把」 (一把椅子), sẽ học sau.",
+      "examples": [
+        {
+          "zh": "这是老师的椅子。",
+          "py": "zhè shì lǎo shī de yǐ zi",
+          "vi": "Đây là ghế của thầy giáo."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 189,
+      "word": "手机",
+      "meaningsVi": [
+        "điện thoại di động"
+      ],
+      "noteVi": "Âm Hán Việt là 'thủ cơ' (máy cầm tay). Khi đếm, khẩu ngữ dùng 「个」: 一个手机.",
+      "examples": [
+        {
+          "zh": "这是我的新手机。",
+          "py": "zhè shì wǒ de xīn shǒu jī",
+          "vi": "Đây là điện thoại mới của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 34,
+      "word": "电话",
+      "meaningsVi": [
+        "điện thoại, cuộc điện thoại",
+        "số điện thoại"
+      ],
+      "noteVi": "「电话」 thường chỉ cuộc gọi, máy điện thoại bàn hoặc số điện thoại; chiếc điện thoại di động là 「手机」.",
+      "examples": [
+        {
+          "zh": "你的电话是多少？",
+          "py": "nǐ de diàn huà shì duō shao",
+          "vi": "Số điện thoại của bạn là bao nhiêu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 35,
+      "word": "电脑",
+      "meaningsVi": [
+        "máy tính"
+      ],
+      "noteVi": "Âm Hán Việt là 'điện não' (bộ óc chạy bằng điện).",
+      "examples": [
+        {
+          "zh": "那个电脑是我哥哥的。",
+          "py": "nà ge diàn nǎo shì wǒ gē ge de",
+          "vi": "Cái máy tính kia là của anh trai tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 24,
+      "word": "打电话",
+      "meaningsVi": [
+        "gọi điện thoại"
+      ],
+      "noteVi": "「打」 nghĩa gốc là 'đánh'. Muốn nói 'gọi cho ai' thì dùng 「给」 (bài 9): 给妈妈打电话.",
+      "examples": [
+        {
+          "zh": "对不起，我去打电话。",
+          "py": "duì bu qǐ wǒ qù dǎ diàn huà",
+          "vi": "Xin lỗi, tôi đi gọi điện thoại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 218,
+      "word": "喂",
+      "meaningsVi": [
+        "a lô (khi gọi, nghe điện thoại)",
+        "này! (gọi người khác, không lịch sự lắm)"
+      ],
+      "noteVi": "Khi nghe điện thoại, 「喂」 thường đọc thanh 2: wéi.",
+      "examples": [
+        {
+          "zh": "喂，你好！我是玛丽。",
+          "py": "wèi nǐ hǎo wǒ shì mǎ lì",
+          "vi": "A lô, xin chào! Tôi là Mary đây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 25,
+      "word": "大",
+      "meaningsVi": [
+        "to, lớn"
+      ],
+      "noteVi": "Làm định ngữ thì đứng trước danh từ: 大狗 (con chó to). Làm vị ngữ thì thường có 「很」: 他的狗很大.",
+      "examples": [
+        {
+          "zh": "他家的狗很大。",
+          "py": "tā jiā de gǒu hěn dà",
+          "vi": "Con chó nhà anh ấy rất to."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 234,
+      "word": "小",
+      "meaningsVi": [
+        "nhỏ, bé",
+        "(đặt trước họ) cách gọi thân mật người trẻ: 小王"
+      ],
+      "examples": [
+        {
+          "zh": "我有一只小猫。",
+          "py": "wǒ yǒu yì zhī xiǎo māo",
+          "vi": "Tôi có một con mèo nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 242,
+      "word": "新",
+      "meaningsVi": [
+        "mới"
+      ],
+      "noteVi": "Âm Hán Việt là 'tân'. Đứng trước danh từ: 新书 (sách mới), ngược với tiếng Việt.",
+      "examples": [
+        {
+          "zh": "我的电脑是新的。",
+          "py": "wǒ de diàn nǎo shì xīn de",
+          "vi": "Máy tính của tôi là máy mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 64,
+      "word": "狗",
+      "meaningsVi": [
+        "con chó"
+      ],
+      "noteVi": "Lượng từ: 「只」 (一只狗).",
+      "examples": [
+        {
+          "zh": "我家有两只狗。",
+          "py": "wǒ jiā yǒu liǎng zhī gǒu",
+          "vi": "Nhà tôi có hai con chó."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 119,
+      "word": "猫",
+      "meaningsVi": [
+        "con mèo"
+      ],
+      "noteVi": "Lượng từ: 「只」 (一只猫).",
+      "examples": [
+        {
+          "zh": "这只猫是谁的？",
+          "py": "zhè zhī māo shì shéi de",
+          "vi": "Con mèo này là của ai?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 287,
+      "word": "只",
+      "meaningsVi": [
+        "con (lượng từ cho phần lớn con vật)"
+      ],
+      "noteVi": "Ở nghĩa này đọc zhī. Chữ 「只」 còn có cách đọc zhǐ (chỉ, chỉ có), sẽ học sau. Không dùng 「个」 cho con vật: nói 两只猫, không nói 两个猫.",
+      "examples": [
+        {
+          "zh": "那只狗很小。",
+          "py": "nà zhī gǒu hěn xiǎo",
+          "vi": "Con chó kia rất nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 202,
+      "word": "它",
+      "meaningsVi": [
+        "nó (chỉ con vật, đồ vật)"
+      ],
+      "noteVi": "「它」, 「他」, 「她」 đều đọc tā; 「它」 chỉ dùng cho con vật và đồ vật.",
+      "examples": [
+        {
+          "zh": "我有一只猫，它很小。",
+          "py": "wǒ yǒu yì zhī māo tā hěn xiǎo",
+          "vi": "Tôi có một con mèo, nó rất nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 203,
+      "word": "它们",
+      "meaningsVi": [
+        "chúng nó (chỉ con vật, đồ vật)"
+      ],
+      "examples": [
+        {
+          "zh": "我有两只狗，它们都很大。",
+          "py": "wǒ yǒu liǎng zhī gǒu tā men dōu hěn dà",
+          "vi": "Tôi có hai con chó, chúng đều rất to."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 1,
+      "titleVi": "Tiền tố 「小」 và 「第」",
+      "summaryVi": "「小」 + họ là cách gọi thân mật (小王); 「第」 + số chỉ thứ tự (第一, 第二).",
+      "explanationVi": [
+        "Tiền tố là thành phần đứng **trước** một từ để tạo nên từ mới. Bài này học hai tiền tố: 「小」 và 「第」.",
+        "「小」 + họ là cách gọi thân mật người trẻ tuổi hơn hoặc bạn bè, đồng nghiệp ngang hàng: 小王, 小李, 小陈. Gần giống tiếng Việt gọi 'cậu Vương', 'em Lý'. Không dùng cách gọi này với thầy cô hay người lớn tuổi: gọi 王老师.",
+        "「第」 + số chỉ thứ tự (đã gặp ở bài 4): 第一 (thứ nhất), 第二 (thứ hai). Sau đó có thể thêm lượng từ và danh từ: 第一本书 (quyển sách thứ nhất). Sau 「第」 luôn dùng 「二」, **không** dùng 「两」: 第二个, không nói 第两个."
+      ],
+      "patterns": [
+        "小 + họ",
+        "第 + số (+ lượng từ + danh từ)"
+      ],
+      "examples": [
+        {
+          "zh": "小王，这是你的书吗？",
+          "py": "xiǎo wáng zhè shì nǐ de shū ma",
+          "vi": "Vương ơi, đây là sách của cậu à?"
+        },
+        {
+          "zh": "小李有两只猫。",
+          "py": "xiǎo lǐ yǒu liǎng zhī māo",
+          "vi": "Cậu Lý có hai con mèo."
+        },
+        {
+          "zh": "这是我的第一个手机。",
+          "py": "zhè shì wǒ de dì yī gè shǒu jī",
+          "vi": "Đây là chiếc điện thoại đầu tiên của tôi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这是他的第两本书。",
+          "right": "这是他的第二本书。",
+          "noteVi": "Sau 「第」 dùng 「二」, không dùng 「两」.",
+          "issue": "liang_misuse"
+        },
+        {
+          "wrong": "王小，你好！",
+          "right": "小王，你好！",
+          "noteVi": "「小」 là tiền tố nên đứng **trước** họ, không đứng sau như 'Vương bé'."
+        }
+      ],
+      "morphemes": [
+        "小",
+        "第"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 10,
+      "titleVi": "Đại từ chỉ thị: 这, 那, 这个, 那个, 这些, 那些",
+      "summaryVi": "「这」 (này) chỉ người, vật ở gần, 「那」 (kia, đó) chỉ người, vật ở xa; trước danh từ cần lượng từ (这本书), số nhiều dùng 「这些」, 「那些」.",
+      "explanationVi": [
+        "「这」 (này, đây) chỉ người, vật ở **gần** người nói; 「那」 (kia, đó) chỉ người, vật ở **xa**. Muốn hỏi 'nào' thì dùng 「哪」 (nǎ, thanh 3): 哪个 (cái nào).",
+        "Khác tiếng Việt, từ chỉ thị đứng **trước** danh từ, và giữa chúng phải có lượng từ: 这**本**书 (quyển sách này), 那**只**猫 (con mèo kia). Tiếng Việt nói 'quyển sách **này**', tiếng Trung nói '**này** quyển sách'.",
+        "Số nhiều dùng 「这些」, 「那些」, 「哪些」 và **không** thêm lượng từ: 这些书 (những quyển sách này). 「这个」, 「那个」, 「这些」, 「那些」 cũng có thể đứng một mình: 这个是我的 (Cái này là của tôi).",
+        "「这儿」, 「那儿」, 「这里」, 「那里」 (ở đây, ở đó) sẽ học ở bài 7; 「有的」, 「有些」 (có cái, một số) sẽ học sau."
+      ],
+      "patterns": [
+        "这/那/哪 + lượng từ + danh từ",
+        "这些/那些/哪些 + danh từ",
+        "这个/那个/这些/那些 + 是 + …"
+      ],
+      "examples": [
+        {
+          "zh": "这本书是我的。",
+          "py": "zhè běn shū shì wǒ de",
+          "vi": "Quyển sách này là của tôi."
+        },
+        {
+          "zh": "那只狗很大。",
+          "py": "nà zhī gǒu hěn dà",
+          "vi": "Con chó kia rất to."
+        },
+        {
+          "zh": "这些猫都很小。",
+          "py": "zhè xiē māo dōu hěn xiǎo",
+          "vi": "Mấy con mèo này đều rất nhỏ."
+        },
+        {
+          "zh": "哪个手机是你的？",
+          "py": "nǎ ge shǒu jī shì nǐ de",
+          "vi": "Điện thoại nào là của bạn?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "书这是我的。",
+          "right": "这本书是我的。",
+          "noteVi": "Không đặt 「这」 sau danh từ như 'sách này' trong tiếng Việt: 「这」 + lượng từ đứng trước danh từ."
+        },
+        {
+          "wrong": "这些本书是我的。",
+          "right": "这些书是我的。",
+          "noteVi": "Sau 「这些」, 「那些」 không thêm lượng từ."
+        },
+        {
+          "wrong": "那个书很新。",
+          "right": "那本书很新。",
+          "noteVi": "「书」 dùng lượng từ 「本」, kể cả sau 「这」, 「那」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 12,
+      "titleVi": "Lượng từ: 个, 本, 只",
+      "summaryVi": "Số + lượng từ + danh từ (一个人, 两本书, 三只猫): mỗi danh từ có lượng từ riêng, giống 'cái, quyển, con' trong tiếng Việt.",
+      "explanationVi": [
+        "Giống tiếng Việt, khi đếm phải có **lượng từ** giữa số và danh từ: 三**本**书 (ba **quyển** sách), 两**只**猫 (hai **con** mèo). Không nói 三书.",
+        "Mỗi danh từ đi với lượng từ riêng. 「个」 dùng rộng nhất: người và nhiều đồ vật (一个人, 一个手机). 「本」 dùng cho sách, vở. 「只」 dùng cho phần lớn con vật (猫, 狗). 「口」 dùng khi đếm người trong gia đình (三口人). Các lượng từ 「块」, 「元」 (tiền), 「家」 (cửa hàng), 「件」 (quần áo, sự việc) sẽ học ở các bài sau.",
+        "Trước lượng từ, số 2 là 「两」, không phải 「二」: 两本书, 两只狗.",
+        "Lượng từ cũng đứng sau 「这」, 「那」, 「哪」 và 「几」: 这本书, 那只猫, 几个人？"
+      ],
+      "patterns": [
+        "Số + lượng từ + danh từ",
+        "这/那/哪/几 + lượng từ + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我有两本汉语书。",
+          "py": "wǒ yǒu liǎng běn hàn yǔ shū",
+          "vi": "Tôi có hai quyển sách tiếng Hán."
+        },
+        {
+          "zh": "他家有三只猫。",
+          "py": "tā jiā yǒu sān zhī māo",
+          "vi": "Nhà anh ấy có ba con mèo."
+        },
+        {
+          "zh": "你有几个手机？",
+          "py": "nǐ yǒu jǐ gè shǒu jī",
+          "vi": "Bạn có mấy cái điện thoại?"
+        },
+        {
+          "zh": "我家有四口人。",
+          "py": "wǒ jiā yǒu sì kǒu rén",
+          "vi": "Nhà tôi có bốn người."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我有三书。",
+          "right": "我有三本书。",
+          "noteVi": "Giữa số và danh từ phải có lượng từ.",
+          "issue": "missing_measure_word"
+        },
+        {
+          "wrong": "他有两个猫。",
+          "right": "他有两只猫。",
+          "noteVi": "Con vật dùng lượng từ 「只」, không dùng 「个」.",
+          "issue": "wrong_measure_word"
+        },
+        {
+          "wrong": "我有二本书。",
+          "right": "我有两本书。",
+          "noteVi": "Trước lượng từ, số 2 là 「两」.",
+          "issue": "er_liang"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 27,
+      "titleVi": "Thán từ 「喂」",
+      "summaryVi": "「喂」 dùng ở đầu cuộc điện thoại (a lô) hoặc để gọi người khác chú ý (này!).",
+      "explanationVi": [
+        "「喂」 là thán từ, thường đứng **đầu câu** và ngăn cách với phần sau bằng dấu phẩy: 喂，你好！",
+        "Khi gọi hoặc nghe điện thoại, người Trung Quốc nói 「喂」 giống 'a lô' trong tiếng Việt. Lúc này thường đọc thanh 2: wéi.",
+        "「喂」 cũng dùng để gọi người khác (Này!), nhưng nghe không lịch sự. Với thầy cô, người lạ, hãy gọi 老师, 你好 hoặc 对不起."
+      ],
+      "patterns": [
+        "喂，…"
+      ],
+      "examples": [
+        {
+          "zh": "喂，你好！",
+          "py": "wèi nǐ hǎo",
+          "vi": "A lô, xin chào!"
+        },
+        {
+          "zh": "喂，你是大卫吗？",
+          "py": "wèi nǐ shì dà wèi ma",
+          "vi": "A lô, bạn là David phải không?"
+        },
+        {
+          "zh": "喂，我是小王。",
+          "py": "wèi wǒ shì xiǎo wáng",
+          "vi": "A lô, tôi là Tiểu Vương đây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 29,
+      "titleVi": "Cụm chính phụ: phần bổ nghĩa đứng trước",
+      "summaryVi": "Phần bổ nghĩa luôn đứng **trước** phần chính: 新书 (sách mới), 我的狗 (chó của tôi), 很大 (rất to) — danh từ thì ngược với tiếng Việt.",
+      "explanationVi": [
+        "Cụm chính phụ gồm một **phần chính** (danh từ, động từ hoặc tính từ) và một **phần phụ** bổ nghĩa cho nó. Quy tắc quan trọng nhất: phần phụ đứng **trước** phần chính.",
+        "Với danh từ, tiếng Việt thường làm ngược lại: 'sách **mới**', 'chó **của tôi**', 'bạn **Trung Quốc**'. Tiếng Trung nói: 新书, 我的狗, 中国朋友. Đây là lỗi người Việt hay mắc nhất khi mới học.",
+        "Với động từ, tính từ, phần phụ cũng đứng trước như tiếng Việt: 很大 (rất to), 不新 (không mới), 都是 (đều là)."
+      ],
+      "patterns": [
+        "Phần phụ + phần chính",
+        "Tính từ + danh từ: 新书",
+        "Danh từ/đại từ (+ 的) + danh từ: 我的书, 中国朋友"
+      ],
+      "examples": [
+        {
+          "zh": "他是我的中国朋友。",
+          "py": "tā shì wǒ de zhōng guó péng you",
+          "vi": "Anh ấy là người bạn Trung Quốc của tôi."
+        },
+        {
+          "zh": "这是一个新电脑。",
+          "py": "zhè shì yí gè xīn diàn nǎo",
+          "vi": "Đây là một cái máy tính mới."
+        },
+        {
+          "zh": "我们的老师很好。",
+          "py": "wǒ men de lǎo shī hěn hǎo",
+          "vi": "Thầy giáo của chúng tôi rất tốt."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他是我朋友中国。",
+          "right": "他是我的中国朋友。",
+          "noteVi": "'Bạn Trung Quốc' là 中国朋友: phần bổ nghĩa 「中国」 đứng trước 「朋友」."
+        },
+        {
+          "wrong": "我有一只狗大。",
+          "right": "我有一只大狗。",
+          "noteVi": "Tính từ đứng trước danh từ: 大狗 (chó to), không dịch từng chữ 'chó to' thành 狗大.",
+          "issue": "modifier_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 32,
+      "titleVi": "Cụm số lượng: số + lượng từ",
+      "summaryVi": "Số + lượng từ (一本, 两只, 三个) đứng trước danh từ, hoặc đứng một mình khi đã rõ đang nói về vật gì.",
+      "explanationVi": [
+        "Cụm số lượng gồm **số + lượng từ**: 一本, 两只, 三个. Nó thường đứng trước danh từ: 一本书, 两只猫.",
+        "Khi đã rõ đang nói về vật gì, có thể bỏ danh từ, chỉ giữ cụm số lượng: 你有几本书？— 我有三本 (Tôi có ba quyển). Nhưng **không** được bỏ lượng từ: không nói 我有三.",
+        "「一些」 (một vài, một số) cũng đứng trước danh từ nhưng không đi với lượng từ khác: 一些书, không nói 一些本书."
+      ],
+      "patterns": [
+        "Số + lượng từ (+ danh từ)",
+        "几 + lượng từ (+ danh từ)？",
+        "一些 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我有两只猫。",
+          "py": "wǒ yǒu liǎng zhī māo",
+          "vi": "Tôi có hai con mèo."
+        },
+        {
+          "zh": "你有几本中文书？——我有五本。",
+          "py": "nǐ yǒu jǐ běn zhōng wén shū wǒ yǒu wǔ běn",
+          "vi": "Bạn có mấy quyển sách tiếng Trung? — Tôi có năm quyển."
+        },
+        {
+          "zh": "我有一些新书。",
+          "py": "wǒ yǒu yì xiē xīn shū",
+          "vi": "Tôi có một vài quyển sách mới."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我有两狗。",
+          "right": "我有两只狗。",
+          "noteVi": "Số không đứng ngay trước danh từ; cần lượng từ 「只」 ở giữa.",
+          "issue": "missing_measure_word"
+        },
+        {
+          "wrong": "我有一些本书。",
+          "right": "我有一些书。",
+          "noteVi": "「一些」 không đi với lượng từ 「本」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 39,
+      "titleVi": "Định ngữ: danh từ, tính từ, cụm số lượng đứng trước danh từ",
+      "summaryVi": "Định ngữ (thành phần bổ nghĩa cho danh từ) luôn đứng trước danh từ: 中文书, 新手机, 两只猫, 老师的电脑.",
+      "explanationVi": [
+        "Định ngữ cho biết danh từ là loại gì, của ai, như thế nào, bao nhiêu. Trong tiếng Trung, định ngữ luôn đứng **trước** danh từ.",
+        "**Danh từ làm định ngữ**: 中文书 (sách tiếng Trung), 中国朋友 (bạn người Trung Quốc). **Người sở hữu + 的**: 我的书, 老师的电脑.",
+        "**Tính từ làm định ngữ**: tính từ một âm tiết đứng ngay trước danh từ: 大狗, 小猫, 新书. Nếu có 「很」 thì phải thêm 「的」: 很大的狗.",
+        "**Cụm số lượng làm định ngữ**: 两本书, 三只猫. Khi có nhiều định ngữ, thứ tự thường là: của ai → này/kia hoặc số lượng → tính từ → danh từ: 我的新手机, 两只小狗, 这本新书."
+      ],
+      "patterns": [
+        "Số/这/那 + lượng từ + tính từ + danh từ",
+        "Người sở hữu + 的 + danh từ",
+        "很 + tính từ + 的 + danh từ"
+      ],
+      "examples": [
+        {
+          "zh": "我有一本新书。",
+          "py": "wǒ yǒu yì běn xīn shū",
+          "vi": "Tôi có một quyển sách mới."
+        },
+        {
+          "zh": "这是老师的电脑。",
+          "py": "zhè shì lǎo shī de diàn nǎo",
+          "vi": "Đây là máy tính của thầy giáo."
+        },
+        {
+          "zh": "他家有两只小狗。",
+          "py": "tā jiā yǒu liǎng zhī xiǎo gǒu",
+          "vi": "Nhà anh ấy có hai con chó nhỏ."
+        },
+        {
+          "zh": "这是一只很大的猫。",
+          "py": "zhè shì yì zhī hěn dà de māo",
+          "vi": "Đây là một con mèo rất to."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我有一本书新。",
+          "right": "我有一本新书。",
+          "noteVi": "Tính từ đứng trước danh từ: 新书 (sách mới).",
+          "issue": "modifier_order"
+        },
+        {
+          "wrong": "这是书中文。",
+          "right": "这是中文书。",
+          "noteVi": "'Sách tiếng Trung' là 中文书: danh từ bổ nghĩa đứng trước."
+        },
+        {
+          "wrong": "他有一只很大狗。",
+          "right": "他有一只很大的狗。",
+          "noteVi": "Có 「很」 trước tính từ thì phải thêm 「的」 trước danh từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-06-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "书",
+          "sách"
+        ],
+        [
+          "桌子",
+          "cái bàn"
+        ],
+        [
+          "椅子",
+          "cái ghế"
+        ],
+        [
+          "手机",
+          "điện thoại di động"
+        ],
+        [
+          "电脑",
+          "máy tính"
+        ],
+        [
+          "猫",
+          "con mèo"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-06-e02",
+      "type": "match",
+      "promptVi": "Nối từ chỉ thị với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "这个",
+          "cái này"
+        ],
+        [
+          "那个",
+          "cái kia"
+        ],
+        [
+          "哪个",
+          "cái nào"
+        ],
+        [
+          "这些",
+          "những cái này"
+        ],
+        [
+          "那些",
+          "những cái kia"
+        ]
+      ],
+      "grammar": [
+        10
+      ]
+    },
+    {
+      "id": "hsk1-06-e03",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "我有一＿书。",
+      "options": [
+        "本",
+        "只",
+        "口"
+      ],
+      "answer": 0,
+      "explainVi": "「书」 đi với lượng từ 「本」 (quyển).",
+      "grammar": [
+        12
+      ]
+    },
+    {
+      "id": "hsk1-06-e04",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "他家有两＿猫。",
+      "options": [
+        "只",
+        "本",
+        "个"
+      ],
+      "answer": 0,
+      "explainVi": "Con vật như 「猫」, 「狗」 dùng lượng từ 「只」 (con).",
+      "grammar": [
+        12
+      ]
+    },
+    {
+      "id": "hsk1-06-e05",
+      "type": "fill",
+      "promptVi": "Điền lượng từ thích hợp.",
+      "before": "我家有两",
+      "after": "狗。",
+      "answers": [
+        "只"
+      ],
+      "options": [
+        "只",
+        "本",
+        "个"
+      ],
+      "vi": "Nhà tôi có hai con chó.",
+      "grammar": [
+        12,
+        32
+      ]
+    },
+    {
+      "id": "hsk1-06-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我有两本书。",
+        "我有二本书。",
+        "我有两书。"
+      ],
+      "answer": 0,
+      "explainVi": "Trước lượng từ, số 2 là 「两」; giữa số và danh từ phải có lượng từ.",
+      "grammar": [
+        32,
+        12
+      ]
+    },
+    {
+      "id": "hsk1-06-e07",
+      "type": "order",
+      "vi": "Quyển sách này là của tôi.",
+      "tiles": [
+        "书",
+        "这",
+        "是",
+        "本",
+        "我的"
+      ],
+      "answers": [
+        "这本书是我的"
+      ],
+      "explainVi": "「这」 + lượng từ 「本」 đứng trước 「书」.",
+      "grammar": [
+        10
+      ]
+    },
+    {
+      "id": "hsk1-06-e08",
+      "type": "order",
+      "vi": "Tôi có một con chó nhỏ.",
+      "tiles": [
+        "一只",
+        "我",
+        "小",
+        "有",
+        "狗"
+      ],
+      "answers": [
+        "我有一只小狗"
+      ],
+      "explainVi": "Tính từ 「小」 đứng trước danh từ 「狗」.",
+      "grammar": [
+        39,
+        29
+      ]
+    },
+    {
+      "id": "hsk1-06-e09",
+      "type": "order",
+      "vi": "Mấy con mèo kia đều rất nhỏ.",
+      "tiles": [
+        "那些",
+        "都",
+        "很",
+        "猫",
+        "小"
+      ],
+      "answers": [
+        "那些猫都很小"
+      ],
+      "grammar": [
+        10
+      ]
+    },
+    {
+      "id": "hsk1-06-e10",
+      "type": "choice",
+      "promptVi": "Bạn nhấc máy nghe điện thoại. Bạn nói gì đầu tiên?",
+      "options": [
+        "喂，你好！",
+        "再见！",
+        "对不起！"
+      ],
+      "answer": 0,
+      "grammar": [
+        27
+      ]
+    },
+    {
+      "id": "hsk1-06-e11",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "",
+      "after": "，你是大卫吗？",
+      "answers": [
+        "喂"
+      ],
+      "options": [
+        "喂",
+        "吗",
+        "呢"
+      ],
+      "vi": "A lô, bạn là David phải không?",
+      "grammar": [
+        27
+      ]
+    },
+    {
+      "id": "hsk1-06-e12",
+      "type": "translate",
+      "vi": "A lô, tôi là Mary (玛丽) đây.",
+      "answers": [
+        "喂，我是玛丽。",
+        {
+          "text": "喂，我叫玛丽。",
+          "score": 90
+        },
+        {
+          "text": "我是玛丽。",
+          "score": 70
+        }
+      ],
+      "examples": [
+        {
+          "answer": "喂，我是玛丽。",
+          "score": 100
+        },
+        {
+          "answer": "喂，我叫玛丽。",
+          "score": 90
+        },
+        {
+          "answer": "我是玛丽。",
+          "score": 70,
+          "note": "Quên 「喂」 ở đầu cuộc gọi"
+        },
+        {
+          "answer": "喂，我是安娜。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        27
+      ]
+    },
+    {
+      "id": "hsk1-06-e13",
+      "type": "translate",
+      "vi": "Tôi có ba quyển sách mới.",
+      "answers": [
+        "我有三本新书。"
+      ],
+      "examples": [
+        {
+          "answer": "我有三本新书。",
+          "score": 100
+        },
+        {
+          "answer": "我有三本书新。",
+          "score": 80,
+          "issues": [
+            "modifier_order"
+          ]
+        },
+        {
+          "answer": "我有三个新书。",
+          "score": 80,
+          "issues": [
+            "wrong_measure_word"
+          ]
+        },
+        {
+          "answer": "我有三新书。",
+          "score": 80,
+          "issues": [
+            "missing_measure_word"
+          ]
+        },
+        {
+          "answer": "我有两本新书。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        39,
+        12
+      ]
+    },
+    {
+      "id": "hsk1-06-e14",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "你家有几只猫？",
+        "promptVi": "Nhà bạn có mấy con mèo? (Giả sử nhà bạn có hai con mèo.)",
+        "picture": "🐈🐈",
+        "expected": {
+          "number": 2,
+          "noun": "猫",
+          "sentence": "我家有两只猫。"
+        },
+        "examples": [
+          {
+            "answer": "我家有两只猫。",
+            "score": 100
+          },
+          {
+            "answer": "有两只。",
+            "score": 100
+          },
+          {
+            "answer": "两只猫。",
+            "score": 100
+          },
+          {
+            "answer": "我家有二只猫。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ],
+            "note": "Trước lượng từ, số 2 là 两"
+          },
+          {
+            "answer": "我家有两个猫。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ],
+            "note": "猫 dùng lượng từ 只"
+          },
+          {
+            "answer": "我家有两猫。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "我家有二猫。",
+            "score": 70,
+            "issues": [
+              "er_liang",
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "我家有三只猫。",
+            "score": 20
+          },
+          {
+            "answer": "我家没有猫。",
+            "score": 20,
+            "note": "Nói là không có con nào"
+          }
+        ]
+      },
+      "grammar": [
+        12,
+        32
+      ]
+    },
+    {
+      "id": "hsk1-06-e15",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "大卫有几本书？",
+        "promptVi": "David có mấy quyển sách? (Trong hình: 5 quyển sách.)",
+        "picture": "📕📗📘📙📓",
+        "expected": {
+          "number": 5,
+          "noun": "书",
+          "sentence": "大卫有五本书。"
+        },
+        "examples": [
+          {
+            "answer": "大卫有五本书。",
+            "score": 100
+          },
+          {
+            "answer": "他有五本。",
+            "score": 100
+          },
+          {
+            "answer": "五本书。",
+            "score": 100
+          },
+          {
+            "answer": "他有五个书。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ],
+            "note": "书 dùng lượng từ 本"
+          },
+          {
+            "answer": "他有五只书。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ],
+            "note": "只 dùng cho con vật"
+          },
+          {
+            "answer": "他有五书。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "他有四本书。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        12,
+        32
+      ]
+    },
+    {
+      "id": "hsk1-06-e16",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "王老师家有几只狗？",
+        "promptVi": "Nhà thầy Vương có mấy con chó? (Trong hình: 1 con chó to.)",
+        "picture": "🐕",
+        "expected": {
+          "number": 1,
+          "noun": "狗",
+          "sentence": "王老师家有一只大狗。"
+        },
+        "examples": [
+          {
+            "answer": "王老师家有一只大狗。",
+            "score": 100
+          },
+          {
+            "answer": "有一只。",
+            "score": 100
+          },
+          {
+            "answer": "他家有一只狗。",
+            "score": 100
+          },
+          {
+            "answer": "有一只狗大。",
+            "score": 80,
+            "issues": [
+              "modifier_order"
+            ],
+            "note": "Dịch từng chữ 'con chó to'"
+          },
+          {
+            "answer": "有一个大狗。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "有一大狗。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有两只狗。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        39,
+        12
+      ]
+    },
+    {
+      "id": "hsk1-06-e17",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "这是什么？",
+        "promptVi": "Đây là cái gì? (Trong hình: một quyển sách.)",
+        "picture": "📕",
+        "answers": [
+          "[这|这个]是(一本)书。",
+          "(是)(一本)书。"
+        ],
+        "examples": [
+          {
+            "answer": "这是书。",
+            "score": 100
+          },
+          {
+            "answer": "这是一本书。",
+            "score": 100
+          },
+          {
+            "answer": "一本书。",
+            "score": 100
+          },
+          {
+            "answer": "这是一个书。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ],
+            "note": "书 dùng lượng từ 本"
+          },
+          {
+            "answer": "这是一书。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "这是手机。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        10,
+        12
+      ]
+    },
+    {
+      "id": "hsk1-06-e18",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "哪个手机是你的？",
+        "promptVi": "Cái điện thoại nào là của bạn? (Giả sử là cái ở xa, đằng kia.)",
+        "answers": [
+          "那个(手机)是我的。",
+          "那是我的(手机)。",
+          "那个。"
+        ],
+        "examples": [
+          {
+            "answer": "那个是我的。",
+            "score": 100
+          },
+          {
+            "answer": "那个手机是我的。",
+            "score": 100
+          },
+          {
+            "answer": "那个。",
+            "score": 100
+          },
+          {
+            "answer": "这个是我的。",
+            "score": 0,
+            "note": "这个 là cái ở gần"
+          }
+        ]
+      },
+      "grammar": [
+        10
+      ]
+    },
+    {
+      "id": "hsk1-06-e19",
+      "type": "translate",
+      "vi": "Những quyển sách này đều là của tôi.",
+      "answers": [
+        "这些书都是我的。"
+      ],
+      "examples": [
+        {
+          "answer": "这些书都是我的。",
+          "score": 100
+        },
+        {
+          "answer": "这些书是我的。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "那些书都是我的。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        10
+      ]
+    },
+    {
+      "id": "hsk1-06-e20",
+      "type": "translate",
+      "vi": "Tiểu Vương có một cái máy tính mới.",
+      "answers": [
+        "小王有一个新电脑。"
+      ],
+      "examples": [
+        {
+          "answer": "小王有一个新电脑。",
+          "score": 100
+        },
+        {
+          "answer": "小王有一个电脑新。",
+          "score": 80,
+          "issues": [
+            "modifier_order"
+          ]
+        },
+        {
+          "answer": "王小有一个新电脑。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        1,
+        39
+      ]
+    },
+    {
+      "id": "hsk1-06-e21",
+      "type": "choice",
+      "promptVi": "Bạn muốn gọi thân mật một người bạn trẻ họ Lý (李). Cách gọi nào đúng?",
+      "options": [
+        "小李",
+        "李小",
+        "第李"
+      ],
+      "answer": 0,
+      "explainVi": "Tiền tố 「小」 đứng trước họ.",
+      "grammar": [
+        1
+      ]
+    },
+    {
+      "id": "hsk1-06-e22",
+      "type": "fill",
+      "promptVi": "Chọn số đúng.",
+      "before": "这是他的第",
+      "after": "个手机。",
+      "answers": [
+        "二"
+      ],
+      "options": [
+        "二",
+        "两"
+      ],
+      "vi": "Đây là chiếc điện thoại thứ hai của anh ấy.",
+      "explainVi": "Sau 「第」 luôn dùng 「二」.",
+      "grammar": [
+        1
+      ]
+    },
+    {
+      "id": "hsk1-06-e23",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy là người bạn Trung Quốc của tôi.)",
+      "options": [
+        "他是我的中国朋友。",
+        "他是朋友中国我的。",
+        "他是我朋友中国。"
+      ],
+      "answer": 0,
+      "explainVi": "Phần bổ nghĩa (我的, 中国) đứng trước danh từ chính 「朋友」.",
+      "grammar": [
+        29,
+        39
+      ]
+    },
+    {
+      "id": "hsk1-06-e24",
+      "type": "order",
+      "vi": "Đây là máy tính của thầy giáo.",
+      "tiles": [
+        "电脑",
+        "这",
+        "老师的",
+        "是"
+      ],
+      "answers": [
+        "这是老师的电脑"
+      ],
+      "grammar": [
+        29
+      ]
+    },
+    {
+      "id": "hsk1-06-e25",
+      "type": "choice",
+      "promptVi": "「它们」 dùng để chỉ ai, cái gì?",
+      "options": [
+        "những con vật, đồ vật (chúng nó)",
+        "những người đàn ông (họ)",
+        "chúng tôi"
+      ],
+      "answer": 0
+    }
+  ]
+}

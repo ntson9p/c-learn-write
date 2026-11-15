@@ -1,0 +1,26 @@
+{
+  "_doc": "Proper nouns (people, places, languages) that example sentences may use without teaching them as words. py: one syllable per character. STARTER LIST: must be reviewed by a Chinese teacher.",
+  "names": [
+    {"zh": "越南", "vi": "Việt Nam", "py": "yuè nán"},
+    {"zh": "河内", "vi": "Hà Nội", "py": "hé nèi"},
+    {"zh": "胡志明市", "vi": "Thành phố Hồ Chí Minh", "py": "hú zhì míng shì"},
+    {"zh": "北京", "vi": "Bắc Kinh", "py": "běi jīng"},
+    {"zh": "上海", "vi": "Thượng Hải", "py": "shàng hǎi"},
+    {"zh": "美国", "vi": "Mỹ", "py": "měi guó"},
+    {"zh": "日本", "vi": "Nhật Bản", "py": "rì běn"},
+    {"zh": "英国", "vi": "Anh (nước Anh)", "py": "yīng guó"},
+    {"zh": "法国", "vi": "Pháp", "py": "fǎ guó"},
+    {"zh": "韩国", "vi": "Hàn Quốc", "py": "hán guó"},
+    {"zh": "英语", "vi": "tiếng Anh", "py": "yīng yǔ"},
+    {"zh": "越南语", "vi": "tiếng Việt", "py": "yuè nán yǔ"},
+    {"zh": "王", "vi": "họ Vương", "py": "wáng"},
+    {"zh": "李", "vi": "họ Lý", "py": "lǐ"},
+    {"zh": "陈", "vi": "họ Trần", "py": "chén"},
+    {"zh": "阮", "vi": "họ Nguyễn", "py": "ruǎn"},
+    {"zh": "大卫", "vi": "David", "py": "dà wèi"},
+    {"zh": "玛丽", "vi": "Mary", "py": "mǎ lì"},
+    {"zh": "安娜", "vi": "Anna", "py": "ān nà"},
+    {"zh": "小明", "vi": "Tiểu Minh (tên người)", "py": "xiǎo míng"},
+    {"zh": "小红", "vi": "Tiểu Hồng (tên người)", "py": "xiǎo hóng"}
+  ]
+}

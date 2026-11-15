@@ -1,0 +1,1498 @@
+{
+  "id": "hsk3-02",
+  "goalsVi": [
+    "Kể thói quen hằng ngày: 起床, 刷牙, 洗澡, 平时, 周末; nói giờ với 「刻」 (六点一刻)",
+    "Kể các việc theo thứ tự với 「先……，再/然后……」 và 「最后」",
+    "Nói hai hành động diễn ra cùng lúc với 「一边……，一边……」",
+    "Nói việc vừa xảy ra, sắp xảy ra, xảy ra muộn hay kéo dài với 「刚/刚刚/刚才」, 「马上」, 「才」, 「一直」",
+    "Nói tần suất với 「总是」, 「常常」 và phân biệt 「又」 (đã lặp lại) với 「再」 (sẽ lặp lại)",
+    "Nói làm xong việc này thì làm ngay việc kia: 我下了课就去吃饭"
+  ],
+  "words": [
+    {
+      "no": 795,
+      "word": "平时",
+      "meaningsVi": [
+        "ngày thường, lúc bình thường"
+      ],
+      "noteVi": "「平时」 là danh từ chỉ thời gian, dùng để nói thói quen thường ngày, đối lập với lúc đặc biệt (cuối tuần, ngày lễ). Đứng đầu câu hoặc sau chủ ngữ.",
+      "examples": [
+        {
+          "zh": "我平时七点起床，周末九点才起床。",
+          "py": "wǒ píng shí qī diǎn qǐ chuáng zhōu mò jiǔ diǎn cái qǐ chuáng",
+          "vi": "Ngày thường tôi dậy lúc bảy giờ, cuối tuần chín giờ mới dậy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 885,
+      "word": "习惯",
+      "meaningsVi": [
+        "thói quen",
+        "quen, quen với"
+      ],
+      "noteVi": "Âm Hán Việt 'tập quán'. Làm động từ, 「习惯」 có tân ngữ trực tiếp: 我习惯了这儿的天气 (Tôi đã quen với thời tiết ở đây); chưa quen là 「不习惯」. Không cần thêm từ 'với'.",
+      "examples": [
+        {
+          "zh": "他有早上跑步的习惯。",
+          "py": "tā yǒu zǎo shang pǎo bù de xí guàn",
+          "vi": "Anh ấy có thói quen chạy bộ buổi sáng."
+        },
+        {
+          "zh": "我还不习惯这儿的天气。",
+          "py": "wǒ hái bù xí guàn zhè r de tiān qì",
+          "vi": "Tôi vẫn chưa quen với thời tiết ở đây."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 801,
+      "word": "起",
+      "meaningsVi": [
+        "dậy, thức dậy",
+        "đứng dậy"
+      ],
+      "noteVi": "Trong khẩu ngữ, 「起」 thường dùng thay cho 「起床」: 你几点起？ Dậy muộn là 「起晚了」.",
+      "examples": [
+        {
+          "zh": "我今天起晚了。",
+          "py": "wǒ jīn tiān qǐ wǎn le",
+          "vi": "Hôm nay tôi dậy muộn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 844,
+      "word": "刷",
+      "meaningsVi": [
+        "chải, đánh (răng)",
+        "quét (sơn), cọ rửa"
+      ],
+      "noteVi": "'Đánh răng' là 「刷牙」 (chải răng), không dùng 「打」. Số lần đặt giữa: 刷两次牙.",
+      "examples": [
+        {
+          "zh": "我每天刷两次牙。",
+          "py": "wǒ měi tiān shuā liǎng cì yá",
+          "vi": "Mỗi ngày tôi đánh răng hai lần."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 916,
+      "word": "牙",
+      "meaningsVi": [
+        "răng"
+      ],
+      "examples": [
+        {
+          "zh": "我的牙有点儿疼。",
+          "py": "wǒ de yá yǒu diǎn r téng",
+          "vi": "Răng tôi hơi đau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 917,
+      "word": "牙刷",
+      "meaningsVi": [
+        "bàn chải đánh răng"
+      ],
+      "noteVi": "Từ bổ nghĩa đứng trước: 牙 (răng) + 刷 (bàn chải) = bàn chải đánh răng, ngược với thứ tự tiếng Việt.",
+      "examples": [
+        {
+          "zh": "这是我的新牙刷。",
+          "py": "zhè shì wǒ de xīn yá shuā",
+          "vi": "Đây là bàn chải đánh răng mới của tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 887,
+      "word": "洗澡",
+      "meaningsVi": [
+        "tắm"
+      ],
+      "noteVi": "「洗澡」 gồm 洗 (rửa) + 澡 (tắm); giữa hai chữ có thể chen thành phần khác: 洗个澡, 洗了澡. Phía sau 「洗澡」 không có tân ngữ.",
+      "examples": [
+        {
+          "zh": "我每天晚上洗澡。",
+          "py": "wǒ měi tiān wǎn shang xǐ zǎo",
+          "vi": "Tối nào tôi cũng tắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 735,
+      "word": "刻",
+      "meaningsVi": [
+        "khắc (15 phút)"
+      ],
+      "noteVi": "「一刻」 = 15 phút, 「三刻」 = 45 phút: 八点一刻 (8 giờ 15), 八点三刻 (8 giờ 45). 30 phút thì nói 「半」, không nói 两刻.",
+      "examples": [
+        {
+          "zh": "我每天六点一刻起床。",
+          "py": "wǒ měi tiān liù diǎn yí kè qǐ chuáng",
+          "vi": "Mỗi ngày tôi dậy lúc sáu giờ mười lăm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 890,
+      "word": "先",
+      "meaningsVi": [
+        "trước, trước tiên"
+      ],
+      "noteVi": "「先」 là phó từ, đứng **sau chủ ngữ, trước động từ**: 你先走吧 (Bạn đi trước đi). Tiếng Việt đặt 'trước' sau động từ, nên người Việt hay nói sai thành 你走先.",
+      "examples": [
+        {
+          "zh": "你先走吧，我马上来。",
+          "py": "nǐ xiān zǒu ba wǒ mǎ shàng lái",
+          "vi": "Bạn đi trước đi, tôi đến ngay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 813,
+      "word": "然后",
+      "meaningsVi": [
+        "sau đó, rồi"
+      ],
+      "noteVi": "「然后」 là liên từ, đứng **đầu vế sau** (trước chủ ngữ nếu có), nối các việc nối tiếp nhau. 「后来」 thì dùng khi kể chuyện đã qua, hai việc cách nhau một khoảng thời gian.",
+      "examples": [
+        {
+          "zh": "我先刷牙，然后洗澡。",
+          "py": "wǒ xiān shuā yá rán hòu xǐ zǎo",
+          "vi": "Tôi đánh răng trước, sau đó đi tắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 997,
+      "word": "最后",
+      "meaningsVi": [
+        "cuối cùng, sau cùng"
+      ],
+      "examples": [
+        {
+          "zh": "我先做饭，然后洗衣服，最后看一会儿电视。",
+          "py": "wǒ xiān zuò fàn rán hòu xǐ yī fu zuì hòu kàn yí huì r diàn shì",
+          "vi": "Tôi nấu cơm trước, sau đó giặt quần áo, cuối cùng xem tivi một lúc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 641,
+      "word": "刚",
+      "meaningsVi": [
+        "vừa, vừa mới"
+      ],
+      "noteVi": "「刚」 là phó từ, đứng sau chủ ngữ, trước động từ: 我刚到. Câu có 「刚」 thường không có 「了」 cuối câu. 'Mới đến được hai ngày' nói 刚来两天.",
+      "examples": [
+        {
+          "zh": "我刚到家。",
+          "py": "wǒ gāng dào jiā",
+          "vi": "Tôi vừa về đến nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 642,
+      "word": "刚才",
+      "meaningsVi": [
+        "vừa nãy, lúc nãy"
+      ],
+      "noteVi": "「刚才」 là danh từ chỉ thời gian (như 今天, 昨天), nên đứng được **trước chủ ngữ** và đi được với 「了」, 「没」: 刚才你去哪儿了？ / 刚才我没听见. 「刚」 là phó từ, chỉ đứng trước động từ.",
+      "examples": [
+        {
+          "zh": "刚才有人给你打电话。",
+          "py": "gāng cái yǒu rén gěi nǐ dǎ diàn huà",
+          "vi": "Vừa nãy có người gọi điện cho bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 643,
+      "word": "刚刚",
+      "meaningsVi": [
+        "vừa mới, vừa xong (nhấn mạnh hơn 「刚」)"
+      ],
+      "noteVi": "「刚刚」 dùng như 「刚」, nhấn mạnh việc vừa xảy ra rất gần đây. Trong khẩu ngữ, 「刚刚」 cũng hay dùng như 「刚才」.",
+      "examples": [
+        {
+          "zh": "电影刚刚开始。",
+          "py": "diàn yǐng gāng gāng kāi shǐ",
+          "vi": "Phim vừa mới bắt đầu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 544,
+      "word": "才",
+      "meaningsVi": [
+        "mới (muộn hoặc chậm hơn dự kiến)",
+        "vừa mới"
+      ],
+      "noteVi": "「才」 đứng trước động từ, cho biết người nói thấy việc xảy ra **muộn** hoặc **chậm**: 他十点才起床. Câu có 「才」 kiểu này không có 「了」 cuối câu. Ngược lại, 「就」 cho biết việc xảy ra **sớm**: 他六点就起床了.",
+      "examples": [
+        {
+          "zh": "他昨天晚上十二点才回家。",
+          "py": "tā zuó tiān wǎn shang shí èr diǎn cái huí jiā",
+          "vi": "Tối qua mười hai giờ anh ấy mới về nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 766,
+      "word": "马上",
+      "meaningsVi": [
+        "ngay, lập tức"
+      ],
+      "noteVi": "Đứng sau chủ ngữ, trước động từ: 我马上来！ Hay dùng 「马上就……了」 để nói việc sắp xảy ra ngay: 电影马上就要开始了. Không hiểu theo nghĩa đen 'trên lưng ngựa'.",
+      "examples": [
+        {
+          "zh": "等一下，我马上来！",
+          "py": "děng yí xià wǒ mǎ shàng lái",
+          "vi": "Đợi một chút, tôi đến ngay!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 928,
+      "word": "一直",
+      "meaningsVi": [
+        "suốt, liên tục, luôn (không gián đoạn)",
+        "thẳng (đi thẳng)"
+      ],
+      "noteVi": "「一直」 nói một việc, một trạng thái kéo dài **liên tục**: 我一直住在河内. Còn 「总是」 nói việc lặp đi lặp lại nhiều lần. Nghĩa 'thẳng': 一直往前走 (đi thẳng về phía trước).",
+      "examples": [
+        {
+          "zh": "我从小一直住在河内。",
+          "py": "wǒ cóng xiǎo yì zhí zhù zài hé nèi",
+          "vi": "Từ nhỏ tôi đã sống ở Hà Nội suốt."
+        },
+        {
+          "zh": "一直往前走，就是我家。",
+          "py": "yì zhí wǎng qián zǒu jiù shì wǒ jiā",
+          "vi": "Cứ đi thẳng về phía trước là đến nhà tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 993,
+      "word": "总",
+      "meaningsVi": [
+        "luôn, lúc nào cũng (như 「总是」)"
+      ],
+      "noteVi": "「总」 = 「总是」, đứng trước động từ hoặc tính từ; hay mang ý phàn nàn.",
+      "examples": [
+        {
+          "zh": "他总说自己很忙。",
+          "py": "tā zǒng shuō zì jǐ hěn máng",
+          "vi": "Anh ấy lúc nào cũng nói mình rất bận."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 994,
+      "word": "总是",
+      "meaningsVi": [
+        "luôn luôn, lúc nào cũng"
+      ],
+      "noteVi": "「总是」 nói việc lần nào cũng vậy, gần như không có ngoại lệ; mạnh hơn 「常常」.",
+      "examples": [
+        {
+          "zh": "周末她总是很晚才起床。",
+          "py": "zhōu mò tā zǒng shì hěn wǎn cái qǐ chuáng",
+          "vi": "Cuối tuần lúc nào cô ấy cũng dậy rất muộn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 949,
+      "word": "又",
+      "meaningsVi": [
+        "lại (việc đã lặp lại)"
+      ],
+      "noteVi": "「又」 dùng cho việc **đã** lặp lại (thường có 「了」): 他昨天来了，今天又来了. Việc **sẽ** lặp lại dùng 「再」: 明天再来吧. Tiếng Việt đều nói 'lại', nên rất dễ nhầm.",
+      "examples": [
+        {
+          "zh": "你怎么又忘了？",
+          "py": "nǐ zěn me yòu wàng le",
+          "vi": "Sao bạn lại quên nữa rồi?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 554,
+      "word": "常",
+      "meaningsVi": [
+        "thường, hay"
+      ],
+      "noteVi": "「常」 = 「常常」. Phủ định nói 「不常」, không nói 不常常.",
+      "examples": [
+        {
+          "zh": "我常去那家店买水果。",
+          "py": "wǒ cháng qù nà jiā diàn mǎi shuǐ guǒ",
+          "vi": "Tôi hay đến cửa hàng đó mua hoa quả."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 555,
+      "word": "常常",
+      "meaningsVi": [
+        "thường thường, thường xuyên"
+      ],
+      "examples": [
+        {
+          "zh": "周末我常常和朋友去打球。",
+          "py": "zhōu mò wǒ cháng cháng hé péng you qù dǎ qiú",
+          "vi": "Cuối tuần tôi thường đi chơi bóng với bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 923,
+      "word": "一边",
+      "meaningsVi": [
+        "vừa … (vừa …)",
+        "một bên, một phía"
+      ],
+      "noteVi": "Phó từ 「一边」 thường dùng thành cặp: 一边……一边…… (vừa … vừa …), chỉ dùng cho hành động. 「一边」 còn là danh từ 'một bên': 站在一边 (đứng sang một bên).",
+      "examples": [
+        {
+          "zh": "他一边走路，一边打电话。",
+          "py": "tā yì biān zǒu lù yì biān dǎ diàn huà",
+          "vi": "Anh ấy vừa đi bộ vừa gọi điện thoại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 640,
+      "word": "干",
+      "meaningsVi": [
+        "làm (khẩu ngữ)"
+      ],
+      "noteVi": "「干」 = 「做」 nhưng rất khẩu ngữ: 你在干什么？ (Bạn đang làm gì thế?). Ở nghĩa này đọc gàn; chữ 「干」 đọc gān là 'khô' (học sau).",
+      "examples": [
+        {
+          "zh": "你周末想干什么？",
+          "py": "nǐ zhōu mò xiǎng gàn shén me",
+          "vi": "Cuối tuần bạn muốn làm gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 986,
+      "word": "周末",
+      "meaningsVi": [
+        "cuối tuần"
+      ],
+      "examples": [
+        {
+          "zh": "这个周末你有时间吗？",
+          "py": "zhè ge zhōu mò nǐ yǒu shí jiān ma",
+          "vi": "Cuối tuần này bạn có thời gian không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 998,
+      "word": "最近",
+      "meaningsVi": [
+        "gần đây, dạo này",
+        "sắp tới, thời gian tới"
+      ],
+      "noteVi": "「最近」 chỉ khoảng thời gian gần với hiện tại, trước đó ít lâu hoặc sắp tới. Câu chào hỏi rất hay gặp: 你最近怎么样？",
+      "examples": [
+        {
+          "zh": "你最近忙吗？——不太忙。",
+          "py": "nǐ zuì jìn máng ma bú tài máng",
+          "vi": "Dạo này bạn có bận không? — Không bận lắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 828,
+      "word": "生活",
+      "meaningsVi": [
+        "cuộc sống, đời sống",
+        "sống, sinh sống"
+      ],
+      "noteVi": "Âm Hán Việt là 'sinh hoạt', nhưng nghĩa thường gặp là 'cuộc sống': 留学生活 (cuộc sống du học). Làm động từ: 他在北京生活了三年.",
+      "examples": [
+        {
+          "zh": "你习惯这儿的生活了吗？",
+          "py": "nǐ xí guàn zhè r de shēng huó le ma",
+          "vi": "Bạn đã quen với cuộc sống ở đây chưa?"
+        },
+        {
+          "zh": "他在北京生活了三年。",
+          "py": "tā zài běi jīng shēng huó le sān nián",
+          "vi": "Anh ấy đã sống ở Bắc Kinh ba năm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 166,
+      "titleVi": "Phó từ thời gian: 才, 马上, 先, 一会儿, 刚, 刚刚, 一直",
+      "summaryVi": "Các phó từ thời gian đứng sau chủ ngữ, trước động từ, cho biết việc xảy ra muộn, vừa xong, sắp tới, làm trước hay kéo dài liên tục: 他十点才起床, 我刚到, 我马上来, 你先走, 他一直住在这儿.",
+      "explanationVi": [
+        "Các phó từ này đứng **sau chủ ngữ, trước động từ**: 我刚到, 我马上来, 你先走. 「先」 (trước tiên) nói việc được làm trước; tiếng Việt nói 'đi trước', đặt 'trước' sau động từ, còn tiếng Trung phải nói 先走. 「马上」 (ngay) nói việc sắp xảy ra rất nhanh, hay đi với 「就」: 我马上就来. 「一会儿」 đứng trước động từ nghĩa là 'lát nữa': 我一会儿去找你; đứng sau động từ là 'một lúc': 等一会儿.",
+        "「刚」, 「刚刚」 (vừa mới) nói việc vừa xảy ra trước đó không lâu: 我刚到家. Câu có 「刚」 thường **không có 「了」 cuối câu**. Phân biệt với 「刚才」 (vừa nãy): 「刚才」 là danh từ chỉ thời gian, đứng được trước chủ ngữ và đi được với 「了」, 「没」: 刚才你去哪儿了？ 「刚」 thì không: không nói 刚你去哪儿了.",
+        "「才」 (mới) cho biết người nói thấy việc xảy ra **muộn** hoặc **chậm**: 他十点才起床 (Mười giờ anh ấy mới dậy). Ngược lại, 「就」 cho biết việc xảy ra **sớm**, nhanh: 他六点就起床了. Chú ý: câu có 「才」 **không** thêm 「了」, còn câu có 「就」 thường có 「了」.",
+        "「一直」 (suốt) nói một việc, một trạng thái **kéo dài liên tục**, không gián đoạn: 我一直住在河内. Đứng trước 「往」 thì nghĩa là 'thẳng': 一直往前走."
+      ],
+      "patterns": [
+        "Chủ ngữ + 先/马上/刚/刚刚/一直 + động từ",
+        "Chủ ngữ + thời gian + 才 + động từ (muộn)",
+        "Chủ ngữ + thời gian + 就 + động từ + 了 (sớm)"
+      ],
+      "examples": [
+        {
+          "zh": "他每天十点才起床。",
+          "py": "tā měi tiān shí diǎn cái qǐ chuáng",
+          "vi": "Ngày nào anh ấy cũng mười giờ mới dậy."
+        },
+        {
+          "zh": "我刚到学校，课马上就要开始了。",
+          "py": "wǒ gāng dào xué xiào kè mǎ shàng jiù yào kāi shǐ le",
+          "vi": "Tôi vừa đến trường, giờ học sắp bắt đầu ngay rồi."
+        },
+        {
+          "zh": "你先去吧，我一会儿就来。",
+          "py": "nǐ xiān qù ba wǒ yí huì r jiù lái",
+          "vi": "Bạn đi trước đi, lát nữa tôi đến."
+        },
+        {
+          "zh": "下午他一直在家看书。",
+          "py": "xià wǔ tā yì zhí zài jiā kàn shū",
+          "vi": "Cả buổi chiều anh ấy ở nhà đọc sách suốt."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他昨天晚上十二点才睡觉了。",
+          "right": "他昨天晚上十二点才睡觉。",
+          "noteVi": "Câu có 「才」 (muộn) không thêm 「了」 cuối câu. So sánh: 他十点就睡觉了 (sớm)."
+        },
+        {
+          "wrong": "刚你去哪儿了？",
+          "right": "刚才你去哪儿了？",
+          "noteVi": "「刚」 là phó từ, không đứng trước chủ ngữ. 'Vừa nãy' ở đầu câu là 「刚才」."
+        },
+        {
+          "wrong": "你走先吧，我马上来。",
+          "right": "你先走吧，我马上来。",
+          "noteVi": "Tiếng Việt nói 'bạn đi trước đi', đặt 'trước' sau động từ; tiếng Trung 「先」 phải đứng trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 167,
+      "titleVi": "Phó từ tần suất: 总, 总是, 又, 常常",
+      "summaryVi": "「常常」 (thường), 「总/总是」 (lúc nào cũng) và 「又」 (lại — việc đã lặp lại) đứng trước động từ để nói một việc lặp lại nhiều hay ít.",
+      "explanationVi": [
+        "「常常」, 「常」 (thường), cùng với 「经常」 đã học, nói việc xảy ra **nhiều lần**: 我常常去那家店. Phủ định là 「不常」: 我不常喝咖啡; không nói 不常常.",
+        "「总是」, 「总」 (lúc nào cũng, luôn) mạnh hơn 「常常」: gần như **lần nào cũng vậy**. Câu với 「总是」 hay nhấn mạnh thói quen hoặc mang ý phàn nàn: 他总是很晚才睡觉. Đừng nhầm với 「一直」 (suốt): 「一直」 là kéo dài **liên tục**, còn 「总是」 là **lặp lại** nhiều lần.",
+        "「又」 (lại) nói việc **đã lặp lại**, thường có 「了」: 他昨天来了，今天又来了. Việc **sẽ lặp lại** dùng 「再」: 明天再来吧. Tiếng Việt đều nói 'lại' cho cả hai, nên cần nhớ: đã xảy ra → 「又」, chưa xảy ra → 「再」. Riêng việc chắc chắn lặp lại theo quy luật thì vẫn dùng 「又」: 明天又是星期一了.",
+        "Các phó từ này đứng **sau chủ ngữ, trước động từ** hoặc trước cụm giới từ: 我常常在家吃饭."
+      ],
+      "patterns": [
+        "Chủ ngữ + 常(常)/总(是) + động từ",
+        "Chủ ngữ + 又 + động từ + 了 (đã lặp lại)",
+        "Chủ ngữ + 再 + động từ (sẽ lặp lại)",
+        "Chủ ngữ + 不常 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "我周末常常去打球。",
+          "py": "wǒ zhōu mò cháng cháng qù dǎ qiú",
+          "vi": "Cuối tuần tôi thường đi chơi bóng."
+        },
+        {
+          "zh": "他总是第一个到学校。",
+          "py": "tā zǒng shì dì yī gè dào xué xiào",
+          "vi": "Anh ấy lúc nào cũng là người đến trường đầu tiên."
+        },
+        {
+          "zh": "他上午来找你，下午又来了。",
+          "py": "tā shàng wǔ lái zhǎo nǐ xià wǔ yòu lái le",
+          "vi": "Buổi sáng anh ấy đến tìm bạn, buổi chiều lại đến nữa."
+        },
+        {
+          "zh": "这个电影很好看，我想再看一次。",
+          "py": "zhè ge diàn yǐng hěn hǎo kàn wǒ xiǎng zài kàn yí cì",
+          "vi": "Bộ phim này rất hay, tôi muốn xem lại một lần nữa."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我不常常喝咖啡。",
+          "right": "我不常喝咖啡。",
+          "noteVi": "Phủ định của 「常常」 là 「不常」, không nói 「不常常」."
+        },
+        {
+          "wrong": "明天你又来吧。",
+          "right": "明天你再来吧。",
+          "noteVi": "Việc sẽ lặp lại trong tương lai dùng 「再」; 「又」 dùng cho việc đã lặp lại."
+        },
+        {
+          "wrong": "他昨天再来了。",
+          "right": "他昨天又来了。",
+          "noteVi": "Việc đã lặp lại (昨天) dùng 「又」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 168,
+      "titleVi": "Phó từ liên kết 「一边」",
+      "summaryVi": "「一边」 là phó từ, đứng sau chủ ngữ, trước động từ; thường dùng thành cặp 「一边……一边……」 để nối hai hành động diễn ra cùng lúc.",
+      "explanationVi": [
+        "「一边」 là **phó từ liên kết**: vừa bổ nghĩa cho động từ, vừa nối hai vế câu với nhau. Như các phó từ khác, 「一边」 đứng **sau chủ ngữ, trước động từ**: 我一边吃饭……; không nói 一边我吃饭.",
+        "「一边」 hầu như luôn dùng **thành cặp**: 一边 + động từ 1，一边 + động từ 2. Nếu hai động từ đều có một âm tiết, có thể nói gọn 「边……边……」: 边吃边说 (vừa ăn vừa nói).",
+        "Động từ sau 「一边」 phải là **hành động** có thể kéo dài và làm cùng lúc với hành động khác (吃, 看, 听, 走, 说, 唱…). Không dùng với động từ chỉ trạng thái, tình cảm như 是, 有, 喜欢, 知道, cũng không dùng với tính từ."
+      ],
+      "patterns": [
+        "Chủ ngữ + 一边 + động từ 1，一边 + động từ 2",
+        "边 + động từ một âm tiết + 边 + động từ một âm tiết"
+      ],
+      "examples": [
+        {
+          "zh": "他一边走，一边唱歌。",
+          "py": "tā yì biān zǒu yì biān chàng gē",
+          "vi": "Anh ấy vừa đi vừa hát."
+        },
+        {
+          "zh": "我们边吃边说吧。",
+          "py": "wǒ men biān chī biān shuō ba",
+          "vi": "Chúng ta vừa ăn vừa nói chuyện nhé."
+        },
+        {
+          "zh": "妈妈一边做饭，一边听歌。",
+          "py": "mā ma yì biān zuò fàn yì biān tīng gē",
+          "vi": "Mẹ vừa nấu cơm vừa nghe nhạc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "一边我吃饭，一边我看电视。",
+          "right": "我一边吃饭，一边看电视。",
+          "noteVi": "「一边」 là phó từ, đứng sau chủ ngữ. Cùng một người làm hai việc thì chủ ngữ chỉ nói một lần, ở đầu câu."
+        },
+        {
+          "wrong": "我一边喜欢唱歌，一边喜欢跳舞。",
+          "right": "我喜欢唱歌，也喜欢跳舞。",
+          "noteVi": "「喜欢」 không phải hành động làm cùng lúc được, nên không dùng 「一边」. Muốn nói 'thích cả hai' thì dùng 「也」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 234,
+      "titleVi": "Câu ghép 一边……，一边……: vừa … vừa …",
+      "summaryVi": "一边 A，一边 B: hai hành động A và B diễn ra cùng lúc (vừa … vừa …), thường do cùng một người làm.",
+      "explanationVi": [
+        "Mẫu câu 「一边 A，一边 B」 cho biết hai hành động **diễn ra cùng một lúc**, giống 'vừa … vừa …' trong tiếng Việt: 他一边听歌，一边写字.",
+        "Thường là cùng một chủ ngữ, đặt ở đầu câu: 我一边……，一边……. Giữa hai vế có thể có dấu phẩy hoặc không: 我一边吃饭一边看手机.",
+        "Chú ý khác tiếng Việt: tiếng Việt nói được 'vừa rẻ vừa đẹp' với tính từ, nhưng tiếng Trung **không** dùng 「一边……一边……」 với tính từ hay trạng thái. Với tính từ, bài sau sẽ học 「又……又……」; bây giờ có thể nói: 很便宜，也很漂亮."
+      ],
+      "patterns": [
+        "Chủ ngữ + 一边 + A，一边 + B"
+      ],
+      "examples": [
+        {
+          "zh": "我一边吃早饭，一边看手机。",
+          "py": "wǒ yì biān chī zǎo fàn yì biān kàn shǒu jī",
+          "vi": "Tôi vừa ăn sáng vừa xem điện thoại."
+        },
+        {
+          "zh": "学生们一边听，一边写。",
+          "py": "xué shēng men yì biān tīng yì biān xiě",
+          "vi": "Các học sinh vừa nghe vừa viết."
+        },
+        {
+          "zh": "我们一边喝茶一边说话吧。",
+          "py": "wǒ men yì biān hē chá yì biān shuō huà ba",
+          "vi": "Chúng ta vừa uống trà vừa nói chuyện nhé."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这件衣服一边便宜，一边漂亮。",
+          "right": "这件衣服很便宜，也很漂亮。",
+          "noteVi": "Tiếng Việt nói 'vừa rẻ vừa đẹp', nhưng 「一边……一边……」 chỉ dùng cho hành động, không dùng cho tính từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 230,
+      "titleVi": "先……，再/然后……: trước … rồi/sau đó …",
+      "summaryVi": "「先」 ở vế trước, 「再」 hoặc 「然后」 ở vế sau, kể các việc nối tiếp nhau theo thứ tự: 先吃饭，再看电影.",
+      "explanationVi": [
+        "Muốn kể các việc theo thứ tự, vế đầu dùng 「先」 (trước tiên), vế sau dùng 「再」 hoặc 「然后」 (rồi, sau đó); việc cuối cùng có thể dùng 「最后」: 我先刷牙，然后洗澡，最后吃早饭.",
+        "Chú ý **vị trí**: 「先」 và 「再」 là phó từ, đứng **sau chủ ngữ, trước động từ**: 我们先吃饭，再去看电影. 「然后」 là liên từ, đứng **đầu vế sau**, trước chủ ngữ (nếu có): 你先休息一下，然后我们去超市. Có thể dùng cả hai: 然后再…….",
+        "「再」 hay dùng cho việc **chưa làm** (kế hoạch, đề nghị): 先写字，再看电视. Kể việc **đã xảy ra** thì dùng 「然后」 tự nhiên hơn: 昨天我先去了超市，然后回家做饭. 「后来」 không dùng để nối các bước liền nhau như vậy."
+      ],
+      "patterns": [
+        "Chủ ngữ + 先 + A，再 + B",
+        "Chủ ngữ + 先 + A，然后 (+ chủ ngữ) + B",
+        "先 A，然后 B，最后 C"
+      ],
+      "examples": [
+        {
+          "zh": "我们先吃饭，再去看电影吧。",
+          "py": "wǒ men xiān chī fàn zài qù kàn diàn yǐng ba",
+          "vi": "Chúng ta ăn cơm trước rồi đi xem phim nhé."
+        },
+        {
+          "zh": "每天早上我先刷牙，然后洗澡。",
+          "py": "měi tiān zǎo shang wǒ xiān shuā yá rán hòu xǐ zǎo",
+          "vi": "Mỗi sáng tôi đánh răng trước, sau đó đi tắm."
+        },
+        {
+          "zh": "你先休息一会儿，然后我们一起去超市。",
+          "py": "nǐ xiān xiū xi yí huì r rán hòu wǒ men yì qǐ qù chāo shì",
+          "vi": "Bạn nghỉ một lát đi, sau đó chúng ta cùng đi siêu thị."
+        },
+        {
+          "zh": "下班后，他先去超市买菜，然后回家做饭。",
+          "py": "xià bān hòu tā xiān qù chāo shì mǎi cài rán hòu huí jiā zuò fàn",
+          "vi": "Tan làm, anh ấy đi siêu thị mua thức ăn trước, sau đó về nhà nấu cơm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "先吃饭，再我们去看电影。",
+          "right": "我们先吃饭，再去看电影。",
+          "noteVi": "「再」 là phó từ, không đứng trước chủ ngữ. Muốn có chủ ngữ ở vế sau thì dùng 「然后」: 先吃饭，然后我们去看电影."
+        },
+        {
+          "wrong": "我先刷牙，后来洗澡。",
+          "right": "我先刷牙，然后洗澡。",
+          "noteVi": "Nối các bước nối tiếp nhau dùng 「然后」 hoặc 「再」. 「后来」 dùng khi kể chuyện đã qua, hai việc cách nhau một khoảng thời gian."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 242,
+      "titleVi": "Câu rút gọn: động từ 1 + 了 + … + (就) + động từ 2",
+      "summaryVi": "Động từ 1 + 了 (+ tân ngữ) + (就) + động từ 2: làm xong việc thứ nhất thì làm ngay việc thứ hai (我下了课就去吃饭).",
+      "explanationVi": [
+        "Mẫu câu này nói **hai việc nối tiếp nhau**: việc thứ nhất xong thì việc thứ hai diễn ra ngay. 「了」 đặt **ngay sau động từ thứ nhất**, cho biết việc đó đã xong: 我下了课就去吃饭 (Tan học xong là tôi đi ăn cơm ngay).",
+        "Mẫu câu dùng được cho **quá khứ, tương lai và thói quen**: 昨天他吃了饭就睡觉了 / 明天我下了班就去找你 / 我每天起了床就刷牙. Vì vậy 「了」 sau động từ 1 không có nghĩa 'đã', mà nghĩa là 'xong'.",
+        "「就」 (liền, ngay) có thể bỏ, nhưng có 「就」 thì ý 'ngay sau đó' rõ hơn. 「就」 là phó từ, đứng **sau chủ ngữ** của vế sau (nếu có), trước động từ: 你到了北京，我就去找你. So với 「一……就……」 (HSK2), mẫu này nhấn mạnh việc thứ nhất **đã xong**.",
+        "Người Việt hay dịch 'ăn cơm xong' thành 吃饭了. Đặt 「了」 như vậy là sai: phải nói 吃了饭, hoặc dùng 「完」: 吃完饭."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ 1 + 了 (+ tân ngữ) + (就) + động từ 2",
+        "Động từ 1 + 了 (+ tân ngữ)，chủ ngữ 2 + 就 + động từ 2"
+      ],
+      "examples": [
+        {
+          "zh": "我每天下了班就回家。",
+          "py": "wǒ měi tiān xià le bān jiù huí jiā",
+          "vi": "Ngày nào tôi cũng tan làm xong là về nhà ngay."
+        },
+        {
+          "zh": "明天你到了北京，就给我打电话。",
+          "py": "míng tiān nǐ dào le běi jīng jiù gěi wǒ dǎ diàn huà",
+          "vi": "Ngày mai bạn đến Bắc Kinh thì gọi điện cho tôi nhé."
+        },
+        {
+          "zh": "他吃了早饭就去学校了。",
+          "py": "tā chī le zǎo fàn jiù qù xué xiào le",
+          "vi": "Ăn sáng xong là anh ấy đi học ngay."
+        },
+        {
+          "zh": "我刷了牙就睡觉。",
+          "py": "wǒ shuā le yá jiù shuì jiào",
+          "vi": "Đánh răng xong là tôi đi ngủ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我吃饭了就去学校。",
+          "right": "我吃了饭就去学校。",
+          "noteVi": "「了」 đứng ngay sau động từ thứ nhất (吃了饭), không đặt sau tân ngữ theo kiểu 'ăn cơm xong'."
+        },
+        {
+          "wrong": "我下了课，就我去找你。",
+          "right": "我下了课就去找你。",
+          "noteVi": "「就」 là phó từ, đứng sau chủ ngữ, trước động từ; không đặt 「就」 trước chủ ngữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-02-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "刷牙",
+          "đánh răng"
+        ],
+        [
+          "洗澡",
+          "tắm"
+        ],
+        [
+          "牙刷",
+          "bàn chải đánh răng"
+        ],
+        [
+          "周末",
+          "cuối tuần"
+        ],
+        [
+          "平时",
+          "ngày thường"
+        ],
+        [
+          "生活",
+          "cuộc sống"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-02-e02",
+      "type": "match",
+      "promptVi": "Nối phó từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "马上",
+          "ngay, lập tức"
+        ],
+        [
+          "一直",
+          "suốt, liên tục"
+        ],
+        [
+          "总是",
+          "lúc nào cũng"
+        ],
+        [
+          "刚刚",
+          "vừa mới"
+        ],
+        [
+          "先",
+          "trước tiên"
+        ],
+        [
+          "最后",
+          "cuối cùng"
+        ]
+      ],
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e03",
+      "type": "choice",
+      "promptVi": "Anh ấy dậy rất sớm. Chọn từ đúng.",
+      "zh": "他每天六点＿起床了。",
+      "options": [
+        "就",
+        "才",
+        "又"
+      ],
+      "answer": 0,
+      "explainVi": "Việc xảy ra sớm dùng 「就」 (câu có 「了」); việc xảy ra muộn dùng 「才」 (câu không có 「了」).",
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e04",
+      "type": "choice",
+      "promptVi": "Tối qua tôi ngủ rất muộn. Chọn từ đúng.",
+      "zh": "我昨天晚上十二点＿睡觉。",
+      "options": [
+        "才",
+        "就",
+        "先"
+      ],
+      "answer": 0,
+      "explainVi": "「才」 cho biết việc xảy ra muộn hơn bình thường.",
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "你去哪儿了？",
+      "answers": [
+        "刚才"
+      ],
+      "options": [
+        "刚才",
+        "刚",
+        "马上"
+      ],
+      "vi": "Vừa nãy bạn đi đâu thế?",
+      "explainVi": "Đứng trước chủ ngữ chỉ có 「刚才」 (danh từ chỉ thời gian); 「刚」 là phó từ, phải đứng trước động từ.",
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "等一下，我",
+      "after": "来！",
+      "answers": [
+        "马上"
+      ],
+      "options": [
+        "马上",
+        "刚才",
+        "一直"
+      ],
+      "vi": "Đợi một chút, tôi đến ngay!",
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e07",
+      "type": "order",
+      "vi": "Từ nhỏ tôi đã sống ở Hà Nội suốt.",
+      "tiles": [
+        "我",
+        "从小",
+        "一直",
+        "住在",
+        "河内"
+      ],
+      "answers": [
+        "我从小一直住在河内",
+        "从小我一直住在河内"
+      ],
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e08",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn đi trước đi, tôi đến ngay.)",
+      "options": [
+        "你先走吧，我马上来。",
+        "你走先吧，我马上来。",
+        "先你走吧，我来马上。"
+      ],
+      "answer": 0,
+      "explainVi": "「先」 và 「马上」 đứng trước động từ; tiếng Việt nói 'đi trước' nhưng tiếng Trung nói 先走.",
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e09",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "他昨天来了，今天＿来了。",
+      "options": [
+        "又",
+        "再",
+        "才"
+      ],
+      "answer": 0,
+      "explainVi": "Việc đã lặp lại dùng 「又」.",
+      "grammar": [
+        167
+      ]
+    },
+    {
+      "id": "hsk3-02-e10",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这个电影很好看，我想",
+      "after": "看一次。",
+      "answers": [
+        "再"
+      ],
+      "options": [
+        "再",
+        "又",
+        "总"
+      ],
+      "vi": "Bộ phim này rất hay, tôi muốn xem lại một lần nữa.",
+      "explainVi": "Việc sẽ lặp lại (chưa xảy ra) dùng 「再」.",
+      "grammar": [
+        167
+      ]
+    },
+    {
+      "id": "hsk3-02-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi không hay uống cà phê.)",
+      "options": [
+        "我不常喝咖啡。",
+        "我不常常喝咖啡。",
+        "我喝咖啡不常。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định của 「常常」 là 「不常」.",
+      "grammar": [
+        167
+      ]
+    },
+    {
+      "id": "hsk3-02-e12",
+      "type": "translate",
+      "vi": "Anh ấy lúc nào cũng rất bận.",
+      "answers": [
+        "他总(是)很忙。"
+      ],
+      "examples": [
+        {
+          "answer": "他总是很忙。",
+          "score": 100
+        },
+        {
+          "answer": "他总很忙。",
+          "score": 100
+        },
+        {
+          "answer": "他很忙。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        167
+      ]
+    },
+    {
+      "id": "hsk3-02-e13",
+      "type": "order",
+      "vi": "Tôi vừa ăn sáng vừa xem điện thoại.",
+      "tiles": [
+        "我",
+        "一边",
+        "吃早饭",
+        "一边",
+        "看手机"
+      ],
+      "answers": [
+        "我一边吃早饭一边看手机",
+        "我一边看手机一边吃早饭"
+      ],
+      "explainVi": "Chủ ngữ đứng đầu câu, mỗi động từ có một 「一边」 phía trước.",
+      "grammar": [
+        168,
+        234
+      ]
+    },
+    {
+      "id": "hsk3-02-e14",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "他一边走路，一边打电话。",
+        "一边他走路，一边他打电话。",
+        "他走路一边，打电话一边。"
+      ],
+      "answer": 0,
+      "explainVi": "「一边」 là phó từ, đứng sau chủ ngữ, trước động từ.",
+      "grammar": [
+        168
+      ]
+    },
+    {
+      "id": "hsk3-02-e15",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "妈妈一边做饭，",
+      "after": "听歌。",
+      "answers": [
+        "一边"
+      ],
+      "options": [
+        "一边",
+        "一起",
+        "一直"
+      ],
+      "vi": "Mẹ vừa nấu cơm vừa nghe nhạc.",
+      "grammar": [
+        234
+      ]
+    },
+    {
+      "id": "hsk3-02-e16",
+      "type": "translate",
+      "vi": "Chúng tôi vừa uống trà vừa nói chuyện.",
+      "answers": [
+        "我们一边喝茶，一边说话。",
+        "我们边喝茶边说话。"
+      ],
+      "examples": [
+        {
+          "answer": "我们一边喝茶，一边说话。",
+          "score": 100
+        },
+        {
+          "answer": "我们一边喝茶一边说话。",
+          "score": 100
+        },
+        {
+          "answer": "我们边喝茶边说话。",
+          "score": 100
+        },
+        {
+          "answer": "一边我们喝茶，一边我们说话。",
+          "score": 0
+        },
+        {
+          "answer": "我们喝茶，说话。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        234,
+        168
+      ]
+    },
+    {
+      "id": "hsk3-02-e17",
+      "type": "choice",
+      "promptVi": "'Bộ quần áo này vừa rẻ vừa đẹp.' Câu nào đúng?",
+      "options": [
+        "这件衣服很便宜，也很漂亮。",
+        "这件衣服一边便宜，一边漂亮。",
+        "这件衣服一边很便宜，很漂亮。"
+      ],
+      "answer": 0,
+      "explainVi": "「一边……一边……」 chỉ dùng cho hành động, không dùng cho tính từ.",
+      "grammar": [
+        234
+      ]
+    },
+    {
+      "id": "hsk3-02-e18",
+      "type": "order",
+      "vi": "Chúng ta ăn cơm trước rồi đi xem phim nhé.",
+      "tiles": [
+        "我们",
+        "先",
+        "吃饭",
+        "再",
+        "去看电影",
+        "吧"
+      ],
+      "answers": [
+        "我们先吃饭再去看电影吧"
+      ],
+      "grammar": [
+        230
+      ]
+    },
+    {
+      "id": "hsk3-02-e19",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我先刷牙，",
+      "after": "洗澡。",
+      "answers": [
+        "然后"
+      ],
+      "options": [
+        "然后",
+        "后来",
+        "以前"
+      ],
+      "vi": "Tôi đánh răng trước, sau đó đi tắm.",
+      "explainVi": "Nối các bước nối tiếp nhau dùng 「然后」; 「后来」 dùng khi kể chuyện đã qua.",
+      "grammar": [
+        230
+      ]
+    },
+    {
+      "id": "hsk3-02-e20",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "我们先吃饭，再去看电影。",
+        "先吃饭，再我们去看电影。",
+        "我们吃饭先，再去看电影。"
+      ],
+      "answer": 0,
+      "explainVi": "「先」, 「再」 là phó từ, đứng sau chủ ngữ, trước động từ.",
+      "grammar": [
+        230
+      ]
+    },
+    {
+      "id": "hsk3-02-e21",
+      "type": "translate",
+      "vi": "Chúng ta đi siêu thị trước, sau đó về nhà nấu cơm nhé.",
+      "answers": [
+        "[咱们|我们]先去超市，[然后|再|然后再]回家做饭吧。"
+      ],
+      "examples": [
+        {
+          "answer": "咱们先去超市，然后回家做饭吧。",
+          "score": 100
+        },
+        {
+          "answer": "我们先去超市，再回家做饭吧。",
+          "score": 100
+        },
+        {
+          "answer": "咱们先去超市，后来回家做饭吧。",
+          "score": 0
+        },
+        {
+          "answer": "咱们去超市先，然后回家做饭吧。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        230
+      ]
+    },
+    {
+      "id": "hsk3-02-e22",
+      "type": "order",
+      "vi": "Tan học xong là tôi đi ăn cơm ngay.",
+      "tiles": [
+        "我",
+        "下了课",
+        "就",
+        "去",
+        "吃饭"
+      ],
+      "answers": [
+        "我下了课就去吃饭"
+      ],
+      "grammar": [
+        242
+      ]
+    },
+    {
+      "id": "hsk3-02-e23",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Ăn cơm xong là tôi đi học ngay.)",
+      "options": [
+        "我吃了饭就去学校。",
+        "我吃饭了就去学校。",
+        "我就吃了饭去学校。"
+      ],
+      "answer": 0,
+      "explainVi": "「了」 đứng ngay sau động từ thứ nhất: 吃了饭; 「就」 đứng trước động từ thứ hai.",
+      "grammar": [
+        242
+      ]
+    },
+    {
+      "id": "hsk3-02-e24",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我刷了牙",
+      "after": "去睡觉。",
+      "answers": [
+        "就"
+      ],
+      "options": [
+        "就",
+        "才",
+        "又"
+      ],
+      "vi": "Đánh răng xong là tôi đi ngủ ngay.",
+      "grammar": [
+        242
+      ]
+    },
+    {
+      "id": "hsk3-02-e25",
+      "type": "translate",
+      "vi": "Ngày nào anh ấy cũng tan làm xong là về nhà ngay.",
+      "answers": [
+        "他每天下了班就回家。",
+        "他每天下班以后就回家。"
+      ],
+      "examples": [
+        {
+          "answer": "他每天下了班就回家。",
+          "score": 100
+        },
+        {
+          "answer": "他每天下班以后就回家。",
+          "score": 100
+        },
+        {
+          "answer": "他每天下班了就回家。",
+          "score": 70,
+          "issues": [
+            "missing_word",
+            "extra_word"
+          ],
+          "note": "「了」 phải đứng ngay sau động từ: 下了班"
+        },
+        {
+          "answer": "他每天下了班就去公司。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        242
+      ]
+    },
+    {
+      "id": "hsk3-02-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你平时几点起床？",
+        "promptVi": "Ngày thường bạn mấy giờ dậy? (Giả sử bạn dậy lúc 6 giờ 15.)",
+        "answers": [
+          "(我)(平时)六点一刻起(床)。",
+          "(我)(平时)六点十五(分)起(床)。",
+          "六点一刻。",
+          "六点十五(分)。"
+        ],
+        "examples": [
+          {
+            "answer": "我平时六点一刻起床。",
+            "score": 100
+          },
+          {
+            "answer": "六点一刻。",
+            "score": 100
+          },
+          {
+            "answer": "我六点十五分起床。",
+            "score": 100
+          },
+          {
+            "answer": "我平时六点三刻起床。",
+            "score": 0
+          },
+          {
+            "answer": "我平时六点半起床。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-02-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你周末常常干什么？",
+        "promptVi": "Cuối tuần bạn thường làm gì? (Giả sử cuối tuần bạn thường đi bơi.)",
+        "answers": [
+          "(我)(周末)[常常|常|经常|总是](去)游泳。",
+          "(我)(周末)(去)游泳。"
+        ],
+        "examples": [
+          {
+            "answer": "我周末常常去游泳。",
+            "score": 100
+          },
+          {
+            "answer": "常常游泳。",
+            "score": 100
+          },
+          {
+            "answer": "我周末去游泳。",
+            "score": 100
+          },
+          {
+            "answer": "我周末常常去跑步。",
+            "score": 0
+          },
+          {
+            "answer": "我周末不常游泳。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        167
+      ]
+    },
+    {
+      "id": "hsk3-02-e28",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你刚才干什么了？",
+        "promptVi": "Vừa nãy bạn làm gì? (Giả sử bạn vừa đi tắm.)",
+        "answers": [
+          "(我)(刚才)洗澡了。",
+          "刚才我洗澡了。",
+          "(我)[刚|刚刚]洗澡。"
+        ],
+        "examples": [
+          {
+            "answer": "我刚才洗澡了。",
+            "score": 100
+          },
+          {
+            "answer": "刚才我洗澡了。",
+            "score": 100
+          },
+          {
+            "answer": "洗澡了。",
+            "score": 100
+          },
+          {
+            "answer": "我刚洗澡。",
+            "score": 100
+          },
+          {
+            "answer": "我刚才刷牙了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        166
+      ]
+    },
+    {
+      "id": "hsk3-02-e29",
+      "type": "translate",
+      "vi": "Tối qua mười hai giờ tôi mới ngủ.",
+      "answers": [
+        "我昨天晚上十二点才睡(觉)。",
+        "昨天晚上我十二点才睡(觉)。"
+      ],
+      "examples": [
+        {
+          "answer": "我昨天晚上十二点才睡觉。",
+          "score": 100
+        },
+        {
+          "answer": "昨天晚上我十二点才睡。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天晚上十二点才睡觉了。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ],
+          "note": "Câu có 「才」 không thêm 「了」"
+        },
+        {
+          "answer": "我昨天晚上十二点就睡觉了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        166
+      ]
+    }
+  ]
+}

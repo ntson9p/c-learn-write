@@ -1,0 +1,1459 @@
+{
+  "id": "hsk3-01",
+  "goalsVi": [
+    "Giới thiệu mình đến từ đâu, sinh ra ở đâu, đang du học ở đâu: 我来自越南, 我在河内出生, 我在北京留学",
+    "Gọi người quen thân mật bằng 「老 + họ」 (老王), gọi người lớn tuổi là 「叔叔」, 「阿姨」",
+    "Phân biệt 「咱们」 (chúng ta) với 「我们」; nói về 「别人」 (người khác)",
+    "Nói trước/sau một việc với 「……以前」, 「……以后」 và phân biệt 「以后」 với 「后来」",
+    "Nói một việc đã xảy ra được bao lâu: 我来中国两年了",
+    "Nói ý trái ngược với 「虽然……，可是……」"
+  ],
+  "words": [
+    {
+      "no": 743,
+      "word": "来自",
+      "meaningsVi": [
+        "đến từ"
+      ],
+      "noteVi": "「来自」 hơi trang trọng hơn 「从……来」; nơi chốn đặt ngay sau nó: 我来自越南 = 我是从越南来的. Không thêm 「从」: không nói 来自从越南.",
+      "examples": [
+        {
+          "zh": "大卫来自美国，玛丽来自英国。",
+          "py": "dà wèi lái zì měi guó mǎ lì lái zì yīng guó",
+          "vi": "David đến từ Mỹ, Mary đến từ Anh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 563,
+      "word": "出生",
+      "meaningsVi": [
+        "sinh ra, ra đời"
+      ],
+      "noteVi": "Nói sinh ở đâu: 在 + nơi chốn + 出生 hoặc 出生在 + nơi chốn. Hỏi về việc đã xảy ra thường dùng 「是……的」: 你是在哪儿出生的？ 「出生」 là động từ; 'ngày sinh nhật' là 「生日」.",
+      "examples": [
+        {
+          "zh": "我妹妹是在上海出生的。",
+          "py": "wǒ mèi mei shì zài shàng hǎi chū shēng de",
+          "vi": "Em gái tôi sinh ra ở Thượng Hải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 759,
+      "word": "留学",
+      "meaningsVi": [
+        "du học"
+      ],
+      "noteVi": "Âm Hán Việt 'lưu học'. Thường nói 去 + nước + 留学 hoặc 在 + nơi chốn + 留学: 去中国留学, 在北京留学.",
+      "examples": [
+        {
+          "zh": "我哥哥想去中国留学。",
+          "py": "wǒ gē ge xiǎng qù zhōng guó liú xué",
+          "vi": "Anh trai tôi muốn đi du học Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 760,
+      "word": "留学生",
+      "meaningsVi": [
+        "du học sinh, lưu học sinh"
+      ],
+      "examples": [
+        {
+          "zh": "我们学校有很多越南留学生。",
+          "py": "wǒ men xué xiào yǒu hěn duō yuè nán liú xué shēng",
+          "vi": "Trường chúng tôi có rất nhiều du học sinh Việt Nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 784,
+      "word": "年轻",
+      "meaningsVi": [
+        "trẻ, trẻ tuổi"
+      ],
+      "noteVi": "Âm Hán Việt 'niên khinh'. Trái nghĩa với 「老」 (già).",
+      "examples": [
+        {
+          "zh": "我们的汉语老师很年轻。",
+          "py": "wǒ men de hàn yǔ lǎo shī hěn nián qīng",
+          "vi": "Cô giáo tiếng Hán của chúng tôi rất trẻ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 745,
+      "word": "老",
+      "meaningsVi": [
+        "già (người, con vật)",
+        "lâu năm, cũ (老朋友: bạn lâu năm)",
+        "tiền tố đặt trước họ để gọi thân mật (老王: anh/bác Vương)"
+      ],
+      "noteVi": "「老」 nghĩa 'già' dùng cho người và con vật; đồ vật cũ thường dùng 「旧」 (học ở bài 4). 「老朋友」 là bạn lâu năm, thân thiết, không có nghĩa 'bạn già'.",
+      "examples": [
+        {
+          "zh": "他是我的老朋友。",
+          "py": "tā shì wǒ de lǎo péng you",
+          "vi": "Anh ấy là bạn lâu năm của tôi."
+        },
+        {
+          "zh": "我家的狗老了，不喜欢动了。",
+          "py": "wǒ jiā de gǒu lǎo le bù xǐ huan dòng le",
+          "vi": "Con chó nhà tôi già rồi, không thích chạy nhảy nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 774,
+      "word": "男人",
+      "meaningsVi": [
+        "đàn ông, người đàn ông"
+      ],
+      "noteVi": "「男人」 chỉ đàn ông trưởng thành nói chung. Nói về một người cụ thể trước mặt người khác, dùng 「男的」 hoặc 「先生」 thì lịch sự hơn. 「男生」 là nam sinh, bạn nam (người trẻ).",
+      "examples": [
+        {
+          "zh": "那个男人是我叔叔。",
+          "py": "nà ge nán rén shì wǒ shū shu",
+          "vi": "Người đàn ông kia là chú tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 787,
+      "word": "女人",
+      "meaningsVi": [
+        "phụ nữ, người đàn bà"
+      ],
+      "noteVi": "Giống 「男人」, đây là từ chỉ chung. Nói lịch sự về một người cụ thể dùng 「女的」, 「女士」 hoặc 「阿姨」.",
+      "examples": [
+        {
+          "zh": "门口有一个女人找你。",
+          "py": "mén kǒu yǒu yí gè nǚ rén zhǎo nǐ",
+          "vi": "Ở cửa có một người phụ nữ tìm bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 775,
+      "word": "男生",
+      "meaningsVi": [
+        "nam sinh, học sinh/sinh viên nam",
+        "bạn nam, con trai (người trẻ)"
+      ],
+      "examples": [
+        {
+          "zh": "我们班有十个男生。",
+          "py": "wǒ men bān yǒu shí gè nán shēng",
+          "vi": "Lớp chúng tôi có mười bạn nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 788,
+      "word": "女生",
+      "meaningsVi": [
+        "nữ sinh, học sinh/sinh viên nữ",
+        "bạn nữ, con gái (người trẻ)"
+      ],
+      "examples": [
+        {
+          "zh": "这个女生是从日本来的留学生。",
+          "py": "zhè ge nǚ shēng shì cóng rì běn lái de liú xué shēng",
+          "vi": "Bạn nữ này là du học sinh từ Nhật Bản đến."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 841,
+      "word": "叔叔",
+      "meaningsVi": [
+        "chú (em trai của bố)",
+        "chú (cách gọi người đàn ông trạc tuổi bố mẹ)"
+      ],
+      "noteVi": "Giống 'chú' trong tiếng Việt: ngoài chú ruột, trẻ con và người trẻ gọi người đàn ông lạ trạc tuổi bố mẹ là 「叔叔」. Âm tiết sau đọc nhẹ: shūshu.",
+      "examples": [
+        {
+          "zh": "叔叔，请问洗手间在哪儿？",
+          "py": "shū shu qǐng wèn xǐ shǒu jiān zài nǎ r",
+          "vi": "Chú ơi, cho cháu hỏi nhà vệ sinh ở đâu ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 501,
+      "word": "阿姨",
+      "meaningsVi": [
+        "cô, dì (cách gọi người phụ nữ trạc tuổi bố mẹ)",
+        "dì (em gái của mẹ)",
+        "cô giúp việc, cô trông trẻ"
+      ],
+      "noteVi": "Giống 'cô', 'dì' trong tiếng Việt, 「阿姨」 dùng để gọi người phụ nữ lạ trạc tuổi bố mẹ, ví dụ cô bán hàng. Người giúp việc trong nhà cũng hay được gọi là 「阿姨」.",
+      "examples": [
+        {
+          "zh": "阿姨，这个苹果多少钱？",
+          "py": "ā yí zhè ge píng guǒ duō shao qián",
+          "vi": "Cô ơi, quả táo này bao nhiêu tiền ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 532,
+      "word": "别人",
+      "meaningsVi": [
+        "người khác"
+      ],
+      "noteVi": "「别人」 đã mang nghĩa số nhiều, không thêm 「们」. Đừng nhầm với 「别」 (đừng): 别告诉别人 = Đừng nói với người khác.",
+      "examples": [
+        {
+          "zh": "别告诉别人，好吗？",
+          "py": "bié gào su bié rén hǎo ma",
+          "vi": "Đừng nói với người khác, được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 962,
+      "word": "咱们",
+      "meaningsVi": [
+        "chúng ta, chúng mình (gồm cả người nghe)"
+      ],
+      "noteVi": "「咱们」 luôn gồm cả người nghe, như 'chúng ta' trong tiếng Việt. 「我们」 có thể gồm hoặc không gồm người nghe ('chúng ta' hoặc 'chúng tôi'). 「咱们」 mang màu sắc khẩu ngữ, hay dùng ở miền Bắc Trung Quốc.",
+      "examples": [
+        {
+          "zh": "咱们一起去吃饭吧！",
+          "py": "zán men yì qǐ qù chī fàn ba",
+          "vi": "Chúng ta cùng đi ăn cơm nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 857,
+      "word": "听说",
+      "meaningsVi": [
+        "nghe nói"
+      ],
+      "noteVi": "Đứng đầu câu hoặc sau chủ ngữ: 听说他回国了 / 我听说他回国了. Muốn nói nghe ai nói thì đặt người đó vào giữa: 听王老师说…….",
+      "examples": [
+        {
+          "zh": "听说你要去中国留学，是吗？",
+          "py": "tīng shuō nǐ yào qù zhōng guó liú xué shì ma",
+          "vi": "Nghe nói bạn sắp đi du học Trung Quốc, phải không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 757,
+      "word": "了解",
+      "meaningsVi": [
+        "hiểu rõ, nắm rõ (người, sự việc)",
+        "tìm hiểu"
+      ],
+      "noteVi": "「了」 trong 「了解」 đọc liǎo, không đọc le. 「了解」 là hiểu rõ một người, một nơi, một việc nhờ tiếp xúc, tìm hiểu (了解中国, 了解他); 「懂」 là hiểu một câu nói, một bài: 我听懂了.",
+      "examples": [
+        {
+          "zh": "我不太了解他。",
+          "py": "wǒ bú tài liǎo jiě tā",
+          "vi": "Tôi không hiểu rõ lắm về anh ấy."
+        },
+        {
+          "zh": "我想多了解一下中国。",
+          "py": "wǒ xiǎng duō liǎo jiě yí xià zhōng guó",
+          "vi": "Tôi muốn tìm hiểu thêm về Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 514,
+      "word": "帮助",
+      "meaningsVi": [
+        "giúp đỡ, giúp",
+        "sự giúp đỡ"
+      ],
+      "noteVi": "「帮助」 trang trọng hơn 「帮」 và còn làm danh từ: 谢谢你的帮助. 「帮」 thường có động từ phía sau: 帮我买东西. Không nói 谢谢你的帮.",
+      "examples": [
+        {
+          "zh": "他经常帮助别人。",
+          "py": "tā jīng cháng bāng zhù bié rén",
+          "vi": "Anh ấy thường giúp đỡ người khác."
+        },
+        {
+          "zh": "谢谢您的帮助！",
+          "py": "xiè xie nín de bāng zhù",
+          "vi": "Cảm ơn sự giúp đỡ của ông/bà!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 664,
+      "word": "好久",
+      "meaningsVi": [
+        "lâu lắm, rất lâu"
+      ],
+      "noteVi": "「好久不见」 (Lâu lắm rồi không gặp) là câu chào rất thông dụng khi gặp lại người quen. 「好久」 gần nghĩa 「很久」, mang màu sắc khẩu ngữ.",
+      "examples": [
+        {
+          "zh": "好久不见，你好吗？",
+          "py": "hǎo jiǔ bú jiàn nǐ hǎo ma",
+          "vi": "Lâu lắm rồi không gặp, bạn có khỏe không?"
+        },
+        {
+          "zh": "我等了你好久。",
+          "py": "wǒ děng le nǐ hǎo jiǔ",
+          "vi": "Tôi đợi bạn lâu lắm rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 719,
+      "word": "久",
+      "meaningsVi": [
+        "lâu"
+      ],
+      "noteVi": "Hỏi 'bao lâu' dùng 「多久」 hoặc 「多长时间」. 「久」 thường đi với 很, 好, 多: 很久, 好久, 多久.",
+      "examples": [
+        {
+          "zh": "你来中国多久了？",
+          "py": "nǐ lái zhōng guó duō jiǔ le",
+          "vi": "Bạn đến Trung Quốc bao lâu rồi?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 930,
+      "word": "以前",
+      "meaningsVi": [
+        "trước, trước khi (đặt sau một mốc thời gian, một việc)",
+        "trước đây, ngày trước"
+      ],
+      "noteVi": "「以前」 đứng **sau** mốc thời gian hoặc việc làm: 吃饭以前 (trước khi ăn cơm), 三年以前 (ba năm trước). Đứng một mình thì nghĩa là 'trước đây': 我以前住在河内.",
+      "examples": [
+        {
+          "zh": "我以前住在河内，现在住在北京。",
+          "py": "wǒ yǐ qián zhù zài hé nèi xiàn zài zhù zài běi jīng",
+          "vi": "Trước đây tôi sống ở Hà Nội, bây giờ tôi sống ở Bắc Kinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 929,
+      "word": "以后",
+      "meaningsVi": [
+        "sau, sau khi (đặt sau một mốc thời gian, một việc)",
+        "sau này, về sau"
+      ],
+      "noteVi": "「以后」 đứng sau việc làm: 下课以后 (sau khi tan học). Đứng một mình thì thường chỉ thời gian sau này: 以后我想去中国工作. Nói về tương lai không dùng 「后来」.",
+      "examples": [
+        {
+          "zh": "下课以后，咱们一起去吃饭吧。",
+          "py": "xià kè yǐ hòu zán men yì qǐ qù chī fàn ba",
+          "vi": "Tan học xong, chúng ta cùng đi ăn cơm nhé."
+        },
+        {
+          "zh": "以后我想去中国工作。",
+          "py": "yǐ hòu wǒ xiǎng qù zhōng guó gōng zuò",
+          "vi": "Sau này tôi muốn sang Trung Quốc làm việc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 671,
+      "word": "后来",
+      "meaningsVi": [
+        "sau đó, về sau (chuyện đã qua)"
+      ],
+      "noteVi": "「后来」 chỉ dùng khi kể chuyện **đã xảy ra**: một thời gian sau việc trước thì có việc sau. Không dùng cho tương lai ('sau này' là 「以后」), và không đứng sau một việc làm: nói 下课以后, không nói 下课后来.",
+      "examples": [
+        {
+          "zh": "他以前是老师，后来去公司工作了。",
+          "py": "tā yǐ qián shì lǎo shī hòu lái qù gōng sī gōng zuò le",
+          "vi": "Trước đây anh ấy là giáo viên, sau đó anh ấy vào công ty làm việc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 806,
+      "word": "前天",
+      "meaningsVi": [
+        "hôm kia"
+      ],
+      "examples": [
+        {
+          "zh": "前天我去超市买了很多水果。",
+          "py": "qián tiān wǒ qù chāo shì mǎi le hěn duō shuǐ guǒ",
+          "vi": "Hôm kia tôi đi siêu thị mua rất nhiều hoa quả."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 673,
+      "word": "后天",
+      "meaningsVi": [
+        "ngày kia"
+      ],
+      "noteVi": "Năm ngày liền nhau: 前天 (hôm kia), 昨天 (hôm qua), 今天 (hôm nay), 明天 (ngày mai), 后天 (ngày kia).",
+      "examples": [
+        {
+          "zh": "后天是我的生日。",
+          "py": "hòu tiān shì wǒ de shēng rì",
+          "vi": "Ngày kia là sinh nhật tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 731,
+      "word": "可",
+      "meaningsVi": [
+        "nhưng (liên từ, khẩu ngữ)"
+      ],
+      "noteVi": "「可」 là cách nói ngắn của 「可是」, đứng đầu vế sau: 我很想去，可我没有时间.",
+      "examples": [
+        {
+          "zh": "我很想去，可我没有时间。",
+          "py": "wǒ hěn xiǎng qù kě wǒ méi yǒu shí jiān",
+          "vi": "Tôi rất muốn đi, nhưng tôi không có thời gian."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 733,
+      "word": "可是",
+      "meaningsVi": [
+        "nhưng, nhưng mà"
+      ],
+      "noteVi": "「可是」 nghĩa như 「但是」, hay dùng trong khẩu ngữ. Đứng đầu vế sau, trước chủ ngữ: 我很累，可是我很高兴. Thường đi với 「虽然」 ở vế trước.",
+      "examples": [
+        {
+          "zh": "这个手机很好，可是太贵了。",
+          "py": "zhè ge shǒu jī hěn hǎo kě shì tài guì le",
+          "vi": "Chiếc điện thoại này rất tốt, nhưng đắt quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 149,
+      "titleVi": "Tiền tố 「老」: 老王, 老李",
+      "summaryVi": "「老」 + họ (một âm tiết) là cách gọi thân mật người quen bằng tuổi hoặc lớn tuổi hơn mình: 老王, 老李.",
+      "explanationVi": [
+        "「老」 đặt **trước họ** để gọi người quen một cách thân mật: 老王, 老李, 老陈. Người được gọi thường đã đứng tuổi, bằng hoặc lớn tuổi hơn người nói, như đồng nghiệp, hàng xóm, bạn lâu năm. Ở đây 「老」 không mang nghĩa 'già'; nó gần giống 'anh Vương', 'bác Lý' trong tiếng Việt.",
+        "Với người trẻ hơn mình thì dùng 「小」: 小王, 小李. Với thầy cô, khách hay người cần tôn trọng thì dùng họ + chức danh: 王老师, 李先生. Học sinh gọi thầy giáo là 「老王」 là thiếu lễ phép.",
+        "「老」 chỉ ghép với **họ**, không ghép với cả họ tên: nói 老王, không nói 老王明. Trong một số từ đã học, 「老」 cũng không còn nghĩa 'già': 老师 (thầy cô), 老朋友 (bạn lâu năm).",
+        "Ngoài vai trò tiền tố, 「老」 còn là tính từ 'già': 他老了 (Ông ấy già rồi). Trái nghĩa là 「年轻」."
+      ],
+      "patterns": [
+        "老 + họ (người bằng hoặc lớn tuổi hơn)",
+        "小 + họ (người trẻ hơn)"
+      ],
+      "examples": [
+        {
+          "zh": "老王是我爸爸的老朋友。",
+          "py": "lǎo wáng shì wǒ bà ba de lǎo péng you",
+          "vi": "Bác Vương là bạn lâu năm của bố tôi."
+        },
+        {
+          "zh": "老李，你今天去公司吗？",
+          "py": "lǎo lǐ nǐ jīn tiān qù gōng sī ma",
+          "vi": "Anh Lý, hôm nay anh có đến công ty không?"
+        },
+        {
+          "zh": "我们公司有两个人姓王，大家叫他们老王和小王。",
+          "py": "wǒ men gōng sī yǒu liǎng gè rén xìng wáng dà jiā jiào tā men lǎo wáng hé xiǎo wáng",
+          "vi": "Công ty chúng tôi có hai người họ Vương, mọi người gọi họ là Lão Vương và Tiểu Vương."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "老王明，你好！",
+          "right": "老王，你好！",
+          "noteVi": "「老」 chỉ ghép với họ, không ghép với cả họ tên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 158,
+      "titleVi": "Đại từ 「别人」 và 「咱们」",
+      "summaryVi": "「别人」 là 'người khác'; 「咱们」 là 'chúng ta', luôn gồm cả người nghe, khác 「我们」 có thể không gồm người nghe.",
+      "explanationVi": [
+        "「咱们」 nghĩa là 'chúng ta', **luôn gồm cả người nghe**. 「我们」 rộng hơn: có thể là 'chúng ta' (gồm người nghe) hoặc 'chúng tôi' (không gồm người nghe). Tiếng Việt cũng phân biệt 'chúng ta' và 'chúng tôi', nên dễ nhớ: 「咱们」 = 'chúng ta'.",
+        "Vì vậy, khi người nghe không thuộc nhóm của mình (thầy cô, khách, người bán hàng…), chỉ được dùng 「我们」: 老师，我们是越南留学生. Khi rủ người nghe cùng làm gì, 「咱们」 rất tự nhiên: 咱们走吧！ 「咱们」 mang màu sắc khẩu ngữ, thân mật; trong văn viết thường dùng 「我们」.",
+        "「别人」 nghĩa là 'người khác', chỉ những người ngoài bản thân mình hoặc ngoài người đang được nói tới. 「别人」 làm chủ ngữ hoặc tân ngữ đều được: 别人都走了 / 别告诉别人. Nó đã mang nghĩa số nhiều nên **không thêm 「们」**."
+      ],
+      "patterns": [
+        "咱们 + động từ … (吧)",
+        "Động từ + 别人",
+        "别人 + vị ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "咱们一起去吧！",
+          "py": "zán men yì qǐ qù ba",
+          "vi": "Chúng ta cùng đi nhé!"
+        },
+        {
+          "zh": "老师，我们是从越南来的留学生。",
+          "py": "lǎo shī wǒ men shì cóng yuè nán lái de liú xué shēng",
+          "vi": "Thưa thầy, chúng em là du học sinh từ Việt Nam đến."
+        },
+        {
+          "zh": "他很喜欢帮助别人。",
+          "py": "tā hěn xǐ huan bāng zhù bié rén",
+          "vi": "Anh ấy rất thích giúp đỡ người khác."
+        },
+        {
+          "zh": "别人都回家了，你怎么还在这儿？",
+          "py": "bié rén dōu huí jiā le nǐ zěn me hái zài zhè r",
+          "vi": "Người khác về nhà hết rồi, sao bạn vẫn còn ở đây?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "阿姨，咱们是越南人，您是哪国人？",
+          "right": "阿姨，我们是越南人，您是哪国人？",
+          "noteVi": "Người nghe (阿姨) không nằm trong nhóm 'người Việt Nam', nên phải dùng 「我们」 (chúng tôi), không dùng 「咱们」 (chúng ta)."
+        },
+        {
+          "wrong": "别人们都回家了。",
+          "right": "别人都回家了。",
+          "noteVi": "「别人」 đã mang nghĩa số nhiều, không thêm 「们」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 198,
+      "titleVi": "(在) …… 以前/以后/前/后: trước khi, sau khi",
+      "summaryVi": "Việc làm hoặc mốc thời gian + 以前/以后 (前/后) nghĩa là 'trước/sau …'; khác tiếng Việt, 'trước/sau' đứng **sau**: 吃饭以前 (trước khi ăn cơm).",
+      "explanationVi": [
+        "Muốn nói 'trước khi …', 'sau khi …', đặt 「以前」 hoặc 「以后」 **sau** việc làm hay mốc thời gian: 吃饭以前 (trước khi ăn cơm), 下课以后 (sau khi tan học), 三年以前 (ba năm trước), 八点以后 (sau tám giờ). Tiếng Việt đặt 'trước', 'sau' ở đầu; tiếng Trung đặt ở cuối, giống phương vị từ (桌子上).",
+        "「以前」, 「以后」 có thể nói gọn thành 「前」, 「后」: 吃饭前, 下课后, 三天后. Phía trước có thể thêm 「在」, nghe trang trọng hơn: 在来中国以前，我不会说汉语. Cả cụm đứng **đầu câu hoặc sau chủ ngữ**, trước động từ chính: 下课以后我回家 / 我下课以后回家.",
+        "「以前」, 「以后」 đứng một mình nghĩa là 'trước đây', 'sau này': 我以前住在河内; 以后我想去中国留学. Còn 「后来」 (sau đó) **chỉ dùng cho chuyện đã qua** và không đứng sau một việc làm: 他以前是老师，后来去公司工作了. Nói về tương lai phải dùng 「以后」."
+      ],
+      "patterns": [
+        "(在) + việc làm/thời điểm + 以前/以后，……",
+        "Chủ ngữ + việc làm + 以前/以后 + động từ ……",
+        "Thời điểm/việc làm + 前/后 (nói gọn)"
+      ],
+      "examples": [
+        {
+          "zh": "睡觉以前，我看一会儿书。",
+          "py": "shuì jiào yǐ qián wǒ kàn yí huì r shū",
+          "vi": "Trước khi đi ngủ, tôi đọc sách một lúc."
+        },
+        {
+          "zh": "下课后，咱们一起去吃饭吧。",
+          "py": "xià kè hòu zán men yì qǐ qù chī fàn ba",
+          "vi": "Tan học xong, chúng ta cùng đi ăn cơm nhé."
+        },
+        {
+          "zh": "在来中国以前，他不会说汉语。",
+          "py": "zài lái zhōng guó yǐ qián tā bú huì shuō hàn yǔ",
+          "vi": "Trước khi đến Trung Quốc, anh ấy không biết nói tiếng Hán."
+        },
+        {
+          "zh": "三年以前，我还在河内上学。",
+          "py": "sān nián yǐ qián wǒ hái zài hé nèi shàng xué",
+          "vi": "Ba năm trước, tôi vẫn còn đi học ở Hà Nội."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "以前吃饭，我洗手。",
+          "right": "吃饭以前，我洗手。",
+          "noteVi": "Dịch theo thứ tự tiếng Việt 'trước khi ăn cơm' là sai: 「以前」 đứng sau việc làm. 「以前」 đứng đầu câu sẽ thành nghĩa 'trước đây'."
+        },
+        {
+          "wrong": "后来我想去中国留学。",
+          "right": "以后我想去中国留学。",
+          "noteVi": "Nói về tương lai ('sau này') dùng 「以后」; 「后来」 chỉ dùng cho chuyện đã xảy ra."
+        },
+        {
+          "wrong": "下课后来，我去找你。",
+          "right": "下课以后，我去找你。",
+          "noteVi": "「后来」 không đứng sau một việc làm; 'sau khi …' là 「……以后」 hoặc 「……后」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 212,
+      "titleVi": "Bổ ngữ thời lượng: việc đã xảy ra được bao lâu",
+      "summaryVi": "Động từ (+ tân ngữ) + khoảng thời gian + 了: từ lúc một việc xảy ra đến nay đã bao lâu (我来中国两年了: Tôi đến Trung Quốc được hai năm rồi).",
+      "explanationVi": [
+        "Có những động từ chỉ việc xảy ra **trong chốc lát**: 来, 到, 回, 走, 认识, 下课, 下班… Khoảng thời gian đặt sau các động từ này không nói việc kéo dài bao lâu, mà nói **từ lúc việc đó xảy ra đến nay đã bao lâu**: 我来中国两年了 nghĩa là từ lúc đến Trung Quốc tới giờ đã hai năm.",
+        "Thứ tự: **động từ + tân ngữ + khoảng thời gian + 了**. Tân ngữ đứng **trước** khoảng thời gian: 来中国两年了, 认识他十年了; không nói 来了两年中国. 「了」 cuối câu cho biết tình hình tính đến lúc nói. Không có tân ngữ thì nói: 他走了半个小时了 (Anh ấy đi được nửa tiếng rồi).",
+        "So sánh với bổ ngữ thời lượng đã học ở HSK2: 我学了两年汉语 — việc học **kéo dài** hai năm. Còn 我来中国两年了 — việc 'đến' chỉ diễn ra trong chốc lát, 'hai năm' là thời gian **tính từ lúc đến**. Tiếng Việt cũng nói tương tự: 'đến đây được hai năm rồi'.",
+        "Hỏi khoảng thời gian này: 你来中国多久了？ / 你们认识多长时间了？"
+      ],
+      "patterns": [
+        "Động từ + tân ngữ + khoảng thời gian + 了",
+        "Động từ + 了 + khoảng thời gian + 了 (không có tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "我来中国半年了。",
+          "py": "wǒ lái zhōng guó bàn nián le",
+          "vi": "Tôi đến Trung Quốc được nửa năm rồi."
+        },
+        {
+          "zh": "我们认识十年了。",
+          "py": "wǒ men rèn shi shí nián le",
+          "vi": "Chúng tôi quen nhau được mười năm rồi."
+        },
+        {
+          "zh": "他下班一个小时了，还没回家。",
+          "py": "tā xià bān yí gè xiǎo shí le hái méi huí jiā",
+          "vi": "Anh ấy tan làm được một tiếng rồi mà vẫn chưa về nhà."
+        },
+        {
+          "zh": "老王走了二十分钟了。",
+          "py": "lǎo wáng zǒu le èr shí fēn zhōng le",
+          "vi": "Bác Vương đi được hai mươi phút rồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我来了两年中国。",
+          "right": "我来中国两年了。",
+          "noteVi": "Tân ngữ (中国) đứng ngay sau động từ, khoảng thời gian đứng sau tân ngữ, 「了」 đặt cuối câu."
+        },
+        {
+          "wrong": "我两年来中国了。",
+          "right": "我来中国两年了。",
+          "noteVi": "Khoảng thời gian 'được bao lâu' đứng sau động từ và tân ngữ, không đứng trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 236,
+      "titleVi": "虽然……，可是……: tuy … nhưng …",
+      "summaryVi": "「虽然」 ở vế trước nêu một sự thật, 「可是」 (hoặc 「可」, 「但是」) ở vế sau nêu ý trái ngược: 虽然他很年轻，可是他很了解中国.",
+      "explanationVi": [
+        "Câu chuyển ý: vế trước nêu một sự thật, vế sau nêu điều **ngược lại** với điều người nghe chờ đợi. Ở HSK2 đã học 「虽然……，但是……」; bài này thêm 「可是」 và dạng nói ngắn 「可」, nghĩa như nhau, hay dùng trong khẩu ngữ.",
+        "Giống tiếng Việt 'tuy … nhưng …', hai vế thường có đủ hai từ nối. 「虽然」 đứng đầu câu hoặc sau chủ ngữ: 虽然他很忙 / 他虽然很忙. Còn 「可是」 (nhưng) **đứng đầu vế sau, trước chủ ngữ**: 可是他每天都来.",
+        "Có thể bỏ 「虽然」, chỉ dùng 「可是」: 我想去，可是没有时间. Vế sau hay có 「还是」 (vẫn) hoặc 「也」. Đừng ghép 「虽然」 với 「所以」: 「所以」 đi với 「因为」."
+      ],
+      "patterns": [
+        "虽然 + vế 1，可是/可/但是 + vế 2",
+        "Chủ ngữ + 虽然 + ……，可是 + ……"
+      ],
+      "examples": [
+        {
+          "zh": "虽然他很年轻，可是他很了解中国。",
+          "py": "suī rán tā hěn nián qīng kě shì tā hěn liǎo jiě zhōng guó",
+          "vi": "Tuy anh ấy còn trẻ nhưng anh ấy rất hiểu về Trung Quốc."
+        },
+        {
+          "zh": "这件衣服虽然很漂亮，可是太贵了。",
+          "py": "zhè jiàn yī fu suī rán hěn piào liang kě shì tài guì le",
+          "vi": "Bộ quần áo này tuy rất đẹp nhưng đắt quá."
+        },
+        {
+          "zh": "虽然下雨了，可是我们还是去了。",
+          "py": "suī rán xià yǔ le kě shì wǒ men hái shi qù le",
+          "vi": "Tuy trời mưa nhưng chúng tôi vẫn đi."
+        },
+        {
+          "zh": "我很想帮助他，可我不知道怎么做。",
+          "py": "wǒ hěn xiǎng bāng zhù tā kě wǒ bù zhī dào zěn me zuò",
+          "vi": "Tôi rất muốn giúp anh ấy, nhưng tôi không biết phải làm thế nào."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "虽然下雨了，所以我们没去。",
+          "right": "因为下雨了，所以我们没去。",
+          "noteVi": "「虽然」 đi với 「可是/但是」 (chuyển ý), 「所以」 đi với 「因为」 (nguyên nhân). Muốn nói 'tuy mưa nhưng vẫn đi' thì nói: 虽然下雨了，可是我们还是去了."
+        },
+        {
+          "wrong": "虽然他很忙，他可是每天都来看我。",
+          "right": "虽然他很忙，可是他每天都来看我。",
+          "noteVi": "「可是」 nghĩa 'nhưng' đứng đầu vế sau, trước chủ ngữ. Đặt sau chủ ngữ (他可是……) thì 「可是」 thành từ nhấn mạnh, câu không còn nghĩa 'nhưng'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-01-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "来自",
+          "đến từ"
+        ],
+        [
+          "出生",
+          "sinh ra"
+        ],
+        [
+          "留学",
+          "du học"
+        ],
+        [
+          "年轻",
+          "trẻ"
+        ],
+        [
+          "了解",
+          "hiểu rõ"
+        ],
+        [
+          "帮助",
+          "giúp đỡ"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-01-e02",
+      "type": "match",
+      "promptVi": "Nối từ chỉ người với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "男生",
+          "bạn nam, nam sinh"
+        ],
+        [
+          "女人",
+          "phụ nữ"
+        ],
+        [
+          "叔叔",
+          "chú"
+        ],
+        [
+          "阿姨",
+          "cô, dì"
+        ],
+        [
+          "别人",
+          "người khác"
+        ],
+        [
+          "咱们",
+          "chúng ta"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-01-e03",
+      "type": "match",
+      "promptVi": "Nối từ chỉ thời gian với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "前天",
+          "hôm kia"
+        ],
+        [
+          "后天",
+          "ngày kia"
+        ],
+        [
+          "以前",
+          "trước đây"
+        ],
+        [
+          "以后",
+          "sau này"
+        ],
+        [
+          "后来",
+          "sau đó (chuyện đã qua)"
+        ],
+        [
+          "好久",
+          "rất lâu"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-01-e04",
+      "type": "choice",
+      "promptVi": "Bạn nói với cô giáo: 'Thưa cô, chúng em là du học sinh Việt Nam.' Câu nào đúng?",
+      "options": [
+        "老师，我们是越南留学生。",
+        "老师，咱们是越南留学生。",
+        "老师，别人是越南留学生。"
+      ],
+      "answer": 0,
+      "explainVi": "Cô giáo không phải du học sinh Việt Nam, tức là không thuộc nhóm 'chúng em', nên dùng 「我们」. 「咱们」 luôn gồm cả người nghe.",
+      "grammar": [
+        158
+      ]
+    },
+    {
+      "id": "hsk3-01-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你别告诉",
+      "after": "，好吗？",
+      "answers": [
+        "别人"
+      ],
+      "options": [
+        "别人",
+        "咱们",
+        "自己"
+      ],
+      "vi": "Bạn đừng nói với người khác, được không?",
+      "grammar": [
+        158
+      ]
+    },
+    {
+      "id": "hsk3-01-e06",
+      "type": "choice",
+      "promptVi": "Bạn rủ bạn cùng phòng: 'Chúng ta cùng đi ăn cơm đi!' Từ nào hợp nhất?",
+      "zh": "＿一起去吃饭吧！",
+      "options": [
+        "咱们",
+        "别人",
+        "他们"
+      ],
+      "answer": 0,
+      "explainVi": "Rủ người nghe cùng làm gì thì dùng 「咱们」 (chúng ta, gồm cả người nghe). Dùng 「我们」 cũng được.",
+      "grammar": [
+        158
+      ]
+    },
+    {
+      "id": "hsk3-01-e07",
+      "type": "choice",
+      "promptVi": "Đồng nghiệp của bạn họ Lý, khoảng 50 tuổi, rất thân với bạn. Bạn gọi anh ấy thế nào cho thân mật?",
+      "options": [
+        "老李",
+        "小李",
+        "李老"
+      ],
+      "answer": 0,
+      "explainVi": "「老 + họ」 dùng cho người quen bằng hoặc lớn tuổi hơn mình; 「小 + họ」 dùng cho người trẻ hơn.",
+      "grammar": [
+        149
+      ]
+    },
+    {
+      "id": "hsk3-01-e08",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "他爸爸六十岁了，我们都叫他",
+      "after": "王。",
+      "answers": [
+        "老"
+      ],
+      "options": [
+        "老",
+        "小",
+        "大"
+      ],
+      "vi": "Bố anh ấy sáu mươi tuổi rồi, chúng tôi đều gọi ông ấy là bác Vương.",
+      "grammar": [
+        149
+      ]
+    },
+    {
+      "id": "hsk3-01-e09",
+      "type": "choice",
+      "promptVi": "「老王」 trong câu 「老王是我的老朋友。」 nghĩa là gì?",
+      "options": [
+        "Anh/bác Vương (cách gọi thân mật)",
+        "Ông Vương già yếu",
+        "Thầy giáo Vương"
+      ],
+      "answer": 0,
+      "explainVi": "「老」 trước họ là tiền tố để gọi thân mật, không mang nghĩa 'già'. 「老朋友」 là bạn lâu năm.",
+      "grammar": [
+        149
+      ]
+    },
+    {
+      "id": "hsk3-01-e10",
+      "type": "order",
+      "vi": "Trước khi đi ngủ, tôi đọc sách một lúc.",
+      "tiles": [
+        "睡觉",
+        "以前",
+        "我",
+        "看",
+        "一会儿",
+        "书"
+      ],
+      "answers": [
+        "睡觉以前我看一会儿书",
+        "我睡觉以前看一会儿书"
+      ],
+      "explainVi": "「以前」 đứng sau việc làm: 睡觉以前 (trước khi ngủ).",
+      "grammar": [
+        198
+      ]
+    },
+    {
+      "id": "hsk3-01-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Sau này tôi muốn đi du học Trung Quốc.)",
+      "options": [
+        "以后我想去中国留学。",
+        "后来我想去中国留学。",
+        "我想去中国留学以前。"
+      ],
+      "answer": 0,
+      "explainVi": "Nói về tương lai dùng 「以后」. 「后来」 chỉ dùng cho chuyện đã qua.",
+      "grammar": [
+        198
+      ]
+    },
+    {
+      "id": "hsk3-01-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "来中国",
+      "after": "，我不会说汉语。",
+      "answers": [
+        "以前"
+      ],
+      "options": [
+        "以前",
+        "以后",
+        "后来"
+      ],
+      "vi": "Trước khi đến Trung Quốc, tôi không biết nói tiếng Hán.",
+      "grammar": [
+        198
+      ]
+    },
+    {
+      "id": "hsk3-01-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "下课",
+      "after": "，咱们一起去打球吧。",
+      "answers": [
+        "以后"
+      ],
+      "options": [
+        "以后",
+        "后来",
+        "以前"
+      ],
+      "vi": "Tan học xong, chúng ta cùng đi chơi bóng nhé.",
+      "explainVi": "'Sau khi …' là việc làm + 「以后」. 「后来」 không đứng sau một việc làm.",
+      "grammar": [
+        198
+      ]
+    },
+    {
+      "id": "hsk3-01-e14",
+      "type": "order",
+      "vi": "Tôi đến Trung Quốc được hai năm rồi.",
+      "tiles": [
+        "我",
+        "来",
+        "中国",
+        "两年",
+        "了"
+      ],
+      "answers": [
+        "我来中国两年了"
+      ],
+      "explainVi": "Động từ + tân ngữ + khoảng thời gian + 了.",
+      "grammar": [
+        212
+      ]
+    },
+    {
+      "id": "hsk3-01-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng tôi quen nhau được mười năm rồi.)",
+      "options": [
+        "我们认识十年了。",
+        "我们十年认识了。",
+        "我们了认识十年。"
+      ],
+      "answer": 0,
+      "explainVi": "Khoảng thời gian tính từ lúc quen nhau đứng sau động từ 「认识」, 「了」 ở cuối câu.",
+      "grammar": [
+        212
+      ]
+    },
+    {
+      "id": "hsk3-01-e16",
+      "type": "translate",
+      "vi": "Anh ấy về nước được ba tháng rồi.",
+      "answers": [
+        "他回国三个月了。",
+        "他已经回国三个月了。",
+        "他回国已经三个月了。"
+      ],
+      "examples": [
+        {
+          "answer": "他回国三个月了。",
+          "score": 100
+        },
+        {
+          "answer": "他已经回国三个月了。",
+          "score": 100
+        },
+        {
+          "answer": "他回国了三个月。",
+          "score": 70,
+          "issues": [
+            "extra_word",
+            "missing_word"
+          ],
+          "note": "「了」 đặt sai chỗ: 了 đứng cuối câu, sau khoảng thời gian"
+        },
+        {
+          "answer": "他三个月回国了。",
+          "score": 0
+        },
+        {
+          "answer": "他回国两个月了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        212
+      ]
+    },
+    {
+      "id": "hsk3-01-e17",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你来中国多久了？",
+        "promptVi": "Bạn đến Trung Quốc bao lâu rồi? (Giả sử bạn đến được một năm.)",
+        "answers": [
+          "(我)来中国一年了。",
+          "(我)来了一年了。",
+          "一年了。"
+        ],
+        "examples": [
+          {
+            "answer": "我来中国一年了。",
+            "score": 100
+          },
+          {
+            "answer": "一年了。",
+            "score": 100
+          },
+          {
+            "answer": "我来了一年了。",
+            "score": 100
+          },
+          {
+            "answer": "我来中国一年。",
+            "score": 85,
+            "issues": [
+              "missing_word"
+            ],
+            "note": "Thiếu 「了」 cuối câu"
+          },
+          {
+            "answer": "我来了一年中国。",
+            "score": 0
+          },
+          {
+            "answer": "我来中国两年了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        212
+      ]
+    },
+    {
+      "id": "hsk3-01-e18",
+      "type": "fill",
+      "promptVi": "Chọn từ nối đúng.",
+      "before": "虽然他很年轻，",
+      "after": "他很了解中国。",
+      "answers": [
+        "可是"
+      ],
+      "options": [
+        "可是",
+        "所以",
+        "因为"
+      ],
+      "vi": "Tuy anh ấy còn trẻ nhưng anh ấy rất hiểu về Trung Quốc.",
+      "grammar": [
+        236
+      ]
+    },
+    {
+      "id": "hsk3-01-e19",
+      "type": "order",
+      "vi": "Bộ quần áo này tuy rất đẹp nhưng đắt quá.",
+      "tiles": [
+        "这件衣服",
+        "虽然",
+        "很漂亮",
+        "可是",
+        "太贵了"
+      ],
+      "answers": [
+        "这件衣服虽然很漂亮可是太贵了",
+        "虽然这件衣服很漂亮可是太贵了"
+      ],
+      "grammar": [
+        236
+      ]
+    },
+    {
+      "id": "hsk3-01-e20",
+      "type": "translate",
+      "vi": "Tuy cô ấy là người Mỹ nhưng cô ấy nói tiếng Hán rất giỏi.",
+      "answers": [
+        "虽然她是美国人，[可是|但是|可]她汉语说得很好。",
+        "她虽然是美国人，[可是|但是|可]汉语说得很好。",
+        "虽然她是美国人，[可是|但是|可]她说汉语说得很好。",
+        "虽然她是美国人，[可是|但是|可]她的汉语很好。"
+      ],
+      "examples": [
+        {
+          "answer": "虽然她是美国人，可是她汉语说得很好。",
+          "score": 100
+        },
+        {
+          "answer": "虽然她是美国人，但是她汉语说得很好。",
+          "score": 100
+        },
+        {
+          "answer": "她虽然是美国人，可是汉语说得很好。",
+          "score": 100
+        },
+        {
+          "answer": "虽然她是美国人，可是她的汉语很好。",
+          "score": 100
+        },
+        {
+          "answer": "虽然她是美国人，所以她汉语说得很好。",
+          "score": 0
+        },
+        {
+          "answer": "虽然她是美国人，可是她汉语说得不好。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        236
+      ]
+    },
+    {
+      "id": "hsk3-01-e21",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "虽然下雨了，可是我们还是去了。",
+        "虽然下雨了，所以我们没去。",
+        "下雨了虽然，可是我们还是去了。"
+      ],
+      "answer": 0,
+      "explainVi": "「虽然」 đi với 「可是」; 「所以」 đi với 「因为」.",
+      "grammar": [
+        236
+      ]
+    },
+    {
+      "id": "hsk3-01-e22",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你是在哪儿出生的？",
+        "promptVi": "Bạn sinh ra ở đâu? (Trả lời về bản thân bạn.)",
+        "expected": {
+          "sentence": "我是在河内出生的。"
+        },
+        "examples": [
+          {
+            "answer": "我是在河内出生的。",
+            "score": 100
+          },
+          {
+            "answer": "我在胡志明市出生。",
+            "score": 100
+          },
+          {
+            "answer": "我出生在越南。",
+            "score": 100
+          },
+          {
+            "answer": "在河内。",
+            "score": 100
+          },
+          {
+            "answer": "我在河内里出生。",
+            "score": 90
+          },
+          {
+            "answer": "我是在越南里出生的。",
+            "score": 90
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-01-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你来自哪儿？",
+        "promptVi": "Bạn đến từ đâu? (Giả sử bạn đến từ Việt Nam.)",
+        "answers": [
+          "(我)来自越南。",
+          "(我)(是)从越南来的。",
+          "(我是)越南人。",
+          "越南。"
+        ],
+        "examples": [
+          {
+            "answer": "我来自越南。",
+            "score": 100
+          },
+          {
+            "answer": "我是从越南来的。",
+            "score": 100
+          },
+          {
+            "answer": "我是越南人。",
+            "score": 100
+          },
+          {
+            "answer": "越南。",
+            "score": 100
+          },
+          {
+            "answer": "我来自从越南。",
+            "score": 0
+          },
+          {
+            "answer": "我来自日本。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-01-e24",
+      "type": "translate",
+      "vi": "Lâu lắm rồi không gặp, bạn có khỏe không?",
+      "answers": [
+        "[好久|很久]不见，你好吗？",
+        "[好久|很久]不见，你身体好吗？",
+        "[好久|很久]不见，你怎么样？"
+      ],
+      "examples": [
+        {
+          "answer": "好久不见，你好吗？",
+          "score": 100
+        },
+        {
+          "answer": "很久不见，你身体好吗？",
+          "score": 100
+        },
+        {
+          "answer": "好久不见，你好。",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "hsk3-01-e25",
+      "type": "translate",
+      "vi": "Cảm ơn bạn đã giúp đỡ!",
+      "answers": [
+        "谢谢你的帮助！",
+        "谢谢你帮助我！",
+        "谢谢你帮我！"
+      ],
+      "examples": [
+        {
+          "answer": "谢谢你的帮助！",
+          "score": 100
+        },
+        {
+          "answer": "谢谢你帮助我！",
+          "score": 100
+        },
+        {
+          "answer": "谢谢你的帮！",
+          "score": 0
+        }
+      ]
+    },
+    {
+      "id": "hsk3-01-e26",
+      "type": "choice",
+      "promptVi": "「听说他去中国留学了。」 nghĩa là gì?",
+      "options": [
+        "Nghe nói anh ấy đi du học Trung Quốc rồi.",
+        "Anh ấy nói anh ấy đi du học Trung Quốc.",
+        "Anh ấy nghe nói tôi đi du học Trung Quốc."
+      ],
+      "answer": 0
+    },
+    {
+      "id": "hsk3-01-e27",
+      "type": "translate",
+      "vi": "Trước khi ăn cơm, tôi rửa tay.",
+      "answers": [
+        "(在)吃饭[以前|前]，我洗手。",
+        "我(在)吃饭[以前|前]洗手。"
+      ],
+      "examples": [
+        {
+          "answer": "吃饭以前，我洗手。",
+          "score": 100
+        },
+        {
+          "answer": "吃饭前，我洗手。",
+          "score": 100
+        },
+        {
+          "answer": "我吃饭以前洗手。",
+          "score": 100
+        },
+        {
+          "answer": "以前吃饭，我洗手。",
+          "score": 0
+        },
+        {
+          "answer": "吃饭以后，我洗手。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        198
+      ]
+    },
+    {
+      "id": "hsk3-01-e28",
+      "type": "translate",
+      "vi": "Anh Vương, chúng ta cùng đi nhé! (Anh Vương là đồng nghiệp lớn tuổi hơn bạn.)",
+      "answers": [
+        "老王，[咱们|我们]一起去吧！"
+      ],
+      "examples": [
+        {
+          "answer": "老王，咱们一起去吧！",
+          "score": 100
+        },
+        {
+          "answer": "老王，我们一起去吧！",
+          "score": 100
+        },
+        {
+          "answer": "小王，咱们一起去吧！",
+          "score": 0
+        },
+        {
+          "answer": "王老，咱们一起去吧！",
+          "score": 0,
+          "note": "「王老」 là cách gọi tôn kính người cao tuổi có danh vọng, không phải 'anh Vương'"
+        },
+        {
+          "answer": "老王，咱们一起去吗？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        149,
+        158
+      ]
+    }
+  ]
+}

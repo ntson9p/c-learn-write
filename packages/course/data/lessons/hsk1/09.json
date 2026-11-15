@@ -1,0 +1,1368 @@
+{
+  "id": "hsk1-09",
+  "goalsVi": [
+    "Hỏi giá và nói giá tiền với 「多少钱」, 「块」, 「元」, số hàng trăm, hàng nghìn",
+    "Nói đồ đắt, rẻ: 太贵了, 很便宜",
+    "Nói đi đâu để làm gì: 我去超市买东西",
+    "Xin phép với 「可以」, nói nhẹ nhàng với 「一下」: 我可以看一下吗？",
+    "Nhờ đưa đồ với 「给」: 请给我一杯茶; nói 'cũng', 'còn' với 「也」, 「还」"
+  ],
+  "words": [
+    {
+      "no": 116,
+      "word": "买",
+      "meaningsVi": [
+        "mua"
+      ],
+      "noteVi": "「买」 (mǎi, thanh 3) là **mua**, 「卖」 (mài, thanh 4) là **bán**. Chữ 「卖」 có thêm 「十」 ở trên.",
+      "examples": [
+        {
+          "zh": "我想买一个新手机。",
+          "py": "wǒ xiǎng mǎi yí gè xīn shǒu jī",
+          "vi": "Tôi muốn mua một cái điện thoại mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 117,
+      "word": "卖",
+      "meaningsVi": [
+        "bán"
+      ],
+      "examples": [
+        {
+          "zh": "这个商店卖水果吗？",
+          "py": "zhè ge shāng diàn mài shuǐ guǒ ma",
+          "vi": "Cửa hàng này có bán hoa quả không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 164,
+      "word": "钱",
+      "meaningsVi": [
+        "tiền"
+      ],
+      "noteVi": "Hỏi giá: 「多少钱？」 (Bao nhiêu tiền?).",
+      "examples": [
+        {
+          "zh": "这本书多少钱？",
+          "py": "zhè běn shū duō shao qián",
+          "vi": "Quyển sách này bao nhiêu tiền?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 105,
+      "word": "块",
+      "meaningsVi": [
+        "đồng, tệ (đơn vị tiền, dùng khi nói)",
+        "miếng, cục (lượng từ)"
+      ],
+      "noteVi": "Khi nói giá, người Trung Quốc hay dùng 「块」 thay cho 「元」: 十块 (钱) = 十元. Số 2 trước 「块」 là 「两」: 两块钱.",
+      "examples": [
+        {
+          "zh": "一个苹果三块钱。",
+          "py": "yí gè píng guǒ sān kuài qián",
+          "vi": "Một quả táo ba đồng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 268,
+      "word": "元",
+      "meaningsVi": [
+        "đồng, tệ (đơn vị tiền Trung Quốc, dùng trong văn viết)"
+      ],
+      "noteVi": "「元」 hay thấy trên bảng giá, hóa đơn; khi nói thường dùng 「块」. Âm Hán Việt là 'nguyên'.",
+      "examples": [
+        {
+          "zh": "这个电脑五千元。",
+          "py": "zhè ge diàn nǎo wǔ qiān yuán",
+          "vi": "Cái máy tính này năm nghìn tệ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 6,
+      "word": "百",
+      "meaningsVi": [
+        "trăm"
+      ],
+      "noteVi": "Phải có số đứng trước: 一百 (một trăm). 105 là 一百零五 (có 「零」 như 'linh, lẻ'); 200 thường nói 两百.",
+      "examples": [
+        {
+          "zh": "这本书一百块钱。",
+          "py": "zhè běn shū yì bǎi kuài qián",
+          "vi": "Quyển sách này một trăm đồng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 162,
+      "word": "千",
+      "meaningsVi": [
+        "nghìn"
+      ],
+      "noteVi": "2000 thường nói 两千. Mười nghìn là 一万 (vạn), sẽ học sau.",
+      "examples": [
+        {
+          "zh": "这个手机两千块。",
+          "py": "zhè ge shǒu jī liǎng qiān kuài",
+          "vi": "Cái điện thoại này hai nghìn đồng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 65,
+      "word": "贵",
+      "meaningsVi": [
+        "đắt"
+      ],
+      "noteVi": "Âm Hán Việt là 'quý', nhưng khi mua bán nghĩa là **đắt**.",
+      "examples": [
+        {
+          "zh": "这个手机太贵了。",
+          "py": "zhè ge shǒu jī tài guì le",
+          "vi": "Cái điện thoại này đắt quá."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 157,
+      "word": "便宜",
+      "meaningsVi": [
+        "rẻ"
+      ],
+      "noteVi": "Âm Hán Việt là 'tiện nghi' nhưng nghĩa là **rẻ**, không phải 'tiện nghi' trong tiếng Việt. Đọc piányi, không đọc biàn.",
+      "examples": [
+        {
+          "zh": "这儿的水果很便宜。",
+          "py": "zhè r de shuǐ guǒ hěn pián yi",
+          "vi": "Hoa quả ở đây rất rẻ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 180,
+      "word": "少",
+      "meaningsVi": [
+        "ít",
+        "thiếu"
+      ],
+      "noteVi": "Trái nghĩa với 「多」 (nhiều). Thường làm vị ngữ: 人很少 (rất ít người).",
+      "examples": [
+        {
+          "zh": "超市里人很少。",
+          "py": "chāo shì lǐ rén hěn shǎo",
+          "vi": "Trong siêu thị rất ít người."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 40,
+      "word": "东西",
+      "meaningsVi": [
+        "đồ, đồ vật, thứ"
+      ],
+      "noteVi": "Nghĩa đen là 'đông tây', ở đây là **đồ vật**; 「西」 đọc nhẹ: dōngxi. 'Đi mua đồ' là 「去买东西」.",
+      "examples": [
+        {
+          "zh": "我去商店买东西。",
+          "py": "wǒ qù shāng diàn mǎi dōng xi",
+          "vi": "Tôi đi cửa hàng mua đồ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 174,
+      "word": "商店",
+      "meaningsVi": [
+        "cửa hàng, cửa hiệu"
+      ],
+      "examples": [
+        {
+          "zh": "那个商店的东西很贵。",
+          "py": "nà ge shāng diàn de dōng xi hěn guì",
+          "vi": "Đồ ở cửa hàng kia rất đắt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 19,
+      "word": "超市",
+      "meaningsVi": [
+        "siêu thị"
+      ],
+      "examples": [
+        {
+          "zh": "我们去超市买水果吧。",
+          "py": "wǒ men qù chāo shì mǎi shuǐ guǒ ba",
+          "vi": "Chúng mình đi siêu thị mua hoa quả nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 39,
+      "word": "店",
+      "meaningsVi": [
+        "cửa hàng, quán (thường gặp trong từ ghép: 书店, 饭店)"
+      ],
+      "noteVi": "Lượng từ của cửa hàng là 「家」: 这家店 (cửa hàng này).",
+      "examples": [
+        {
+          "zh": "这家店卖什么？",
+          "py": "zhè jiā diàn mài shén me",
+          "vi": "Cửa hàng này bán gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 191,
+      "word": "书店",
+      "meaningsVi": [
+        "hiệu sách"
+      ],
+      "examples": [
+        {
+          "zh": "我在书店买了两本书。",
+          "py": "wǒ zài shū diàn mǎi le liǎng běn shū",
+          "vi": "Tôi đã mua hai quyển sách ở hiệu sách."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 61,
+      "word": "给",
+      "meaningsVi": [
+        "cho, đưa cho (ai cái gì)",
+        "cho, giúp (ai làm gì, học sau)"
+      ],
+      "noteVi": "「给」 + người + vật: 给我一本书 (đưa cho tôi một quyển sách). Người nhận đứng trước, vật đứng sau, giống tiếng Việt.",
+      "examples": [
+        {
+          "zh": "请给我一杯水。",
+          "py": "qǐng gěi wǒ yì bēi shuǐ",
+          "vi": "Làm ơn cho tôi một cốc nước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 67,
+      "word": "还",
+      "meaningsVi": [
+        "còn, thêm, ngoài ra còn",
+        "vẫn, vẫn còn"
+      ],
+      "noteVi": "Ở nghĩa này đọc hái. 「还」 đứng trước động từ: 我还要一个苹果 (Tôi muốn thêm một quả táo nữa).",
+      "examples": [
+        {
+          "zh": "我买了苹果，还买了牛奶。",
+          "py": "wǒ mǎi le píng guǒ hái mǎi le niú nǎi",
+          "vi": "Tôi mua táo, còn mua cả sữa nữa."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 102,
+      "word": "可以",
+      "meaningsVi": [
+        "có thể, được (được phép làm gì)"
+      ],
+      "noteVi": "Xin phép: 「我可以…吗？」. Đồng ý: 「可以」; từ chối: 「不可以」.",
+      "examples": [
+        {
+          "zh": "我可以看一下吗？",
+          "py": "wǒ kě yǐ kàn yí xià ma",
+          "vi": "Tôi xem một chút được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 257,
+      "word": "一下",
+      "meaningsVi": [
+        "một chút, một lát (đặt sau động từ)"
+      ],
+      "noteVi": "「一下」 đứng **sau** động từ và làm lời nói nhẹ nhàng hơn: 看一下 (xem một chút). Đọc yíxià.",
+      "examples": [
+        {
+          "zh": "请你看一下这本书。",
+          "py": "qǐng nǐ kàn yí xià zhè běn shū",
+          "vi": "Mời bạn xem qua quyển sách này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 206,
+      "word": "太",
+      "meaningsVi": [
+        "quá, lắm"
+      ],
+      "noteVi": "Hay dùng 「太 + tính từ + 了」: 太贵了！ (Đắt quá!). 「不太」 là 'không … lắm': 不太贵 (không đắt lắm).",
+      "examples": [
+        {
+          "zh": "太贵了！我不买。",
+          "py": "tài guì le wǒ bù mǎi",
+          "vi": "Đắt quá! Tôi không mua đâu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 6,
+      "titleVi": "「可以」: được phép, có thể",
+      "summaryVi": "「可以」 + động từ: được phép làm gì; xin phép: 我可以…吗？; phủ định: 不可以.",
+      "explanationVi": [
+        "「可以」 đứng **trước động từ**, nghĩa là 'được phép, có thể': 你可以看我的书 (Bạn có thể xem sách của tôi).",
+        "Xin phép: 我可以…吗？ (Tôi … được không?). Đồng ý: 可以. Không cho phép: 不可以 (ví dụ biển báo: 这儿不可以打电话).",
+        "Tiếng Việt chỉ có 'có thể', còn tiếng Trung chia ra: 「会」 (biết làm, đã học), 「可以」 (được phép), 「能」 (có khả năng, học sau). Khi xin phép, hỏi ý kiến, hãy dùng 「可以」."
+      ],
+      "patterns": [
+        "Chủ ngữ + 可以 + động từ (+ tân ngữ)",
+        "我可以 + động từ (+ tân ngữ) + 吗？",
+        "Chủ ngữ + 不可以 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "我可以看一下你的手机吗？",
+          "py": "wǒ kě yǐ kàn yí xià nǐ de shǒu jī ma",
+          "vi": "Mình xem điện thoại của bạn một chút được không?"
+        },
+        {
+          "zh": "你们可以在这儿吃饭。",
+          "py": "nǐ men kě yǐ zài zhè r chī fàn",
+          "vi": "Các bạn có thể ăn cơm ở đây."
+        },
+        {
+          "zh": "这儿不可以打电话。",
+          "py": "zhè r bù kě yǐ dǎ diàn huà",
+          "vi": "Ở đây không được gọi điện thoại."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我看可以一下吗？",
+          "right": "我可以看一下吗？",
+          "noteVi": "「可以」 đứng trước động từ."
+        },
+        {
+          "wrong": "我可以吗看一下？",
+          "right": "我可以看一下吗？",
+          "noteVi": "「吗」 luôn ở cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 19,
+      "titleVi": "「也」 và 「还」: cũng, còn",
+      "summaryVi": "「也」 (cũng): người khác cũng làm việc giống vậy; 「还」 (còn, thêm): cùng một người làm thêm việc khác. Cả hai đứng sau chủ ngữ, trước động từ.",
+      "explanationVi": [
+        "「也」 nghĩa là 'cũng', đứng sau chủ ngữ, **trước động từ**: 我买书，他也买书 (Tôi mua sách, anh ấy cũng mua sách). Không đặt 「也」 trước chủ ngữ hay ở cuối câu.",
+        "「还」 (đọc hái) nghĩa là 'còn, ngoài ra còn': cùng một người, ngoài việc này còn làm thêm việc khác: 我买了苹果，还买了牛奶 (Tôi mua táo, còn mua cả sữa). Khi gọi món: 我还要一杯茶 (Tôi muốn thêm một cốc trà nữa).",
+        "Mẹo nhớ: **hai người**, cùng một việc → 「也」; **một người**, thêm một việc → 「还」."
+      ],
+      "patterns": [
+        "A + động từ…，B + 也 + động từ…",
+        "Chủ ngữ + động từ 1…，还 + động từ 2…",
+        "Chủ ngữ + 还 + 要/想 + …"
+      ],
+      "examples": [
+        {
+          "zh": "我想买苹果，妹妹也想买苹果。",
+          "py": "wǒ xiǎng mǎi píng guǒ mèi mei yě xiǎng mǎi píng guǒ",
+          "vi": "Tôi muốn mua táo, em gái cũng muốn mua táo."
+        },
+        {
+          "zh": "他买了一本书，还买了一个新手机。",
+          "py": "tā mǎi le yì běn shū hái mǎi le yí gè xīn shǒu jī",
+          "vi": "Anh ấy mua một quyển sách, còn mua cả một chiếc điện thoại mới."
+        },
+        {
+          "zh": "我还要两个包子。",
+          "py": "wǒ hái yào liǎng gè bāo zi",
+          "vi": "Cho tôi thêm hai cái bánh bao nữa."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他买苹果，也我买苹果。",
+          "right": "他买苹果，我也买苹果。",
+          "noteVi": "「也」 đứng sau chủ ngữ 「我」, trước động từ."
+        },
+        {
+          "wrong": "他买书，我还买书。",
+          "right": "他买书，我也买书。",
+          "noteVi": "Hai người làm cùng một việc thì dùng 「也」, không dùng 「还」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 30,
+      "titleVi": "Cụm động từ + tân ngữ",
+      "summaryVi": "Động từ + tân ngữ (买东西, 喝茶, 打电话): động từ đứng trước, tân ngữ đứng sau, giống tiếng Việt.",
+      "explanationVi": [
+        "Cụm động tân gồm **động từ + tân ngữ**: 买东西 (mua đồ), 喝茶 (uống trà), 看书 (đọc sách), 打电话 (gọi điện thoại). Trật tự này giống tiếng Việt.",
+        "Cụm động tân có thể làm vị ngữ (我买东西), đứng sau 想, 要, 可以 (我想买东西), hoặc đứng sau 「去 + nơi chốn」 (我去超市买东西).",
+        "Phần bổ nghĩa cho tân ngữ vẫn đứng **trước** tân ngữ: 买**两本**书, 买**新**手机, 喝**一杯**茶. Đừng nói 买手机新 theo kiểu 'mua điện thoại mới'."
+      ],
+      "patterns": [
+        "Động từ + tân ngữ",
+        "Động từ + (số lượng/tính từ) + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "我想买东西。",
+          "py": "wǒ xiǎng mǎi dōng xi",
+          "vi": "Tôi muốn mua đồ."
+        },
+        {
+          "zh": "妈妈在超市买菜。",
+          "py": "mā ma zài chāo shì mǎi cài",
+          "vi": "Mẹ mua thức ăn ở siêu thị."
+        },
+        {
+          "zh": "我们喝茶吧。",
+          "py": "wǒ men hē chá ba",
+          "vi": "Chúng mình uống trà đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我想东西买。",
+          "right": "我想买东西。",
+          "noteVi": "Tân ngữ 「东西」 đứng sau động từ 「买」."
+        },
+        {
+          "wrong": "我想买一个手机新。",
+          "right": "我想买一个新手机。",
+          "noteVi": "Tính từ 「新」 đứng trước danh từ, không dịch từng chữ 'điện thoại mới'.",
+          "issue": "modifier_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 41,
+      "titleVi": "Động từ + 一下: làm một chút",
+      "summaryVi": "Động từ + 一下 (看一下, 找一下): làm việc gì một chút, một lần ngắn; làm lời đề nghị nhẹ nhàng hơn.",
+      "explanationVi": [
+        "「一下」 đứng **ngay sau động từ**, cho biết hành động diễn ra trong thời gian ngắn, làm thử một chút: 看一下 (xem một chút), 找一下 (tìm thử), 想一下 (nghĩ một chút).",
+        "「一下」 làm lời đề nghị, lời nhờ vả nghe nhẹ nhàng, lịch sự hơn: 请你看一下 (Bạn xem giúp một chút).",
+        "Nếu có tân ngữ, tân ngữ thường đứng **sau** 「一下」: 看一下这本书.",
+        "Tiếng Việt cũng nói 'xem một chút', đặt sau động từ, nên người Việt dễ dùng đúng. Chỉ cần nhớ không đặt 「一下」 trước động từ."
+      ],
+      "patterns": [
+        "Động từ + 一下 (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "我可以看一下吗？",
+          "py": "wǒ kě yǐ kàn yí xià ma",
+          "vi": "Tôi xem một chút được không?"
+        },
+        {
+          "zh": "请你找一下我的手机。",
+          "py": "qǐng nǐ zhǎo yí xià wǒ de shǒu jī",
+          "vi": "Bạn tìm giúp tôi cái điện thoại với."
+        },
+        {
+          "zh": "我想一下。",
+          "py": "wǒ xiǎng yí xià",
+          "vi": "Để tôi nghĩ một chút."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我一下看。",
+          "right": "我看一下。",
+          "noteVi": "「一下」 đứng sau động từ."
+        },
+        {
+          "wrong": "请看这本书一下。",
+          "right": "请看一下这本书。",
+          "noteVi": "Tân ngữ 「这本书」 đứng sau 「一下」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 56,
+      "titleVi": "Câu liên động: đi đâu để làm gì",
+      "summaryVi": "Chủ ngữ + 去 + nơi chốn + động từ (+ tân ngữ): đi đến đâu để làm gì (我去超市买东西); động từ sau chỉ mục đích.",
+      "explanationVi": [
+        "Câu liên động có hai động từ (hoặc cụm động từ) đi liền nhau, cùng một chủ ngữ. Ở bài này, việc thứ hai là **mục đích** của việc thứ nhất: 我去书店买书 (Tôi đến hiệu sách để mua sách).",
+        "Thứ tự giống tiếng Việt: đi đâu trước, làm gì sau, và không cần từ nối như 'để'.",
+        "「不」, 「想」, 「要」 đặt trước động từ thứ nhất: 我不去商店买东西, 我想去书店买书.",
+        "Phân biệt: 我**去**超市买东西 (đi siêu thị mua đồ) và 我**在**超市买东西 (mua đồ ở siêu thị). Không nói 我买东西在超市."
+      ],
+      "patterns": [
+        "Chủ ngữ + 去 + nơi chốn + động từ (+ tân ngữ)",
+        "Chủ ngữ + 不/想/要 + 去 + nơi chốn + động từ (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "我去超市买东西。",
+          "py": "wǒ qù chāo shì mǎi dōng xi",
+          "vi": "Tôi đi siêu thị mua đồ."
+        },
+        {
+          "zh": "妈妈去商店买水果。",
+          "py": "mā ma qù shāng diàn mǎi shuǐ guǒ",
+          "vi": "Mẹ đi cửa hàng mua hoa quả."
+        },
+        {
+          "zh": "我们去饭店吃晚饭吧。",
+          "py": "wǒ men qù fàn diàn chī wǎn fàn ba",
+          "vi": "Chúng mình đi nhà hàng ăn tối nhé."
+        },
+        {
+          "zh": "他不想去书店买书。",
+          "py": "tā bù xiǎng qù shū diàn mǎi shū",
+          "vi": "Anh ấy không muốn đến hiệu sách mua sách."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我去买东西超市。",
+          "right": "我去超市买东西。",
+          "noteVi": "Nơi đến đứng ngay sau 「去」, việc cần làm đứng sau cùng."
+        },
+        {
+          "wrong": "我买东西在超市。",
+          "right": "我在超市买东西。",
+          "noteVi": "「在 + nơi chốn」 đứng trước động từ.",
+          "issue": "place_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 58,
+      "titleVi": "Câu có hai tân ngữ: 给 + người + vật",
+      "summaryVi": "Chủ ngữ + 给 + người + vật: đưa cho ai cái gì (妈妈给我一个苹果); người nhận đứng trước, vật đứng sau.",
+      "explanationVi": [
+        "Một số động từ có hai tân ngữ: tân ngữ thứ nhất là **người** nhận, tân ngữ thứ hai là **vật**: 妈妈给我一个苹果 (Mẹ cho tôi một quả táo).",
+        "Thứ tự giống tiếng Việt 'cho tôi một quả táo': người trước, vật sau. Không nói 给一个苹果我.",
+        "Khi mua bán: 请给我一杯茶 (Làm ơn cho tôi một cốc trà); 我给你一百块 (Tôi đưa bạn một trăm đồng). Ở HSK1, động từ hai tân ngữ hay gặp nhất là 「给」."
+      ],
+      "patterns": [
+        "Chủ ngữ + 给 + người + (số lượng +) vật"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈给我一个苹果。",
+          "py": "mā ma gěi wǒ yí gè píng guǒ",
+          "vi": "Mẹ cho tôi một quả táo."
+        },
+        {
+          "zh": "我给你一百块。",
+          "py": "wǒ gěi nǐ yì bǎi kuài",
+          "vi": "Tôi đưa bạn một trăm đồng."
+        },
+        {
+          "zh": "请给我两杯茶。",
+          "py": "qǐng gěi wǒ liǎng bēi chá",
+          "vi": "Làm ơn cho tôi hai cốc trà."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他给一本书我。",
+          "right": "他给我一本书。",
+          "noteVi": "Người nhận đứng ngay sau 「给」, vật đứng sau cùng."
+        },
+        {
+          "wrong": "请给我二杯水。",
+          "right": "请给我两杯水。",
+          "noteVi": "Trước lượng từ 「杯」, số 2 là 「两」.",
+          "issue": "er_liang"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 67,
+      "titleVi": "Cách nói giá tiền: 块, 元",
+      "summaryVi": "Số + 块/元 (+ 钱): 五块 (钱), 十元. Hỏi giá: …多少钱？",
+      "explanationVi": [
+        "Tiền Trung Quốc tính bằng 「元」 (văn viết) hay 「块」 (khẩu ngữ): 十块钱 = 十元 = mười tệ. Sau 「块」 có thể bỏ 「钱」: 十块.",
+        "Hỏi giá: 这个多少钱？, 这本书多少钱？ Trả lời không cần 「是」: 这本书三十块 (Quyển sách này ba mươi đồng).",
+        "Số lớn: 一百 (100), 两百 (200), 一千 (1000), 两千 (2000). Trước 「块」, số 2 là 「两」: 两块钱. Riêng 「元」 thì 两元 hay 二元 đều được.",
+        "Đơn vị nhỏ hơn 「块」 là 「毛」 (hào), sẽ học sau."
+      ],
+      "patterns": [
+        "Số + 块/元 (+ 钱)",
+        "Vật + 多少钱？",
+        "Vật + số tiền"
+      ],
+      "examples": [
+        {
+          "zh": "这本书三十块钱。",
+          "py": "zhè běn shū sān shí kuài qián",
+          "vi": "Quyển sách này ba mươi đồng."
+        },
+        {
+          "zh": "那个手机两千元。",
+          "py": "nà ge shǒu jī liǎng qiān yuán",
+          "vi": "Cái điện thoại kia hai nghìn tệ."
+        },
+        {
+          "zh": "一杯茶多少钱？——八块。",
+          "py": "yì bēi chá duō shao qián bā kuài",
+          "vi": "Một cốc trà bao nhiêu tiền? — Tám đồng."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这个多少钱吗？",
+          "right": "这个多少钱？",
+          "noteVi": "Câu đã có 「多少」 để hỏi thì không thêm 「吗」."
+        },
+        {
+          "wrong": "一个苹果二块钱。",
+          "right": "一个苹果两块钱。",
+          "noteVi": "Trước 「块」, số 2 là 「两」.",
+          "issue": "er_liang"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-09-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "买",
+          "mua"
+        ],
+        [
+          "卖",
+          "bán"
+        ],
+        [
+          "贵",
+          "đắt"
+        ],
+        [
+          "便宜",
+          "rẻ"
+        ],
+        [
+          "钱",
+          "tiền"
+        ],
+        [
+          "东西",
+          "đồ, đồ vật"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-09-e02",
+      "type": "match",
+      "promptVi": "Nối tên cửa hàng với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "商店",
+          "cửa hàng"
+        ],
+        [
+          "超市",
+          "siêu thị"
+        ],
+        [
+          "书店",
+          "hiệu sách"
+        ],
+        [
+          "饭店",
+          "nhà hàng"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-09-e03",
+      "type": "choice",
+      "promptVi": "「两千块」 là bao nhiêu tiền?",
+      "options": [
+        "2000 tệ",
+        "200 tệ",
+        "20 tệ"
+      ],
+      "answer": 0,
+      "grammar": [
+        67
+      ]
+    },
+    {
+      "id": "hsk1-09-e04",
+      "type": "choice",
+      "promptVi": "Bạn muốn hỏi giá quyển sách. Bạn nói:",
+      "options": [
+        "这本书多少钱？",
+        "这本书多少钱吗？",
+        "这本书钱多少？"
+      ],
+      "answer": 0,
+      "explainVi": "Câu có 「多少」 không thêm 「吗」.",
+      "grammar": [
+        67
+      ]
+    },
+    {
+      "id": "hsk1-09-e05",
+      "type": "fill",
+      "promptVi": "Chọn số đúng.",
+      "before": "一杯茶",
+      "after": "块钱。",
+      "answers": [
+        "两"
+      ],
+      "options": [
+        "两",
+        "二"
+      ],
+      "vi": "Một cốc trà hai đồng.",
+      "explainVi": "Trước 「块」, số 2 là 「两」.",
+      "grammar": [
+        67
+      ]
+    },
+    {
+      "id": "hsk1-09-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi xem một chút được không?)",
+      "options": [
+        "我可以看一下吗？",
+        "我看可以一下吗？",
+        "我可以一下看吗？"
+      ],
+      "answer": 0,
+      "explainVi": "「可以」 đứng trước động từ, 「一下」 đứng sau động từ.",
+      "grammar": [
+        6,
+        41
+      ]
+    },
+    {
+      "id": "hsk1-09-e07",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这儿不",
+      "after": "打电话。",
+      "answers": [
+        "可以"
+      ],
+      "options": [
+        "可以",
+        "太",
+        "还"
+      ],
+      "vi": "Ở đây không được gọi điện thoại.",
+      "grammar": [
+        6
+      ]
+    },
+    {
+      "id": "hsk1-09-e08",
+      "type": "order",
+      "vi": "Mời bạn xem qua quyển sách này.",
+      "tiles": [
+        "请你",
+        "看",
+        "一下",
+        "这本书"
+      ],
+      "answers": [
+        "请你看一下这本书"
+      ],
+      "explainVi": "「一下」 đứng ngay sau động từ, tân ngữ đứng sau 「一下」.",
+      "grammar": [
+        41
+      ]
+    },
+    {
+      "id": "hsk1-09-e09",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我想看",
+      "after": "你的新手机。",
+      "answers": [
+        "一下"
+      ],
+      "options": [
+        "一下",
+        "一些",
+        "一个"
+      ],
+      "vi": "Mình muốn xem điện thoại mới của bạn một chút.",
+      "grammar": [
+        41
+      ]
+    },
+    {
+      "id": "hsk1-09-e10",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "大卫买书，玛丽＿买书。",
+      "options": [
+        "也",
+        "还",
+        "太"
+      ],
+      "answer": 0,
+      "explainVi": "Hai người làm cùng một việc → 「也」.",
+      "grammar": [
+        19
+      ]
+    },
+    {
+      "id": "hsk1-09-e11",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我吃了两个包子，",
+      "after": "想吃一个。",
+      "answers": [
+        "还"
+      ],
+      "options": [
+        "还",
+        "也",
+        "太"
+      ],
+      "vi": "Tôi đã ăn hai cái bánh bao rồi, vẫn còn muốn ăn thêm một cái.",
+      "explainVi": "Cùng một người, muốn thêm → 「还」.",
+      "grammar": [
+        19
+      ]
+    },
+    {
+      "id": "hsk1-09-e12",
+      "type": "order",
+      "vi": "Em gái tôi cũng muốn mua táo.",
+      "tiles": [
+        "我妹妹",
+        "也",
+        "想",
+        "买",
+        "苹果"
+      ],
+      "answers": [
+        "我妹妹也想买苹果"
+      ],
+      "explainVi": "「也」 đứng sau chủ ngữ, trước 「想」.",
+      "grammar": [
+        19
+      ]
+    },
+    {
+      "id": "hsk1-09-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "他买苹果，我也买苹果。",
+        "他买苹果，也我买苹果。",
+        "他买苹果，我买苹果也。"
+      ],
+      "answer": 0,
+      "explainVi": "「也」 đứng sau chủ ngữ, trước động từ.",
+      "grammar": [
+        19
+      ]
+    },
+    {
+      "id": "hsk1-09-e14",
+      "type": "order",
+      "vi": "Tôi đi siêu thị mua đồ.",
+      "tiles": [
+        "我",
+        "去",
+        "超市",
+        "买",
+        "东西"
+      ],
+      "answers": [
+        "我去超市买东西"
+      ],
+      "grammar": [
+        56,
+        30
+      ]
+    },
+    {
+      "id": "hsk1-09-e15",
+      "type": "translate",
+      "vi": "Mẹ tôi đi hiệu sách mua sách.",
+      "answers": [
+        "(我)妈妈去书店买书。"
+      ],
+      "examples": [
+        {
+          "answer": "我妈妈去书店买书。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈去书店买书。",
+          "score": 100
+        },
+        {
+          "answer": "我妈妈去书店买东西。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        56
+      ]
+    },
+    {
+      "id": "hsk1-09-e16",
+      "type": "translate",
+      "vi": "Mẹ cho tôi một quả táo.",
+      "answers": [
+        "(我)妈妈给(了)我一个苹果。"
+      ],
+      "examples": [
+        {
+          "answer": "妈妈给我一个苹果。",
+          "score": 100
+        },
+        {
+          "answer": "我妈妈给了我一个苹果。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈给我一苹果。",
+          "score": 80,
+          "issues": [
+            "missing_measure_word"
+          ]
+        },
+        {
+          "answer": "妈妈给我两个苹果。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        58
+      ]
+    },
+    {
+      "id": "hsk1-09-e17",
+      "type": "order",
+      "vi": "Làm ơn cho tôi hai cốc trà.",
+      "tiles": [
+        "请",
+        "给",
+        "我",
+        "两杯",
+        "茶"
+      ],
+      "answers": [
+        "请给我两杯茶"
+      ],
+      "grammar": [
+        58,
+        13
+      ]
+    },
+    {
+      "id": "hsk1-09-e18",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy đưa cho tôi một quyển sách.)",
+      "options": [
+        "他给我一本书。",
+        "他给一本书我。",
+        "他我给一本书。"
+      ],
+      "answer": 0,
+      "explainVi": "给 + người nhận + vật.",
+      "grammar": [
+        58
+      ]
+    },
+    {
+      "id": "hsk1-09-e19",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "这本书多少钱？",
+        "promptVi": "Quyển sách này bao nhiêu tiền? (Trên bìa sách ghi giá: 35 tệ.)",
+        "picture": "📕 ¥35",
+        "answers": [
+          "(这本书)三十五[块(钱)|元]。",
+          {
+            "text": "三十五。",
+            "score": 90
+          }
+        ],
+        "examples": [
+          {
+            "answer": "三十五块。",
+            "score": 100
+          },
+          {
+            "answer": "这本书三十五块钱。",
+            "score": 100
+          },
+          {
+            "answer": "三十五元。",
+            "score": 100
+          },
+          {
+            "answer": "35块。",
+            "score": 100
+          },
+          {
+            "answer": "三十五。",
+            "score": 90,
+            "note": "Nên nói thêm 块 hoặc 元"
+          },
+          {
+            "answer": "这本书是三十五块钱。",
+            "score": 85,
+            "issues": [
+              "extra_word"
+            ]
+          },
+          {
+            "answer": "三十块。",
+            "score": 0
+          },
+          {
+            "answer": "二十五块。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        67
+      ]
+    },
+    {
+      "id": "hsk1-09-e20",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "我可以看一下你的书吗？",
+        "promptVi": "Mình xem sách của bạn một chút được không? (Hãy đồng ý.)",
+        "answers": [
+          "可以(，可以)。",
+          "可以，(你)看吧。"
+        ],
+        "examples": [
+          {
+            "answer": "可以。",
+            "score": 100
+          },
+          {
+            "answer": "可以，你看吧。",
+            "score": 100
+          },
+          {
+            "answer": "不可以。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        6,
+        41
+      ]
+    },
+    {
+      "id": "hsk1-09-e21",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你在哪儿买东西？",
+        "promptVi": "Bạn mua đồ ở đâu? (Trả lời về bản thân bạn.)",
+        "expected": {
+          "sentence": "我在超市买东西。"
+        },
+        "examples": [
+          {
+            "answer": "我在超市买东西。",
+            "score": 100
+          },
+          {
+            "answer": "在商店。",
+            "score": 100
+          },
+          {
+            "answer": "我去超市买东西。",
+            "score": 100
+          },
+          {
+            "answer": "我在超市里买东西。",
+            "score": 100
+          },
+          {
+            "answer": "我买东西在超市。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ],
+            "note": "Dịch theo thứ tự tiếng Việt 'mua đồ ở siêu thị'"
+          }
+        ]
+      },
+      "grammar": [
+        21,
+        56
+      ]
+    },
+    {
+      "id": "hsk1-09-e22",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "你买了几本书？",
+        "promptVi": "Bạn đã mua mấy quyển sách? (Trong hình: 2 quyển sách.)",
+        "picture": "📗📘",
+        "expected": {
+          "number": 2,
+          "noun": "书",
+          "sentence": "我买了两本书。"
+        },
+        "examples": [
+          {
+            "answer": "我买了两本书。",
+            "score": 100
+          },
+          {
+            "answer": "两本。",
+            "score": 100
+          },
+          {
+            "answer": "我买了二本书。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "我买了两个书。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "我买了两书。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "我买了三本书。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        30
+      ]
+    },
+    {
+      "id": "hsk1-09-e23",
+      "type": "translate",
+      "vi": "Tôi muốn mua một cái điện thoại mới.",
+      "answers": [
+        "我[想|要]买(一个)新手机。"
+      ],
+      "examples": [
+        {
+          "answer": "我想买一个新手机。",
+          "score": 100
+        },
+        {
+          "answer": "我要买新手机。",
+          "score": 100
+        },
+        {
+          "answer": "我想买一个手机新。",
+          "score": 80,
+          "issues": [
+            "modifier_order"
+          ],
+          "note": "Dịch từng chữ 'điện thoại mới'"
+        },
+        {
+          "answer": "我想买一个新电脑。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        30
+      ]
+    },
+    {
+      "id": "hsk1-09-e24",
+      "type": "translate",
+      "vi": "Tôi muốn thêm một cốc trà nữa.",
+      "answers": [
+        "我还[要|想要|想喝]一杯茶。"
+      ],
+      "examples": [
+        {
+          "answer": "我还要一杯茶。",
+          "score": 100
+        },
+        {
+          "answer": "我还想喝一杯茶。",
+          "score": 100
+        },
+        {
+          "answer": "我要一杯茶。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ],
+          "note": "Thiếu 还 (thêm)"
+        }
+      ],
+      "grammar": [
+        19
+      ]
+    },
+    {
+      "id": "hsk1-09-e25",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đi hiệu sách mua sách.)",
+      "options": [
+        "我去书店买书。",
+        "我去买书书店。",
+        "我买书去书店。"
+      ],
+      "answer": 0,
+      "explainVi": "Đi đâu (去书店) trước, làm gì (买书) sau.",
+      "grammar": [
+        56
+      ]
+    },
+    {
+      "id": "hsk1-09-e26",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你要什么？",
+        "promptVi": "Bạn cần gì ạ? (Ở quán, bạn muốn gọi một cốc trà.)",
+        "answers": [
+          "(请)给我一杯茶。",
+          "我要一杯茶。",
+          "一杯茶。"
+        ],
+        "examples": [
+          {
+            "answer": "请给我一杯茶。",
+            "score": 100
+          },
+          {
+            "answer": "给我一杯茶。",
+            "score": 100
+          },
+          {
+            "answer": "我要一杯茶。",
+            "score": 100
+          },
+          {
+            "answer": "请给我一个茶。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "请给我一杯水。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        58
+      ]
+    }
+  ]
+}
