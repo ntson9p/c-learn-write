@@ -68,3 +68,27 @@ describe('place_order: verbs inside compounds', () => {
     expect(checkZhSentence('我们运动在体育馆。').issues.map((i) => i.code)).toEqual(['place_order']);
   });
 });
+
+describe('measure 口 as "a mouthful"', () => {
+  it('accepts 一口 before food and drink in free sentences', () => {
+    for (const s of ['他喝了一口茶。', '我吃了一口蛋糕。', '他尝了一口菜。', '我家有五口人。']) {
+      expect(checkZhSentence(s).issues).toEqual([]);
+    }
+  });
+  it('still corrects other wrong measure words', () => {
+    expect(checkZhSentence('我喝了一本茶。').issues.map((i) => i.code)).toEqual(['wrong_measure_word']);
+  });
+});
+
+describe('missing_localizer: objects inside longer words', () => {
+  it('does not read 手 inside 手机 or 地 inside 地铁', () => {
+    for (const s of ['现在很多人在手机上看电子书。', '书在手机旁边。', '我在地铁上看书。', '我在路上。']) {
+      expect(checkZhSentence(s).issues).toEqual([]);
+    }
+  });
+  it('still asks for a localizer after an object', () => {
+    for (const s of ['钱在手。', '他在桌子写字。', '书在书包。']) {
+      expect(checkZhSentence(s).issues.map((i) => i.code)).toEqual(['missing_localizer']);
+    }
+  });
+});

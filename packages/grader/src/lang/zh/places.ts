@@ -13,6 +13,7 @@ import { isHan, isLatin } from './chars';
 import {
   ACTION_LIST,
   ADJECTIVES,
+  COMPOUND_LIST,
   LOCALIZERS,
   LOCALIZER_LIST,
   MEASURE_LIST,
@@ -87,7 +88,23 @@ function matchPlaceWord(text: string, p: number, end: number, expected: readonly
   }
   const lexical = matchLongest(text, p, PLACE_LIST, end);
   if (lexical && (!best || lexical.length > best.length)) best = lexical;
-  return best ? { word: best, kind: PLACES.get(best)?.kind ?? ('place' as const) } : undefined;
+  if (!best) return undefined;
+  const kind = PLACES.get(best)?.kind ?? ('place' as const);
+  if (kind === 'object') {
+    // 手机 is not 手 + 机, 地铁 is not 地 + 铁: an object that only starts a longer
+    // syllabus word is not that object. Words such as 路上 (noun + localizer) are kept.
+    const compound = matchLongest(text, p, COMPOUND_LIST, end);
+    if (
+      compound &&
+      compound.length > best.length &&
+      !PLACES.has(compound) &&
+      !expected.includes(compound) &&
+      !LOCALIZERS.has(compound.slice(best.length))
+    ) {
+      return undefined;
+    }
+  }
+  return { word: best, kind };
 }
 
 /** One or more place words (越南河内), or a homophone typo of an expected place (书报 for 书包). */

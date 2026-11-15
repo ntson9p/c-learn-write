@@ -72,6 +72,8 @@ describe('gradeZhCount: content', () => {
     const coffee: CountQuestion = { ...apples, expected: { number: 2, noun: '咖啡' } };
     expect(gradeZhCount(coffee, '有两杯咖啡').score).toBe(100);
     expect(gradeZhCount(coffee, '有两个咖啡')).toMatchObject({ score: 80, issues: [{ code: 'wrong_measure_word' }] });
+    // 两口咖啡 is two mouthfuls, not two cups: still wrong when counting cups.
+    expect(gradeZhCount(coffee, '有两口咖啡')).toMatchObject({ score: 80, issues: [{ code: 'wrong_measure_word' }] });
     expect(gradeZhCount(coffee, '有两种咖啡').content.status).toBe('no_answer');
   });
 

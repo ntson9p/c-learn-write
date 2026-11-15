@@ -90,6 +90,9 @@ function wrongMeasureWord(doc: ZhDoc, ctx: ZhRuleContext): Issue[] {
     if (!noun) continue;
     const info = NOUNS.get(noun);
     if (!info || info.measures.includes(p.measure.text)) continue;
+    // 喝了一口茶, 吃了一口蛋糕: 口 is also "a mouthful (of)", which fits any food or
+    // drink. Only a count question (how many cups?) can tell that it is the wrong word.
+    if (p.measure.text === '口' && !ctx.countQuestion) continue;
     // 一家人 (a family): 家 + 人 is the word 家人, not a wrong measure word for 人.
     if (p.noun && COMPOUNDS.has(p.measure.text + p.noun.text)) continue;
     const right = info.measures[0]!;
