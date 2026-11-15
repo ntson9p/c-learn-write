@@ -1,0 +1,1175 @@
+{
+  "id": "hsk1-11",
+  "goalsVi": [
+    "Hỏi và nói về thời tiết: 今天天气怎么样？ 下雨了。",
+    "Nói mức độ bằng 很, 非常, 太…了, 真, 有点儿",
+    "Khen, chê, cảm thán và hỏi ý kiến về quần áo",
+    "Nói sự thay đổi bằng 「了」 cuối câu: 天冷了, 我不去了"
+  ],
+  "words": [
+    {
+      "no": 208,
+      "word": "天气",
+      "meaningsVi": [
+        "thời tiết"
+      ],
+      "noteVi": "Âm Hán Việt 'thiên khí'. Hỏi thời tiết: 「今天天气怎么样？」. 'Trời đẹp' là 「天气很好」.",
+      "examples": [
+        {
+          "zh": "今天天气很好。",
+          "py": "jīn tiān tiān qì hěn hǎo",
+          "vi": "Hôm nay trời đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 109,
+      "word": "冷",
+      "meaningsVi": [
+        "lạnh"
+      ],
+      "noteVi": "Tính từ làm vị ngữ trực tiếp, không cần 「是」: 今天很冷, không nói 今天是冷.",
+      "examples": [
+        {
+          "zh": "今天有点儿冷。",
+          "py": "jīn tiān yǒu diǎn r lěng",
+          "vi": "Hôm nay hơi lạnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 169,
+      "word": "热",
+      "meaningsVi": [
+        "nóng"
+      ],
+      "noteVi": "Âm Hán Việt 'nhiệt' như trong 'nhiệt độ'.",
+      "examples": [
+        {
+          "zh": "胡志明市非常热。",
+          "py": "hú zhì míng shì fēi cháng rè",
+          "vi": "Thành phố Hồ Chí Minh rất nóng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 230,
+      "word": "下雨",
+      "meaningsVi": [
+        "mưa, trời mưa"
+      ],
+      "noteVi": "Tiếng Trung nói 'rơi mưa': 「下雨」. 'Mưa rồi' là 「下雨了」. Tuyết rơi cũng nói như vậy: 「下雪」.",
+      "examples": [
+        {
+          "zh": "下雨了，我们坐出租车去吧。",
+          "py": "xià yǔ le wǒ men zuò chū zū chē qù ba",
+          "vi": "Mưa rồi, chúng ta đi taxi nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 267,
+      "word": "雨",
+      "meaningsVi": [
+        "mưa (danh từ)"
+      ],
+      "noteVi": "「雨」 là danh từ, thường đi trong 「下雨」. Mưa to là 「雨很大」.",
+      "examples": [
+        {
+          "zh": "今天的雨很大。",
+          "py": "jīn tiān de yǔ hěn dà",
+          "vi": "Mưa hôm nay to lắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 251,
+      "word": "雪",
+      "meaningsVi": [
+        "tuyết"
+      ],
+      "noteVi": "Tuyết rơi: 「下雪」. Miền Bắc Trung Quốc mùa đông thường có tuyết.",
+      "examples": [
+        {
+          "zh": "北京下雪了！",
+          "py": "běi jīng xià xuě le",
+          "vi": "Bắc Kinh có tuyết rơi rồi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 285,
+      "word": "真",
+      "meaningsVi": [
+        "thật, thật là (cảm thán)"
+      ],
+      "noteVi": "「真」 + tính từ dùng để cảm thán: 真冷！ (Lạnh thật!). Không dùng 「真」 trong định ngữ: không nói 「真漂亮的衣服」, mà nói 「很漂亮的衣服」.",
+      "examples": [
+        {
+          "zh": "这件衣服真漂亮！",
+          "py": "zhè jiàn yī fu zhēn piào liang",
+          "vi": "Cái áo này đẹp thật!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 54,
+      "word": "非常",
+      "meaningsVi": [
+        "rất, vô cùng"
+      ],
+      "noteVi": "Mạnh hơn 「很」. Âm Hán Việt là 'phi thường', nhưng nghĩa chỉ là 'rất, cực kỳ'.",
+      "examples": [
+        {
+          "zh": "今天非常热。",
+          "py": "jīn tiān fēi cháng rè",
+          "vi": "Hôm nay nóng cực kỳ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 265,
+      "word": "有点儿",
+      "meaningsVi": [
+        "hơi, có hơi (thường là điều không vừa ý)"
+      ],
+      "noteVi": "「有点儿」 đứng trước tính từ, thường nói điều mình không thích: 有点儿冷, 有点儿贵. Đừng nhầm với 「一点儿」 (một chút, sẽ học ở bài 14), từ này không đứng trước tính từ.",
+      "examples": [
+        {
+          "zh": "这件衣服有点儿贵。",
+          "py": "zhè jiàn yī fu yǒu diǎn r guì",
+          "vi": "Cái áo này hơi đắt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 259,
+      "word": "衣服",
+      "meaningsVi": [
+        "quần áo",
+        "áo"
+      ],
+      "noteVi": "Lượng từ của 「衣服」 là 「件」: 一件衣服 (một cái áo).",
+      "examples": [
+        {
+          "zh": "我想买一件新衣服。",
+          "py": "wǒ xiǎng mǎi yí jiàn xīn yī fu",
+          "vi": "Tôi muốn mua một cái áo mới."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 89,
+      "word": "件",
+      "meaningsVi": [
+        "cái, chiếc (lượng từ cho áo, quần áo)",
+        "việc (lượng từ cho việc, chuyện)"
+      ],
+      "noteVi": "Dùng cho quần áo (一件衣服) và cho việc (一件事). Không dùng 「个」 cho 「衣服」.",
+      "examples": [
+        {
+          "zh": "这件衣服多少钱？",
+          "py": "zhè jiàn yī fu duō shao qián",
+          "vi": "Cái áo này bao nhiêu tiền?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 23,
+      "word": "穿",
+      "meaningsVi": [
+        "mặc (quần áo)",
+        "đi, mang (giày, tất)"
+      ],
+      "noteVi": "Mặc áo, mặc quần, đi giày đều dùng 「穿」. 'Mặc thêm' là 「多穿」.",
+      "examples": [
+        {
+          "zh": "天冷了，你多穿一件衣服吧。",
+          "py": "tiān lěng le nǐ duō chuān yí jiàn yī fu ba",
+          "vi": "Trời lạnh rồi, bạn mặc thêm một cái áo nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 158,
+      "word": "漂亮",
+      "meaningsVi": [
+        "đẹp, xinh"
+      ],
+      "noteVi": "Dùng cho người (thường là nữ), quần áo, đồ vật, phong cảnh.",
+      "examples": [
+        {
+          "zh": "她的新衣服很漂亮。",
+          "py": "tā de xīn yī fu hěn piào liang",
+          "vi": "Bộ quần áo mới của cô ấy rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 96,
+      "word": "觉得",
+      "meaningsVi": [
+        "thấy, cảm thấy",
+        "cho rằng, nghĩ là"
+      ],
+      "noteVi": "「觉得」 + một câu: 我觉得今天很冷 (Tôi thấy hôm nay lạnh). Hỏi ý kiến: 「你觉得怎么样？」",
+      "examples": [
+        {
+          "zh": "我觉得这件衣服很漂亮。",
+          "py": "wǒ jué de zhè jiàn yī fu hěn piào liang",
+          "vi": "Tôi thấy cái áo này rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 277,
+      "word": "怎么样",
+      "meaningsVi": [
+        "thế nào, ra sao",
+        "(sau lời đề nghị) … được không?"
+      ],
+      "noteVi": "Hỏi tình hình, ý kiến: 天气怎么样？ Đặt sau lời đề nghị: 我们去超市，怎么样？ Khác 「怎么」 (hỏi cách làm: 怎么去？).",
+      "examples": [
+        {
+          "zh": "明天的天气怎么样？",
+          "py": "míng tiān de tiān qì zěn me yàng",
+          "vi": "Thời tiết ngày mai thế nào?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 44,
+      "word": "对",
+      "meaningsVi": [
+        "đúng",
+        "đối với, với (giới từ)"
+      ],
+      "noteVi": "Tính từ 'đúng': 对！ (Đúng!), 对不对？ (Đúng không?). Giới từ 'đối với, với': 老师对我们很好 (Thầy cô tốt với chúng tôi). Âm Hán Việt 'đối'.",
+      "examples": [
+        {
+          "zh": "对，我是越南人。",
+          "py": "duì wǒ shì yuè nán rén",
+          "vi": "Đúng, tôi là người Việt Nam."
+        },
+        {
+          "zh": "王老师对学生非常好。",
+          "py": "wáng lǎo shī duì xué shēng fēi cháng hǎo",
+          "vi": "Cô Vương rất tốt với học sinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 8,
+      "titleVi": "Đại từ nghi vấn (tổng kết): 什么、谁、哪儿、几、多少、怎么、怎么样…",
+      "summaryVi": "Đại từ nghi vấn đứng đúng vào chỗ của thông tin cần hỏi; 「怎么」 hỏi cách làm, 「怎么样」 hỏi tình hình, ý kiến.",
+      "explanationVi": [
+        "Đại từ nghi vấn đứng **đúng vào chỗ** của thông tin cần hỏi, trật tự câu giữ nguyên như câu kể, giống tiếng Việt: 你去哪儿？ (Bạn đi đâu?) — 我去超市。 Câu có đại từ nghi vấn **không** thêm 「吗」.",
+        "Các đại từ nghi vấn đã học: 「什么」 (gì), 「谁」 (ai), 「哪」 + lượng từ (nào: 哪个, 哪本), 「哪些」 (những… nào), 「哪儿」/「哪里」 (đâu), 「几」 (mấy, cho số nhỏ, luôn có lượng từ: 几个), 「多少」 (bao nhiêu), 「多」 + tính từ (bao…: 多大 = bao nhiêu tuổi), 「怎么」 (thế nào, bằng cách nào).",
+        "Bài này thêm 「怎么样」 (thế nào, ra sao). Nó hỏi về tình hình, tính chất hay ý kiến, thường đứng **cuối câu**: 天气怎么样？ 你觉得这件衣服怎么样？ Đặt sau một lời đề nghị, 「怎么样」 nghĩa là '… được không?', '… bạn thấy sao?': 我们坐火车去，怎么样？",
+        "Đừng nhầm hai từ: 「怎么」 + động từ hỏi **cách làm** (怎么去？ = đi bằng gì?); 「怎么样」 hỏi **tình hình, ý kiến** (天气怎么样？ = thời tiết thế nào?)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 怎么 + động từ？",
+        "Chủ ngữ + 怎么样？",
+        "Lời đề nghị，怎么样？"
+      ],
+      "examples": [
+        {
+          "zh": "今天天气怎么样？",
+          "py": "jīn tiān tiān qì zěn me yàng",
+          "vi": "Hôm nay thời tiết thế nào?"
+        },
+        {
+          "zh": "你觉得这件衣服怎么样？",
+          "py": "nǐ jué de zhè jiàn yī fu zěn me yàng",
+          "vi": "Bạn thấy cái áo này thế nào?"
+        },
+        {
+          "zh": "我们坐火车去，怎么样？",
+          "py": "wǒ men zuò huǒ chē qù zěn me yàng",
+          "vi": "Mình đi tàu hỏa nhé, bạn thấy sao?"
+        },
+        {
+          "zh": "你妹妹多大了？",
+          "py": "nǐ mèi mei duō dà le",
+          "vi": "Em gái bạn bao nhiêu tuổi rồi?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "天气怎么？",
+          "right": "天气怎么样？",
+          "noteVi": "Hỏi tình hình 'thế nào' thì dùng 「怎么样」. 「怎么」 phải đi với một động từ (怎么去？)."
+        },
+        {
+          "wrong": "这件衣服怎么样吗？",
+          "right": "这件衣服怎么样？",
+          "noteVi": "Câu đã có 「怎么样」 để hỏi thì không thêm 「吗」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 15,
+      "titleVi": "Phó từ chỉ mức độ: 很, 非常, 太, 真, 有点儿",
+      "summaryVi": "Phó từ mức độ đứng trước tính từ: 很冷, 非常热, 太贵了, 真漂亮, 有点儿冷.",
+      "explanationVi": [
+        "Phó từ chỉ mức độ đứng **trước** tính từ: 很冷, 非常热, 真漂亮. Tiếng Việt hay đặt từ chỉ mức độ sau tính từ ('đẹp lắm', 'nóng quá'), tiếng Trung thì **không** đặt sau.",
+        "「很」: rất (trong câu tính từ đơn giản, 「很」 nhiều khi chỉ để câu tròn nghĩa: 我很好). 「非常」: rất, cực kỳ, mạnh hơn 「很」. 「太…了」: quá (khen, chê, hoặc quá mức): 太贵了！ 「真」: thật là, dùng để cảm thán: 真漂亮！ 「有点儿」: hơi, có hơi, thường cho điều **không vừa ý**: 有点儿冷, 有点儿贵.",
+        "「有点儿」 khác 「一点儿」 (bài 14): 「有点儿」 đứng **trước** tính từ (有点儿贵 = hơi đắt), còn 「一点儿」 không đứng trước tính từ, nên không nói 「一点儿贵」. Điều tốt, điều mình thích thì dùng 「很」, 「非常」, không dùng 「有点儿」.",
+        "「真」 chỉ dùng để cảm thán, làm vị ngữ (这件衣服真漂亮！). Khi tính từ đứng trước 「的」 làm định ngữ thì dùng 「很」, 「非常」: 一件很漂亮的衣服."
+      ],
+      "patterns": [
+        "Chủ ngữ + 很/非常/真/有点儿 + tính từ",
+        "Chủ ngữ + 太 + tính từ + 了"
+      ],
+      "examples": [
+        {
+          "zh": "河内的菜非常好吃。",
+          "py": "hé nèi de cài fēi cháng hǎo chī",
+          "vi": "Món ăn Hà Nội cực kỳ ngon."
+        },
+        {
+          "zh": "这个房间有点儿小。",
+          "py": "zhè ge fáng jiān yǒu diǎn r xiǎo",
+          "vi": "Căn phòng này hơi nhỏ."
+        },
+        {
+          "zh": "你的衣服真漂亮！",
+          "py": "nǐ de yī fu zhēn piào liang",
+          "vi": "Áo của bạn đẹp thật!"
+        },
+        {
+          "zh": "太冷了！",
+          "py": "tài lěng le",
+          "vi": "Lạnh quá!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "这件衣服漂亮很。",
+          "right": "这件衣服很漂亮。",
+          "noteVi": "Phó từ mức độ đứng trước tính từ, không đứng sau như 'đẹp lắm' của tiếng Việt."
+        },
+        {
+          "wrong": "今天一点儿冷。",
+          "right": "今天有点儿冷。",
+          "noteVi": "'Hơi lạnh' là 「有点儿冷」. 「一点儿」 không đứng trước tính từ."
+        },
+        {
+          "wrong": "今天天气有点儿好。",
+          "right": "今天天气很好。",
+          "noteVi": "「有点儿」 dùng cho điều không vừa ý (冷, 贵, 忙). Điều tốt thì dùng 「很」 hoặc 「非常」."
+        },
+        {
+          "wrong": "这是一件真漂亮的衣服。",
+          "right": "这是一件很漂亮的衣服。",
+          "noteVi": "「真」 không đứng trong định ngữ trước 「的」; ở vị trí này dùng 「很」 hoặc 「非常」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 22,
+      "titleVi": "Giới từ 「和」, 「对」: với ai, đối với ai",
+      "summaryVi": "「和」 + người + động từ (làm gì với ai); 「对」 + người + tính từ (đối xử với ai thế nào): 老师对我们很好。",
+      "explanationVi": [
+        "Giới từ 「和」 và 「对」 đứng trước một người để chỉ **đối tượng** của hành động. Cả cụm giới từ đứng **trước động từ hoặc tính từ**, khác tiếng Việt thường đặt 'với ai' ở cuối câu.",
+        "「和」: với, cùng với. Ở bài 3, 「和」 nối hai danh từ (爸爸和妈妈). Ở đây 「和」 + người + động từ: 我**和妈妈**说越南语 (Tôi nói tiếng Việt với mẹ).",
+        "「对」: đối với, với, chỉ người nhận một thái độ, một cách đối xử: 老师**对我们**很好 (Thầy cô tốt với chúng tôi). Tiếng Việt nói 'tốt với tôi', tiếng Trung nói 「对我很好」.",
+        "「对」 còn là tính từ 'đúng': 对！ (Đúng!), 你是越南人，对不对？ (Bạn là người Việt Nam, đúng không?)."
+      ],
+      "patterns": [
+        "A + 和 + B + động từ",
+        "A + 对 + B + (很/非常) + tính từ"
+      ],
+      "examples": [
+        {
+          "zh": "大家对我很好。",
+          "py": "dà jiā duì wǒ hěn hǎo",
+          "vi": "Mọi người đối xử với tôi rất tốt."
+        },
+        {
+          "zh": "你和老师说一下吧。",
+          "py": "nǐ hé lǎo shī shuō yí xià ba",
+          "vi": "Bạn nói với cô giáo một tiếng nhé."
+        },
+        {
+          "zh": "我在家和妈妈说越南语。",
+          "py": "wǒ zài jiā hé mā ma shuō yuè nán yǔ",
+          "vi": "Ở nhà tôi nói tiếng Việt với mẹ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "她很好对我。",
+          "right": "她对我很好。",
+          "noteVi": "Cụm 「对我」 đứng trước tính từ, không đứng sau như 'tốt với tôi' của tiếng Việt."
+        },
+        {
+          "wrong": "我说越南语和妈妈。",
+          "right": "我和妈妈说越南语。",
+          "noteVi": "Cụm 「和妈妈」 (với mẹ) đứng trước động từ 「说」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 45,
+      "titleVi": "Câu không có chủ ngữ – vị ngữ",
+      "summaryVi": "Một từ hoặc một cụm từ cũng có thể là một câu hoàn chỉnh: 下雨了！ 太好了！ 对！",
+      "explanationVi": [
+        "Phần lớn câu tiếng Trung có chủ ngữ và vị ngữ (我是学生). Nhưng có những câu chỉ gồm một từ hoặc một cụm từ, không tách ra được chủ ngữ và vị ngữ, mà vẫn là câu hoàn chỉnh.",
+        "Hay gặp nhất là câu nói về **thời tiết**: 下雨了。 (Mưa rồi.) 下雪了！ (Tuyết rơi rồi!). Tiếng Việt cũng nói 'Mưa rồi!' mà không cần chủ ngữ.",
+        "Lời chào, cảm ơn, đáp lời, gọi điện, cảm thán cũng thường là câu như vậy: 谢谢！ 再见！ 对！ 喂！ 太好了！"
+      ],
+      "patterns": [
+        "下雨了。/下雪了。",
+        "Một từ hoặc cụm từ + 。/！"
+      ],
+      "examples": [
+        {
+          "zh": "下雨了！",
+          "py": "xià yǔ le",
+          "vi": "Mưa rồi!"
+        },
+        {
+          "zh": "下雪了，真漂亮！",
+          "py": "xià xuě le zhēn piào liang",
+          "vi": "Tuyết rơi rồi, đẹp thật!"
+        },
+        {
+          "zh": "对！",
+          "py": "duì",
+          "vi": "Đúng!"
+        },
+        {
+          "zh": "太好了！",
+          "py": "tài hǎo le",
+          "vi": "Tốt quá!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 51,
+      "titleVi": "Câu cảm thán: 太…了！, 真…！",
+      "summaryVi": "Bày tỏ cảm xúc mạnh bằng 「太 + tính từ + 了！」 hoặc 「真 + tính từ！」: 太好了！ 今天真热！",
+      "explanationVi": [
+        "Câu cảm thán bày tỏ cảm xúc mạnh (vui, ngạc nhiên, khen, chê). Cuối câu dùng dấu 「！」.",
+        "Hai cách hay dùng ở HSK1: 「太 + tính từ + 了！」 (… quá!): 太好了！ 太贵了！ và 「真 + tính từ！」 (… thật!): 这件衣服真漂亮！",
+        "Tiếng Việt đặt 'quá', 'thật' **sau** tính từ ('đẹp quá!'), còn tiếng Trung đặt 「太」, 「真」 **trước** tính từ; 「了」 của 「太…了」 đứng cuối câu.",
+        "Câu cảm thán thường không cần chủ ngữ: 太冷了！ 真热！"
+      ],
+      "patterns": [
+        "(Chủ ngữ) + 太 + tính từ + 了！",
+        "(Chủ ngữ) + 真 + tính từ！"
+      ],
+      "examples": [
+        {
+          "zh": "太贵了！",
+          "py": "tài guì le",
+          "vi": "Đắt quá!"
+        },
+        {
+          "zh": "今天真热！",
+          "py": "jīn tiān zhēn rè",
+          "vi": "Hôm nay nóng thật!"
+        },
+        {
+          "zh": "这件衣服太漂亮了！",
+          "py": "zhè jiàn yī fu tài piào liang le",
+          "vi": "Cái áo này đẹp quá!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "今天热太了！",
+          "right": "今天太热了！",
+          "noteVi": "「太」 đứng trước tính từ, 「了」 đứng cuối câu: 太热了, không theo trật tự 'nóng quá' của tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 63,
+      "titleVi": "「了」 cuối câu: có sự thay đổi, tình hình mới",
+      "summaryVi": "「了」 ở cuối câu báo một sự thay đổi, giống chữ 'rồi': 天冷了。 下雨了。 我不去了。",
+      "explanationVi": [
+        "「了」 đứng **cuối câu** cho biết **đã có thay đổi**, một tình hình mới xuất hiện. Nó rất giống chữ 'rồi' ở cuối câu tiếng Việt: 天冷**了** (Trời lạnh rồi), 下雨**了** (Mưa rồi).",
+        "「了」 này đi được với tính từ: 天气热了; với thời gian, tuổi: 现在八点了 (Tám giờ rồi), 我十八岁了; với động từ: 我有手机了 (Tôi có điện thoại rồi, trước đây chưa có).",
+        "「不 + động từ + 了」 nghĩa là không … **nữa** (đã đổi ý, thôi không làm): 我不去了 (Tôi không đi nữa). Chữ 'nữa' ở đây không dịch bằng 「再」.",
+        "Đừng nhầm với 「了」 sau động từ (bài 10), cho biết hành động đã xong: 我买了三本书. 「了」 của bài này đứng cuối câu và nói về **sự thay đổi**."
+      ],
+      "patterns": [
+        "Tính từ + 了",
+        "Thời gian/tuổi + 了",
+        "不 + động từ + 了 (không … nữa)"
+      ],
+      "examples": [
+        {
+          "zh": "现在八点了，我们去吃早饭吧。",
+          "py": "xiàn zài bā diǎn le wǒ men qù chī zǎo fàn ba",
+          "vi": "Tám giờ rồi, chúng ta đi ăn sáng thôi."
+        },
+        {
+          "zh": "天气冷了。",
+          "py": "tiān qì lěng le",
+          "vi": "Trời đã lạnh rồi."
+        },
+        {
+          "zh": "我十八岁了。",
+          "py": "wǒ shí bā suì le",
+          "vi": "Tôi mười tám tuổi rồi."
+        },
+        {
+          "zh": "我不喝了，谢谢！",
+          "py": "wǒ bù hē le xiè xie",
+          "vi": "Tôi không uống nữa, cảm ơn!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我不去再。",
+          "right": "我不去了。",
+          "noteVi": "'Không đi nữa' là 「不去了」. 「再」 không đứng cuối câu và không dùng cho nghĩa 'không… nữa'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-11-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "天气",
+          "thời tiết"
+        ],
+        [
+          "冷",
+          "lạnh"
+        ],
+        [
+          "热",
+          "nóng"
+        ],
+        [
+          "雪",
+          "tuyết"
+        ],
+        [
+          "衣服",
+          "quần áo"
+        ],
+        [
+          "穿",
+          "mặc"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-11-e02",
+      "type": "choice",
+      "promptVi": "Chọn lượng từ đúng.",
+      "zh": "我买了一＿衣服。",
+      "options": [
+        "件",
+        "个",
+        "本"
+      ],
+      "answer": 0,
+      "explainVi": "Quần áo dùng lượng từ 「件」: 一件衣服."
+    },
+    {
+      "id": "hsk1-11-e03",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Cái áo này đẹp lắm'?",
+      "options": [
+        "这件衣服很漂亮。",
+        "这件衣服漂亮很。",
+        "很这件衣服漂亮。"
+      ],
+      "answer": 0,
+      "explainVi": "「很」 đứng ngay trước tính từ 「漂亮」.",
+      "grammar": [
+        15
+      ]
+    },
+    {
+      "id": "hsk1-11-e04",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "今天",
+      "after": "冷。",
+      "answers": [
+        "有点儿"
+      ],
+      "options": [
+        "有点儿",
+        "非常",
+        "真"
+      ],
+      "vi": "Hôm nay hơi lạnh.",
+      "explainVi": "'Hơi' (điều không vừa ý) là 「有点儿」.",
+      "grammar": [
+        15
+      ]
+    },
+    {
+      "id": "hsk1-11-e05",
+      "type": "order",
+      "vi": "Hôm nay nóng quá!",
+      "tiles": [
+        "热",
+        "了",
+        "今天",
+        "太"
+      ],
+      "answers": [
+        "今天太热了"
+      ],
+      "explainVi": "太 + tính từ + 了.",
+      "grammar": [
+        15,
+        51
+      ]
+    },
+    {
+      "id": "hsk1-11-e06",
+      "type": "translate",
+      "vi": "Cái áo này hơi đắt.",
+      "answers": [
+        "这件衣服有点儿贵。"
+      ],
+      "examples": [
+        {
+          "answer": "这件衣服有点儿贵。",
+          "score": 100
+        },
+        {
+          "answer": "这件衣服很贵。",
+          "score": 0
+        },
+        {
+          "answer": "这件衣服贵有点儿。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        15
+      ]
+    },
+    {
+      "id": "hsk1-11-e07",
+      "type": "choice",
+      "promptVi": "Bạn muốn khen: 'Đẹp quá!'. Câu nào đúng?",
+      "options": [
+        "太漂亮了！",
+        "漂亮太了！",
+        "太了漂亮！"
+      ],
+      "answer": 0,
+      "grammar": [
+        51
+      ]
+    },
+    {
+      "id": "hsk1-11-e08",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这件衣服",
+      "after": "漂亮！",
+      "answers": [
+        "真"
+      ],
+      "options": [
+        "真",
+        "有点儿",
+        "吗"
+      ],
+      "vi": "Cái áo này đẹp thật!",
+      "grammar": [
+        51
+      ]
+    },
+    {
+      "id": "hsk1-11-e09",
+      "type": "translate",
+      "vi": "Tốt quá!",
+      "answers": [
+        "太好了！"
+      ],
+      "examples": [
+        {
+          "answer": "太好了！",
+          "score": 100
+        },
+        {
+          "answer": "太好！",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "很好！",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        51,
+        45
+      ]
+    },
+    {
+      "id": "hsk1-11-e10",
+      "type": "choice",
+      "promptVi": "「下雨了」 nghĩa là gì?",
+      "options": [
+        "Mưa rồi.",
+        "Trời không mưa.",
+        "Hôm qua trời mưa."
+      ],
+      "answer": 0,
+      "explainVi": "「了」 cuối câu báo tình hình mới: bây giờ trời đã mưa.",
+      "grammar": [
+        63,
+        45
+      ]
+    },
+    {
+      "id": "hsk1-11-e11",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我不喝",
+      "after": "，谢谢！",
+      "answers": [
+        "了"
+      ],
+      "options": [
+        "了",
+        "再",
+        "吗"
+      ],
+      "vi": "Tôi không uống nữa, cảm ơn!",
+      "explainVi": "'Không … nữa' là 「不 + động từ + 了」.",
+      "grammar": [
+        63
+      ]
+    },
+    {
+      "id": "hsk1-11-e12",
+      "type": "translate",
+      "vi": "Trời lạnh rồi.",
+      "answers": [
+        "[天|天气]冷了。"
+      ],
+      "examples": [
+        {
+          "answer": "天冷了。",
+          "score": 100
+        },
+        {
+          "answer": "天气冷了。",
+          "score": 100
+        },
+        {
+          "answer": "天冷。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "天不冷了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        63
+      ]
+    },
+    {
+      "id": "hsk1-11-e13",
+      "type": "order",
+      "vi": "Ngày mai tôi không đi nữa.",
+      "tiles": [
+        "了",
+        "明天",
+        "不去",
+        "我"
+      ],
+      "answers": [
+        "我明天不去了",
+        "明天我不去了"
+      ],
+      "grammar": [
+        63
+      ]
+    },
+    {
+      "id": "hsk1-11-e14",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "今天天气怎么样？",
+        "promptVi": "Hôm nay thời tiết thế nào? (Giả sử hôm nay rất nóng.)",
+        "answers": [
+          "(今天)(天气)[很|非常|真]热。",
+          "(今天)(天气)太热了。"
+        ],
+        "examples": [
+          {
+            "answer": "今天很热。",
+            "score": 100
+          },
+          {
+            "answer": "很热。",
+            "score": 100
+          },
+          {
+            "answer": "今天天气非常热。",
+            "score": 100
+          },
+          {
+            "answer": "太热了！",
+            "score": 100
+          },
+          {
+            "answer": "今天很冷。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        8
+      ]
+    },
+    {
+      "id": "hsk1-11-e15",
+      "type": "choice",
+      "promptVi": "Chọn từ thích hợp. (Bạn đi siêu thị bằng gì?)",
+      "zh": "你＿去超市？",
+      "options": [
+        "怎么",
+        "怎么样",
+        "什么"
+      ],
+      "answer": 0,
+      "explainVi": "Hỏi cách làm: 「怎么」 + động từ.",
+      "grammar": [
+        8
+      ]
+    },
+    {
+      "id": "hsk1-11-e16",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "这件衣服",
+      "after": "？",
+      "answers": [
+        "怎么样"
+      ],
+      "options": [
+        "怎么样",
+        "怎么",
+        "什么"
+      ],
+      "vi": "Cái áo này thế nào?",
+      "explainVi": "Hỏi ý kiến, tình hình: 「怎么样」.",
+      "grammar": [
+        8
+      ]
+    },
+    {
+      "id": "hsk1-11-e17",
+      "type": "translate",
+      "vi": "Bạn thấy cái áo này thế nào?",
+      "answers": [
+        "你觉得这件衣服怎么样？"
+      ],
+      "examples": [
+        {
+          "answer": "你觉得这件衣服怎么样？",
+          "score": 100
+        },
+        {
+          "answer": "你觉得这件衣服怎么样吗？",
+          "score": 0
+        },
+        {
+          "answer": "你觉得这件衣服怎么？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        8
+      ]
+    },
+    {
+      "id": "hsk1-11-e18",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Cô ấy rất tốt với tôi'?",
+      "options": [
+        "她对我很好。",
+        "她很好对我。",
+        "她很对我好。"
+      ],
+      "answer": 0,
+      "explainVi": "Cụm 「对我」 đứng trước 「很好」.",
+      "grammar": [
+        22
+      ]
+    },
+    {
+      "id": "hsk1-11-e19",
+      "type": "order",
+      "vi": "Ở nhà tôi nói tiếng Việt với mẹ.",
+      "tiles": [
+        "说",
+        "和妈妈",
+        "我",
+        "越南语",
+        "在家"
+      ],
+      "answers": [
+        "我在家和妈妈说越南语",
+        "我和妈妈在家说越南语"
+      ],
+      "explainVi": "Các cụm 「在家」, 「和妈妈」 đứng trước động từ 「说」.",
+      "grammar": [
+        22
+      ]
+    },
+    {
+      "id": "hsk1-11-e20",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "王老师",
+      "after": "学生非常好。",
+      "answers": [
+        "对"
+      ],
+      "options": [
+        "对",
+        "在",
+        "是"
+      ],
+      "vi": "Cô Vương rất tốt với học sinh.",
+      "grammar": [
+        22
+      ]
+    },
+    {
+      "id": "hsk1-11-e21",
+      "type": "choice",
+      "promptVi": "Bạn thấy trời bắt đầu mưa. Bạn nói:",
+      "options": [
+        "下雨了！",
+        "雨下！",
+        "是雨了！"
+      ],
+      "answer": 0,
+      "explainVi": "Câu nói về thời tiết không cần chủ ngữ: 「下雨了！」",
+      "grammar": [
+        45,
+        63
+      ]
+    },
+    {
+      "id": "hsk1-11-e22",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "这里有几件衣服？",
+        "promptVi": "Ở đây có mấy cái áo?",
+        "picture": "👕 👕 👕 👕",
+        "expected": {
+          "number": 4,
+          "noun": "衣服",
+          "sentence": "这里有四件衣服。"
+        },
+        "examples": [
+          {
+            "answer": "这里有四件衣服。",
+            "score": 100
+          },
+          {
+            "answer": "四件。",
+            "score": 100
+          },
+          {
+            "answer": "有四个衣服。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "有三件衣服。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-11-e23",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "衣服在哪儿？",
+        "promptVi": "Cái áo ở đâu? (Trong hình: cái áo ở trên ghế.)",
+        "picture": "👕 🪑",
+        "expected": {
+          "places": [
+            "椅子"
+          ],
+          "localizer": "上",
+          "sentence": "衣服在椅子上。"
+        },
+        "examples": [
+          {
+            "answer": "衣服在椅子上。",
+            "score": 100
+          },
+          {
+            "answer": "在椅子上。",
+            "score": 100
+          },
+          {
+            "answer": "衣服在椅子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "衣服在桌子上。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-11-e24",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你是越南人，对不对？",
+        "promptVi": "Bạn là người Việt Nam, đúng không? (Giả sử đúng như vậy.)",
+        "answers": [
+          "对，(我是越南人)。",
+          "(是，)我是越南人。"
+        ],
+        "examples": [
+          {
+            "answer": "对，我是越南人。",
+            "score": 100
+          },
+          {
+            "answer": "对。",
+            "score": 100
+          },
+          {
+            "answer": "我是越南人。",
+            "score": 100
+          },
+          {
+            "answer": "不对，我是中国人。",
+            "score": 0
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-11-e25",
+      "type": "translate",
+      "vi": "Tôi thấy hôm nay hơi lạnh.",
+      "answers": [
+        "[我觉得今天|今天我觉得]有点儿冷。"
+      ],
+      "examples": [
+        {
+          "answer": "我觉得今天有点儿冷。",
+          "score": 100
+        },
+        {
+          "answer": "今天我觉得有点儿冷。",
+          "score": 100
+        },
+        {
+          "answer": "我觉得今天很冷。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        15
+      ]
+    }
+  ]
+}

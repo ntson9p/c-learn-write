@@ -1,0 +1,1012 @@
+{
+  "id": "hsk1-10",
+  "goalsVi": [
+    "Nói đi đâu bằng phương tiện gì: 坐飞机去北京, 开车回家",
+    "Hỏi cách đi lại bằng 「怎么」 và trả lời",
+    "Nói việc đã làm xong bằng 「了」, hẹn làm lại bằng 「再」",
+    "Dùng các trợ từ cuối câu 「吗」, 「呢」, 「吧」, 「了」"
+  ],
+  "words": [
+    {
+      "no": 106,
+      "word": "来",
+      "meaningsVi": [
+        "đến, tới (về phía người nói)"
+      ],
+      "noteVi": "「来」 là đi về phía người nói, 「去」 là đi ra xa người nói. Đang ở Hà Nội, mời bạn đến chơi thì nói 「你来河内吧」; nói về chuyến đi Bắc Kinh của mình thì nói 「我去北京」.",
+      "examples": [
+        {
+          "zh": "你明天来我家吧。",
+          "py": "nǐ míng tiān lái wǒ jiā ba",
+          "vi": "Ngày mai bạn đến nhà tôi nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 81,
+      "word": "回",
+      "meaningsVi": [
+        "về, trở về"
+      ],
+      "noteVi": "Dùng khi trở về nơi mình thuộc về: 「回家」 (về nhà), 「回国」 (về nước), 「回越南」 (về Việt Nam). Âm Hán Việt 'hồi' như trong 'hồi hương'.",
+      "examples": [
+        {
+          "zh": "我晚上七点回家。",
+          "py": "wǒ wǎn shang qī diǎn huí jiā",
+          "vi": "Bảy giờ tối tôi về nhà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 29,
+      "word": "到",
+      "meaningsVi": [
+        "đến, tới (một nơi, một lúc)"
+      ],
+      "noteVi": "「来」, 「去」 cho biết hướng đi; 「到」 nhấn mạnh việc tới nơi: 「我到了」 (Tôi tới nơi rồi), 「火车几点到？」 (Mấy giờ tàu đến?).",
+      "examples": [
+        {
+          "zh": "火车下午三点到上海。",
+          "py": "huǒ chē xià wǔ sān diǎn dào shàng hǎi",
+          "vi": "Ba giờ chiều tàu hỏa đến Thượng Hải."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 298,
+      "word": "坐",
+      "meaningsVi": [
+        "ngồi",
+        "đi (xe, tàu, máy bay)"
+      ],
+      "noteVi": "Tiếng Việt nói 'đi máy bay, đi tàu, đi taxi', tiếng Trung dùng 「坐」 (ngồi): 坐飞机, 坐火车, 坐出租车. Không nói 「去飞机」.",
+      "examples": [
+        {
+          "zh": "请坐！",
+          "py": "qǐng zuò",
+          "vi": "Mời ngồi!"
+        },
+        {
+          "zh": "我们坐火车去北京。",
+          "py": "wǒ men zuò huǒ chē qù běi jīng",
+          "vi": "Chúng tôi đi tàu hỏa đến Bắc Kinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 20,
+      "word": "车",
+      "meaningsVi": [
+        "xe, ô tô"
+      ],
+      "noteVi": "「车」 là từ chung cho xe cộ, khi nói một mình thường hiểu là ô tô. Âm Hán Việt 'xa' như trong 'hỏa xa'.",
+      "examples": [
+        {
+          "zh": "这是我爸爸的车。",
+          "py": "zhè shì wǒ bà ba de chē",
+          "vi": "Đây là xe của bố tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 97,
+      "word": "开",
+      "meaningsVi": [
+        "lái (xe)",
+        "mở (cửa hàng, quán)",
+        "bật (máy)"
+      ],
+      "noteVi": "Nghĩa thường gặp nhất ở bài này là 'lái': 开车 (lái xe). 「开」 còn là 'mở': 开饭店 (mở quán ăn), 开电脑 (bật máy tính).",
+      "examples": [
+        {
+          "zh": "他开了一个小饭店。",
+          "py": "tā kāi le yí gè xiǎo fàn diàn",
+          "vi": "Anh ấy đã mở một quán ăn nhỏ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 98,
+      "word": "开车",
+      "meaningsVi": [
+        "lái xe"
+      ],
+      "noteVi": "「开」 (lái) + 「车」 (xe). Hỏi ai đó có biết lái xe không: 「你会开车吗？」",
+      "examples": [
+        {
+          "zh": "我妈妈会开车。",
+          "py": "wǒ mā ma huì kāi chē",
+          "vi": "Mẹ tôi biết lái xe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 22,
+      "word": "出租车",
+      "meaningsVi": [
+        "xe taxi"
+      ],
+      "noteVi": "Âm Hán Việt 'xuất tô xa': xe cho thuê. 'Đi taxi' là 「坐出租车」.",
+      "examples": [
+        {
+          "zh": "我们坐出租车去超市吧。",
+          "py": "wǒ men zuò chū zū chē qù chāo shì ba",
+          "vi": "Chúng ta đi taxi đến siêu thị nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 83,
+      "word": "火车",
+      "meaningsVi": [
+        "tàu hỏa, xe lửa"
+      ],
+      "noteVi": "Âm Hán Việt 'hỏa xa': xe lửa.",
+      "examples": [
+        {
+          "zh": "坐火车去上海要五个小时。",
+          "py": "zuò huǒ chē qù shàng hǎi yào wǔ gè xiǎo shí",
+          "vi": "Đi tàu hỏa đến Thượng Hải mất năm tiếng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 53,
+      "word": "飞机",
+      "meaningsVi": [
+        "máy bay"
+      ],
+      "noteVi": "Âm Hán Việt 'phi cơ'. 'Đi máy bay' là 「坐飞机」.",
+      "examples": [
+        {
+          "zh": "他明天坐飞机回越南。",
+          "py": "tā míng tiān zuò fēi jī huí yuè nán",
+          "vi": "Ngày mai anh ấy đi máy bay về Việt Nam."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 276,
+      "word": "怎么",
+      "meaningsVi": [
+        "thế nào, bằng cách nào (hỏi cách làm)",
+        "sao, làm sao (hỏi lý do)"
+      ],
+      "noteVi": "「怎么」 đứng ngay trước động từ để hỏi cách làm: 怎么去？ (đi bằng gì, đi thế nào?). 「你怎么了？」 nghĩa là 'Bạn sao thế?'. Câu có 「怎么」 không thêm 「吗」.",
+      "examples": [
+        {
+          "zh": "你怎么去北京？",
+          "py": "nǐ zěn me qù běi jīng",
+          "vi": "Bạn đi Bắc Kinh bằng gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 270,
+      "word": "再",
+      "meaningsVi": [
+        "lại, nữa (làm lại thêm một lần, việc chưa xảy ra)"
+      ],
+      "noteVi": "「再」 đứng trước động từ, dùng cho việc **sẽ** lặp lại. Trong 「再见」, 「再」 là 'lại', 「见」 là 'gặp': hẹn gặp lại.",
+      "examples": [
+        {
+          "zh": "你明天再来吧。",
+          "py": "nǐ míng tiān zài lái ba",
+          "vi": "Ngày mai bạn quay lại nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 18,
+      "titleVi": "Phó từ 「再」: lại, nữa",
+      "summaryVi": "「再」 + động từ: làm lại, làm thêm một lần nữa (việc chưa xảy ra): 你明天再来吧。",
+      "explanationVi": [
+        "「再」 đứng **trước động từ**, nghĩa là làm lại hoặc làm thêm một lần nữa. Nó dùng cho việc **chưa xảy ra**: một kế hoạch, một lời mời, một lời đề nghị: 你明天再来吧 (Ngày mai bạn quay lại nhé).",
+        "Tiếng Việt hay đặt 'nữa', 'lại' ở cuối câu (Mai tôi đến nữa). Tiếng Trung thì 「再」 luôn đứng sau chủ ngữ và từ chỉ thời gian, ngay trước động từ: 我明天**再**来.",
+        "Khi có 「想」, 「要」, 「可以」, 「再」 đứng sau chúng, trước động từ chính: 我想**再**看一下 (Tôi muốn xem lại một chút).",
+        "Việc đã lặp lại trong quá khứ (Hôm qua anh ấy lại đến) thì không dùng 「再」; từ dùng cho trường hợp đó sẽ học ở các bài sau."
+      ],
+      "patterns": [
+        "Chủ ngữ + (thời gian) + 再 + động từ",
+        "Chủ ngữ + 想/要/可以 + 再 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "你明天再来吧。",
+          "py": "nǐ míng tiān zài lái ba",
+          "vi": "Ngày mai bạn quay lại nhé."
+        },
+        {
+          "zh": "我想再看一下。",
+          "py": "wǒ xiǎng zài kàn yí xià",
+          "vi": "Tôi muốn xem lại một chút."
+        },
+        {
+          "zh": "这个包子很好吃，我想再买一个。",
+          "py": "zhè ge bāo zi hěn hǎo chī wǒ xiǎng zài mǎi yí gè",
+          "vi": "Bánh bao này ngon lắm, tôi muốn mua thêm một cái nữa."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我明天来再。",
+          "right": "我明天再来。",
+          "noteVi": "「再」 không đứng cuối câu như chữ 'nữa' của tiếng Việt; nó đứng ngay trước động từ."
+        },
+        {
+          "wrong": "我们再明天去吧。",
+          "right": "我们明天再去吧。",
+          "noteVi": "Từ chỉ thời gian (明天) đứng trước, 「再」 đứng sát trước động từ (去)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 26,
+      "titleVi": "Trợ từ ngữ khí cuối câu: 「吗」, 「呢」, 「吧」, 「了」",
+      "summaryVi": "Các trợ từ cuối câu thêm sắc thái hỏi, rủ rê, báo tin, giống 'à, còn… thì sao, nhé, rồi' của tiếng Việt.",
+      "explanationVi": [
+        "Tiếng Trung có những trợ từ đứng **cuối câu** để thêm sắc thái, giống 'à, nhé, rồi' của tiếng Việt. Ở HSK1 có bốn từ: 「吗」, 「呢」, 「吧」, 「了」. Chúng đọc nhẹ, không có thanh điệu.",
+        "「吗」 tạo câu hỏi có/không (bài 1): 你是老师吗？ 「呢」 có ba cách dùng: hỏi lại 'còn… thì sao?' sau danh từ, đại từ: 我坐火车，你**呢**？; đặt cuối câu hỏi có từ để hỏi cho giọng nhẹ nhàng hơn: 你怎么去**呢**？; và cho biết việc đang diễn ra (sẽ học kỹ ở bài 13).",
+        "「吧」 dùng khi rủ rê, đề nghị, nhờ vả, giống 'nhé, đi' của tiếng Việt: 我们坐出租车**吧**。 「了」 ở cuối câu báo một việc mới xảy ra, một tình hình mới, giống 'rồi': 车来**了**！ (Xe đến rồi!). Cách dùng này sẽ học kỹ ở bài 11.",
+        "Câu đã có từ để hỏi (什么, 谁, 哪儿, 怎么…) thì **không** thêm 「吗」, nhưng có thể thêm 「呢」."
+      ],
+      "patterns": [
+        "Câu kể + 吗？",
+        "Danh từ/đại từ + 呢？",
+        "Câu hỏi có từ để hỏi + 呢？",
+        "Lời đề nghị + 吧。",
+        "Câu báo tình hình mới + 了。"
+      ],
+      "examples": [
+        {
+          "zh": "我坐火车，你呢？",
+          "py": "wǒ zuò huǒ chē nǐ ne",
+          "vi": "Tôi đi tàu hỏa, còn bạn?"
+        },
+        {
+          "zh": "你怎么去呢？",
+          "py": "nǐ zěn me qù ne",
+          "vi": "Bạn đi bằng gì thế?"
+        },
+        {
+          "zh": "我们坐出租车吧。",
+          "py": "wǒ men zuò chū zū chē ba",
+          "vi": "Chúng ta đi taxi nhé."
+        },
+        {
+          "zh": "车来了！",
+          "py": "chē lái le",
+          "vi": "Xe đến rồi!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "你怎么去北京吗？",
+          "right": "你怎么去北京？",
+          "noteVi": "Câu đã có 「怎么」 để hỏi thì không thêm 「吗」. Muốn câu hỏi nhẹ nhàng hơn thì dùng 「呢」: 你怎么去北京呢？"
+        },
+        {
+          "wrong": "我坐火车，你吗？",
+          "right": "我坐火车，你呢？",
+          "noteVi": "Hỏi lại 'còn bạn?' thì dùng 「你呢？」, không dùng 「吗」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 57,
+      "titleVi": "Câu liên động: đi bằng phương tiện gì",
+      "summaryVi": "Động từ thứ nhất chỉ cách thức, phương tiện; động từ thứ hai là việc chính: 我坐飞机去北京。",
+      "explanationVi": [
+        "Câu liên động có một chủ ngữ và hai cụm động từ nối tiếp nhau. Ở bài 9, cụm sau là mục đích của cụm trước (去超市买东西). Ở bài này, cụm **trước** cho biết **cách thức, phương tiện**, cụm sau là việc chính: 我**坐飞机**去北京 (Tôi đi Bắc Kinh bằng máy bay).",
+        "Trật tự ngược với tiếng Việt: tiếng Việt nói 'đi Bắc Kinh bằng máy bay', tiếng Trung nói phương tiện trước: 坐 + phương tiện + 去/来/回 + nơi chốn. Nếu đảo lại thành 「我去北京坐飞机」 thì nghĩa là 'Tôi đến Bắc Kinh để đi máy bay'.",
+        "'Đi máy bay, đi tàu, đi taxi' dùng 「坐」 (ngồi), không dùng 「去」. Tự mình lái xe thì dùng 「开车」: 爸爸开车回家.",
+        "Hỏi đi bằng gì: 怎么 + 去/来/回: 你怎么去北京？ — 坐飞机去。"
+      ],
+      "patterns": [
+        "Chủ ngữ + 坐 + phương tiện + 去/来/回 + nơi chốn",
+        "Chủ ngữ + 开车 + 去/来/回 + nơi chốn",
+        "Chủ ngữ + 怎么 + 去/来/回 + nơi chốn？"
+      ],
+      "examples": [
+        {
+          "zh": "我坐飞机去北京。",
+          "py": "wǒ zuò fēi jī qù běi jīng",
+          "vi": "Tôi đi Bắc Kinh bằng máy bay."
+        },
+        {
+          "zh": "爸爸开车回家。",
+          "py": "bà ba kāi chē huí jiā",
+          "vi": "Bố lái xe về nhà."
+        },
+        {
+          "zh": "你怎么来河内？——我坐火车来。",
+          "py": "nǐ zěn me lái hé nèi wǒ zuò huǒ chē lái",
+          "vi": "Bạn đến Hà Nội bằng gì? — Tôi đi tàu hỏa đến."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我明天去飞机。",
+          "right": "我明天坐飞机去上海。",
+          "noteVi": "'Đi máy bay' không dịch từng chữ thành 「去飞机」. Đi bằng phương tiện gì thì dùng 「坐」."
+        },
+        {
+          "wrong": "我去上海坐火车。",
+          "right": "我坐火车去上海。",
+          "noteVi": "Phương tiện đứng trước nơi đến. 「我去上海坐火车」 nghĩa là 'Tôi đến Thượng Hải để đi tàu hỏa', không phải 'đi Thượng Hải bằng tàu hỏa'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 62,
+      "titleVi": "「了」 sau động từ: hành động đã hoàn thành",
+      "summaryVi": "Động từ + 了 cho biết hành động đã xong: 我买了三本书。 Phủ định: 没有 + động từ, bỏ 「了」.",
+      "explanationVi": [
+        "「了」 đặt **ngay sau động từ** cho biết hành động đã hoàn thành: 我买**了**三本书 (Tôi đã mua ba quyển sách). Bài 8 đã gặp 「了」; bài này học kỹ hơn.",
+        "Chữ 'đã' của tiếng Việt đứng **trước** động từ, còn 「了」 đứng **sau** động từ. Sau 「了」 tân ngữ thường có số lượng đi kèm: 吃了两个包子. Nếu tân ngữ chỉ có một danh từ trơn thì thường đặt 「了」 ở cuối câu: 我吃饭了.",
+        "Phủ định: 「没有」 + động từ và **bỏ** 「了」: 我没有买 (Tôi không mua / chưa mua). Câu hỏi: thêm 「吗」 hoặc 「没有」 vào cuối: 你吃早饭了吗？ / 你吃早饭了没有？",
+        "「了」 không có nghĩa là 'quá khứ'. Trạng thái trong quá khứ (tính từ, 「是」) không dùng 「了」: 昨天我很忙 (Hôm qua tôi rất bận)."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + 了 + số lượng + danh từ",
+        "Chủ ngữ + 没有 + động từ (không có 了)",
+        "Chủ ngữ + động từ + tân ngữ + 了吗？/了没有？"
+      ],
+      "examples": [
+        {
+          "zh": "我买了三本书。",
+          "py": "wǒ mǎi le sān běn shū",
+          "vi": "Tôi đã mua ba quyển sách."
+        },
+        {
+          "zh": "他吃了两个包子。",
+          "py": "tā chī le liǎng gè bāo zi",
+          "vi": "Cậu ấy đã ăn hai cái bánh bao."
+        },
+        {
+          "zh": "你吃早饭了吗？——我没有吃。",
+          "py": "nǐ chī zǎo fàn le ma wǒ méi yǒu chī",
+          "vi": "Bạn ăn sáng chưa? — Tôi chưa ăn."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我了买三本书。",
+          "right": "我买了三本书。",
+          "noteVi": "「了」 không đứng trước động từ như chữ 'đã'; nó đứng ngay sau động từ."
+        },
+        {
+          "wrong": "我昨天没有去了。",
+          "right": "我昨天没有去。",
+          "noteVi": "Câu phủ định với 「没有」 không có 「了」."
+        },
+        {
+          "wrong": "昨天我很忙了。",
+          "right": "昨天我很忙。",
+          "noteVi": "「了」 không phải dấu hiệu quá khứ. Nói về trạng thái trong quá khứ thì từ chỉ thời gian (昨天) là đủ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-10-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "飞机",
+          "máy bay"
+        ],
+        [
+          "火车",
+          "tàu hỏa"
+        ],
+        [
+          "出租车",
+          "xe taxi"
+        ],
+        [
+          "开车",
+          "lái xe"
+        ],
+        [
+          "车",
+          "xe, ô tô"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-10-e02",
+      "type": "match",
+      "promptVi": "Nối động từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "来",
+          "đến (về phía người nói)"
+        ],
+        [
+          "回",
+          "về, trở về"
+        ],
+        [
+          "到",
+          "tới nơi"
+        ],
+        [
+          "坐",
+          "ngồi; đi (xe, tàu)"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-10-e03",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Tôi đi Thượng Hải bằng tàu hỏa'?",
+      "options": [
+        "我坐火车去上海。",
+        "我去上海坐火车。",
+        "我去火车上海。"
+      ],
+      "answer": 0,
+      "explainVi": "Phương tiện (坐火车) đứng trước, nơi đến (去上海) đứng sau. 「我去上海坐火车」 nghĩa là 'Tôi đến Thượng Hải để đi tàu hỏa'.",
+      "grammar": [
+        57
+      ]
+    },
+    {
+      "id": "hsk1-10-e04",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我",
+      "after": "飞机去北京。",
+      "answers": [
+        "坐"
+      ],
+      "options": [
+        "坐",
+        "去",
+        "开"
+      ],
+      "vi": "Tôi đi máy bay đến Bắc Kinh.",
+      "explainVi": "'Đi máy bay' là 「坐飞机」.",
+      "grammar": [
+        57
+      ]
+    },
+    {
+      "id": "hsk1-10-e05",
+      "type": "order",
+      "vi": "Bố tôi lái xe về nhà.",
+      "tiles": [
+        "回",
+        "开车",
+        "家",
+        "我爸爸"
+      ],
+      "answers": [
+        "我爸爸开车回家"
+      ],
+      "explainVi": "Cách đi (开车) đứng trước, việc chính (回家) đứng sau.",
+      "grammar": [
+        57
+      ]
+    },
+    {
+      "id": "hsk1-10-e06",
+      "type": "translate",
+      "vi": "Chúng tôi đi taxi đến siêu thị.",
+      "answers": [
+        "我们坐出租车去超市。"
+      ],
+      "examples": [
+        {
+          "answer": "我们坐出租车去超市。",
+          "score": 100
+        },
+        {
+          "answer": "我们去超市坐出租车。",
+          "score": 0
+        },
+        {
+          "answer": "我们坐火车去超市。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        57
+      ]
+    },
+    {
+      "id": "hsk1-10-e07",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你怎么去北京？",
+        "promptVi": "Bạn đi Bắc Kinh bằng gì? (Giả sử bạn đi máy bay.)",
+        "answers": [
+          "(我)坐飞机去(北京)。",
+          "坐飞机。"
+        ],
+        "examples": [
+          {
+            "answer": "我坐飞机去北京。",
+            "score": 100
+          },
+          {
+            "answer": "坐飞机去。",
+            "score": 100
+          },
+          {
+            "answer": "坐飞机。",
+            "score": 100
+          },
+          {
+            "answer": "我去北京坐飞机。",
+            "score": 0
+          },
+          {
+            "answer": "我坐火车去北京。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        57
+      ]
+    },
+    {
+      "id": "hsk1-10-e08",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Ngày mai bạn quay lại nhé'?",
+      "options": [
+        "你明天再来吧。",
+        "你明天来再吧。",
+        "你再明天来吧。"
+      ],
+      "answer": 0,
+      "explainVi": "「再」 đứng sau từ chỉ thời gian, ngay trước động từ.",
+      "grammar": [
+        18
+      ]
+    },
+    {
+      "id": "hsk1-10-e09",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我想",
+      "after": "看一下。",
+      "answers": [
+        "再"
+      ],
+      "options": [
+        "再",
+        "在",
+        "了"
+      ],
+      "vi": "Tôi muốn xem lại một chút.",
+      "explainVi": "「再」 (lại, nữa) và 「在」 (ở) đọc giống nhau: zài. Ở đây cần nghĩa 'lại'.",
+      "grammar": [
+        18
+      ]
+    },
+    {
+      "id": "hsk1-10-e10",
+      "type": "order",
+      "vi": "Ngày mai chúng ta lại đi nhé.",
+      "tiles": [
+        "再",
+        "明天",
+        "我们",
+        "吧",
+        "去"
+      ],
+      "answers": [
+        "我们明天再去吧",
+        "明天我们再去吧"
+      ],
+      "grammar": [
+        18
+      ]
+    },
+    {
+      "id": "hsk1-10-e11",
+      "type": "translate",
+      "vi": "Ngày mai tôi lại đến.",
+      "answers": [
+        "[我明天|明天我]再来。"
+      ],
+      "examples": [
+        {
+          "answer": "我明天再来。",
+          "score": 100
+        },
+        {
+          "answer": "明天我再来。",
+          "score": 100
+        },
+        {
+          "answer": "我明天在来。",
+          "score": 95,
+          "issues": [
+            "homophone_char"
+          ]
+        },
+        {
+          "answer": "我明天来再。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        18
+      ]
+    },
+    {
+      "id": "hsk1-10-e12",
+      "type": "choice",
+      "promptVi": "Chọn trợ từ thích hợp. (Chúng ta đi taxi nhé.)",
+      "zh": "我们坐出租车去＿。",
+      "options": [
+        "吧",
+        "吗",
+        "呢"
+      ],
+      "answer": 0,
+      "explainVi": "Rủ rê, đề nghị dùng 「吧」, giống 'nhé' của tiếng Việt.",
+      "grammar": [
+        26
+      ]
+    },
+    {
+      "id": "hsk1-10-e13",
+      "type": "fill",
+      "promptVi": "Điền trợ từ thích hợp.",
+      "before": "我坐火车去，你",
+      "after": "？",
+      "answers": [
+        "呢"
+      ],
+      "options": [
+        "呢",
+        "吗",
+        "吧"
+      ],
+      "vi": "Tôi đi tàu hỏa, còn bạn?",
+      "grammar": [
+        26
+      ]
+    },
+    {
+      "id": "hsk1-10-e14",
+      "type": "choice",
+      "promptVi": "Câu hỏi nào đúng?",
+      "options": [
+        "你怎么去超市？",
+        "你怎么去超市吗？",
+        "你去超市怎么？"
+      ],
+      "answer": 0,
+      "explainVi": "Câu có 「怎么」 không thêm 「吗」; 「怎么」 đứng trước động từ.",
+      "grammar": [
+        26
+      ]
+    },
+    {
+      "id": "hsk1-10-e15",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "我坐飞机去上海，你呢？",
+        "promptVi": "Tôi đi máy bay đến Thượng Hải, còn bạn? (Giả sử bạn đi tàu hỏa.)",
+        "answers": [
+          "(我)坐火车(去上海)。",
+          "(我)坐火车去。"
+        ],
+        "examples": [
+          {
+            "answer": "我坐火车去上海。",
+            "score": 100
+          },
+          {
+            "answer": "坐火车。",
+            "score": 100
+          },
+          {
+            "answer": "我坐火车去。",
+            "score": 100
+          },
+          {
+            "answer": "我坐飞机去上海。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        26,
+        57
+      ]
+    },
+    {
+      "id": "hsk1-10-e16",
+      "type": "translate",
+      "vi": "Chúng ta về nhà nhé!",
+      "answers": [
+        "我们回家吧！"
+      ],
+      "examples": [
+        {
+          "answer": "我们回家吧！",
+          "score": 100
+        },
+        {
+          "answer": "我们回家。",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "我们回家吗？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        26
+      ]
+    },
+    {
+      "id": "hsk1-10-e17",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Hôm qua tôi đã mua ba quyển sách.)",
+      "options": [
+        "我昨天买了三本书。",
+        "我昨天了买三本书。",
+        "了我昨天买三本书。"
+      ],
+      "answer": 0,
+      "explainVi": "「了」 đứng ngay sau động từ 「买」, không đứng trước như chữ 'đã'.",
+      "grammar": [
+        62
+      ]
+    },
+    {
+      "id": "hsk1-10-e18",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "他吃",
+      "after": "两个包子。",
+      "answers": [
+        "了"
+      ],
+      "options": [
+        "了",
+        "吗",
+        "再"
+      ],
+      "vi": "Cậu ấy đã ăn hai cái bánh bao.",
+      "grammar": [
+        62
+      ]
+    },
+    {
+      "id": "hsk1-10-e19",
+      "type": "order",
+      "vi": "Hôm qua mẹ đã mua một chiếc điện thoại mới.",
+      "tiles": [
+        "买了",
+        "妈妈",
+        "一个",
+        "昨天",
+        "新手机"
+      ],
+      "answers": [
+        "妈妈昨天买了一个新手机",
+        "昨天妈妈买了一个新手机"
+      ],
+      "grammar": [
+        62
+      ]
+    },
+    {
+      "id": "hsk1-10-e20",
+      "type": "translate",
+      "vi": "Hôm nay bạn ăn sáng chưa?",
+      "answers": [
+        "[你今天|今天你]吃早饭了[吗|没有]？"
+      ],
+      "examples": [
+        {
+          "answer": "你今天吃早饭了吗？",
+          "score": 100
+        },
+        {
+          "answer": "今天你吃早饭了没有？",
+          "score": 100
+        },
+        {
+          "answer": "你今天吃早饭吗？",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "你今天没有吃早饭。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        62
+      ]
+    },
+    {
+      "id": "hsk1-10-e21",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你昨天买了什么？",
+        "promptVi": "Hôm qua bạn đã mua gì? (Giả sử bạn đã mua hai quyển sách.)",
+        "answers": [
+          "(我)(昨天)买了两本书。",
+          "两本书。"
+        ],
+        "examples": [
+          {
+            "answer": "我昨天买了两本书。",
+            "score": 100
+          },
+          {
+            "answer": "两本书。",
+            "score": 100
+          },
+          {
+            "answer": "我买了二本书。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "我买了三本书。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        62
+      ]
+    },
+    {
+      "id": "hsk1-10-e22",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "车里有几个人？",
+        "promptVi": "Trong xe có mấy người?",
+        "picture": "🚗 👨 👩 👧",
+        "expected": {
+          "number": 3,
+          "noun": "人",
+          "sentence": "车里有三个人。"
+        },
+        "examples": [
+          {
+            "answer": "车里有三个人。",
+            "score": 100
+          },
+          {
+            "answer": "三个人。",
+            "score": 100
+          },
+          {
+            "answer": "车里有两个人。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-10-e23",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "大卫在哪儿？",
+        "promptVi": "David ở đâu? (Trong hình: David đang ngồi trên máy bay.)",
+        "picture": "✈️ 🧑",
+        "expected": {
+          "places": [
+            "飞机"
+          ],
+          "localizer": "上",
+          "sentence": "大卫在飞机上。"
+        },
+        "examples": [
+          {
+            "answer": "他在飞机上。",
+            "score": 100
+          },
+          {
+            "answer": "在飞机上。",
+            "score": 100
+          },
+          {
+            "answer": "他在飞机。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "他在家。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-10-e24",
+      "type": "choice",
+      "promptVi": "Bạn đang ở Hà Nội và mời bạn mình đến chơi. Bạn nói:",
+      "options": [
+        "你来河内吧！",
+        "你去河内吧！",
+        "你回河内吧！"
+      ],
+      "answer": 0,
+      "explainVi": "Đi về phía người nói dùng 「来」.",
+      "grammar": [
+        26
+      ]
+    }
+  ]
+}

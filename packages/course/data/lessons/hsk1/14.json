@@ -1,0 +1,1135 @@
+{
+  "id": "hsk1-14",
+  "goalsVi": [
+    "Nói về trường lớp: tiểu học, trung học, đại học, giờ học, đi học, tan học",
+    "Nói vị trí bằng cụm 'danh từ + phương vị từ': 桌子上, 学校里, 学校外边",
+    "Đặt thời gian và nơi chốn trước động từ: 我明天在家学习",
+    "Bổ sung thêm một việc với 「……，还……」"
+  ],
+  "words": [
+    {
+      "no": 250,
+      "word": "学校",
+      "meaningsVi": [
+        "trường học, trường"
+      ],
+      "noteVi": "「学校」 tự nó đã là nơi chốn: nói 「在学校」 là đủ, thêm 「里」 (在学校里) cũng được.",
+      "examples": [
+        {
+          "zh": "我们学校很大。",
+          "py": "wǒ men xué xiào hěn dà",
+          "vi": "Trường chúng tôi rất rộng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 27,
+      "word": "大学",
+      "meaningsVi": [
+        "trường đại học",
+        "đại học (bậc học)"
+      ],
+      "noteVi": "'Học đại học' là 「上大学」.",
+      "examples": [
+        {
+          "zh": "我姐姐在北京上大学。",
+          "py": "wǒ jiě jie zài běi jīng shàng dà xué",
+          "vi": "Chị tôi học đại học ở Bắc Kinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 28,
+      "word": "大学生",
+      "meaningsVi": [
+        "sinh viên (đại học)"
+      ],
+      "examples": [
+        {
+          "zh": "我哥哥是大学生。",
+          "py": "wǒ gē ge shì dà xué shēng",
+          "vi": "Anh trai tôi là sinh viên."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 237,
+      "word": "小学",
+      "meaningsVi": [
+        "trường tiểu học",
+        "tiểu học (bậc học)"
+      ],
+      "noteVi": "Tương đương cấp 1 ở Việt Nam. 'Vào lớp 1, học tiểu học' là 「上小学」.",
+      "examples": [
+        {
+          "zh": "我弟弟今年上小学。",
+          "py": "wǒ dì di jīn nián shàng xiǎo xué",
+          "vi": "Năm nay em trai tôi vào tiểu học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 238,
+      "word": "小学生",
+      "meaningsVi": [
+        "học sinh tiểu học"
+      ],
+      "examples": [
+        {
+          "zh": "他儿子是小学生。",
+          "py": "tā ér zi shì xiǎo xué shēng",
+          "vi": "Con trai anh ấy là học sinh tiểu học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 292,
+      "word": "中学",
+      "meaningsVi": [
+        "trường trung học",
+        "trung học (bậc học)"
+      ],
+      "noteVi": "「中学」 gồm cả cấp 2 và cấp 3 của Việt Nam.",
+      "examples": [
+        {
+          "zh": "我妈妈是中学老师。",
+          "py": "wǒ mā ma shì zhōng xué lǎo shī",
+          "vi": "Mẹ tôi là giáo viên trung học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 293,
+      "word": "中学生",
+      "meaningsVi": [
+        "học sinh trung học"
+      ],
+      "examples": [
+        {
+          "zh": "他们都是中学生。",
+          "py": "tā men dōu shì zhōng xué shēng",
+          "vi": "Họ đều là học sinh trung học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 235,
+      "word": "小朋友",
+      "meaningsVi": [
+        "bé, cháu, các em nhỏ (cách gọi trẻ em thân mật)"
+      ],
+      "noteVi": "Người lớn gọi trẻ em là 「小朋友」, kể cả trẻ em mình không quen. Không có nghĩa là 'người bạn nhỏ tuổi hơn mình'.",
+      "examples": [
+        {
+          "zh": "小朋友，你几岁了？",
+          "py": "xiǎo péng yǒu nǐ jǐ suì le",
+          "vi": "Bé ơi, cháu mấy tuổi rồi?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 103,
+      "word": "课",
+      "meaningsVi": [
+        "giờ học, tiết học",
+        "bài học, môn học"
+      ],
+      "noteVi": "「汉语课」 là giờ (môn) tiếng Trung. Lượng từ của 「课」 là 「节」, 「门」 (sẽ học sau), không nói 「个课」.",
+      "examples": [
+        {
+          "zh": "今天下午有汉语课吗？",
+          "py": "jīn tiān xià wǔ yǒu hàn yǔ kè ma",
+          "vi": "Chiều nay có giờ tiếng Trung không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 177,
+      "word": "上课",
+      "meaningsVi": [
+        "vào học, lên lớp",
+        "dạy (nói về giáo viên)"
+      ],
+      "noteVi": "Dùng cho cả học sinh và giáo viên. Đây là động từ ly hợp (bài 15).",
+      "examples": [
+        {
+          "zh": "我们八点上课。",
+          "py": "wǒ men bā diǎn shàng kè",
+          "vi": "Chúng tôi vào học lúc 8 giờ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 228,
+      "word": "下课",
+      "meaningsVi": [
+        "tan học, hết giờ học"
+      ],
+      "examples": [
+        {
+          "zh": "下课了，我们去吃饭吧。",
+          "py": "xià kè le wǒ men qù chī fàn ba",
+          "vi": "Tan học rồi, chúng mình đi ăn cơm đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 179,
+      "word": "上学",
+      "meaningsVi": [
+        "đi học (đến trường)"
+      ],
+      "noteVi": "「上学」 là đi học nói chung (đến trường mỗi ngày, đang là học sinh); 「上课」 là vào một giờ học cụ thể.",
+      "examples": [
+        {
+          "zh": "我弟弟早上七点去上学。",
+          "py": "wǒ dì di zǎo shang qī diǎn qù shàng xué",
+          "vi": "Em trai tôi đi học lúc 7 giờ sáng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 249,
+      "word": "学习",
+      "meaningsVi": [
+        "học, học tập"
+      ],
+      "noteVi": "「学」 và 「学习」 đều là học. 「学习」 hay đứng một mình (他在学习); 「学」 hay đi với một tân ngữ ngắn (学汉语, 学写字).",
+      "examples": [
+        {
+          "zh": "我在大学学习汉语。",
+          "py": "wǒ zài dà xué xué xí hàn yǔ",
+          "vi": "Tôi học tiếng Trung ở trường đại học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 42,
+      "word": "读",
+      "meaningsVi": [
+        "đọc (thành tiếng)",
+        "học (ở trường)"
+      ],
+      "noteVi": "「读」 thường là đọc to thành tiếng. Đọc sách (đọc thầm) thường nói 「看书」.",
+      "examples": [
+        {
+          "zh": "这个汉字怎么读？",
+          "py": "zhè ge hàn zì zěn me dú",
+          "vi": "Chữ Hán này đọc thế nào?"
+        },
+        {
+          "zh": "请读一下这个字。",
+          "py": "qǐng dú yí xià zhè ge zì",
+          "vi": "Mời bạn đọc chữ này."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 43,
+      "word": "读书",
+      "meaningsVi": [
+        "đọc sách",
+        "đi học (theo học ở trường)"
+      ],
+      "noteVi": "「读书」 hay dùng với nghĩa đang đi học, đang là học sinh, sinh viên: 他在北京读书.",
+      "examples": [
+        {
+          "zh": "我姐姐在北京读书。",
+          "py": "wǒ jiě jie zài běi jīng dú shū",
+          "vi": "Chị tôi đang đi học ở Bắc Kinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 240,
+      "word": "写",
+      "meaningsVi": [
+        "viết"
+      ],
+      "examples": [
+        {
+          "zh": "你会写这个字吗？",
+          "py": "nǐ huì xiě zhè ge zì ma",
+          "vi": "Bạn có biết viết chữ này không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 296,
+      "word": "字",
+      "meaningsVi": [
+        "chữ",
+        "chữ viết (nét chữ)"
+      ],
+      "noteVi": "「写字」 là viết chữ. 「他的字很好看」 là chữ (nét chữ) của anh ấy rất đẹp.",
+      "examples": [
+        {
+          "zh": "他的字很好看。",
+          "py": "tā de zì hěn hǎo kàn",
+          "vi": "Chữ của anh ấy rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 70,
+      "word": "汉字",
+      "meaningsVi": [
+        "chữ Hán"
+      ],
+      "examples": [
+        {
+          "zh": "我会写一些汉字。",
+          "py": "wǒ huì xiě yì xiē hàn zì",
+          "vi": "Tôi biết viết một ít chữ Hán."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 256,
+      "word": "一点儿",
+      "meaningsVi": [
+        "một chút, một ít"
+      ],
+      "noteVi": "「一点儿」 đứng **trước danh từ**: 说一点儿汉语 (nói một chút tiếng Trung). Tiếng Việt đặt 'một chút' ở cuối câu, tiếng Trung thì không. Đừng nhầm với 「有点儿」 (bài 11) đứng trước tính từ: 有点儿冷.",
+      "examples": [
+        {
+          "zh": "我会说一点儿汉语。",
+          "py": "wǒ huì shuō yì diǎn r hàn yǔ",
+          "vi": "Tôi biết nói một chút tiếng Trung."
+        },
+        {
+          "zh": "我想喝一点儿水。",
+          "py": "wǒ xiǎng hē yì diǎn r shuǐ",
+          "vi": "Tôi muốn uống một chút nước."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 34,
+      "titleVi": "Cụm phương vị: danh từ + 上/里/外/前/后…",
+      "summaryVi": "Danh từ + phương vị từ chỉ vị trí: 桌子上 (trên bàn), 学校里 (trong trường), ngược thứ tự với tiếng Việt.",
+      "explanationVi": [
+        "Cụm phương vị gồm **danh từ + phương vị từ** (上, 下, 里, 外, 前, 后, 外边, 前边…): 桌子上 (trên bàn), 学校里 (trong trường), 商店外边 (bên ngoài cửa hàng). Tiếng Việt đặt 'trên', 'trong' **trước** danh từ; tiếng Trung đặt phương vị từ **sau** danh từ.",
+        "Cụm phương vị dùng như một từ chỉ nơi chốn: sau 「在」 (书在桌子上), làm chủ ngữ của câu 「有」 (桌子上有两本书), hoặc cùng 「在」 đứng trước động từ (我们在学校里学习).",
+        "Đồ vật như 「桌子」, 「椅子」 muốn chỉ nơi chốn thì phải có phương vị từ: 在椅子上, không nói 在椅子. Tên nước, tên thành phố không thêm 「里」: 在北京, 在河内. Nơi chốn như 「家」, 「学校」 thì có hay không có 「里」 đều được.",
+        "「前」, 「后」 còn đứng sau một việc để chỉ thời gian: 上课前 (trước giờ học), 下课后 (sau giờ học)."
+      ],
+      "patterns": [
+        "Danh từ + 上/下/里/外/前/后(边)",
+        "在 + danh từ + phương vị từ",
+        "Danh từ + phương vị từ + 有 + …"
+      ],
+      "examples": [
+        {
+          "zh": "你的书在桌子上。",
+          "py": "nǐ de shū zài zhuō zi shàng",
+          "vi": "Sách của bạn ở trên bàn."
+        },
+        {
+          "zh": "学校前边有一个商店。",
+          "py": "xué xiào qián biān yǒu yí gè shāng diàn",
+          "vi": "Phía trước trường có một cửa hàng."
+        },
+        {
+          "zh": "电影院里有很多人。",
+          "py": "diàn yǐng yuàn lǐ yǒu hěn duō rén",
+          "vi": "Trong rạp chiếu phim có rất nhiều người."
+        },
+        {
+          "zh": "下课后，我们去吃饭。",
+          "py": "xià kè hòu wǒ men qù chī fàn",
+          "vi": "Sau giờ học, chúng tôi đi ăn cơm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "书在上桌子。",
+          "right": "书在桌子上。",
+          "noteVi": "Tiếng Việt nói 'trên bàn', tiếng Trung nói 「桌子上」: phương vị từ đứng sau danh từ.",
+          "issue": "localizer_order"
+        },
+        {
+          "wrong": "手机在椅子。",
+          "right": "手机在椅子上。",
+          "noteVi": "「椅子」 là đồ vật, muốn chỉ chỗ thì phải thêm phương vị từ.",
+          "issue": "missing_localizer"
+        },
+        {
+          "wrong": "他在北京里读书。",
+          "right": "他在北京读书。",
+          "noteVi": "Tên thành phố, tên nước không thêm 「里」.",
+          "issue": "extra_localizer"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 40,
+      "titleVi": "Trạng ngữ đứng trước động từ: thời gian, nơi chốn, phó từ, tính từ",
+      "summaryVi": "Phần nói 'khi nào, ở đâu, thế nào' đứng trước động từ: 我明天在家学习。",
+      "explanationVi": [
+        "Trạng ngữ là phần cho biết hành động xảy ra **khi nào, ở đâu, như thế nào**. Trong tiếng Trung, trạng ngữ đứng **trước động từ**, không đứng cuối câu như nhiều câu tiếng Việt.",
+        "Từ chỉ thời gian (今天, 明天, 八点, 晚上…) đứng sau chủ ngữ hoặc ở đầu câu: 我八点上课, 八点我上课. Tiếng Việt nói 'Tôi vào học lúc 8 giờ', nhưng tiếng Trung không nói 「我上课八点」.",
+        "「在 + nơi chốn」 cũng đứng trước động từ: 我在学校学习 (Tôi học ở trường), không nói 「我学习在学校」. Có cả thời gian và nơi chốn thì thứ tự thường là: **chủ ngữ + thời gian + 在 + nơi chốn + động từ**: 我明天在家学习.",
+        "Phó từ (很, 都, 也, 不, 再…) và một số tính từ như 「多」, 「少」 cũng đứng trước động từ: 你要多写汉字 (Bạn phải viết chữ Hán nhiều vào)."
+      ],
+      "patterns": [
+        "Chủ ngữ + thời gian + 在 + nơi chốn + động từ (+ tân ngữ)",
+        "Thời gian + chủ ngữ + động từ (+ tân ngữ)",
+        "Chủ ngữ + phó từ/tính từ + động từ (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "我明天在家学习。",
+          "py": "wǒ míng tiān zài jiā xué xí",
+          "vi": "Ngày mai tôi học ở nhà."
+        },
+        {
+          "zh": "我们下午两点上课。",
+          "py": "wǒ men xià wǔ liǎng diǎn shàng kè",
+          "vi": "Chúng tôi vào học lúc 2 giờ chiều."
+        },
+        {
+          "zh": "他在大学学习汉语。",
+          "py": "tā zài dà xué xué xí hàn yǔ",
+          "vi": "Anh ấy học tiếng Trung ở trường đại học."
+        },
+        {
+          "zh": "你要多写汉字。",
+          "py": "nǐ yào duō xiě hàn zì",
+          "vi": "Bạn phải viết chữ Hán nhiều vào."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我学习汉语在大学。",
+          "right": "我在大学学习汉语。",
+          "noteVi": "Tiếng Việt nói 'học tiếng Trung ở trường đại học', nhưng tiếng Trung đặt 「在大学」 trước động từ.",
+          "issue": "place_order"
+        },
+        {
+          "wrong": "我们上课八点。",
+          "right": "我们八点上课。",
+          "noteVi": "Giờ giấc đứng trước động từ, không đứng cuối câu."
+        },
+        {
+          "wrong": "我看书在家晚上。",
+          "right": "我晚上在家看书。",
+          "noteVi": "Thứ tự là: chủ ngữ, thời gian (晚上), nơi chốn (在家), rồi mới đến động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 61,
+      "titleVi": "Câu ghép với 「还」: …, còn … nữa",
+      "summaryVi": "Vế sau dùng 「还」 để thêm một việc nữa: 我会说汉语，还会写汉字。",
+      "explanationVi": [
+        "「还」 (bài 9) đặt ở vế sau để **bổ sung thêm** một việc, giống 'còn … nữa', 'ngoài ra còn' trong tiếng Việt: 我会说汉语，还会写汉字 (Tôi biết nói tiếng Trung, còn biết viết chữ Hán nữa).",
+        "Giống 「也」, 「还」 đứng **trước động từ** (sau chủ ngữ nếu có): 他学汉语，还学英语. Không đặt 「还」 ở đầu vế câu, trước chủ ngữ.",
+        "「也」 nhấn mạnh 'giống nhau' (cũng), 「还」 nhấn mạnh 'thêm vào' (còn … nữa). Chú ý: chữ 'còn' dùng để so sánh hai người, như 'Tôi học tiếng Trung, còn em tôi học tiếng Anh', **không** dịch bằng 「还」; tiếng Trung chỉ cần đặt hai vế cạnh nhau: 我学汉语，我妹妹学英语."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ 1 …，还 + động từ 2 …"
+      ],
+      "examples": [
+        {
+          "zh": "我会说汉语，还会写汉字。",
+          "py": "wǒ huì shuō hàn yǔ hái huì xiě hàn zì",
+          "vi": "Tôi biết nói tiếng Trung, còn biết viết chữ Hán nữa."
+        },
+        {
+          "zh": "他学汉语，还学英语。",
+          "py": "tā xué hàn yǔ hái xué yīng yǔ",
+          "vi": "Anh ấy học tiếng Trung, còn học cả tiếng Anh."
+        },
+        {
+          "zh": "我们学校很大，还很漂亮。",
+          "py": "wǒ men xué xiào hěn dà hái hěn piào liang",
+          "vi": "Trường chúng tôi rất rộng, lại còn rất đẹp."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我会说汉语，还我会写汉字。",
+          "right": "我会说汉语，还会写汉字。",
+          "noteVi": "「还」 đứng trước động từ, không đứng trước chủ ngữ 「我」."
+        },
+        {
+          "wrong": "我学汉语，还我妹妹学英语。",
+          "right": "我学汉语，我妹妹学英语。",
+          "noteVi": "'Còn' dùng để so sánh hai người không dịch bằng 「还」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-14-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa.",
+      "pairs": [
+        [
+          "学校",
+          "trường học"
+        ],
+        [
+          "大学",
+          "đại học"
+        ],
+        [
+          "小学",
+          "tiểu học"
+        ],
+        [
+          "中学",
+          "trung học"
+        ],
+        [
+          "汉字",
+          "chữ Hán"
+        ],
+        [
+          "课",
+          "giờ học, bài học"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-14-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa.",
+      "pairs": [
+        [
+          "上课",
+          "vào học"
+        ],
+        [
+          "下课",
+          "tan học"
+        ],
+        [
+          "上学",
+          "đi học (đến trường)"
+        ],
+        [
+          "读",
+          "đọc"
+        ],
+        [
+          "写",
+          "viết"
+        ],
+        [
+          "小学生",
+          "học sinh tiểu học"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-14-e03",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi biết nói một chút tiếng Trung.)",
+      "options": [
+        "我会说一点儿汉语。",
+        "我会说汉语一点儿。",
+        "我一点儿会说汉语。"
+      ],
+      "answer": 0,
+      "explainVi": "「一点儿」 đứng trước danh từ 「汉语」, không đứng cuối câu như 'một chút' trong tiếng Việt."
+    },
+    {
+      "id": "hsk1-14-e04",
+      "type": "choice",
+      "promptVi": "「我姐姐在北京读书。」 Ở đây 「读书」 nghĩa là gì?",
+      "options": [
+        "đi học",
+        "bán sách",
+        "viết sách"
+      ],
+      "answer": 0,
+      "explainVi": "「读书」 có nghĩa là đọc sách, nhưng cũng hay dùng với nghĩa đang đi học."
+    },
+    {
+      "id": "hsk1-14-e05",
+      "type": "choice",
+      "promptVi": "Cách nói nào nghĩa là 'trên bàn'?",
+      "options": [
+        "桌子上",
+        "上桌子",
+        "桌子"
+      ],
+      "answer": 0,
+      "explainVi": "Phương vị từ 「上」 đứng sau danh từ.",
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e06",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "你的手机在椅子",
+      "after": "。",
+      "answers": [
+        "上"
+      ],
+      "options": [
+        "上",
+        "在",
+        "有"
+      ],
+      "vi": "Điện thoại của bạn ở trên ghế.",
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e07",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "学校",
+      "after": "有一个商店。",
+      "answers": [
+        "前边"
+      ],
+      "options": [
+        "前边",
+        "在",
+        "是"
+      ],
+      "vi": "Phía trước trường có một cửa hàng.",
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e08",
+      "type": "order",
+      "vi": "Trong rạp chiếu phim có rất nhiều người.",
+      "tiles": [
+        "有",
+        "电影院",
+        "很多",
+        "里",
+        "人"
+      ],
+      "answers": [
+        "电影院里有很多人"
+      ],
+      "explainVi": "「电影院里」 (trong rạp) đứng đầu câu, rồi đến 「有」.",
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e09",
+      "type": "order",
+      "vi": "Tôi học tiếng Trung ở trường.",
+      "tiles": [
+        "学习",
+        "学校",
+        "我",
+        "汉语",
+        "在"
+      ],
+      "answers": [
+        "我在学校学习汉语"
+      ],
+      "explainVi": "「在 + nơi chốn」 đứng trước động từ.",
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e10",
+      "type": "order",
+      "vi": "Ngày mai tôi ở nhà viết chữ Hán.",
+      "tiles": [
+        "写",
+        "在家",
+        "明天",
+        "汉字",
+        "我"
+      ],
+      "answers": [
+        "我明天在家写汉字",
+        "明天我在家写汉字"
+      ],
+      "explainVi": "Thời gian rồi đến nơi chốn, cả hai đứng trước động từ.",
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e11",
+      "type": "order",
+      "vi": "Sau giờ học, chúng tôi đi hiệu sách.",
+      "tiles": [
+        "去",
+        "后",
+        "我们",
+        "书店",
+        "下课"
+      ],
+      "answers": [
+        "下课后我们去书店",
+        "我们下课后去书店"
+      ],
+      "explainVi": "「下课后」 (sau giờ học) chỉ thời gian nên đứng trước động từ.",
+      "grammar": [
+        34,
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e12",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chúng tôi vào học lúc 8 giờ.)",
+      "options": [
+        "我们八点上课。",
+        "我们上课八点。",
+        "我们上课在八点。"
+      ],
+      "answer": 0,
+      "explainVi": "Giờ giấc đứng trước động từ.",
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e13",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bạn phải viết chữ Hán nhiều vào.)",
+      "options": [
+        "你要多写汉字。",
+        "你要写汉字多。",
+        "你多要写汉字。"
+      ],
+      "answer": 0,
+      "explainVi": "「多」 làm trạng ngữ, đứng ngay trước động từ 「写」.",
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e14",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我会说汉语，",
+      "after": "会写汉字。",
+      "answers": [
+        "还"
+      ],
+      "options": [
+        "还",
+        "呢",
+        "吗"
+      ],
+      "vi": "Tôi biết nói tiếng Trung, còn biết viết chữ Hán nữa.",
+      "grammar": [
+        61
+      ]
+    },
+    {
+      "id": "hsk1-14-e15",
+      "type": "order",
+      "vi": "Anh ấy học tiếng Trung, còn học cả tiếng Anh.",
+      "tiles": [
+        "学",
+        "还",
+        "他",
+        "英语",
+        "汉语",
+        "学"
+      ],
+      "answers": [
+        "他学汉语还学英语"
+      ],
+      "explainVi": "「还」 đứng trước động từ thứ hai.",
+      "grammar": [
+        61
+      ]
+    },
+    {
+      "id": "hsk1-14-e16",
+      "type": "choice",
+      "promptVi": "Chọn câu dịch đúng: 'Tôi học tiếng Trung, còn em gái tôi học tiếng Anh.'",
+      "options": [
+        "我学汉语，我妹妹学英语。",
+        "我学汉语，还我妹妹学英语。",
+        "我学汉语，还学英语。"
+      ],
+      "answer": 0,
+      "explainVi": "'Còn' ở đây dùng để so sánh hai người nên không dịch bằng 「还」. Câu 「我学汉语，还学英语」 nghĩa là 'Tôi học tiếng Trung, còn học cả tiếng Anh'.",
+      "grammar": [
+        61
+      ]
+    },
+    {
+      "id": "hsk1-14-e17",
+      "type": "translate",
+      "vi": "Tôi học tiếng Trung ở trường đại học.",
+      "answers": [
+        "我在大学学(习)[汉语|中文]。"
+      ],
+      "examples": [
+        {
+          "answer": "我在大学学习汉语。",
+          "score": 100
+        },
+        {
+          "answer": "我在大学学中文。",
+          "score": 100
+        },
+        {
+          "answer": "我学习汉语在大学。",
+          "score": 80,
+          "issues": [
+            "place_order"
+          ]
+        },
+        {
+          "answer": "我在中学学习汉语。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e18",
+      "type": "translate",
+      "vi": "Ngày mai tôi học ở nhà.",
+      "answers": [
+        "[我明天|明天我]在家(里)学习。"
+      ],
+      "examples": [
+        {
+          "answer": "我明天在家学习。",
+          "score": 100
+        },
+        {
+          "answer": "明天我在家里学习。",
+          "score": 100
+        },
+        {
+          "answer": "我明天学习在家。",
+          "score": 80,
+          "issues": [
+            "place_order"
+          ]
+        },
+        {
+          "answer": "我今天在家学习。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e19",
+      "type": "translate",
+      "vi": "Tôi biết nói tiếng Trung, còn biết viết chữ Hán nữa.",
+      "answers": [
+        "我会说[汉语|中文]，(我)还会写汉字。",
+        {
+          "text": "我会说[汉语|中文]，(我)也会写汉字。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "我会说汉语，还会写汉字。",
+          "score": 100
+        },
+        {
+          "answer": "我会说中文，我还会写汉字。",
+          "score": 100
+        },
+        {
+          "answer": "我会说汉语，也会写汉字。",
+          "score": 90,
+          "note": "Đúng, nhưng 'còn … nữa' dịch bằng 「还」 sát nghĩa hơn"
+        },
+        {
+          "answer": "我会说汉语，还我会写汉字。",
+          "score": 70,
+          "issues": [
+            "extra_word",
+            "missing_word"
+          ],
+          "note": "「还」 phải đứng sau chủ ngữ, trước động từ"
+        },
+        {
+          "answer": "我会说汉语，不会写汉字。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        61
+      ]
+    },
+    {
+      "id": "hsk1-14-e20",
+      "type": "translate",
+      "vi": "Phía trước trường có một cửa hàng.",
+      "answers": [
+        "学校前(边)有一[个|家]商店。"
+      ],
+      "examples": [
+        {
+          "answer": "学校前边有一个商店。",
+          "score": 100
+        },
+        {
+          "answer": "学校前有一家商店。",
+          "score": 100
+        },
+        {
+          "answer": "学校后边有一个商店。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e21",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你在哪儿学习汉语？",
+        "promptVi": "Bạn học tiếng Trung ở đâu? (Trả lời về bản thân bạn: nơi nào cũng được.)",
+        "expected": {
+          "sentence": "我在学校学习汉语。"
+        },
+        "examples": [
+          {
+            "answer": "我在学校学习汉语。",
+            "score": 100
+          },
+          {
+            "answer": "在家。",
+            "score": 100
+          },
+          {
+            "answer": "我在大学学汉语。",
+            "score": 100
+          },
+          {
+            "answer": "我学习汉语在学校。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ]
+          }
+        ]
+      },
+      "grammar": [
+        40
+      ]
+    },
+    {
+      "id": "hsk1-14-e22",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你的手机在哪儿？",
+        "promptVi": "Điện thoại của bạn ở đâu? (Trong hình: điện thoại ở trên bàn.)",
+        "picture": "📱",
+        "expected": {
+          "places": [
+            "桌子"
+          ],
+          "localizer": "上",
+          "sentence": "我的手机在桌子上。"
+        },
+        "examples": [
+          {
+            "answer": "我的手机在桌子上。",
+            "score": 100
+          },
+          {
+            "answer": "在桌子上。",
+            "score": 100
+          },
+          {
+            "answer": "手机在上桌子。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "手机在桌子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "手机在椅子上。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e23",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几本书？",
+        "promptVi": "Trên bàn có mấy quyển sách?",
+        "picture": "📕📗",
+        "expected": {
+          "number": 2,
+          "noun": "书",
+          "sentence": "桌子上有两本书。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有两本书。",
+            "score": 100
+          },
+          {
+            "answer": "有两本。",
+            "score": 100
+          },
+          {
+            "answer": "有二本书。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "有两个书。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有三本书。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        34
+      ]
+    },
+    {
+      "id": "hsk1-14-e24",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你会说汉语吗？",
+        "promptVi": "Bạn biết nói tiếng Trung không? (Giả sử bạn biết nói một chút, còn biết viết chữ Hán nữa.)",
+        "answers": [
+          "(会，)(我)会说一点儿(汉语)，还会写(一点儿)汉字。",
+          {
+            "text": "(会，)(我)会说一点儿(汉语)，也会写(一点儿)汉字。",
+            "score": 90
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我会说一点儿汉语，还会写汉字。",
+            "score": 100
+          },
+          {
+            "answer": "会，会说一点儿，还会写一点儿汉字。",
+            "score": 100
+          },
+          {
+            "answer": "我会说一点儿汉语，也会写汉字。",
+            "score": 90
+          },
+          {
+            "answer": "我不会说汉语。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        61
+      ]
+    }
+  ]
+}

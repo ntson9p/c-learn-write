@@ -1,0 +1,991 @@
+{
+  "id": "hsk1-12",
+  "goalsVi": [
+    "Nói mình bị ốm, đi bệnh viện khám bệnh, hỏi bác sĩ",
+    "Phân biệt 「会」 (biết làm) và 「能」 (có thể, có điều kiện)",
+    "Phủ định đúng bằng 「不」, 「没有」 và 「不要」",
+    "Mời, khuyên, nhờ và cấm bằng câu cầu khiến: 请坐！ 你休息一下吧。 不要开车！"
+  ],
+  "words": [
+    {
+      "no": 12,
+      "word": "病",
+      "meaningsVi": [
+        "bệnh",
+        "bị bệnh, ốm"
+      ],
+      "noteVi": "Âm Hán Việt 'bệnh'. Thường đi trong 「生病」 (bị ốm), 「看病」 (khám bệnh). 'Khỏi bệnh' là 「病好了」.",
+      "examples": [
+        {
+          "zh": "你的病好了吗？",
+          "py": "nǐ de bìng hǎo le ma",
+          "vi": "Bệnh của bạn khỏi chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 183,
+      "word": "生病",
+      "meaningsVi": [
+        "bị ốm, bị bệnh"
+      ],
+      "noteVi": "「生病」 là động từ, không cần 「是」: 我生病了 (Tôi bị ốm rồi), không nói 「我是病」.",
+      "examples": [
+        {
+          "zh": "我生病了，今天不能去。",
+          "py": "wǒ shēng bìng le jīn tiān bù néng qù",
+          "vi": "Tôi bị ốm rồi, hôm nay không đi được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 100,
+      "word": "看病",
+      "meaningsVi": [
+        "khám bệnh (bác sĩ khám cho người bệnh)",
+        "đi khám bệnh (người bệnh)"
+      ],
+      "noteVi": "Cả bác sĩ khám bệnh và người bệnh đi khám đều nói 「看病」: 我去医院看病 (Tôi đi bệnh viện khám bệnh). 'Đi bệnh viện' là 「去医院」, không nói 「看医院」.",
+      "examples": [
+        {
+          "zh": "我下午去医院看病。",
+          "py": "wǒ xià wǔ qù yī yuàn kàn bìng",
+          "vi": "Chiều nay tôi đi bệnh viện khám bệnh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 260,
+      "word": "医生",
+      "meaningsVi": [
+        "bác sĩ"
+      ],
+      "noteVi": "Âm Hán Việt 'y sinh'. Gọi bác sĩ bằng họ + 「医生」: 王医生 (bác sĩ Vương).",
+      "examples": [
+        {
+          "zh": "王医生，我能喝茶吗？",
+          "py": "wáng yī shēng wǒ néng hē chá ma",
+          "vi": "Thưa bác sĩ Vương, tôi uống trà được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 261,
+      "word": "医院",
+      "meaningsVi": [
+        "bệnh viện"
+      ],
+      "noteVi": "Âm Hán Việt 'y viện'. 'Ở bệnh viện' là 「在医院」, không cần thêm 「里」.",
+      "examples": [
+        {
+          "zh": "医院在哪儿？",
+          "py": "yī yuàn zài nǎ r",
+          "vi": "Bệnh viện ở đâu?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 246,
+      "word": "休息",
+      "meaningsVi": [
+        "nghỉ, nghỉ ngơi"
+      ],
+      "noteVi": "Nghỉ một lát: 「休息一下」. Âm Hán Việt 'hưu tức'.",
+      "examples": [
+        {
+          "zh": "你生病了，在家休息吧。",
+          "py": "nǐ shēng bìng le zài jiā xiū xi ba",
+          "vi": "Bạn bị ốm rồi, ở nhà nghỉ ngơi đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 15,
+      "word": "不要",
+      "meaningsVi": [
+        "đừng, không được (khuyên, cấm)"
+      ],
+      "noteVi": "「不要」 + động từ dùng để khuyên, cấm: 不要去 (Đừng đi). Khi 「要」 là 'muốn, cần', 「不要」 còn có nghĩa 'không muốn, không cần': 我不要茶 (Tôi không cần trà). 「不」 đọc thanh 2: bú yào.",
+      "examples": [
+        {
+          "zh": "你生病了，不要开车。",
+          "py": "nǐ shēng bìng le bú yào kāi chē",
+          "vi": "Bạn đang ốm, đừng lái xe."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 121,
+      "word": "没事",
+      "meaningsVi": [
+        "không sao, không có gì",
+        "rảnh, không có việc gì"
+      ],
+      "noteVi": "Dùng để trấn an người khác: 「没事，我很好。」 Cũng có nghĩa là rảnh: 我今天没事 (Hôm nay tôi rảnh).",
+      "examples": [
+        {
+          "zh": "你怎么了？——没事，我很好。",
+          "py": "nǐ zěn me le méi shì wǒ hěn hǎo",
+          "vi": "Bạn sao thế? — Không sao, tôi ổn."
+        },
+        {
+          "zh": "我今天没事，你来我家吧。",
+          "py": "wǒ jīn tiān méi shì nǐ lái wǒ jiā ba",
+          "vi": "Hôm nay tôi rảnh, bạn đến nhà tôi chơi đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 145,
+      "word": "能",
+      "meaningsVi": [
+        "có thể, được (có sức, có điều kiện)"
+      ],
+      "noteVi": "「能」 cho biết có thể làm vì có sức, có điều kiện: 我今天能来. Khác 「会」 (biết làm, do học mà có): 我会开车. Âm Hán Việt 'năng' như trong 'năng lực'.",
+      "examples": [
+        {
+          "zh": "你明天能来医院吗？",
+          "py": "nǐ míng tiān néng lái yī yuàn ma",
+          "vi": "Ngày mai bạn đến bệnh viện được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 288,
+      "word": "知道",
+      "meaningsVi": [
+        "biết (một thông tin, một sự việc)"
+      ],
+      "noteVi": "'Biết' của tiếng Việt có hai nghĩa: biết một điều là 「知道」 (我知道他的名字); biết làm, có kỹ năng là 「会」 (我会开车). Phủ định luôn là 「不知道」.",
+      "examples": [
+        {
+          "zh": "我不知道医院在哪儿。",
+          "py": "wǒ bù zhī dào yī yuàn zài nǎ r",
+          "vi": "Tôi không biết bệnh viện ở đâu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 219,
+      "word": "问",
+      "meaningsVi": [
+        "hỏi"
+      ],
+      "noteVi": "「问」 + người + điều muốn hỏi: 我问老师一个问题. 「请问」 (xin hỏi) đã học ở bài 7.",
+      "examples": [
+        {
+          "zh": "你问一下医生吧。",
+          "py": "nǐ wèn yí xià yī shēng ba",
+          "vi": "Bạn hỏi bác sĩ thử xem."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 220,
+      "word": "问题",
+      "meaningsVi": [
+        "câu hỏi",
+        "vấn đề"
+      ],
+      "noteVi": "Âm Hán Việt 'vấn đề', nhưng nghĩa hay dùng nhất là 'câu hỏi'. Lượng từ: 一个问题.",
+      "examples": [
+        {
+          "zh": "老师，我可以问一个问题吗？",
+          "py": "lǎo shī wǒ kě yǐ wèn yí gè wèn tí ma",
+          "vi": "Thưa thầy, em hỏi một câu được không ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 4,
+      "titleVi": "Động từ năng nguyện 「会」 và 「能」",
+      "summaryVi": "「会」 = biết làm (do học mà có); 「能」 = có thể làm (có sức, có điều kiện). Cả hai đứng trước động từ.",
+      "explanationVi": [
+        "「会」 và 「能」 đứng **trước động từ**, giống 'biết', 'có thể' của tiếng Việt. Phủ định: 「不会」, 「不能」. Câu hỏi: 你会开车吗？ / 你能来吗？",
+        "「会」: biết làm một việc **nhờ học, nhờ luyện tập**: 会说汉语, 会开车, 会做饭. Nhưng 'biết' một thông tin (biết tên, biết chỗ) là 「知道」, không phải 「会」: 我知道他的名字.",
+        "「能」: có thể làm vì có **sức, điều kiện, hoàn cảnh** cho phép: 我生病了，今天不能去。 你明天能来吗？ Một người biết lái xe (会开车) nhưng hôm nay bị ốm thì 不能开车.",
+        "Tiếng Việt hay đặt 'được' **sau** động từ: 'lái xe được', 'đến được'. Tiếng Trung đặt 「能」 **trước** động từ: 我能开车, 我能来. (Bài 9 đã học 「可以」: được phép.)"
+      ],
+      "patterns": [
+        "Chủ ngữ + 会/能 + động từ",
+        "Chủ ngữ + 不会/不能 + động từ",
+        "Chủ ngữ + 会/能 + động từ + 吗？"
+      ],
+      "examples": [
+        {
+          "zh": "我会说汉语。",
+          "py": "wǒ huì shuō hàn yǔ",
+          "vi": "Tôi biết nói tiếng Trung."
+        },
+        {
+          "zh": "我妈妈不会开车。",
+          "py": "wǒ mā ma bú huì kāi chē",
+          "vi": "Mẹ tôi không biết lái xe."
+        },
+        {
+          "zh": "他会开车，今天生病了，不能开车。",
+          "py": "tā huì kāi chē jīn tiān shēng bìng le bù néng kāi chē",
+          "vi": "Anh ấy biết lái xe, nhưng hôm nay bị ốm nên không lái được."
+        },
+        {
+          "zh": "你明天能来吗？",
+          "py": "nǐ míng tiān néng lái ma",
+          "vi": "Ngày mai bạn đến được không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我会他的名字。",
+          "right": "我知道他的名字。",
+          "noteVi": "'Biết' một thông tin là 「知道」. 「会」 chỉ dùng cho kỹ năng: 会说, 会开车."
+        },
+        {
+          "wrong": "我开车能。",
+          "right": "我能开车。",
+          "noteVi": "Tiếng Việt nói 'lái xe được', nhưng 「能」 phải đứng trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 20,
+      "titleVi": "Phủ định: 「不」, 「没(有)」 và 「不要」",
+      "summaryVi": "「不」 phủ định ý muốn, thói quen, tương lai, tính chất; 「没(有)」 phủ định việc đã xảy ra và 「有」; 「不要」 = đừng.",
+      "explanationVi": [
+        "Tiếng Việt dùng 'không', 'chưa', 'đừng'; tiếng Trung chia thành 「不」, 「没有」 (nói tắt là 「没」) và 「不要」. Cả ba đứng **trước** động từ hoặc tính từ.",
+        "「不」: phủ định **ý muốn, thói quen, việc ở hiện tại hoặc tương lai**, và tính chất: 我明天不去 (Mai tôi không đi), 我不喝茶 (Tôi không uống trà), 今天不冷. Các từ 「是」, 「知道」, 「会」, 「能」 luôn phủ định bằng 「不」: 不是, 不知道, 不会, 不能.",
+        "「没有」/「没」: phủ định việc **đã không xảy ra** hoặc **chưa xảy ra**: 我昨天没有去 (Hôm qua tôi không đi), 我还没吃饭 (Tôi chưa ăn cơm). Câu phủ định với 「没有」 **không có** 「了」. Động từ 「有」 chỉ phủ định bằng 「没有」, không bao giờ nói 「不有」.",
+        "「不要」 + động từ: khuyên, cấm, giống 'đừng': 不要开车！ Đừng dùng 「不」 hay 「没有」 cho nghĩa này: 「不去」 là 'không đi', 「不要去」 mới là 'đừng đi'."
+      ],
+      "patterns": [
+        "不 + động từ/tính từ",
+        "没(有) + động từ (không có 了)",
+        "没有 + danh từ",
+        "不要 + động từ！"
+      ],
+      "examples": [
+        {
+          "zh": "我明天不去医院。",
+          "py": "wǒ míng tiān bú qù yī yuàn",
+          "vi": "Ngày mai tôi không đi bệnh viện."
+        },
+        {
+          "zh": "我昨天没有去医院。",
+          "py": "wǒ zuó tiān méi yǒu qù yī yuàn",
+          "vi": "Hôm qua tôi không đi bệnh viện."
+        },
+        {
+          "zh": "我还没吃饭。",
+          "py": "wǒ hái méi chī fàn",
+          "vi": "Tôi chưa ăn cơm."
+        },
+        {
+          "zh": "不要问了，我不知道。",
+          "py": "bú yào wèn le wǒ bù zhī dào",
+          "vi": "Đừng hỏi nữa, tôi không biết."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我昨天不去医院。",
+          "right": "我昨天没有去医院。",
+          "noteVi": "Kể một việc đã không xảy ra trong quá khứ thì dùng 「没有」, không dùng 「不」."
+        },
+        {
+          "wrong": "他昨天没有来了。",
+          "right": "他昨天没有来。",
+          "noteVi": "Câu phủ định với 「没有」 không có 「了」."
+        },
+        {
+          "wrong": "我不有时间。",
+          "right": "我没有时间。",
+          "noteVi": "「有」 chỉ phủ định bằng 「没」: 没有.",
+          "issue": "bu_you"
+        },
+        {
+          "wrong": "我没有知道。",
+          "right": "我不知道。",
+          "noteVi": "「知道」 luôn phủ định bằng 「不」: 不知道 (không biết)."
+        }
+      ],
+      "morphemes": [
+        "没"
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 50,
+      "titleVi": "Câu cầu khiến: mời, nhờ, khuyên, cấm",
+      "summaryVi": "Câu cầu khiến dùng để mời, nhờ, khuyên hay cấm: 请坐！ 你休息一下吧。 不要开车！",
+      "explanationVi": [
+        "Câu cầu khiến yêu cầu người nghe làm (hoặc đừng làm) một việc. Chủ ngữ 「你」, 「你们」 có thể bỏ, giống tiếng Việt: 坐！ (Ngồi đi!). Cuối câu dùng 「。」 hoặc 「！」.",
+        "Cho lịch sự, nhẹ nhàng hơn: thêm 「请」 ở đầu để mời (请坐 = mời ngồi, 请喝茶 = mời uống trà); thêm 「吧」 ở cuối để khuyên, rủ, giống 'nhé', 'đi' (你休息一下吧); thêm 「一下」 sau động từ cho nhẹ nhàng (你问一下医生).",
+        "Cấm hoặc khuyên đừng làm: 「不要」 + động từ: 不要开车！ Muốn nói 'đừng … nữa' thì thêm 「了」: 不要问了！",
+        "「请」 (mời, xin mời) khác 「请问」 (xin hỏi): 「请问」 chỉ dùng trước một câu hỏi (请问，医院在哪儿？)."
+      ],
+      "patterns": [
+        "(你) + động từ + (tân ngữ)！",
+        "请 + động từ",
+        "(你) + động từ + 一下 + 吧",
+        "不要 + động từ (+ 了)！"
+      ],
+      "examples": [
+        {
+          "zh": "请坐！请喝茶。",
+          "py": "qǐng zuò qǐng hē chá",
+          "vi": "Mời ngồi! Mời uống trà."
+        },
+        {
+          "zh": "你休息一下吧。",
+          "py": "nǐ xiū xi yí xià ba",
+          "vi": "Bạn nghỉ một lát đi."
+        },
+        {
+          "zh": "请你明天再来。",
+          "py": "qǐng nǐ míng tiān zài lái",
+          "vi": "Mời bạn ngày mai quay lại."
+        },
+        {
+          "zh": "不要开车，坐出租车吧！",
+          "py": "bú yào kāi chē zuò chū zū chē ba",
+          "vi": "Đừng lái xe, đi taxi đi!"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "请问喝茶。",
+          "right": "请喝茶。",
+          "noteVi": "Mời ai làm gì thì dùng 「请」. 「请问」 (xin hỏi) chỉ đứng trước câu hỏi."
+        },
+        {
+          "wrong": "你休息吧一下。",
+          "right": "你休息一下吧。",
+          "noteVi": "「一下」 đứng ngay sau động từ, 「吧」 đứng cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-12-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "医生",
+          "bác sĩ"
+        ],
+        [
+          "医院",
+          "bệnh viện"
+        ],
+        [
+          "休息",
+          "nghỉ ngơi"
+        ],
+        [
+          "问题",
+          "câu hỏi"
+        ],
+        [
+          "生病",
+          "bị ốm"
+        ],
+        [
+          "知道",
+          "biết (một điều)"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-12-e02",
+      "type": "choice",
+      "promptVi": "「看病」 nghĩa là gì?",
+      "options": [
+        "khám bệnh",
+        "bệnh viện",
+        "nghỉ ngơi"
+      ],
+      "answer": 0
+    },
+    {
+      "id": "hsk1-12-e03",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Mẹ tôi biết lái xe'?",
+      "options": [
+        "我妈妈会开车。",
+        "我妈妈知道开车。",
+        "我妈妈开车会。"
+      ],
+      "answer": 0,
+      "explainVi": "Biết làm (kỹ năng) là 「会」, đứng trước động từ. 「知道」 là biết một thông tin.",
+      "grammar": [
+        4
+      ]
+    },
+    {
+      "id": "hsk1-12-e04",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我生病了，今天不",
+      "after": "去。",
+      "answers": [
+        "能"
+      ],
+      "options": [
+        "能",
+        "会",
+        "知道"
+      ],
+      "vi": "Tôi bị ốm rồi, hôm nay không đi được.",
+      "explainVi": "Không có điều kiện (bị ốm) nên không làm được: 「不能」.",
+      "grammar": [
+        4
+      ]
+    },
+    {
+      "id": "hsk1-12-e05",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "你",
+      "after": "开车吗？",
+      "answers": [
+        "会"
+      ],
+      "options": [
+        "会",
+        "知道",
+        "是"
+      ],
+      "vi": "Bạn có biết lái xe không?",
+      "explainVi": "Lái xe là kỹ năng phải học: 「会」.",
+      "grammar": [
+        4
+      ]
+    },
+    {
+      "id": "hsk1-12-e06",
+      "type": "translate",
+      "vi": "Tôi biết nói tiếng Trung.",
+      "answers": [
+        "我会说[汉语|中文]。",
+        {
+          "text": "我能说[汉语|中文]。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "我会说汉语。",
+          "score": 100
+        },
+        {
+          "answer": "我会说中文。",
+          "score": 100
+        },
+        {
+          "answer": "我能说汉语。",
+          "score": 90
+        },
+        {
+          "answer": "我知道说汉语。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        4
+      ]
+    },
+    {
+      "id": "hsk1-12-e07",
+      "type": "order",
+      "vi": "Ngày mai bạn đến được không?",
+      "tiles": [
+        "能",
+        "吗",
+        "你",
+        "来",
+        "明天"
+      ],
+      "answers": [
+        "你明天能来吗",
+        "明天你能来吗"
+      ],
+      "grammar": [
+        4
+      ]
+    },
+    {
+      "id": "hsk1-12-e08",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你会开车吗？",
+        "promptVi": "Bạn có biết lái xe không? (Giả sử bạn không biết.)",
+        "answers": [
+          "(我)不会(开车)。"
+        ],
+        "examples": [
+          {
+            "answer": "我不会开车。",
+            "score": 100
+          },
+          {
+            "answer": "不会。",
+            "score": 100
+          },
+          {
+            "answer": "我会开车。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        4
+      ]
+    },
+    {
+      "id": "hsk1-12-e09",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Hôm qua tôi không đi bệnh viện'?",
+      "options": [
+        "我昨天没有去医院。",
+        "我昨天不去医院。",
+        "我昨天没有去医院了。"
+      ],
+      "answer": 0,
+      "explainVi": "Việc đã không xảy ra: 「没有」 + động từ, không có 「了」.",
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e10",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我今天",
+      "after": "时间。",
+      "answers": [
+        "没有"
+      ],
+      "options": [
+        "没有",
+        "不",
+        "不要"
+      ],
+      "vi": "Hôm nay tôi không có thời gian.",
+      "explainVi": "「有」 phủ định bằng 「没」: 没有.",
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e11",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我",
+      "after": "知道他的名字。",
+      "answers": [
+        "不"
+      ],
+      "options": [
+        "不",
+        "没有",
+        "不要"
+      ],
+      "vi": "Tôi không biết tên anh ấy.",
+      "explainVi": "「知道」 luôn phủ định bằng 「不」.",
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e12",
+      "type": "choice",
+      "promptVi": "Câu nào nghĩa là 'Tôi chưa ăn cơm'?",
+      "options": [
+        "我还没有吃饭。",
+        "我还不吃饭。",
+        "我还没有吃饭了。"
+      ],
+      "answer": 0,
+      "explainVi": "'Chưa' là 「还没(有)」 + động từ, không có 「了」.",
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e13",
+      "type": "translate",
+      "vi": "Hôm qua anh ấy không đến.",
+      "answers": [
+        "[他昨天|昨天他]没(有)来。"
+      ],
+      "examples": [
+        {
+          "answer": "他昨天没有来。",
+          "score": 100
+        },
+        {
+          "answer": "昨天他没来。",
+          "score": 100
+        },
+        {
+          "answer": "他昨天不来。",
+          "score": 0
+        },
+        {
+          "answer": "他昨天没有来了。",
+          "score": 85,
+          "issues": [
+            "extra_word"
+          ]
+        }
+      ],
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e14",
+      "type": "order",
+      "vi": "Tôi không biết bệnh viện ở đâu.",
+      "tiles": [
+        "医院",
+        "我",
+        "哪儿",
+        "不知道",
+        "在"
+      ],
+      "answers": [
+        "我不知道医院在哪儿",
+        "医院在哪儿我不知道"
+      ],
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e15",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你昨天去医院了吗？",
+        "promptVi": "Hôm qua bạn có đi bệnh viện không? (Giả sử bạn không đi.)",
+        "answers": [
+          "(我)(昨天)没(有)去(医院)。",
+          "没有。"
+        ],
+        "examples": [
+          {
+            "answer": "我昨天没有去医院。",
+            "score": 100
+          },
+          {
+            "answer": "没有。",
+            "score": 100
+          },
+          {
+            "answer": "我没去。",
+            "score": 100
+          },
+          {
+            "answer": "我昨天不去医院。",
+            "score": 0
+          },
+          {
+            "answer": "我昨天去医院了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e16",
+      "type": "choice",
+      "promptVi": "Bạn muốn nói 'Đừng lái xe!'. Câu nào đúng?",
+      "options": [
+        "不要开车！",
+        "没有开车！",
+        "不开车吗！"
+      ],
+      "answer": 0,
+      "explainVi": "'Đừng' là 「不要」 + động từ.",
+      "grammar": [
+        50
+      ]
+    },
+    {
+      "id": "hsk1-12-e17",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "你生病了，",
+      "after": "开车！",
+      "answers": [
+        "不要"
+      ],
+      "options": [
+        "不要",
+        "没有",
+        "不会"
+      ],
+      "vi": "Bạn đang ốm, đừng lái xe!",
+      "grammar": [
+        50
+      ]
+    },
+    {
+      "id": "hsk1-12-e18",
+      "type": "order",
+      "vi": "Bạn nghỉ một lát đi.",
+      "tiles": [
+        "吧",
+        "休息",
+        "你",
+        "一下"
+      ],
+      "answers": [
+        "你休息一下吧"
+      ],
+      "explainVi": "「一下」 đứng sau động từ, 「吧」 đứng cuối câu.",
+      "grammar": [
+        50
+      ]
+    },
+    {
+      "id": "hsk1-12-e19",
+      "type": "translate",
+      "vi": "Mời ông uống trà.",
+      "answers": [
+        "(您)请喝茶。",
+        "请您喝茶。"
+      ],
+      "examples": [
+        {
+          "answer": "请喝茶。",
+          "score": 100
+        },
+        {
+          "answer": "您请喝茶。",
+          "score": 100
+        },
+        {
+          "answer": "请您喝茶。",
+          "score": 100
+        },
+        {
+          "answer": "请问喝茶。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        50
+      ]
+    },
+    {
+      "id": "hsk1-12-e20",
+      "type": "translate",
+      "vi": "Đừng hỏi nữa!",
+      "answers": [
+        "不要问了！"
+      ],
+      "examples": [
+        {
+          "answer": "不要问了！",
+          "score": 100
+        },
+        {
+          "answer": "不要问！",
+          "score": 85,
+          "issues": [
+            "missing_word"
+          ]
+        },
+        {
+          "answer": "不问了！",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        50
+      ]
+    },
+    {
+      "id": "hsk1-12-e21",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "医院里有几个医生？",
+        "promptVi": "Trong bệnh viện có mấy bác sĩ?",
+        "picture": "🏥 👩‍⚕️ 👨‍⚕️",
+        "expected": {
+          "number": 2,
+          "noun": "医生",
+          "sentence": "医院里有两个医生。"
+        },
+        "examples": [
+          {
+            "answer": "医院里有两个医生。",
+            "score": 100
+          },
+          {
+            "answer": "两个。",
+            "score": 100
+          },
+          {
+            "answer": "有二个医生。",
+            "score": 90,
+            "issues": [
+              "er_liang"
+            ]
+          },
+          {
+            "answer": "有三个医生。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-12-e22",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "王医生在哪儿？",
+        "promptVi": "Bác sĩ Vương ở đâu? (Trong hình: bác sĩ Vương đang ở bệnh viện.)",
+        "picture": "🏥 👨‍⚕️",
+        "expected": {
+          "places": [
+            "医院"
+          ],
+          "sentence": "王医生在医院。"
+        },
+        "examples": [
+          {
+            "answer": "他在医院。",
+            "score": 100
+          },
+          {
+            "answer": "在医院。",
+            "score": 100
+          },
+          {
+            "answer": "他在医院里。",
+            "score": 100
+          },
+          {
+            "answer": "他在家。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk1-12-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你明天能来吗？",
+        "promptVi": "Ngày mai bạn đến được không? (Giả sử bạn bị ốm nên không đến được.)",
+        "answers": [
+          "(我)(明天)不能来。",
+          "不能。"
+        ],
+        "examples": [
+          {
+            "answer": "我明天不能来。",
+            "score": 100
+          },
+          {
+            "answer": "不能。",
+            "score": 100
+          },
+          {
+            "answer": "我明天能来。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        4,
+        20
+      ]
+    },
+    {
+      "id": "hsk1-12-e24",
+      "type": "choice",
+      "promptVi": "Bạn của bạn hỏi 「你怎么了？」. Bạn muốn trả lời 'Không sao đâu'. Bạn nói:",
+      "options": [
+        "没事。",
+        "不客气。",
+        "对不起。"
+      ],
+      "answer": 0,
+      "explainVi": "「没事」: không sao. 「不客气」 đáp lại lời cảm ơn, 「对不起」 là xin lỗi."
+    },
+    {
+      "id": "hsk1-12-e25",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "老师，我有一个",
+      "after": "。",
+      "answers": [
+        "问题"
+      ],
+      "options": [
+        "问题",
+        "问",
+        "知道"
+      ],
+      "vi": "Thưa thầy, em có một câu hỏi."
+    }
+  ]
+}

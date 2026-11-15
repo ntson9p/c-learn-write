@@ -1,0 +1,1103 @@
+{
+  "id": "hsk1-13",
+  "goalsVi": [
+    "Nói về sở thích: thích xem phim, xem tivi, nghe nhạc, hát, đi chơi",
+    "Nói ai đang làm gì bằng 「在/正在 + động từ」 và 「呢」 cuối câu",
+    "Nói 'cũng' trong câu ghép với 「也」"
+  ],
+  "words": [
+    {
+      "no": 225,
+      "word": "喜欢",
+      "meaningsVi": [
+        "thích"
+      ],
+      "noteVi": "「喜欢」 đứng trước danh từ hoặc động từ: 喜欢电影, 喜欢看电影. Phủ định là 「不喜欢」.",
+      "examples": [
+        {
+          "zh": "我喜欢看电影。",
+          "py": "wǒ xǐ huan kàn diàn yǐng",
+          "vi": "Tôi thích xem phim."
+        },
+        {
+          "zh": "你喜欢做什么？",
+          "py": "nǐ xǐ huan zuò shén me",
+          "vi": "Bạn thích làm gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 1,
+      "word": "爱",
+      "meaningsVi": [
+        "yêu",
+        "rất thích, mê (làm việc gì)"
+      ],
+      "noteVi": "「爱」 mạnh hơn 「喜欢」. 「爱 + động từ」 nghĩa là rất thích, hay làm việc đó: 他爱唱歌 (Anh ấy mê hát).",
+      "examples": [
+        {
+          "zh": "我爱我的家人。",
+          "py": "wǒ ài wǒ de jiā rén",
+          "vi": "Tôi yêu gia đình mình."
+        },
+        {
+          "zh": "他很爱唱歌。",
+          "py": "tā hěn ài chàng gē",
+          "vi": "Anh ấy rất mê hát."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 37,
+      "word": "电影",
+      "meaningsVi": [
+        "phim, điện ảnh"
+      ],
+      "noteVi": "'Xem phim' là 「看电影」. Phim hay thì nói 「好看」.",
+      "examples": [
+        {
+          "zh": "这个电影很好看。",
+          "py": "zhè ge diàn yǐng hěn hǎo kàn",
+          "vi": "Bộ phim này rất hay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 38,
+      "word": "电影院",
+      "meaningsVi": [
+        "rạp chiếu phim"
+      ],
+      "noteVi": "Âm Hán Việt là 'điện ảnh viện', nhưng nghĩa là rạp chiếu phim.",
+      "examples": [
+        {
+          "zh": "我们去电影院看电影吧。",
+          "py": "wǒ men qù diàn yǐng yuàn kàn diàn yǐng ba",
+          "vi": "Chúng mình đi rạp xem phim đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 36,
+      "word": "电视",
+      "meaningsVi": [
+        "tivi, truyền hình"
+      ],
+      "noteVi": "'Xem tivi' là 「看电视」. 「电视」 vừa là cái tivi vừa là chương trình truyền hình.",
+      "examples": [
+        {
+          "zh": "爸爸在看电视。",
+          "py": "bà ba zài kàn diàn shì",
+          "vi": "Bố đang xem tivi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 59,
+      "word": "歌",
+      "meaningsVi": [
+        "bài hát"
+      ],
+      "noteVi": "'Hát' là 「唱歌」, 'nghe nhạc, nghe bài hát' là 「听歌」. Lượng từ của 「歌」 là 「首」 (sẽ học sau), không dùng 「个」.",
+      "examples": [
+        {
+          "zh": "这是什么歌？",
+          "py": "zhè shì shén me gē",
+          "vi": "Đây là bài hát gì vậy?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 18,
+      "word": "唱",
+      "meaningsVi": [
+        "hát"
+      ],
+      "noteVi": "Khi không nói hát bài nào, tiếng Trung vẫn cần 「歌」: 'Cô ấy hát rất hay' là 「她唱歌很好听」.",
+      "examples": [
+        {
+          "zh": "她唱歌很好听。",
+          "py": "tā chàng gē hěn hǎo tīng",
+          "vi": "Cô ấy hát rất hay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 209,
+      "word": "听",
+      "meaningsVi": [
+        "nghe"
+      ],
+      "examples": [
+        {
+          "zh": "我喜欢听中国歌。",
+          "py": "wǒ xǐ huan tīng zhōng guó gē",
+          "vi": "Tôi thích nghe nhạc Trung Quốc."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 210,
+      "word": "听见",
+      "meaningsVi": [
+        "nghe thấy"
+      ],
+      "noteVi": "「听」 là hành động nghe; 「听见」 là nghe thấy được (kết quả). Phủ định: 「没有听见」 (không nghe thấy).",
+      "examples": [
+        {
+          "zh": "你听见了吗？——我没有听见。",
+          "py": "nǐ tīng jiàn le ma wǒ méi yǒu tīng jiàn",
+          "vi": "Bạn có nghe thấy không? — Tôi không nghe thấy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 101,
+      "word": "看见",
+      "meaningsVi": [
+        "nhìn thấy, trông thấy"
+      ],
+      "noteVi": "「看」 là nhìn, xem (hành động); 「看见」 là nhìn thấy (kết quả). Phủ định: 「没有看见」.",
+      "examples": [
+        {
+          "zh": "你看见我的手机了吗？",
+          "py": "nǐ kàn jiàn wǒ de shǒu jī le ma",
+          "vi": "Bạn có thấy điện thoại của mình không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 73,
+      "word": "好看",
+      "meaningsVi": [
+        "đẹp (nhìn đẹp)",
+        "hay (phim, sách)"
+      ],
+      "noteVi": "Phim, sách hay cũng nói 「好看」 vì là thứ để xem: 这个电影很好看.",
+      "examples": [
+        {
+          "zh": "这件衣服很好看。",
+          "py": "zhè jiàn yī fu hěn hǎo kàn",
+          "vi": "Cái áo này rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 74,
+      "word": "好听",
+      "meaningsVi": [
+        "hay, êm tai (nghe hay)"
+      ],
+      "noteVi": "Tiếng Việt nói 'hay' cho cả phim lẫn bài hát; tiếng Trung tách ra: thứ để xem thì 「好看」, thứ để nghe thì 「好听」.",
+      "examples": [
+        {
+          "zh": "这个名字很好听。",
+          "py": "zhè ge míng zi hěn hǎo tīng",
+          "vi": "Cái tên này nghe rất hay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 75,
+      "word": "好玩儿",
+      "meaningsVi": [
+        "vui, thú vị (để chơi)"
+      ],
+      "noteVi": "Dùng cho nơi chốn, trò chơi, hoạt động: 北京很好玩儿. Ở miền Nam Trung Quốc người ta hay nói 「好玩」, không có 「儿」.",
+      "examples": [
+        {
+          "zh": "北京很好玩儿。",
+          "py": "běi jīng hěn hǎo wán r",
+          "vi": "Bắc Kinh chơi vui lắm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 214,
+      "word": "玩",
+      "meaningsVi": [
+        "chơi"
+      ],
+      "noteVi": "「去……玩」 là đi đâu đó chơi: 去北京玩. Khẩu ngữ phía Bắc Trung Quốc hay nói 「玩儿」.",
+      "examples": [
+        {
+          "zh": "孩子们在外边玩。",
+          "py": "hái zi men zài wài bian wán",
+          "vi": "Bọn trẻ chơi ở bên ngoài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 143,
+      "word": "男朋友",
+      "meaningsVi": [
+        "bạn trai (người yêu)"
+      ],
+      "noteVi": "「男朋友」 là người yêu. Một người bạn là con trai thì chỉ nói 「朋友」.",
+      "examples": [
+        {
+          "zh": "她有男朋友吗？",
+          "py": "tā yǒu nán péng you ma",
+          "vi": "Cô ấy có bạn trai không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 154,
+      "word": "女朋友",
+      "meaningsVi": [
+        "bạn gái (người yêu)"
+      ],
+      "examples": [
+        {
+          "zh": "他的女朋友很漂亮。",
+          "py": "tā de nǚ péng you hěn piào liang",
+          "vi": "Bạn gái của anh ấy rất xinh."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 286,
+      "word": "正在",
+      "meaningsVi": [
+        "đang (ngay lúc này)"
+      ],
+      "noteVi": "「正在」 + động từ nhấn mạnh việc đang diễn ra đúng lúc đó. Xem phần ngữ pháp của bài.",
+      "examples": [
+        {
+          "zh": "妈妈正在做饭。",
+          "py": "mā ma zhèng zài zuò fàn",
+          "vi": "Mẹ đang nấu cơm."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 17,
+      "titleVi": "Phó từ 「在」 và 「正在」 (đang)",
+      "summaryVi": "「在」 và 「正在」 đứng trước động từ, nghĩa là 'đang'; 「正在」 nhấn mạnh 'ngay lúc này'.",
+      "explanationVi": [
+        "「在」 và 「正在」 là phó từ chỉ thời gian, đặt **trước động từ**, giống chữ 'đang' trong tiếng Việt: 我在吃饭 (Tôi đang ăn cơm), 妈妈正在做饭 (Mẹ đang nấu cơm).",
+        "「正在」 nhấn mạnh hành động đang diễn ra **đúng lúc này**. 「在」 nhẹ hơn và rất hay dùng trong khẩu ngữ.",
+        "Đừng nhầm với 「在」 nghĩa là 'ở' (bài 7): sau 「在」 'đang' là **động từ** (在看书); sau 「在」 'ở' là **nơi chốn** (在家). Muốn nói 'đang ở nhà' chỉ cần 「我在家」 hoặc 「我现在在家」.",
+        "Các động từ chỉ trạng thái như 「是」, 「有」, 「认识」, 「知道」 không đi với 「在/正在」, dù tiếng Việt vẫn nói 'đang có', 'đang là'."
+      ],
+      "patterns": [
+        "Chủ ngữ + 在 + động từ (+ tân ngữ)",
+        "Chủ ngữ + 正在 + động từ (+ tân ngữ)"
+      ],
+      "examples": [
+        {
+          "zh": "他在打电话。",
+          "py": "tā zài dǎ diàn huà",
+          "vi": "Anh ấy đang gọi điện thoại."
+        },
+        {
+          "zh": "我们正在吃饭。",
+          "py": "wǒ men zhèng zài chī fàn",
+          "vi": "Chúng tôi đang ăn cơm."
+        },
+        {
+          "zh": "你在做什么？",
+          "py": "nǐ zài zuò shén me",
+          "vi": "Bạn đang làm gì thế?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我正在在家。",
+          "right": "我现在在家。",
+          "noteVi": "'Đang ở nhà' chỉ cần 「在家」 ('ở nhà'); không đặt 「正在」 trước 「在」 nghĩa là 'ở'."
+        },
+        {
+          "wrong": "她正在有男朋友。",
+          "right": "她有男朋友。",
+          "noteVi": "「有」 chỉ trạng thái nên không dùng với 「正在」, dù tiếng Việt nói 'đang có bạn trai'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 64,
+      "titleVi": "Hành động đang diễn ra: 在/正在 + động từ",
+      "summaryVi": "Muốn nói một việc đang xảy ra, đặt 「在」 hoặc 「正在」 trước động từ: 妈妈在做饭。",
+      "explanationVi": [
+        "Động từ tiếng Trung không đổi hình thức. Muốn nói một việc **đang diễn ra**, thêm 「在」 hoặc 「正在」 ngay trước động từ, như 'đang' trong tiếng Việt.",
+        "Câu tiến hành không chỉ dùng cho bây giờ. Thêm từ chỉ thời gian để nói về một lúc khác: 昨天晚上八点，我在看电视 (Lúc 8 giờ tối qua, tôi đang xem tivi).",
+        "Hỏi 'đang làm gì?' là 「你在做什么？」. Nếu có nơi chốn, 「在 + nơi chốn」 vẫn đứng **trước** động từ: 我在电影院看电影呢 (Tôi đang xem phim ở rạp)."
+      ],
+      "patterns": [
+        "Chủ ngữ + (thời gian) + 在/正在 + động từ + tân ngữ"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈在做饭。",
+          "py": "mā ma zài zuò fàn",
+          "vi": "Mẹ đang nấu cơm."
+        },
+        {
+          "zh": "孩子们正在外边玩。",
+          "py": "hái zi men zhèng zài wài bian wán",
+          "vi": "Bọn trẻ đang chơi ở bên ngoài."
+        },
+        {
+          "zh": "昨天晚上八点，我在看电视。",
+          "py": "zuó tiān wǎn shang bā diǎn wǒ zài kàn diàn shì",
+          "vi": "Lúc 8 giờ tối qua, tôi đang xem tivi."
+        },
+        {
+          "zh": "你在做什么？——我在听歌。",
+          "py": "nǐ zài zuò shén me wǒ zài tīng gē",
+          "vi": "Bạn đang làm gì thế? — Mình đang nghe nhạc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我在看电影在电影院。",
+          "right": "我在电影院看电影呢。",
+          "noteVi": "Tiếng Việt nói 'đang xem phim ở rạp', nhưng tiếng Trung đặt 「在 + nơi chốn」 trước động từ. Thêm 「呢」 cuối câu để rõ nghĩa 'đang'.",
+          "issue": "place_order"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 65,
+      "titleVi": "在/正在 + động từ … + 呢",
+      "summaryVi": "Trong khẩu ngữ, câu 'đang …' thường có thêm 「呢」 ở cuối: 他在睡觉呢。",
+      "explanationVi": [
+        "Khi nói chuyện, người Trung Quốc hay thêm 「呢」 vào **cuối câu** tiến hành, câu nghe tự nhiên và nhẹ nhàng hơn, giống 'đấy', 'mà' trong tiếng Việt: 他在睡觉呢 (Anh ấy đang ngủ đấy).",
+        "「呢」 luôn đứng ở **cuối câu**, sau tân ngữ: 我在看电视呢. Không đặt 「呢」 ngay sau động từ.",
+        "「呢」 ở đây không dùng để hỏi. Câu hỏi có/không vẫn dùng 「吗」 và bỏ 「呢」: 你在看电视吗？"
+      ],
+      "patterns": [
+        "Chủ ngữ + 在/正在 + động từ + tân ngữ + 呢"
+      ],
+      "examples": [
+        {
+          "zh": "他在睡觉呢。",
+          "py": "tā zài shuì jiào ne",
+          "vi": "Anh ấy đang ngủ đấy."
+        },
+        {
+          "zh": "我正在听歌呢。",
+          "py": "wǒ zhèng zài tīng gē ne",
+          "vi": "Mình đang nghe nhạc mà."
+        },
+        {
+          "zh": "她在打电话呢。",
+          "py": "tā zài dǎ diàn huà ne",
+          "vi": "Cô ấy đang gọi điện thoại đấy."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我在看呢电视。",
+          "right": "我在看电视呢。",
+          "noteVi": "「呢」 đứng cuối câu, sau tân ngữ 「电视」."
+        },
+        {
+          "wrong": "你在看电视呢吗？",
+          "right": "你在看电视吗？",
+          "noteVi": "Câu hỏi có/không dùng 「吗」; không để 「呢」 và 「吗」 cùng nhau ở cuối câu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 66,
+      "titleVi": "Chỉ dùng 「呢」 cuối câu để nói 'đang …'",
+      "summaryVi": "Không có 「在」, chỉ cần 「呢」 cuối câu cũng hiểu là đang làm: 妈妈做饭呢。",
+      "explanationVi": [
+        "Trong khẩu ngữ, chỉ cần thêm 「呢」 vào cuối câu kể là đủ để nói việc đó **đang diễn ra**: 他睡觉呢 = 他在睡觉 (Anh ấy đang ngủ).",
+        "Cách nói này hay gặp khi trả lời, giải thích ai đó đang bận gì: 「小明呢？——他睡觉呢。」 (Tiểu Minh đâu? — Cậu ấy đang ngủ.)",
+        "Cùng là 「呢」 nhưng: đứng sau một danh từ để hỏi (你呢？, 小明呢？) là câu hỏi 'thì sao, đâu rồi'; đứng cuối câu kể có động từ là 'đang'."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + tân ngữ + 呢"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈做饭呢。",
+          "py": "mā ma zuò fàn ne",
+          "vi": "Mẹ đang nấu cơm."
+        },
+        {
+          "zh": "小明呢？——他睡觉呢。",
+          "py": "xiǎo míng ne tā shuì jiào ne",
+          "vi": "Tiểu Minh đâu rồi? — Cậu ấy đang ngủ."
+        },
+        {
+          "zh": "他们吃饭呢。",
+          "py": "tā men chī fàn ne",
+          "vi": "Họ đang ăn cơm."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他睡觉呢吗？",
+          "right": "他在睡觉吗？",
+          "noteVi": "Muốn hỏi 'đang ngủ à?' thì dùng 「在」 và 「吗」, bỏ 「呢」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 60,
+      "titleVi": "Câu ghép với 「也」: …, … cũng …",
+      "summaryVi": "Vế sau dùng 「也」 (cũng) để nói một điều giống vế trước: 我喜欢唱歌，我妹妹也喜欢唱歌。",
+      "explanationVi": [
+        "「也」 nối hai vế câu có ý giống nhau, như 'cũng' trong tiếng Việt. Hai vế có thể khác chủ ngữ (我喜欢唱歌，我妹妹也喜欢唱歌) hoặc cùng chủ ngữ (他爱看电影，也爱看电视). Khi cùng chủ ngữ, vế sau thường bỏ chủ ngữ.",
+        "「也」 đứng **sau chủ ngữ, trước động từ**, và trước cả 「不」, 「很」, 「在」: 她也不认识他, 我也很高兴. Không đặt 「也」 ở đầu vế câu.",
+        "Khi có cả 「也」 và 「都」, nói 「也都」 (cũng đều), giống thứ tự tiếng Việt."
+      ],
+      "patterns": [
+        "A + động từ …，B + 也 + động từ …",
+        "Chủ ngữ + động từ 1 …，也 + động từ 2 …"
+      ],
+      "examples": [
+        {
+          "zh": "我喜欢唱歌，我妹妹也喜欢唱歌。",
+          "py": "wǒ xǐ huan chàng gē wǒ mèi mei yě xǐ huan chàng gē",
+          "vi": "Tôi thích hát, em gái tôi cũng thích hát."
+        },
+        {
+          "zh": "他爱看电影，也爱看电视。",
+          "py": "tā ài kàn diàn yǐng yě ài kàn diàn shì",
+          "vi": "Anh ấy mê xem phim, cũng mê xem tivi."
+        },
+        {
+          "zh": "我不认识他，她也不认识他。",
+          "py": "wǒ bú rèn shi tā tā yě bú rèn shi tā",
+          "vi": "Tôi không quen anh ta, cô ấy cũng không quen."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我喜欢看电影，也我男朋友喜欢看电影。",
+          "right": "我喜欢看电影，我男朋友也喜欢看电影。",
+          "noteVi": "「也」 đứng sau chủ ngữ 「我男朋友」, như 'bạn trai tôi cũng thích'."
+        },
+        {
+          "wrong": "他们都也爱看电影。",
+          "right": "他们也都爱看电影。",
+          "noteVi": "'Cũng đều' là 「也都」: 「也」 đứng trước 「都」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk1-13-e01",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa.",
+      "pairs": [
+        [
+          "电影",
+          "phim"
+        ],
+        [
+          "电视",
+          "tivi"
+        ],
+        [
+          "歌",
+          "bài hát"
+        ],
+        [
+          "电影院",
+          "rạp chiếu phim"
+        ],
+        [
+          "男朋友",
+          "bạn trai"
+        ],
+        [
+          "女朋友",
+          "bạn gái"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-13-e02",
+      "type": "match",
+      "promptVi": "Nối từ với nghĩa.",
+      "pairs": [
+        [
+          "好看",
+          "đẹp, hay (để xem)"
+        ],
+        [
+          "好听",
+          "hay (để nghe)"
+        ],
+        [
+          "好玩儿",
+          "vui (để chơi)"
+        ],
+        [
+          "听见",
+          "nghe thấy"
+        ],
+        [
+          "看见",
+          "nhìn thấy"
+        ]
+      ]
+    },
+    {
+      "id": "hsk1-13-e03",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng: 'Bài hát này rất hay.'",
+      "zh": "这是什么歌？很＿！",
+      "options": [
+        "好听",
+        "好看",
+        "好玩儿"
+      ],
+      "answer": 0,
+      "explainVi": "Bài hát là thứ để nghe nên dùng 「好听」."
+    },
+    {
+      "id": "hsk1-13-e04",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng: 'Bạn có nghe thấy không?'",
+      "zh": "你＿了吗？",
+      "options": [
+        "听见",
+        "听",
+        "好听"
+      ],
+      "answer": 0,
+      "explainVi": "「听」 chỉ là hành động nghe; 'nghe thấy' (kết quả) là 「听见」."
+    },
+    {
+      "id": "hsk1-13-e05",
+      "type": "choice",
+      "promptVi": "「在」 trong câu nào có nghĩa là 'đang'?",
+      "options": [
+        "他在看电视。",
+        "他在电影院。",
+        "他住在河内。"
+      ],
+      "answer": 0,
+      "explainVi": "Sau 「在」 'đang' là một động từ (看). Sau 「在」 'ở' là nơi chốn (电影院, 河内).",
+      "grammar": [
+        17
+      ]
+    },
+    {
+      "id": "hsk1-13-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đang ở nhà.)",
+      "options": [
+        "我现在在家。",
+        "我正在在家。",
+        "我在正在家。"
+      ],
+      "answer": 0,
+      "explainVi": "'Đang ở nhà' chỉ cần 「在家」; thêm 「现在」 nếu muốn nói 'bây giờ'.",
+      "grammar": [
+        17
+      ]
+    },
+    {
+      "id": "hsk1-13-e07",
+      "type": "fill",
+      "promptVi": "Điền từ để nói 'đang'.",
+      "before": "爸爸",
+      "after": "看电视。",
+      "answers": [
+        "在"
+      ],
+      "options": [
+        "在",
+        "了",
+        "吗"
+      ],
+      "vi": "Bố đang xem tivi.",
+      "grammar": [
+        64
+      ]
+    },
+    {
+      "id": "hsk1-13-e08",
+      "type": "fill",
+      "promptVi": "Điền từ vào cuối câu.",
+      "before": "我正在听歌",
+      "after": "。",
+      "answers": [
+        "呢"
+      ],
+      "options": [
+        "呢",
+        "吗",
+        "了"
+      ],
+      "vi": "Mình đang nghe nhạc mà.",
+      "grammar": [
+        65
+      ]
+    },
+    {
+      "id": "hsk1-13-e09",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "小明呢？——他看电视",
+      "after": "。",
+      "answers": [
+        "呢"
+      ],
+      "options": [
+        "呢",
+        "吗",
+        "也"
+      ],
+      "vi": "Tiểu Minh đâu rồi? — Cậu ấy đang xem tivi.",
+      "grammar": [
+        66
+      ]
+    },
+    {
+      "id": "hsk1-13-e10",
+      "type": "fill",
+      "promptVi": "Điền từ thích hợp.",
+      "before": "我喜欢看电影，她",
+      "after": "喜欢看电影。",
+      "answers": [
+        "也"
+      ],
+      "options": [
+        "也",
+        "在",
+        "呢"
+      ],
+      "vi": "Tôi thích xem phim, cô ấy cũng thích xem phim.",
+      "grammar": [
+        60
+      ]
+    },
+    {
+      "id": "hsk1-13-e11",
+      "type": "order",
+      "vi": "Mẹ tôi đang gọi điện thoại.",
+      "tiles": [
+        "正在",
+        "打电话",
+        "我",
+        "妈妈"
+      ],
+      "answers": [
+        "我妈妈正在打电话"
+      ],
+      "grammar": [
+        17,
+        64
+      ]
+    },
+    {
+      "id": "hsk1-13-e12",
+      "type": "order",
+      "vi": "Họ đang hát đấy.",
+      "tiles": [
+        "唱歌",
+        "呢",
+        "他们",
+        "在"
+      ],
+      "answers": [
+        "他们在唱歌呢"
+      ],
+      "explainVi": "「呢」 đứng cuối câu.",
+      "grammar": [
+        65
+      ]
+    },
+    {
+      "id": "hsk1-13-e13",
+      "type": "order",
+      "vi": "Bố đang ngủ đấy.",
+      "tiles": [
+        "呢",
+        "睡觉",
+        "爸爸"
+      ],
+      "answers": [
+        "爸爸睡觉呢"
+      ],
+      "grammar": [
+        66
+      ]
+    },
+    {
+      "id": "hsk1-13-e14",
+      "type": "order",
+      "vi": "Tôi thích nghe nhạc, cũng thích hát.",
+      "tiles": [
+        "喜欢",
+        "唱歌",
+        "也",
+        "我",
+        "听歌",
+        "喜欢"
+      ],
+      "answers": [
+        "我喜欢听歌也喜欢唱歌",
+        "我喜欢唱歌也喜欢听歌"
+      ],
+      "explainVi": "「也」 đứng trước động từ thứ hai 「喜欢」.",
+      "grammar": [
+        60
+      ]
+    },
+    {
+      "id": "hsk1-13-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng?",
+      "options": [
+        "他们在吃饭呢。",
+        "他们在吃呢饭。",
+        "呢他们在吃饭。"
+      ],
+      "answer": 0,
+      "explainVi": "「呢」 đứng ở cuối câu, sau tân ngữ.",
+      "grammar": [
+        65
+      ]
+    },
+    {
+      "id": "hsk1-13-e16",
+      "type": "choice",
+      "promptVi": "「小明呢？——他睡觉呢。」 Câu trả lời nghĩa là gì?",
+      "options": [
+        "Cậu ấy đang ngủ.",
+        "Cậu ấy ngủ rồi.",
+        "Cậu ấy có ngủ không?"
+      ],
+      "answer": 0,
+      "explainVi": "「呢」 cuối câu kể có động từ nghĩa là 'đang'.",
+      "grammar": [
+        66
+      ]
+    },
+    {
+      "id": "hsk1-13-e17",
+      "type": "translate",
+      "vi": "Bạn đang làm gì thế?",
+      "answers": [
+        "你[(正)在做什么(呢)|做什么呢]？"
+      ],
+      "examples": [
+        {
+          "answer": "你在做什么？",
+          "score": 100
+        },
+        {
+          "answer": "你正在做什么呢？",
+          "score": 100
+        },
+        {
+          "answer": "你做什么呢？",
+          "score": 100
+        },
+        {
+          "answer": "你在哪儿？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        17,
+        64
+      ]
+    },
+    {
+      "id": "hsk1-13-e18",
+      "type": "translate",
+      "vi": "Anh ấy đang ngủ.",
+      "answers": [
+        "他[(正)在睡觉(呢)|睡觉呢]。"
+      ],
+      "examples": [
+        {
+          "answer": "他在睡觉。",
+          "score": 100
+        },
+        {
+          "answer": "他正在睡觉呢。",
+          "score": 100
+        },
+        {
+          "answer": "他睡觉呢。",
+          "score": 100
+        },
+        {
+          "answer": "他睡觉了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        64,
+        65,
+        66
+      ]
+    },
+    {
+      "id": "hsk1-13-e19",
+      "type": "translate",
+      "vi": "Tôi thích xem phim, bạn trai tôi cũng thích xem phim.",
+      "answers": [
+        "我喜欢看电影，我(的)男朋友也喜欢(看电影)。"
+      ],
+      "examples": [
+        {
+          "answer": "我喜欢看电影，我男朋友也喜欢看电影。",
+          "score": 100
+        },
+        {
+          "answer": "我喜欢看电影，我的男朋友也喜欢。",
+          "score": 100
+        },
+        {
+          "answer": "我喜欢看电影，也我男朋友喜欢看电影。",
+          "score": 70,
+          "issues": [
+            "extra_word",
+            "missing_word"
+          ],
+          "note": "「也」 đặt sai chỗ: phải đứng sau chủ ngữ 「我男朋友」"
+        },
+        {
+          "answer": "我喜欢看电影，我男朋友不喜欢看电影。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        60
+      ]
+    },
+    {
+      "id": "hsk1-13-e20",
+      "type": "translate",
+      "vi": "Anh ấy không thích hát, tôi cũng không thích hát.",
+      "answers": [
+        "他不喜欢唱歌，我也不喜欢(唱歌)。"
+      ],
+      "examples": [
+        {
+          "answer": "他不喜欢唱歌，我也不喜欢唱歌。",
+          "score": 100
+        },
+        {
+          "answer": "他不喜欢唱歌，我也不喜欢。",
+          "score": 100
+        },
+        {
+          "answer": "他不喜欢唱歌，我也喜欢唱歌。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        60
+      ]
+    },
+    {
+      "id": "hsk1-13-e21",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你在做什么呢？",
+        "promptVi": "Bạn đang làm gì đấy? (Giả sử bạn đang nghe nhạc.)",
+        "answers": [
+          "(我)[(正)在听歌(呢)|听歌呢]。"
+        ],
+        "examples": [
+          {
+            "answer": "我在听歌。",
+            "score": 100
+          },
+          {
+            "answer": "我正在听歌呢。",
+            "score": 100
+          },
+          {
+            "answer": "听歌呢。",
+            "score": 100
+          },
+          {
+            "answer": "我在看电视。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        64,
+        65
+      ]
+    },
+    {
+      "id": "hsk1-13-e22",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你妈妈在做什么？",
+        "promptVi": "Mẹ bạn đang làm gì? (Giả sử mẹ bạn đang nấu cơm.)",
+        "answers": [
+          "([我妈妈|她])[(正)在做饭(呢)|做饭呢]。"
+        ],
+        "examples": [
+          {
+            "answer": "我妈妈在做饭。",
+            "score": 100
+          },
+          {
+            "answer": "她做饭呢。",
+            "score": 100
+          },
+          {
+            "answer": "她正在做饭呢。",
+            "score": 100
+          },
+          {
+            "answer": "我妈妈在家。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        64,
+        66
+      ]
+    },
+    {
+      "id": "hsk1-13-e23",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "外边有几个孩子在玩？",
+        "promptVi": "Bên ngoài có mấy đứa trẻ đang chơi?",
+        "picture": "🧒🧒🧒🧒",
+        "expected": {
+          "number": 4,
+          "noun": "孩子",
+          "sentence": "外边有四个孩子在玩。"
+        },
+        "examples": [
+          {
+            "answer": "外边有四个孩子在玩。",
+            "score": 100
+          },
+          {
+            "answer": "有四个。",
+            "score": 100
+          },
+          {
+            "answer": "有四孩子在玩。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "有三个孩子在玩。",
+            "score": 20
+          }
+        ]
+      },
+      "grammar": [
+        64
+      ]
+    },
+    {
+      "id": "hsk1-13-e24",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "你在哪儿看电影？",
+        "promptVi": "Bạn xem phim ở đâu? (Trả lời về bản thân bạn: nơi nào cũng được.)",
+        "expected": {
+          "sentence": "我在电影院看电影。"
+        },
+        "examples": [
+          {
+            "answer": "我在电影院看电影。",
+            "score": 100
+          },
+          {
+            "answer": "在家。",
+            "score": 100
+          },
+          {
+            "answer": "我看电影在电影院。",
+            "score": 80,
+            "issues": [
+              "place_order"
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
