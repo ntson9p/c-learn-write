@@ -3,6 +3,7 @@ import type { PageProps } from '../components/lazy';
 import { BackupError, backupFileName, exportBackup, importBackup } from '../lib/backup';
 import { clearAll, requestPersistence } from '../lib/db';
 import { DEFAULT_SETTINGS, loadSettings, settings, updateSettings, type Theme } from '../lib/settings';
+import { speak, voices } from '../lib/speech';
 import { href } from '../router';
 import { T } from '../strings';
 
@@ -87,6 +88,46 @@ export default function SettingsPage(_props: PageProps) {
           <input type="checkbox" checked={s.showHanViet} onChange={(e) => updateSettings({ showHanViet: (e.target as HTMLInputElement).checked })} />
           {T.settings.showHanViet}
         </label>
+      </div>
+
+      <div class="card">
+        <h2>{T.settings.voice}</h2>
+        {voices.value.length === 0 ? (
+          <p class="muted">{T.settings.voiceNone}</p>
+        ) : (
+          <>
+            <label class="field">
+              <span>{T.settings.voice}</span>
+              <select value={s.voiceURI ?? ''} onChange={(e) => void updateSettings({ voiceURI: (e.target as HTMLSelectElement).value || null })}>
+                <option value="">{T.settings.voiceAuto}</option>
+                {voices.value.map((v) => (
+                  <option key={v.voiceURI} value={v.voiceURI}>
+                    {v.name} ({v.lang})
+                  </option>
+                ))}
+              </select>
+            </label>
+            <label class="field">
+              <span>
+                {T.settings.speechRate}: {s.speechRate.toFixed(1)}
+              </span>
+              <input
+                type="range"
+                min={0.5}
+                max={1.2}
+                step={0.1}
+                value={s.speechRate}
+                onChange={(e) => void updateSettings({ speechRate: Number((e.target as HTMLInputElement).value) })}
+              />
+            </label>
+            <button type="button" class="button" onClick={() => speak('你好，我是老师。', { rate: s.speechRate, voiceURI: s.voiceURI })}>
+              {T.settings.testVoice}
+            </button>
+          </>
+        )}
+        <p>
+          <a href={href('/guide')}>{T.settings.guideLink}</a>
+        </p>
       </div>
 
       <div class="card">

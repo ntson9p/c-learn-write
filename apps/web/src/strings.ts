@@ -155,7 +155,69 @@ export const T = {
     count: (shown: number, total: number) => (shown < total ? `Hiện ${shown} trên ${total} từ` : `${total} từ`),
     noResult: 'Không tìm thấy từ nào.',
   },
-  progress: { title: 'Tiến độ' },
+  progress: {
+    title: 'Tiến độ',
+    streak: (n: number) => (n > 0 ? `Bạn đã học ${n} ngày liên tiếp` : 'Hãy học một chút mỗi ngày'),
+    words: 'Từ vựng',
+    inReview: 'Từ trong ôn tập',
+    mature: 'Đã nhớ chắc',
+    learning: 'Đang học',
+    fresh: 'Chưa ôn lần nào',
+    due: 'Cần ôn bây giờ',
+    reviewsToday: 'Lượt ôn hôm nay',
+    lessons: 'Bài học đã hoàn thành',
+    levelLessons: (level: number, done: number, total: number) => `HSK${level}: ${done}/${total} bài`,
+    levelTest: (level: number) => `Kiểm tra HSK${level}`,
+    results: 'Kết quả gần đây',
+    noResults: 'Chưa có bài kiểm tra nào.',
+    resultLine: (kind: 'lesson' | 'level', label: string, score: number) => `${kind === 'level' ? 'Kiểm tra cấp' : 'Kiểm tra bài'} ${label}: ${score}/100`,
+    weak: 'Điểm ngữ pháp nên ôn lại',
+  },
+
+  levelTest: {
+    title: (level: number) => `Kiểm tra HSK${level}`,
+    intro: (n: number, lessons: number) =>
+      `${n} câu lấy từ ${lessons} bài đã có nội dung: từ vựng, nghe, ngữ pháp, sắp xếp câu và viết câu ngắn. Đây là bài tự soạn để luyện tập, không phải đề thi HSK thật.`,
+    partial: 'Một số bài của cấp này đang được soạn nên chưa có trong bài kiểm tra.',
+    none: 'Cấp này chưa có bài nào để kiểm tra.',
+    start: 'Bắt đầu',
+    result: (score: number) => `Điểm của bạn: ${score}/100`,
+    good: 'Rất tốt! Bạn đã nắm chắc nội dung của cấp này.',
+    fair: 'Khá! Hãy ôn lại các điểm ngữ pháp bên dưới.',
+    poor: 'Bạn nên ôn lại các bài học rồi làm lại.',
+  },
+
+  guide: {
+    title: 'Hướng dẫn cài bộ gõ và giọng đọc',
+    imeTitle: 'Cài bộ gõ tiếng Trung (pinyin)',
+    imeIntro:
+      'Để gõ chữ Hán, bạn gõ pinyin không dấu (ví dụ "nihao") rồi chọn chữ 你好. Tên các mục cài đặt có thể khác một chút tùy phiên bản máy.',
+    voiceTitle: 'Cài giọng đọc tiếng Trung',
+    voiceIntro: 'Ứng dụng dùng giọng đọc có sẵn của máy. Nếu không thấy nút nghe, máy bạn chưa có giọng tiếng Trung (phổ thông).',
+    voiceNow: (n: number) => (n > 0 ? `Máy này có ${n} giọng tiếng Trung phổ thông.` : 'Máy này chưa có giọng tiếng Trung phổ thông.'),
+    platforms: [
+      {
+        name: 'Điện thoại Android (bàn phím Gboard)',
+        ime: 'Mở Cài đặt Gboard → Ngôn ngữ → Thêm bàn phím → Tiếng Trung (giản thể) → chọn Bính âm (pinyin). Khi gõ, bấm biểu tượng quả địa cầu để đổi bàn phím.',
+        voice: 'Mở Cài đặt → tìm "Chuyển văn bản thành giọng nói" → Công cụ của Google → Cài đặt → Cài đặt dữ liệu giọng nói → tải gói Tiếng Trung (Trung Quốc đại lục).',
+      },
+      {
+        name: 'iPhone, iPad',
+        ime: 'Cài đặt → Cài đặt chung → Bàn phím → Bàn phím → Thêm bàn phím mới → Tiếng Trung, Giản thể → Bính âm – QWERTY.',
+        voice: 'Cài đặt → Trợ năng → Nội dung được đọc → Giọng nói → Tiếng Trung → tải một giọng Trung Quốc đại lục.',
+      },
+      {
+        name: 'Máy tính Windows',
+        ime: 'Settings → Time & language → Language & region → Add a language → 中文(中华人民共和国) (Chinese, Simplified) → bộ gõ Microsoft Pinyin. Đổi bộ gõ bằng Windows + Phím cách.',
+        voice: 'Settings → Time & language → Speech → Manage voices → Add voices → Chinese (Simplified, China).',
+      },
+      {
+        name: 'Máy Mac',
+        ime: 'System Settings → Keyboard → Text Input → Edit → + → Chinese, Simplified → Pinyin – Simplified.',
+        voice: 'System Settings → Accessibility → Spoken Content → System voice → Manage Voices → Chinese (China mainland).',
+      },
+    ],
+  },
 
   settings: {
     title: 'Cài đặt',
@@ -166,6 +228,12 @@ export const T = {
     themeDark: 'Tối',
     showPinyin: 'Hiện pinyin trong câu ví dụ',
     showHanViet: 'Hiện âm Hán Việt',
+    voice: 'Giọng đọc',
+    voiceAuto: 'Tự chọn',
+    voiceNone: 'Máy này chưa có giọng đọc tiếng Trung phổ thông.',
+    speechRate: 'Tốc độ đọc',
+    testVoice: 'Nghe thử',
+    guideLink: 'Hướng dẫn cài bộ gõ và giọng đọc',
     study: 'Học tập',
     newWordsPerDay: 'Số từ mới mỗi ngày',
     data: 'Dữ liệu của bạn',
