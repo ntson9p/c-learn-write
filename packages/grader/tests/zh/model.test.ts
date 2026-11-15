@@ -117,4 +117,8 @@ describe('model: homophones that change the meaning', () => {
     expect(gradeZhModel(q, '我想卖一个新手机。').score).toBe(0);
     expect(gradeZhModel(q, '我想买一个新手机。').score).toBe(100);
   });
+  it('does not take 和 for a typo of 或', () => {
+    const q2: ModelQuestion = { id: 'or', lang: 'zh', type: 'model', prompt: '你们哪天去？', answers: ['我们星期六或星期天去。'] };
+    expect(gradeZhModel(q2, '我们星期六和星期天去。').score).toBe(0);
+  });
 });
