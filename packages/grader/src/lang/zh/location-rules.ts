@@ -16,7 +16,7 @@ import { applyFixes } from '../../core/fixes';
 import type { Fix, Issue } from '../../core/types';
 import type { ZhDoc } from './analyze';
 import { zhIssue } from './issues';
-import { ACTION_VERBS, ADJECTIVES, NOT_ACTIONS, NOUNS, PLACES, ZAI_LIST, ZAI_VERBS, matchLongest } from './lexicon';
+import { ACTION_VERBS, ADJECTIVES, COMPOUND_LIST, matchLongest, NOT_ACTIONS, NOUNS, PLACES, ZAI_LIST, ZAI_VERBS } from './lexicon';
 import { vi } from './messages';
 import { pinyinOf } from './pinyin';
 import type { LocationMention, PlaceUnit } from './places';
@@ -31,6 +31,9 @@ const NOUN_MARKERS = new Set(['的', '个', '份', '种', '项', '这', '那']);
 
 /** Words used to step over non-verbs while looking for the first action verb. */
 const SCAN_WORDS = new Map<string, boolean>();
+// Syllabus compounds first, so that 运动 inside 运动员 is not taken for a verb;
+// known action verbs below override them.
+for (const word of COMPOUND_LIST) SCAN_WORDS.set(word, false);
 for (const word of [...NOT_ACTIONS, ...NOUNS.keys(), ...PLACES.keys(), ...ADJECTIVES]) SCAN_WORDS.set(word, false);
 for (const word of ACTION_VERBS) SCAN_WORDS.set(word, true);
 const SCAN_LIST = [...SCAN_WORDS.keys()].sort((a, b) => b.length - a.length || a.localeCompare(b));

@@ -61,3 +61,10 @@ describe('题 with 个', () => {
     expect(checkZhSentence('今天的作业有三个题。').issues).toEqual([]);
   });
 });
+
+describe('place_order: verbs inside compounds', () => {
+  it('does not read 运动 inside 运动员 as the verb', () => {
+    expect(checkZhSentence('运动员在体育馆里。').issues).toEqual([]);
+    expect(checkZhSentence('我们运动在体育馆。').issues.map((i) => i.code)).toEqual(['place_order']);
+  });
+});
