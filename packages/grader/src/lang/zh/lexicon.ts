@@ -8,6 +8,7 @@ import nonNumberData from './data/non-numbers.json';
 import nounData from './data/nouns.json';
 import placeData from './data/places.json';
 import verbData from './data/verbs.json';
+import wordData from './data/words.json';
 
 export type MeasureKind = 'individual' | 'general' | 'container' | 'time' | 'calendar' | 'money' | 'measure' | 'ordinal';
 
@@ -94,6 +95,9 @@ export const ADJECTIVES: readonly string[] = byLengthDesc(stringList(modifiers.a
 
 export const MEASURE_LIST: readonly string[] = byLengthDesc(MEASURE_WORDS.keys());
 export const NOUN_LIST: readonly string[] = byLengthDesc(NOUNS.keys());
+/** Multi-character syllabus words (generated from the course data). */
+export const COMPOUND_LIST: readonly string[] = byLengthDesc(stringList((wordData as { words: unknown }).words, 'words.words'));
+export const COMPOUNDS: ReadonlySet<string> = new Set(COMPOUND_LIST);
 
 export const NON_NUMBER_PATTERNS: readonly RegExp[] = stringList(
   (nonNumberData as Record<string, unknown>).patterns,

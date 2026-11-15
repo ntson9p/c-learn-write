@@ -15,6 +15,8 @@ import { isClauseBreak, isHan } from './chars';
 import {
   ADJECTIVES,
   COLORS,
+  COMPOUND_LIST,
+  COMPOUNDS,
   MEASURE_LIST,
   MEASURE_WORDS,
   NON_NUMBER_PATTERNS,
@@ -54,6 +56,12 @@ export interface NounSpan extends TextSpan {
   /** The noun the learner meant: a lexicon word, an expected noun or the unknown text. */
   noun: string;
   match: 'exact' | 'homophone' | 'unknown';
+  /**
+   * The expected noun after unknown characters (女医生 for 医生): probably
+   * the right noun with a modifier the lexicon does not know; graders flag
+   * such answers for review.
+   */
+  guessed?: boolean;
   typos: Typo[];
   /** Unknown word one character away from an expected noun (苹里 ~ 苹果). */
   near?: string;
@@ -189,6 +197,13 @@ function matchNoun(text: string, p: number, end: number, expected: readonly stri
   }
   const lexical = matchLongest(text, p, NOUN_LIST, end);
   if (lexical && (!best || lexical.length > best.length)) best = lexical;
+  // A longer syllabus word starting with the matched noun (书店 vs 书) is a
+  // different word: without lexicon data for it, it is an unknown noun and
+  // the rules stay silent.
+  const compound = matchLongest(text, p, COMPOUND_LIST, end);
+  if (best && compound && compound.length > best.length && !NOUNS.has(compound) && !expected.includes(compound)) {
+    return { start: p, end: p + compound.length, text: compound, noun: compound, match: 'unknown', typos: [] };
+  }
   if (best) return { start: p, end: p + best.length, text: best, noun: best, match: 'exact', typos: [] };
 
   // A homophone of an expected noun (平果 for 苹果), unless the written word is
@@ -223,6 +238,15 @@ function matchUnknownNoun(
   }
   if (q === p) return undefined;
   const written = text.slice(p, q);
+  // 女医生 when 医生 is expected: an unknown modifier before the expected noun.
+  if (!COMPOUNDS.has(written)) {
+    for (const word of expected) {
+      const extra = written.length - word.length;
+      if (extra >= 1 && extra <= 2 && written.endsWith(word)) {
+        return { start: p, end: q, text: written, noun: word, match: 'exact', typos: [], guessed: true };
+      }
+    }
+  }
   const span: NounSpan = { start: p, end: q, text: written, noun: written, match: 'unknown', typos: [] };
   for (const word of expected) {
     if (word.length < 2 || word.length > written.length) continue;

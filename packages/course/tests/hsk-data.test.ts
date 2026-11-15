@@ -30,3 +30,11 @@ describe('HSK 2025 syllabus data (levels 1-3)', () => {
     expect(new Set(keys).size).toBe(keys.length);
   });
 });
+
+describe('grader word list', () => {
+  it('matches the multi-character syllabus words (npm run data:build)', async () => {
+    const grader = (await import('../../grader/src/lang/zh/data/words.json')).default as { words: string[] };
+    const expected = [...new Set(vocabulary.map((v) => v.word).filter((w) => [...w].length >= 2))].sort();
+    expect(grader.words).toEqual(expected);
+  });
+});

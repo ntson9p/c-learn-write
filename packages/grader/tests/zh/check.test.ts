@@ -18,3 +18,13 @@ describe('checkZhSentence', () => {
     expect(r.issues[0]?.fix).toBeDefined();
   });
 });
+
+describe('compound words of the syllabus', () => {
+  it('does not read 书店 as 书 + 店 (no measure-word complaint)', () => {
+    for (const s of ['学校外边有一个书店。', '学校外边有一家书店。', '这儿有一个书店。', '我们去了两个饭店。']) {
+      expect(checkZhSentence(s).issues, s).toEqual([]);
+    }
+    // The lone noun is still checked.
+    expect(checkZhSentence('我有一个书。').issues.map((i) => i.code)).toEqual(['wrong_measure_word']);
+  });
+});

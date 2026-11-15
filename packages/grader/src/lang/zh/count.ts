@@ -130,8 +130,10 @@ function judgeContent(doc: ZhDoc, q: CountQuestion, refs: { p: QuantityPhrase; r
   }
 
   if (claim === undefined) return { status: 'no_answer', message: vi.countNoNumber(targetLabel(q)), needsReview: false };
+  // 两个女医生: right number, but the noun was recognised behind unknown characters.
+  const guessed = positives.some((p) => p.noun?.guessed);
   return claim === q.expected.number
-    ? { status: 'correct', message: vi.countCorrect, claim, needsReview: false }
+    ? { status: 'correct', message: vi.countCorrect, claim, needsReview: guessed }
     : { status: 'wrong', message: vi.countWrong(claim), claim, needsReview: false };
 }
 

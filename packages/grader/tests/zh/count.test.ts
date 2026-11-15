@@ -131,3 +131,22 @@ describe('gradeZhCount: options', () => {
     expect(gradeZhCount(withOptions({}, { missing_measure_word: 30 }), '有四苹果').score).toBe(70);
   });
 });
+
+describe('count: expected noun after unknown characters', () => {
+  const q: CountQuestion = {
+    id: 'doctors',
+    lang: 'zh',
+    type: 'count',
+    prompt: '图片里有几个医生？',
+    expected: { number: 2, noun: '医生' },
+  };
+  it('accepts 两个女医生 but asks for a teacher review', () => {
+    const r = gradeZhCount(q, '有两个女医生。');
+    expect(r.content.status).toBe('correct');
+    expect(r.score).toBe(100);
+    expect(r.needsReview).toBe(true);
+  });
+  it('keeps plain answers without review', () => {
+    expect(gradeZhCount(q, '有两个医生。')).toMatchObject({ score: 100, needsReview: false });
+  });
+});
