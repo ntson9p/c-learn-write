@@ -1,0 +1,1486 @@
+{
+  "id": "hsk3-11",
+  "goalsVi": [
+    "Nói về trường lớp, môn học, thư viện: 初中, 年级, 班级, 学期, 节, 数学, 外语, 图书馆, 借, 还…",
+    "Nói về kết quả học tập và thái độ học: 成绩, 水平, 提高, 努力, 认真, 迟到",
+    "Dùng giới từ 「为」, 「向」, 「关于」 để nói làm cho ai, hướng về ai, nói về chuyện gì",
+    "Nói mục đích và nguyên nhân với 「为了」, 「为」: 为了提高汉语水平，……; 别为这件事生气",
+    "Nói 'ngoài … ra' với 「除了……(以外)，还/也/都……」 và điều kiện bắt buộc với 「只有……，才……」"
+  ],
+  "words": [
+    {
+      "no": 565,
+      "word": "初中",
+      "meaningsVi": [
+        "trung học cơ sở, cấp hai"
+      ],
+      "noteVi": "Ở Trung Quốc: 小学 (tiểu học, 6 năm) → 初中 (trung học cơ sở, 3 năm) → 高中 (trung học phổ thông, 3 năm). 中学 gồm cả 初中 và 高中.",
+      "examples": [
+        {
+          "zh": "我弟弟今年上初中了。",
+          "py": "wǒ dì di jīn nián shàng chū zhōng le",
+          "vi": "Em trai tôi năm nay lên cấp hai rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 783,
+      "word": "年级",
+      "meaningsVi": [
+        "lớp, khối (năm học thứ mấy)"
+      ],
+      "noteVi": "'Học lớp mấy' (theo năm học) là 上几年级: 一年级 (lớp 1), 大学二年级 (năm hai đại học). Còn 'lớp' theo nghĩa nhóm học sinh học chung là 班. Dùng 二年级, không nói 两年级.",
+      "examples": [
+        {
+          "zh": "你上几年级？——我上三年级。",
+          "py": "nǐ shàng jǐ nián jí wǒ shàng sān nián jí",
+          "vi": "Em học lớp mấy? — Em học lớp ba."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 507,
+      "word": "班级",
+      "meaningsVi": [
+        "lớp, lớp học (tập thể học sinh)"
+      ],
+      "noteVi": "Nghĩa như 「班」 nhưng trang trọng hơn, hay dùng khi nói chung về các lớp. Nói về lớp mình thì thường dùng 我们班.",
+      "examples": [
+        {
+          "zh": "每个班级都有自己的教室。",
+          "py": "měi gè bān jí dōu yǒu zì jǐ de jiào shì",
+          "vi": "Mỗi lớp đều có phòng học riêng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 915,
+      "word": "学期",
+      "meaningsVi": [
+        "học kỳ"
+      ],
+      "noteVi": "这个学期 (học kỳ này), 下个学期 (học kỳ sau). Môn học đếm bằng 门: 五门课.",
+      "examples": [
+        {
+          "zh": "这个学期我们有五门课。",
+          "py": "zhè ge xué qī wǒ men yǒu wǔ mén kè",
+          "vi": "Học kỳ này chúng tôi có năm môn học."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 708,
+      "word": "节",
+      "meaningsVi": [
+        "tiết (lượng từ cho tiết học)",
+        "ngày lễ, tết (danh từ)"
+      ],
+      "noteVi": "Lượng từ cho tiết học: 一节课 (một tiết), 第一节课 (tiết thứ nhất). Danh từ: ngày lễ (xem 节日, 过节 ở bài sau).",
+      "examples": [
+        {
+          "zh": "今天上午有四节课，下午没有课。",
+          "py": "jīn tiān shàng wǔ yǒu sì jié kè xià wǔ méi yǒu kè",
+          "vi": "Sáng nay có bốn tiết, buổi chiều không có tiết nào."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 669,
+      "word": "黑板",
+      "meaningsVi": [
+        "bảng đen, bảng (trên lớp)"
+      ],
+      "noteVi": "Viết lên bảng: 在黑板上写 (黑板 là đồ vật nên thêm 上). Lượng từ 块.",
+      "examples": [
+        {
+          "zh": "老师在黑板上写了几个字。",
+          "py": "lǎo shī zài hēi bǎn shàng xiě le jǐ gè zì",
+          "vi": "Thầy giáo viết mấy chữ lên bảng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 899,
+      "word": "校园",
+      "meaningsVi": [
+        "khuôn viên trường, sân trường"
+      ],
+      "noteVi": "Hán Việt 'hiệu viên' (vườn của trường): toàn bộ khu đất, nhà, sân của trường.",
+      "examples": [
+        {
+          "zh": "我们的校园很大，也很漂亮。",
+          "py": "wǒ men de xiào yuán hěn dà yě hěn piào liang",
+          "vi": "Khuôn viên trường chúng tôi rất rộng và cũng rất đẹp."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 900,
+      "word": "校长",
+      "meaningsVi": [
+        "hiệu trưởng"
+      ],
+      "noteVi": "「长」 ở đây đọc **zhǎng** (người đứng đầu), không đọc cháng (dài).",
+      "examples": [
+        {
+          "zh": "校长明天要来我们班。",
+          "py": "xiào zhǎng míng tiān yào lái wǒ men bān",
+          "vi": "Mai thầy hiệu trưởng sẽ đến lớp chúng tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 863,
+      "word": "图书馆",
+      "meaningsVi": [
+        "thư viện"
+      ],
+      "noteVi": "Hán Việt 'đồ thư quán'. 去图书馆借书 (đến thư viện mượn sách), 在图书馆看书 (đọc sách ở thư viện).",
+      "examples": [
+        {
+          "zh": "我常常去图书馆看书。",
+          "py": "wǒ cháng cháng qù tú shū guǎn kàn shū",
+          "vi": "Tôi thường đến thư viện đọc sách."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 715,
+      "word": "借",
+      "meaningsVi": [
+        "mượn",
+        "cho mượn"
+      ],
+      "noteVi": "Một từ 「借」 dùng cho cả hai chiều. Mượn của ai: 跟/向 + người + 借; cho ai mượn: 借给 + người: 他借给我一本书 (anh ấy cho tôi mượn một quyển sách).",
+      "examples": [
+        {
+          "zh": "我想去图书馆借几本书。",
+          "py": "wǒ xiǎng qù tú shū guǎn jiè jǐ běn shū",
+          "vi": "Tôi muốn đến thư viện mượn mấy quyển sách."
+        },
+        {
+          "zh": "你的词典能借我用一下吗？",
+          "py": "nǐ de cí diǎn néng jiè wǒ yòng yí xià ma",
+          "vi": "Cho tôi mượn từ điển của bạn dùng một chút được không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 678,
+      "word": "还",
+      "meaningsVi": [
+        "trả (lại)"
+      ],
+      "noteVi": "Nghĩa 'trả' đọc **huán**, khác 还 hái (còn, vẫn). 还书 (trả sách), 还 + người (trả ai): 我明天还你. 借 và 还 hay đi thành cặp.",
+      "examples": [
+        {
+          "zh": "这本书我明天还你。",
+          "py": "zhè běn shū wǒ míng tiān huán nǐ",
+          "vi": "Quyển sách này mai tôi trả bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 843,
+      "word": "数学",
+      "meaningsVi": [
+        "toán, môn toán"
+      ],
+      "noteVi": "Hán Việt 'số học' nhưng nghĩa là môn Toán nói chung. 「数」 ở đây đọc shù.",
+      "examples": [
+        {
+          "zh": "数学是我最喜欢的课。",
+          "py": "shù xué shì wǒ zuì xǐ huan de kè",
+          "vi": "Toán là môn tôi thích nhất."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 867,
+      "word": "外语",
+      "meaningsVi": [
+        "ngoại ngữ, tiếng nước ngoài"
+      ],
+      "noteVi": "Đếm bằng 门: 两门外语 (hai ngoại ngữ).",
+      "examples": [
+        {
+          "zh": "学外语要多听多说。",
+          "py": "xué wài yǔ yào duō tīng duō shuō",
+          "vi": "Học ngoại ngữ phải nghe nhiều, nói nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 559,
+      "word": "成绩",
+      "meaningsVi": [
+        "kết quả học tập, điểm số",
+        "thành tích"
+      ],
+      "noteVi": "Hán Việt 'thành tích' nhưng trong trường học hay dùng với nghĩa điểm, kết quả học tập: 成绩很好 (học giỏi, điểm cao), 考试成绩 (kết quả thi).",
+      "examples": [
+        {
+          "zh": "这个学期他的成绩提高了很多。",
+          "py": "zhè ge xué qī tā de chéng jì tí gāo le hěn duō",
+          "vi": "Học kỳ này kết quả học tập của cậu ấy tiến bộ nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 846,
+      "word": "水平",
+      "meaningsVi": [
+        "trình độ"
+      ],
+      "noteVi": "Hán Việt 'thủy bình' (mặt nước phẳng) nhưng nghĩa thường dùng là **trình độ**: 汉语水平 (trình độ tiếng Trung), 水平很高 (trình độ cao).",
+      "examples": [
+        {
+          "zh": "他的汉语水平很高。",
+          "py": "tā de hàn yǔ shuǐ píng hěn gāo",
+          "vi": "Trình độ tiếng Trung của anh ấy rất cao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 852,
+      "word": "提高",
+      "meaningsVi": [
+        "nâng cao, cải thiện"
+      ],
+      "noteVi": "Đi với 水平, 成绩…: 提高汉语水平. Không dùng cho việc nâng một đồ vật lên cao.",
+      "examples": [
+        {
+          "zh": "我想提高我的汉语水平。",
+          "py": "wǒ xiǎng tí gāo wǒ de hàn yǔ shuǐ píng",
+          "vi": "Tôi muốn nâng cao trình độ tiếng Trung của mình."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 786,
+      "word": "努力",
+      "meaningsVi": [
+        "cố gắng, nỗ lực (động từ)",
+        "chăm chỉ, cố gắng (tính từ)"
+      ],
+      "noteVi": "Động từ: 努力学习 (cố gắng học). Tính từ: 他很努力 (cậu ấy rất chăm chỉ). So với 「认真」: 努力 là bỏ nhiều công sức; 认真 là làm cẩn thận, nghiêm túc.",
+      "examples": [
+        {
+          "zh": "他学习很努力，每天晚上都在图书馆。",
+          "py": "tā xué xí hěn nǔ lì měi tiān wǎn shang dōu zài tú shū guǎn",
+          "vi": "Cậu ấy học rất chăm, tối nào cũng ở thư viện."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 817,
+      "word": "认真",
+      "meaningsVi": [
+        "nghiêm túc, chăm chú, cẩn thận"
+      ],
+      "noteVi": "Hán Việt 'nhận chân'. Làm việc gì một cách nghiêm túc, không qua loa: 认真地听 (chăm chú nghe), 认真复习 (ôn bài cẩn thận).",
+      "examples": [
+        {
+          "zh": "上课的时候，大家都在认真地听老师讲。",
+          "py": "shàng kè de shí hou dà jiā dōu zài rèn zhēn de tīng lǎo shī jiǎng",
+          "vi": "Trong giờ học, mọi người đều chăm chú nghe thầy giảng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 561,
+      "word": "迟到",
+      "meaningsVi": [
+        "đến muộn, đi muộn"
+      ],
+      "noteVi": "Không có tân ngữ nơi chốn: 上课迟到了 (đi học muộn), 迟到了十分钟 (muộn mười phút). Không nói 迟到学校.",
+      "examples": [
+        {
+          "zh": "今天早上我迟到了十分钟。",
+          "py": "jīn tiān zǎo shang wǒ chí dào le shí fēn zhōng",
+          "vi": "Sáng nay tôi đến muộn mười phút."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 627,
+      "word": "放学",
+      "meaningsVi": [
+        "tan học, tan trường"
+      ],
+      "noteVi": "「放学」 là học sinh tan trường ra về; 「下课」 là hết một tiết học.",
+      "examples": [
+        {
+          "zh": "放学以后，我们一起去踢球吧。",
+          "py": "fàng xué yǐ hòu wǒ men yì qǐ qù tī qiú ba",
+          "vi": "Tan học xong, chúng mình cùng đi đá bóng nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 546,
+      "word": "参加",
+      "meaningsVi": [
+        "tham gia, tham dự"
+      ],
+      "noteVi": "参加 + hoạt động, kỳ thi, cuộc họp…: 参加考试 (dự thi). Tân ngữ đứng ngay sau, không thêm 'vào' như tiếng Việt 'tham gia vào'.",
+      "examples": [
+        {
+          "zh": "这个周末我要参加汉语考试。",
+          "py": "zhè ge zhōu mò wǒ yào cān jiā hàn yǔ kǎo shì",
+          "vi": "Cuối tuần này tôi sẽ dự thi tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 566,
+      "word": "除了",
+      "meaningsVi": [
+        "ngoài … ra; trừ … ra"
+      ],
+      "noteVi": "Thường đi với 以外 và với 还/也/都 ở vế sau. Xem phần ngữ pháp để phân biệt nghĩa 'ngoài ra còn' và 'trừ ra'.",
+      "examples": [
+        {
+          "zh": "除了数学，我还喜欢外语。",
+          "py": "chú le shù xué wǒ hái xǐ huan wài yǔ",
+          "vi": "Ngoài toán ra, tôi còn thích ngoại ngữ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 932,
+      "word": "以外",
+      "meaningsVi": [
+        "ngoài (ra)",
+        "bên ngoài (một phạm vi)"
+      ],
+      "noteVi": "Hay gặp nhất trong 除了……以外. Đứng sau danh từ: 学校以外 (ngoài trường).",
+      "examples": [
+        {
+          "zh": "除了星期天以外，他每天都去学校。",
+          "py": "chú le xīng qī tiān yǐ wài tā měi tiān dōu qù xué xiào",
+          "vi": "Trừ chủ nhật ra, ngày nào anh ấy cũng đến trường."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 521,
+      "word": "比如",
+      "meaningsVi": [
+        "ví dụ như, chẳng hạn như"
+      ],
+      "noteVi": "Đặt trước các ví dụ, giữa các ví dụ dùng dấu 、: 比如饺子、包子.",
+      "examples": [
+        {
+          "zh": "我会做很多中国菜，比如饺子、包子。",
+          "py": "wǒ huì zuò hěn duō zhōng guó cài bǐ rú jiǎo zi bāo zi",
+          "vi": "Tôi biết làm nhiều món Trung Quốc, ví dụ như sủi cảo, bánh bao."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 656,
+      "word": "关于",
+      "meaningsVi": [
+        "về, liên quan đến"
+      ],
+      "noteVi": "Cụm 关于…… đứng **trước** danh từ (với 的) hoặc đầu câu: 关于中国的书 (sách về Trung Quốc). Không đặt sau danh từ như tiếng Việt 'sách về Trung Quốc'.",
+      "examples": [
+        {
+          "zh": "关于学习方法，老师讲了很多。",
+          "py": "guān yú xué xí fāng fǎ lǎo shī jiǎng le hěn duō",
+          "vi": "Về phương pháp học, thầy giáo đã giảng rất nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 876,
+      "word": "为",
+      "meaningsVi": [
+        "cho, vì (ai)",
+        "vì (lý do), để"
+      ],
+      "noteVi": "Giới từ, đọc **wèi**, đứng trước động từ: 为你高兴 (mừng cho bạn), 为这件事生气 (giận vì chuyện này). Khác 为 đọc wéi trong 认为, 以为.",
+      "examples": [
+        {
+          "zh": "大家都为你高兴。",
+          "py": "dà jiā dōu wèi nǐ gāo xìng",
+          "vi": "Mọi người đều mừng cho bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 877,
+      "word": "为了",
+      "meaningsVi": [
+        "để, nhằm (mục đích)",
+        "vì (ai, cái gì)"
+      ],
+      "noteVi": "Nêu mục đích, thường đứng đầu câu: 为了学好汉语，…… (để học giỏi tiếng Trung…). Không dùng 为了 cho nguyên nhân: 'vì trời mưa' là 因为下雨.",
+      "examples": [
+        {
+          "zh": "为了学好汉语，他每天都看中文电视。",
+          "py": "wèi le xué hǎo hàn yǔ tā měi tiān dōu kàn zhōng wén diàn shì",
+          "vi": "Để học giỏi tiếng Trung, ngày nào anh ấy cũng xem tivi tiếng Trung."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 979,
+      "word": "只有",
+      "meaningsVi": [
+        "chỉ có (… mới …)"
+      ],
+      "noteVi": "Liên từ nêu điều kiện duy nhất, đi với 才 ở vế sau: 只有……，才……. (Câu 我只有一本书 'tôi chỉ có một quyển sách' là 只 + 有, cách dùng khác.)",
+      "examples": [
+        {
+          "zh": "只有多练习，才能说得好。",
+          "py": "zhǐ yǒu duō liàn xí cái néng shuō de hǎo",
+          "vi": "Chỉ có luyện tập nhiều mới nói giỏi được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 172,
+      "titleVi": "Giới từ 「为」 (cho ai), 「向」 (với, hướng về ai) và 「关于」 (về)",
+      "summaryVi": "「为 + người」 = làm gì cho ai, vì ai; 「向 + người」 = hướng hành động về ai (向老师问问题); 「关于 + chủ đề」 = về, liên quan đến (关于中国的书).",
+      "explanationVi": [
+        "**为 (wèi) + người** đứng trước động từ, chỉ người được hưởng lợi hoặc người mà ta có cảm xúc vì họ: 妈妈为我做饭 (mẹ nấu cơm cho tôi), 我们都为你高兴 (chúng tôi đều mừng cho bạn). 「为」 gần nghĩa 「给」 nhưng trang trọng hơn. Chú ý: 为 đọc **wèi**, khác 为 trong 认为, 以为 (wéi).",
+        "**向 + người** đứng trước động từ, chỉ người mà hành động hướng tới: 向老师问问题 (hỏi thầy), 向他学习 (học tập anh ấy), 向大家介绍 (giới thiệu với mọi người), 向朋友借书 (mượn sách của bạn). Ở bài 7 đã học 向 + phương hướng (向前走); ở đây sau 向 là **người**.",
+        "**关于 + chủ đề** nghĩa là 'về, liên quan đến'. Hay làm định ngữ với 的: 一本关于中国的书 (một quyển sách về Trung Quốc), hoặc đứng đầu câu: 关于这个问题，我们明天再说. Cụm 关于……的 đứng **trước** danh từ: không nói 一本书关于中国.",
+        "Cả ba đều là giới từ, cụm giới từ đứng **trước** động từ (hoặc trước danh từ với 的). Tiếng Việt đặt 'cho tôi', 'với thầy', 'về Trung Quốc' ở **sau**, nên người Việt hay nói sai thành 做饭为我, 问问题向老师."
+      ],
+      "patterns": [
+        "为 + người + động từ / tính từ",
+        "向 + người + động từ",
+        "关于 + chủ đề + 的 + danh từ",
+        "关于 + chủ đề，……"
+      ],
+      "examples": [
+        {
+          "zh": "妈妈为我做了很多好吃的菜。",
+          "py": "mā ma wèi wǒ zuò le hěn duō hǎo chī de cài",
+          "vi": "Mẹ nấu cho tôi rất nhiều món ngon."
+        },
+        {
+          "zh": "有不懂的问题，可以向老师问。",
+          "py": "yǒu bù dǒng de wèn tí kě yǐ xiàng lǎo shī wèn",
+          "vi": "Có câu hỏi nào không hiểu thì có thể hỏi thầy."
+        },
+        {
+          "zh": "他学习很认真，我们都应该向他学习。",
+          "py": "tā xué xí hěn rèn zhēn wǒ men dōu yīng gāi xiàng tā xué xí",
+          "vi": "Cậu ấy học rất nghiêm túc, chúng ta đều nên học tập cậu ấy."
+        },
+        {
+          "zh": "我想借一本关于中国的书。",
+          "py": "wǒ xiǎng jiè yì běn guān yú zhōng guó de shū",
+          "vi": "Tôi muốn mượn một quyển sách về Trung Quốc."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我想借一本书关于中国。",
+          "right": "我想借一本关于中国的书。",
+          "noteVi": "Cụm 关于中国 + 的 đứng trước danh từ 书, không đặt sau như tiếng Việt 'sách về Trung Quốc'."
+        },
+        {
+          "wrong": "我问问题向老师。",
+          "right": "我向老师问问题。",
+          "noteVi": "Cụm 向 + người đứng trước động từ."
+        },
+        {
+          "wrong": "妈妈做饭为我。",
+          "right": "妈妈为我做饭。",
+          "noteVi": "Cụm 为 + người đứng trước động từ, không đặt cuối câu như 'nấu cơm cho tôi'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 174,
+      "titleVi": "「为了」 và 「为」 (2): vì, để (mục đích và nguyên nhân)",
+      "summaryVi": "「为了 + mục đích / người」 = để, vì (ai, cái gì); 「为 + nguyên nhân」 = vì (chuyện gì) mà buồn, giận, lo…: 别为这件事生气.",
+      "explanationVi": [
+        "「为了」 nêu **mục đích** hoặc người/cái mà mình làm việc vì nó: 为了考试，他复习了一个月 (vì kỳ thi, anh ấy ôn cả tháng); 妈妈这么做是为了你 (mẹ làm thế là vì con). Sau 为了 có thể là danh từ hoặc cả một cụm động từ (为了学好汉语 — xem điểm 'câu mục đích 为了……，……').",
+        "「为」 (2) nêu **nguyên nhân** khiến ai đó có cảm xúc hay hành động: 他为这件事很生气 (anh ấy rất giận vì chuyện này), 妈妈一直为我的学习担心 (mẹ luôn lo về chuyện học của tôi). Hay đi với 生气, 着急, 担心, 难过, 高兴.",
+        "Phân biệt với 「因为」: 因为 nối hai vế câu nguyên nhân – kết quả (因为下雨，所以我们没去); 为 là giới từ, sau nó chỉ là một danh từ hay cụm từ (为这件事). Còn 「为了」 là **mục đích** (điều mình muốn đạt), không dùng cho nguyên nhân: 'vì trời mưa' là 因为下雨, không phải 为了下雨.",
+        "Cụm 为/为了 đứng **trước** động từ chính, không đặt ra sau như tiếng Việt 'giận **vì chuyện này**': nói 他为这件事很生气, không nói 他很生气为这件事."
+      ],
+      "patterns": [
+        "Chủ ngữ + 为 + nguyên nhân + 生气/着急/担心/难过…",
+        "为了 + danh từ / cụm động từ，……",
+        "……是为了 + danh từ / cụm động từ"
+      ],
+      "examples": [
+        {
+          "zh": "别为这么小的事生气。",
+          "py": "bié wèi zhè me xiǎo de shì shēng qì",
+          "vi": "Đừng giận vì chuyện nhỏ như thế."
+        },
+        {
+          "zh": "妈妈一直为我的学习担心。",
+          "py": "mā ma yì zhí wèi wǒ de xué xí dān xīn",
+          "vi": "Mẹ luôn lo lắng về chuyện học của tôi."
+        },
+        {
+          "zh": "为了考试，他复习了一个月。",
+          "py": "wèi le kǎo shì tā fù xí le yí gè yuè",
+          "vi": "Vì kỳ thi, anh ấy đã ôn suốt một tháng."
+        },
+        {
+          "zh": "妈妈这么做，都是为了你。",
+          "py": "mā ma zhè me zuò dōu shì wèi le nǐ",
+          "vi": "Mẹ làm như vậy đều là vì con."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "为了下雨，我们没去踢球。",
+          "right": "因为下雨，我们没去踢球。",
+          "noteVi": "「为了」 nêu mục đích (điều mình muốn đạt). Nguyên nhân (trời mưa) dùng 「因为」."
+        },
+        {
+          "wrong": "他很生气为这件事。",
+          "right": "他为这件事很生气。",
+          "noteVi": "Cụm 为 + nguyên nhân đứng trước tính từ / động từ, không đặt cuối câu như tiếng Việt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 192,
+      "titleVi": "「除了……(以外)，……还/也/都……」: ngoài … ra, còn / cũng / đều …",
+      "summaryVi": "「除了 A (以外)，还/也 + …」 = ngoài A ra còn … (cộng thêm); 「除了 A (以外)，都 + …」 = trừ A ra, tất cả đều … (loại trừ A).",
+      "explanationVi": [
+        "「除了 A (以外)」 nghĩa là 'ngoài A ra' hoặc 'trừ A ra'; 「以外」 có thể bỏ: 除了数学(以外). Nghĩa của cả câu phụ thuộc vào từ ở vế sau.",
+        "**Cộng thêm**: vế sau có 「还」 hoặc 「也」: 除了数学以外，我还喜欢外语 (ngoài toán ra, tôi còn thích ngoại ngữ) — tôi thích **cả hai**. Hay dùng 「也」 khi chủ ngữ của vế sau là người/vật khác: 除了我以外，小明也去了 (ngoài tôi ra, Tiểu Minh cũng đi).",
+        "**Loại trừ**: vế sau có 「都」, thường kèm 大家, 每天, 别的…: 除了小明以外，大家都来了 (trừ Tiểu Minh ra, mọi người đều đến) — Tiểu Minh **không** đến. Tiếng Việt 'ngoài … ra' cũng có hai nghĩa này, nên phải nhìn từ 还/也 hay 都 ở vế sau.",
+        "还/也/都 là phó từ nên đứng **sau chủ ngữ**, trước động từ: 除了汉语，他还会说英语. Không đặt chúng trước chủ ngữ (还他会说 là sai)."
+      ],
+      "patterns": [
+        "除了 A (以外)，(chủ ngữ +) 还/也 + động từ…",
+        "除了 A (以外)，chủ ngữ + 都 + động từ / tính từ…"
+      ],
+      "examples": [
+        {
+          "zh": "除了汉语，他还会说英语。",
+          "py": "chú le hàn yǔ tā hái huì shuō yīng yǔ",
+          "vi": "Ngoài tiếng Trung, anh ấy còn biết nói tiếng Anh."
+        },
+        {
+          "zh": "除了小明以外，大家都来了。",
+          "py": "chú le xiǎo míng yǐ wài dà jiā dōu lái le",
+          "vi": "Trừ Tiểu Minh ra, mọi người đều đến rồi."
+        },
+        {
+          "zh": "除了我以外，小红也参加了这次考试。",
+          "py": "chú le wǒ yǐ wài xiǎo hóng yě cān jiā le zhè cì kǎo shì",
+          "vi": "Ngoài tôi ra, Tiểu Hồng cũng dự kỳ thi lần này."
+        },
+        {
+          "zh": "除了数学，别的课他都很喜欢。",
+          "py": "chú le shù xué bié de kè tā dōu hěn xǐ huan",
+          "vi": "Trừ môn toán ra, các môn khác cậu ấy đều rất thích."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "除了数学以外，我都喜欢外语。",
+          "right": "除了数学以外，我还喜欢外语。",
+          "noteVi": "Nghĩa 'ngoài toán còn thích ngoại ngữ' (cộng thêm) dùng 「还」. 「都」 dùng cho nghĩa loại trừ (trừ … ra, tất cả đều …)."
+        },
+        {
+          "wrong": "除了汉语，还他会说英语。",
+          "right": "除了汉语，他还会说英语。",
+          "noteVi": "「还」 là phó từ, đứng sau chủ ngữ 他."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 239,
+      "titleVi": "「只有……，才……」: chỉ có … mới …",
+      "summaryVi": "「只有 + điều kiện duy nhất，(chủ ngữ +) 才 + kết quả」: chỉ khi có điều kiện đó thì mới có kết quả: 只有多练习，才能说得好.",
+      "explanationVi": [
+        "「只有」 nêu điều kiện **duy nhất, bắt buộc**; 「才」 ở vế sau nêu kết quả chỉ xảy ra khi có điều kiện đó: 只有努力学习，才能提高成绩 (chỉ có chăm chỉ học mới nâng cao được kết quả). Cấu trúc giống hệt tiếng Việt 'chỉ có … mới …'.",
+        "「才」 là phó từ nên đứng **sau chủ ngữ**, trước động từ: 只有你去，他才会去 (chỉ khi bạn đi thì anh ấy mới đi). Không đặt 才 trước chủ ngữ (才他会去 là sai). Sau 才 hay có 能, 会, 可以.",
+        "Không thay 「才」 bằng 「就」: 只有……，就…… là sai. Sau này sẽ học 「只要……，就……」 (chỉ cần … là …): 只要 nêu điều kiện **đủ**, còn 只有 nêu điều kiện **bắt buộc**.",
+        "「只有」 có thể đứng trước một trạng ngữ: 这本书只有在图书馆才能看到 (quyển sách này chỉ ở thư viện mới đọc được). Chú ý: trong 我只有一本书 (tôi chỉ có một quyển sách), 只 + 有 là 'chỉ có (sở hữu)', không phải cấu trúc này."
+      ],
+      "patterns": [
+        "只有 + điều kiện，(chủ ngữ +) 才 + động từ",
+        "Chủ ngữ + 只有 + điều kiện + 才 + động từ"
+      ],
+      "examples": [
+        {
+          "zh": "只有多听多说，才能学好外语。",
+          "py": "zhǐ yǒu duō tīng duō shuō cái néng xué hǎo wài yǔ",
+          "vi": "Chỉ có nghe nhiều nói nhiều mới học giỏi ngoại ngữ được."
+        },
+        {
+          "zh": "只有认真复习，你才能考好。",
+          "py": "zhǐ yǒu rèn zhēn fù xí nǐ cái néng kǎo hǎo",
+          "vi": "Chỉ có ôn tập nghiêm túc, bạn mới thi tốt được."
+        },
+        {
+          "zh": "这本书只有在图书馆才能看到。",
+          "py": "zhè běn shū zhǐ yǒu zài tú shū guǎn cái néng kàn dào",
+          "vi": "Quyển sách này chỉ ở thư viện mới đọc được."
+        },
+        {
+          "zh": "只有你去，他才会去。",
+          "py": "zhǐ yǒu nǐ qù tā cái huì qù",
+          "vi": "Chỉ khi bạn đi thì anh ấy mới đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "只有多练习，就能说得好。",
+          "right": "只有多练习，才能说得好。",
+          "noteVi": "「只有」 đi với 「才」, không đi với 「就」."
+        },
+        {
+          "wrong": "只有你去，才他会去。",
+          "right": "只有你去，他才会去。",
+          "noteVi": "「才」 đứng sau chủ ngữ 他, trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 241,
+      "titleVi": "Câu mục đích 「为了……，……」: để …, (thì) …",
+      "summaryVi": "Vế đầu 「为了 + mục đích」, vế sau là việc làm để đạt mục đích đó: 为了提高汉语水平，我每天都看中文书.",
+      "explanationVi": [
+        "Câu phức chỉ mục đích: vế trước có 「为了」 nêu điều muốn đạt được, vế sau là việc làm để đạt điều đó: 为了身体健康，爷爷每天都锻炼 (để khỏe mạnh, ngày nào ông cũng tập thể dục).",
+        "Khác tiếng Việt: tiếng Việt hay nói việc làm trước, mục đích sau ('Ông tập thể dục **để** khỏe'). Tiếng Trung thường đặt 「为了……」 **trước**. Muốn nói mục đích ở sau thì dùng 「……，是为了……」: 爷爷每天锻炼，是为了身体健康.",
+        "Hai vế thường cùng chủ ngữ; chủ ngữ đứng ở vế sau (为了学好汉语，**他**来中国留学了) hoặc đứng trước 为了 (他为了学好汉语，来中国留学了). Vế sau không dùng 所以: 为了……，所以…… là sai (所以 đi với 因为).",
+        "Phủ định mục đích: 为了不 + động từ: 为了不迟到，他六点就起床了 (để không bị muộn, sáu giờ anh ấy đã dậy)."
+      ],
+      "patterns": [
+        "为了 + mục đích，chủ ngữ + việc làm",
+        "Chủ ngữ + 为了 + mục đích，việc làm",
+        "Việc làm，是为了 + mục đích"
+      ],
+      "examples": [
+        {
+          "zh": "为了提高汉语水平，我每天都看中文书。",
+          "py": "wèi le tí gāo hàn yǔ shuǐ píng wǒ měi tiān dōu kàn zhōng wén shū",
+          "vi": "Để nâng cao trình độ tiếng Trung, ngày nào tôi cũng đọc sách tiếng Trung."
+        },
+        {
+          "zh": "为了不迟到，他六点就起床了。",
+          "py": "wèi le bù chí dào tā liù diǎn jiù qǐ chuáng le",
+          "vi": "Để không bị muộn, sáu giờ anh ấy đã dậy rồi."
+        },
+        {
+          "zh": "为了身体健康，爷爷每天早上都锻炼。",
+          "py": "wèi le shēn tǐ jiàn kāng yé ye měi tiān zǎo shang dōu duàn liàn",
+          "vi": "Để có sức khỏe tốt, sáng nào ông nội cũng tập thể dục."
+        },
+        {
+          "zh": "他来中国，是为了学习汉语。",
+          "py": "tā lái zhōng guó shì wèi le xué xí hàn yǔ",
+          "vi": "Anh ấy đến Trung Quốc là để học tiếng Trung."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他学习很努力为了考上大学。",
+          "right": "为了考上大学，他学习很努力。",
+          "noteVi": "Cụm 为了 thường đứng đầu câu. Muốn nói mục đích ở cuối thì dùng 是为了: 他学习很努力，是为了考上大学."
+        },
+        {
+          "wrong": "为了考上大学，所以他学习很努力。",
+          "right": "为了考上大学，他学习很努力。",
+          "noteVi": "「所以」 đi với 「因为」, không đi với 「为了」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-11-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "初中",
+          "trung học cơ sở"
+        ],
+        [
+          "年级",
+          "lớp (khối năm học)"
+        ],
+        [
+          "学期",
+          "học kỳ"
+        ],
+        [
+          "黑板",
+          "bảng đen"
+        ],
+        [
+          "校长",
+          "hiệu trưởng"
+        ],
+        [
+          "图书馆",
+          "thư viện"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-11-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "成绩",
+          "kết quả học tập"
+        ],
+        [
+          "水平",
+          "trình độ"
+        ],
+        [
+          "提高",
+          "nâng cao"
+        ],
+        [
+          "努力",
+          "cố gắng"
+        ],
+        [
+          "认真",
+          "nghiêm túc"
+        ],
+        [
+          "迟到",
+          "đến muộn"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-11-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这本书我已经看完了，明天去图书馆",
+      "after": "。",
+      "answers": [
+        "还"
+      ],
+      "options": [
+        "还",
+        "借",
+        "放"
+      ],
+      "vi": "Quyển sách này tôi đọc xong rồi, mai đến thư viện trả.",
+      "explainVi": "Đọc xong rồi thì đi trả: 还 (huán)."
+    },
+    {
+      "id": "hsk3-11-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我忘带词典了，能",
+      "after": "你的用一下吗？",
+      "answers": [
+        "借"
+      ],
+      "options": [
+        "借",
+        "还",
+        "送"
+      ],
+      "vi": "Tôi quên mang từ điển rồi, cho tôi mượn của bạn dùng một chút được không?"
+    },
+    {
+      "id": "hsk3-11-e05",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "今天上午有四",
+      "after": "课。",
+      "answers": [
+        "节"
+      ],
+      "options": [
+        "节",
+        "本",
+        "页"
+      ],
+      "vi": "Sáng nay có bốn tiết học."
+    },
+    {
+      "id": "hsk3-11-e06",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "以后，我们一起去踢球吧。",
+      "answers": [
+        "放学"
+      ],
+      "options": [
+        "放学",
+        "迟到",
+        "参加"
+      ],
+      "vi": "Tan học xong, chúng mình cùng đi đá bóng nhé."
+    },
+    {
+      "id": "hsk3-11-e07",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi muốn mượn một quyển sách về Trung Quốc.)",
+      "options": [
+        "我想借一本关于中国的书。",
+        "我想借一本书关于中国。",
+        "我想借关于一本中国的书。"
+      ],
+      "answer": 0,
+      "explainVi": "Cụm 关于中国 + 的 đứng trước danh từ 书.",
+      "grammar": [
+        172
+      ]
+    },
+    {
+      "id": "hsk3-11-e08",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "有不懂的问题，可以",
+      "after": "老师问。",
+      "answers": [
+        "向"
+      ],
+      "options": [
+        "向",
+        "关于",
+        "为了"
+      ],
+      "vi": "Có câu hỏi nào không hiểu thì có thể hỏi thầy.",
+      "explainVi": "「向 + người」 đứng trước động từ, chỉ người mà hành động hướng tới.",
+      "grammar": [
+        172
+      ]
+    },
+    {
+      "id": "hsk3-11-e09",
+      "type": "order",
+      "vi": "Mẹ nấu cho tôi rất nhiều món ngon.",
+      "tiles": [
+        "妈妈",
+        "为我",
+        "做了",
+        "很多",
+        "好吃的菜"
+      ],
+      "answers": [
+        "妈妈为我做了很多好吃的菜"
+      ],
+      "explainVi": "Cụm 为我 đứng trước động từ 做.",
+      "grammar": [
+        172
+      ]
+    },
+    {
+      "id": "hsk3-11-e10",
+      "type": "translate",
+      "vi": "Cậu ấy học rất chăm, chúng ta đều nên học tập cậu ấy.",
+      "answers": [
+        "他学习[很|非常]努力，我们都应该向他学习。",
+        "他学习[很|非常]认真，我们都应该向他学习。"
+      ],
+      "examples": [
+        {
+          "answer": "他学习很努力，我们都应该向他学习。",
+          "score": 100
+        },
+        {
+          "answer": "他学习非常认真，我们都应该向他学习。",
+          "score": 100
+        },
+        {
+          "answer": "他学习很努力，我们都应该学习向他。",
+          "score": 0,
+          "note": "向他 phải đứng trước động từ 学习"
+        },
+        {
+          "answer": "他学习很努力，我们都不应该向他学习。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        172
+      ]
+    },
+    {
+      "id": "hsk3-11-e11",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Đừng giận vì chuyện nhỏ như thế.)",
+      "options": [
+        "别为这么小的事生气。",
+        "别生气为这么小的事。",
+        "为别这么小的事生气。"
+      ],
+      "answer": 0,
+      "explainVi": "Cụm 为 + nguyên nhân đứng sau 别, trước động từ 生气.",
+      "grammar": [
+        174
+      ]
+    },
+    {
+      "id": "hsk3-11-e12",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "",
+      "after": "下雨，我们今天没去踢球。",
+      "answers": [
+        "因为"
+      ],
+      "options": [
+        "因为",
+        "为了",
+        "只有"
+      ],
+      "vi": "Vì trời mưa nên hôm nay chúng tôi không đi đá bóng.",
+      "explainVi": "Trời mưa là nguyên nhân nên dùng 「因为」. 「为了」 chỉ nêu mục đích.",
+      "grammar": [
+        174
+      ]
+    },
+    {
+      "id": "hsk3-11-e13",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "你考上了大学，大家都",
+      "after": "你高兴。",
+      "answers": [
+        "为"
+      ],
+      "options": [
+        "为",
+        "向",
+        "关于"
+      ],
+      "vi": "Bạn thi đỗ đại học, mọi người đều mừng cho bạn.",
+      "grammar": [
+        172
+      ]
+    },
+    {
+      "id": "hsk3-11-e14",
+      "type": "translate",
+      "vi": "Mẹ luôn lo lắng về chuyện học của tôi.",
+      "answers": [
+        "妈妈[一直|总是]为我的学习担心。",
+        "妈妈[一直|总是]担心我的学习。"
+      ],
+      "examples": [
+        {
+          "answer": "妈妈一直为我的学习担心。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈总是担心我的学习。",
+          "score": 100
+        },
+        {
+          "answer": "妈妈一直担心为我的学习。",
+          "score": 0,
+          "note": "为 + nguyên nhân đứng trước 担心"
+        },
+        {
+          "answer": "妈妈一直为我的身体担心。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        174
+      ]
+    },
+    {
+      "id": "hsk3-11-e15",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Để thi đỗ đại học, cậu ấy học rất chăm.)",
+      "options": [
+        "为了考上大学，他学习很努力。",
+        "他学习很努力为了考上大学。",
+        "为了考上大学，所以他学习很努力。"
+      ],
+      "answer": 0,
+      "explainVi": "「为了……」 đứng đầu câu; vế sau không dùng 所以.",
+      "grammar": [
+        241
+      ]
+    },
+    {
+      "id": "hsk3-11-e16",
+      "type": "order",
+      "vi": "Để có sức khỏe tốt, sáng nào ông nội cũng tập thể dục.",
+      "tiles": [
+        "为了",
+        "身体健康",
+        "爷爷",
+        "每天早上",
+        "都",
+        "锻炼"
+      ],
+      "answers": [
+        "为了身体健康爷爷每天早上都锻炼"
+      ],
+      "grammar": [
+        241
+      ]
+    },
+    {
+      "id": "hsk3-11-e17",
+      "type": "translate",
+      "vi": "Để không bị muộn, sáu giờ anh ấy đã dậy rồi.",
+      "answers": [
+        "为了不迟到，他六点就起床了。",
+        "他为了不迟到，六点就起床了。"
+      ],
+      "examples": [
+        {
+          "answer": "为了不迟到，他六点就起床了。",
+          "score": 100
+        },
+        {
+          "answer": "他为了不迟到，六点就起床了。",
+          "score": 100
+        },
+        {
+          "answer": "为了迟到，他六点就起床了。",
+          "score": 0
+        },
+        {
+          "answer": "为了不迟到，他七点就起床了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        241
+      ]
+    },
+    {
+      "id": "hsk3-11-e18",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你为什么学汉语？",
+        "promptVi": "Vì sao bạn học tiếng Trung? (Giả sử: để đi du học Trung Quốc. Hãy dùng 为了.)",
+        "answers": [
+          "(我学汉语)是为了去中国留学。",
+          "为了去中国留学。",
+          {
+            "text": "我想去中国留学。",
+            "score": 70
+          }
+        ],
+        "examples": [
+          {
+            "answer": "我学汉语是为了去中国留学。",
+            "score": 100
+          },
+          {
+            "answer": "为了去中国留学。",
+            "score": 100
+          },
+          {
+            "answer": "是为了去中国留学。",
+            "score": 100
+          },
+          {
+            "answer": "我想去中国留学。",
+            "score": 70,
+            "note": "Đúng ý nhưng chưa dùng 为了"
+          },
+          {
+            "answer": "为了去日本留学。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        241,
+        174
+      ]
+    },
+    {
+      "id": "hsk3-11-e19",
+      "type": "choice",
+      "promptVi": "「除了小明以外，大家都来了。」 nghĩa là gì?",
+      "options": [
+        "Trừ Tiểu Minh ra, mọi người đều đến (Tiểu Minh không đến).",
+        "Ngoài Tiểu Minh ra, mọi người cũng đến (Tiểu Minh có đến).",
+        "Chỉ có Tiểu Minh đến."
+      ],
+      "answer": 0,
+      "explainVi": "Vế sau có 「都」 nên 除了 mang nghĩa loại trừ: Tiểu Minh không đến.",
+      "grammar": [
+        192
+      ]
+    },
+    {
+      "id": "hsk3-11-e20",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "除了数学以外，我",
+      "after": "喜欢外语。",
+      "answers": [
+        "还"
+      ],
+      "options": [
+        "还",
+        "都",
+        "才"
+      ],
+      "vi": "Ngoài toán ra, tôi còn thích ngoại ngữ.",
+      "explainVi": "Nghĩa cộng thêm (thích cả hai) dùng 「还」 (hoặc 也).",
+      "grammar": [
+        192
+      ]
+    },
+    {
+      "id": "hsk3-11-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "除了星期天，他每天",
+      "after": "去图书馆。",
+      "answers": [
+        "都"
+      ],
+      "options": [
+        "都",
+        "还",
+        "才"
+      ],
+      "vi": "Trừ chủ nhật ra, ngày nào anh ấy cũng đến thư viện.",
+      "explainVi": "Nghĩa loại trừ (chủ nhật không đi) dùng 「都」.",
+      "grammar": [
+        192
+      ]
+    },
+    {
+      "id": "hsk3-11-e22",
+      "type": "order",
+      "vi": "Ngoài tiếng Trung, anh ấy còn biết nói tiếng Anh.",
+      "tiles": [
+        "除了汉语",
+        "他",
+        "还",
+        "会",
+        "说",
+        "英语"
+      ],
+      "answers": [
+        "除了汉语他还会说英语"
+      ],
+      "grammar": [
+        192
+      ]
+    },
+    {
+      "id": "hsk3-11-e23",
+      "type": "translate",
+      "vi": "Ngoài toán ra, tôi còn thích ngoại ngữ.",
+      "answers": [
+        "除了数学(以外)，我还(很)喜欢外语。",
+        "除了数学(以外)，我也(很)喜欢外语。"
+      ],
+      "examples": [
+        {
+          "answer": "除了数学以外，我还喜欢外语。",
+          "score": 100
+        },
+        {
+          "answer": "除了数学，我也喜欢外语。",
+          "score": 100
+        },
+        {
+          "answer": "除了数学以外，我还很喜欢外语。",
+          "score": 100
+        },
+        {
+          "answer": "除了数学，我不喜欢外语。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        192
+      ]
+    },
+    {
+      "id": "hsk3-11-e24",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Chỉ có luyện tập nhiều mới nói giỏi được.)",
+      "options": [
+        "只有多练习，才能说得好。",
+        "只有多练习，就能说得好。",
+        "只有多练习，能才说得好。"
+      ],
+      "answer": 0,
+      "explainVi": "「只有」 đi với 「才」; 才 đứng trước 能.",
+      "grammar": [
+        239
+      ]
+    },
+    {
+      "id": "hsk3-11-e25",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "只有你去，他",
+      "after": "会去。",
+      "answers": [
+        "才"
+      ],
+      "options": [
+        "才",
+        "就",
+        "都"
+      ],
+      "vi": "Chỉ khi bạn đi thì anh ấy mới đi.",
+      "grammar": [
+        239
+      ]
+    },
+    {
+      "id": "hsk3-11-e26",
+      "type": "order",
+      "vi": "Quyển sách này chỉ ở thư viện mới đọc được.",
+      "tiles": [
+        "这本书",
+        "只有",
+        "在图书馆",
+        "才",
+        "能",
+        "看到"
+      ],
+      "answers": [
+        "这本书只有在图书馆才能看到"
+      ],
+      "grammar": [
+        239
+      ]
+    },
+    {
+      "id": "hsk3-11-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "怎么才能提高汉语水平？",
+        "promptVi": "Làm thế nào mới nâng cao được trình độ tiếng Trung? (Hãy trả lời bằng 只有……才……: chỉ có nghe nhiều, nói nhiều mới nâng cao được.)",
+        "answers": [
+          "只有多听多说，才能提高(汉语水平)。",
+          "只有多听多说，(汉语)水平才能提高。",
+          {
+            "text": "[要|应该]多听多说。",
+            "score": 70
+          }
+        ],
+        "examples": [
+          {
+            "answer": "只有多听多说，才能提高汉语水平。",
+            "score": 100
+          },
+          {
+            "answer": "只有多听多说，才能提高。",
+            "score": 100
+          },
+          {
+            "answer": "只有多听多说，水平才能提高。",
+            "score": 100
+          },
+          {
+            "answer": "要多听多说。",
+            "score": 70,
+            "note": "Đúng ý nhưng chưa dùng 只有……才……"
+          },
+          {
+            "answer": "只有多听多说，就能提高。",
+            "score": 0,
+            "note": "只有 đi với 才, không đi với 就"
+          }
+        ]
+      },
+      "grammar": [
+        239
+      ]
+    },
+    {
+      "id": "hsk3-11-e28",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "黑板在哪儿？",
+        "promptVi": "Bảng đen ở đâu? (Trong hình: bảng đen ở phía trước lớp học.)",
+        "expected": {
+          "places": [
+            "教室"
+          ],
+          "localizer": "前",
+          "sentence": "黑板在教室前面。"
+        },
+        "examples": [
+          {
+            "answer": "黑板在教室前面。",
+            "score": 100
+          },
+          {
+            "answer": "在教室前边。",
+            "score": 100
+          },
+          {
+            "answer": "黑板在前教室。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "黑板在教室后面。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-11-e29",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "你们一天有几节课？",
+        "promptVi": "Một ngày các bạn có mấy tiết học? (Giả sử: 6 tiết.)",
+        "expected": {
+          "number": 6,
+          "noun": "课",
+          "sentence": "我们一天有六节课。"
+        },
+        "examples": [
+          {
+            "answer": "我们一天有六节课。",
+            "score": 100
+          },
+          {
+            "answer": "有六节。",
+            "score": 100
+          },
+          {
+            "answer": "我们一天有六个课。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "我们一天有六课。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "我们一天有五节课。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

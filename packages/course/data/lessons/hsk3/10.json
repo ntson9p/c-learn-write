@@ -1,0 +1,1536 @@
+{
+  "id": "hsk3-10",
+  "goalsVi": [
+    "Nói về việc học trên lớp và ở nhà: 课本, 课文, 对话, 句子, 作业, 练习, 复习, 笔记…",
+    "Nhận xét bài học dễ hay khó, rõ hay không rõ: 简单, 容易, 难, 明白, 清楚; nói 'không … chút nào' với 「一点儿也不」",
+    "Nói kết quả của hành động bằng cụm động bổ: 看清楚, 听明白, 找到, 记住, 拿走, 关上",
+    "Nói có thể / không thể đạt kết quả bằng bổ ngữ khả năng: 听得懂, 看不清楚, 做不完",
+    "Lặp động từ khi có cả tân ngữ lẫn bổ ngữ: 他说汉语说得很好, 我看书看了两个小时"
+  ],
+  "words": [
+    {
+      "no": 737,
+      "word": "课本",
+      "meaningsVi": [
+        "sách giáo khoa, sách học"
+      ],
+      "noteVi": "Hán Việt 'khóa bản'. Lượng từ 本: 一本课本. 「课本」 là cả quyển sách, 「课文」 là bài đọc trong sách.",
+      "examples": [
+        {
+          "zh": "请大家打开课本，看第二十页。",
+          "py": "qǐng dà jiā dǎ kāi kè běn kàn dì èr shí yè",
+          "vi": "Mời cả lớp mở sách giáo khoa, xem trang 20."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 738,
+      "word": "课文",
+      "meaningsVi": [
+        "bài khóa, bài đọc (trong sách giáo khoa)"
+      ],
+      "noteVi": "Đừng nhầm 「课文」 (bài đọc, đoạn văn của bài học) với 「课」 (bài học, tiết học): 第五课 là bài 5, 第五课的课文 là bài đọc của bài 5.",
+      "examples": [
+        {
+          "zh": "我把课文读了三遍。",
+          "py": "wǒ bǎ kè wén dú le sān biàn",
+          "vi": "Tôi đã đọc bài khóa ba lượt."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 609,
+      "word": "对话",
+      "meaningsVi": [
+        "đối thoại, nói chuyện với nhau",
+        "đoạn hội thoại (danh từ)"
+      ],
+      "noteVi": "Hán Việt 'đối thoại'. Động từ: 用汉语对话 (đối thoại bằng tiếng Trung); danh từ: 听对话 (nghe đoạn hội thoại).",
+      "examples": [
+        {
+          "zh": "请你们两个人用汉语对话。",
+          "py": "qǐng nǐ men liǎng gè rén yòng hàn yǔ duì huà",
+          "vi": "Mời hai bạn đối thoại bằng tiếng Trung."
+        },
+        {
+          "zh": "听对话，回答问题。",
+          "py": "tīng duì huà huí dá wèn tí",
+          "vi": "Nghe đoạn hội thoại, trả lời câu hỏi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 723,
+      "word": "句子",
+      "meaningsVi": [
+        "câu (câu văn, câu nói)"
+      ],
+      "noteVi": "Là danh từ, đếm bằng 个: 一个句子, 这个句子. Có thể nói gọn bằng lượng từ 「句」: 这个句子 = 这句.",
+      "examples": [
+        {
+          "zh": "这个句子是什么意思？",
+          "py": "zhè ge jù zi shì shén me yì si",
+          "vi": "Câu này nghĩa là gì?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 722,
+      "word": "句",
+      "meaningsVi": [
+        "câu (lượng từ cho lời nói, câu văn)"
+      ],
+      "noteVi": "Lượng từ: 一句话 (một câu nói), 最后一句 (câu cuối), 说两句 (nói vài câu). 「句」 là lượng từ, 「句子」 là danh từ.",
+      "examples": [
+        {
+          "zh": "老师，最后一句我没听懂。",
+          "py": "lǎo shī zuì hòu yí jù wǒ méi tīng dǒng",
+          "vi": "Thưa thầy, câu cuối em nghe không hiểu."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 921,
+      "word": "页",
+      "meaningsVi": [
+        "trang (sách, vở)"
+      ],
+      "noteVi": "Lượng từ: 三百页 (ba trăm trang), 第五页 (trang 5), 第几页？ (trang mấy?). Hán Việt 'hiệt'.",
+      "examples": [
+        {
+          "zh": "这本书有三百多页。",
+          "py": "zhè běn shū yǒu sān bǎi duō yè",
+          "vi": "Quyển sách này có hơn ba trăm trang."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 529,
+      "word": "遍",
+      "meaningsVi": [
+        "lần, lượt (làm trọn từ đầu đến cuối)"
+      ],
+      "noteVi": "Động lượng từ. 「遍」 nhấn mạnh làm **trọn vẹn một lượt** từ đầu đến cuối: 读了三遍课文, 请再说一遍. 「次」 chỉ đếm số lần xảy ra: 我去过两次北京 (không dùng 遍).",
+      "examples": [
+        {
+          "zh": "老师，请您再说一遍，好吗？",
+          "py": "lǎo shī qǐng nín zài shuō yí biàn hǎo ma",
+          "vi": "Thưa thầy, thầy nói lại một lần nữa được không ạ?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 569,
+      "word": "词典",
+      "meaningsVi": [
+        "từ điển"
+      ],
+      "noteVi": "「词典」 giải thích từ (词), 「字典」 giải thích chữ (字). Trong đời thường hai từ hay được dùng lẫn. Lượng từ 本.",
+      "examples": [
+        {
+          "zh": "这本词典是我的老师送给我的。",
+          "py": "zhè běn cí diǎn shì wǒ de lǎo shī sòng gěi wǒ de",
+          "vi": "Quyển từ điển này là thầy giáo tặng tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 992,
+      "word": "字典",
+      "meaningsVi": [
+        "tự điển (từ điển chữ)"
+      ],
+      "noteVi": "Dùng để tra cách đọc, cách viết, nghĩa của từng chữ Hán.",
+      "examples": [
+        {
+          "zh": "这本字典很好用，学汉字的时候我常常用它。",
+          "py": "zhè běn zì diǎn hěn hǎo yòng xué hàn zì de shí hou wǒ cháng cháng yòng tā",
+          "vi": "Quyển tự điển này rất dễ dùng, khi học chữ Hán tôi thường dùng nó."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 523,
+      "word": "笔记",
+      "meaningsVi": [
+        "ghi chép, bài ghi (nội dung ghi lại)"
+      ],
+      "noteVi": "Ghi chép khi nghe giảng thường nói 记笔记 (记 = ghi). Hán Việt 'bút ký'.",
+      "examples": [
+        {
+          "zh": "上课的时候，他记了很多笔记。",
+          "py": "shàng kè de shí hou tā jì le hěn duō bǐ jì",
+          "vi": "Trong giờ học, cậu ấy ghi chép rất nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 524,
+      "word": "笔记本",
+      "meaningsVi": [
+        "sổ ghi chép, vở",
+        "máy tính xách tay (nói tắt của 笔记本电脑)"
+      ],
+      "noteVi": "Nghĩa thường gặp nhất là cuốn sổ để ghi chép. Trong ngữ cảnh máy tính, 笔记本 là laptop.",
+      "examples": [
+        {
+          "zh": "我的笔记本不见了，你看见了吗？",
+          "py": "wǒ de bǐ jì běn bú jiàn le nǐ kàn jiàn le ma",
+          "vi": "Sổ ghi chép của tôi đâu mất rồi, bạn có thấy không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 804,
+      "word": "铅笔",
+      "meaningsVi": [
+        "bút chì"
+      ],
+      "noteVi": "Hán Việt 'duyên bút' (duyên = chì). Viết bằng bút chì: 用铅笔写 (用 + dụng cụ đứng **trước** động từ, khác tiếng Việt 'viết bằng bút chì').",
+      "examples": [
+        {
+          "zh": "考试的时候不能用铅笔写。",
+          "py": "kǎo shì de shí hou bù néng yòng qiān bǐ xiě",
+          "vi": "Khi thi không được viết bằng bút chì."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 980,
+      "word": "纸",
+      "meaningsVi": [
+        "giấy"
+      ],
+      "noteVi": "Viết lên giấy: 写在纸上 (thêm 上 vì 纸 là đồ vật). Lượng từ là 张 (sẽ học sau).",
+      "examples": [
+        {
+          "zh": "请把你的名字写在纸上。",
+          "py": "qǐng bǎ nǐ de míng zi xiě zài zhǐ shàng",
+          "vi": "Hãy viết tên của bạn lên giấy."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 999,
+      "word": "作业",
+      "meaningsVi": [
+        "bài tập (về nhà)"
+      ],
+      "noteVi": "Hán Việt 'tác nghiệp' dễ gây hiểu nhầm; 「作业」 là bài tập thầy cô giao. Làm bài tập: 做作业 hoặc 写作业.",
+      "examples": [
+        {
+          "zh": "今天的作业不多，我一个小时就写完了。",
+          "py": "jīn tiān de zuò yè bù duō wǒ yí gè xiǎo shí jiù xiě wán le",
+          "vi": "Bài tập hôm nay không nhiều, tôi làm một tiếng là xong."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 751,
+      "word": "练",
+      "meaningsVi": [
+        "luyện, tập"
+      ],
+      "noteVi": "Ngắn, khẩu ngữ hơn 「练习」. 练 + kỹ năng: 练汉字 (luyện chữ Hán), 练说汉语 (luyện nói tiếng Trung); 多练练 (luyện thêm nhiều vào).",
+      "examples": [
+        {
+          "zh": "这个字我写得不好，还得多练。",
+          "py": "zhè ge zì wǒ xiě de bù hǎo hái děi duō liàn",
+          "vi": "Chữ này tôi viết chưa đẹp, còn phải luyện nhiều."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 752,
+      "word": "练习",
+      "meaningsVi": [
+        "luyện tập (động từ)",
+        "bài luyện tập (danh từ)"
+      ],
+      "noteVi": "Động từ: 练习说汉语, 练习写汉字. Danh từ: 做练习 (làm bài luyện tập). 「练习」 thường làm trên lớp hoặc trong sách; 「作业」 là bài thầy cô giao về nhà.",
+      "examples": [
+        {
+          "zh": "我每天都跟中国朋友练习说汉语。",
+          "py": "wǒ měi tiān dōu gēn zhōng guó péng you liàn xí shuō hàn yǔ",
+          "vi": "Ngày nào tôi cũng luyện nói tiếng Trung với bạn người Trung Quốc."
+        },
+        {
+          "zh": "这些练习我都做完了。",
+          "py": "zhè xiē liàn xí wǒ dōu zuò wán le",
+          "vi": "Mấy bài luyện tập này tôi làm xong hết rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 634,
+      "word": "复习",
+      "meaningsVi": [
+        "ôn tập, ôn bài"
+      ],
+      "noteVi": "Hán Việt 'phục tập' (học lại). 复习 là ôn lại cái đã học; 练习 là tập cho thành thạo.",
+      "examples": [
+        {
+          "zh": "明天考试，今天晚上我得复习。",
+          "py": "míng tiān kǎo shì jīn tiān wǎn shang wǒ děi fù xí",
+          "vi": "Mai thi rồi, tối nay tôi phải ôn bài."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 703,
+      "word": "讲",
+      "meaningsVi": [
+        "giảng, giải thích",
+        "nói, kể"
+      ],
+      "noteVi": "Gần nghĩa 「说」 nhưng hay dùng khi nói có nội dung, có giải thích: 讲课 (giảng bài), 讲清楚 (giải thích rõ), 讲一讲 (nói cho nghe).",
+      "examples": [
+        {
+          "zh": "王老师讲得很清楚，我们都听懂了。",
+          "py": "wáng lǎo shī jiǎng de hěn qīng chu wǒ men dōu tīng dǒng le",
+          "vi": "Thầy Vương giảng rất rõ, chúng tôi đều nghe hiểu cả."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 682,
+      "word": "回答",
+      "meaningsVi": [
+        "trả lời"
+      ],
+      "noteVi": "回答问题 (trả lời câu hỏi), 回答老师 (trả lời thầy). Hán Việt 'hồi đáp'. Có thể làm danh từ: 他的回答 (câu trả lời của anh ấy).",
+      "examples": [
+        {
+          "zh": "谁能回答这个问题？",
+          "py": "shéi néng huí dá zhè ge wèn tí",
+          "vi": "Ai có thể trả lời câu hỏi này?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 692,
+      "word": "记",
+      "meaningsVi": [
+        "nhớ, ghi nhớ",
+        "ghi, ghi chép"
+      ],
+      "noteVi": "记住 (nhớ kỹ), 记笔记 (ghi chép). Khác 「记得」: 记得 là 'vẫn còn nhớ' (我还记得他), 记住 là 'ghi nhớ được' (请记住这个词).",
+      "examples": [
+        {
+          "zh": "老师讲的方法，你记住了吗？",
+          "py": "lǎo shī jiǎng de fāng fǎ nǐ jì zhù le ma",
+          "vi": "Phương pháp thầy giảng, bạn nhớ chưa?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 874,
+      "word": "忘记",
+      "meaningsVi": [
+        "quên"
+      ],
+      "noteVi": "Nghĩa như 「忘」 (HSK2), hai âm tiết nên nghe trang trọng hơn một chút: 别忘记 = 别忘了.",
+      "examples": [
+        {
+          "zh": "别忘记明天带词典。",
+          "py": "bié wàng jì míng tiān dài cí diǎn",
+          "vi": "Đừng quên mai mang từ điển nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 815,
+      "word": "认得",
+      "meaningsVi": [
+        "nhận ra, biết (mặt chữ, người, đường)"
+      ],
+      "noteVi": "Gần nghĩa 「认识」 nhưng khẩu ngữ hơn, nhấn mạnh **nhìn là nhận ra**: 这个字我认得 (chữ này tôi nhận ra). 「得」 đọc nhẹ: rènde.",
+      "examples": [
+        {
+          "zh": "这个字我认得，但是不会写。",
+          "py": "zhè ge zì wǒ rèn de dàn shì bú huì xiě",
+          "vi": "Chữ này tôi nhận ra được, nhưng không biết viết."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 773,
+      "word": "明白",
+      "meaningsVi": [
+        "hiểu, hiểu ra",
+        "rõ ràng, dễ hiểu"
+      ],
+      "noteVi": "Hán Việt 'minh bạch' nhưng nghĩa thường dùng nhất là **hiểu**: 我明白了 (tôi hiểu rồi), 听明白 (nghe hiểu). Gần nghĩa 「懂」.",
+      "examples": [
+        {
+          "zh": "你的意思我明白了。",
+          "py": "nǐ de yì si wǒ míng bai le",
+          "vi": "Ý của bạn tôi hiểu rồi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 807,
+      "word": "清楚",
+      "meaningsVi": [
+        "rõ, rõ ràng",
+        "biết rõ, hiểu rõ"
+      ],
+      "noteVi": "Tính từ: 写得很清楚, 看清楚 (nhìn rõ). Động từ: 我不清楚 (tôi không rõ). Đọc nhẹ: qīngchu.",
+      "examples": [
+        {
+          "zh": "后边的同学，你们听得清楚吗？",
+          "py": "hòu biān de tóng xué nǐ men tīng de qīng chu ma",
+          "vi": "Các bạn ở phía sau có nghe rõ không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 700,
+      "word": "简单",
+      "meaningsVi": [
+        "đơn giản"
+      ],
+      "noteVi": "Hán Việt 'giản đơn', nghĩa giống tiếng Việt nhưng thứ tự hai chữ ngược lại.",
+      "examples": [
+        {
+          "zh": "这个问题很简单，大家都会回答。",
+          "py": "zhè ge wèn tí hěn jiǎn dān dà jiā dōu huì huí dá",
+          "vi": "Câu hỏi này rất đơn giản, mọi người đều trả lời được."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 818,
+      "word": "容易",
+      "meaningsVi": [
+        "dễ",
+        "dễ (bị), hay (xảy ra)"
+      ],
+      "noteVi": "Hán Việt 'dung dịch' nhưng **không liên quan** đến 'dung dịch' trong tiếng Việt: 「容易」 là **dễ**. 容易 + động từ: 容易写 (dễ viết), 容易感冒 (dễ bị cảm).",
+      "examples": [
+        {
+          "zh": "说汉语不太难，写汉字不容易。",
+          "py": "shuō hàn yǔ bú tài nán xiě hàn zì bù róng yì",
+          "vi": "Nói tiếng Trung không khó lắm, viết chữ Hán thì không dễ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 778,
+      "word": "难",
+      "meaningsVi": [
+        "khó"
+      ],
+      "noteVi": "难 + động từ tạo thành nghĩa 'khó làm gì': 难写 (khó viết), 难学 (khó học). Một số từ đã thành từ riêng: 难看 (xấu), 难过 (buồn).",
+      "examples": [
+        {
+          "zh": "这个字很难写。",
+          "py": "zhè ge zì hěn nán xiě",
+          "vi": "Chữ này rất khó viết."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 621,
+      "word": "方法",
+      "meaningsVi": [
+        "phương pháp, cách (làm)"
+      ],
+      "noteVi": "学习方法 (phương pháp học), 好方法 (cách hay). Hán Việt 'phương pháp'.",
+      "examples": [
+        {
+          "zh": "你学汉语有什么好方法？",
+          "py": "nǐ xué hàn yǔ yǒu shén me hǎo fāng fǎ",
+          "vi": "Bạn học tiếng Trung có phương pháp gì hay không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 557,
+      "word": "常用",
+      "meaningsVi": [
+        "thường dùng, thông dụng"
+      ],
+      "noteVi": "Hay đứng trước danh từ với 的: 常用的汉字 (chữ Hán thông dụng), 常用词 (từ thường dùng).",
+      "examples": [
+        {
+          "zh": "这些都是常用的汉字，一定要记住。",
+          "py": "zhè xiē dōu shì cháng yòng de hàn zì yí dìng yào jì zhù",
+          "vi": "Đây đều là những chữ Hán thông dụng, nhất định phải nhớ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 181,
+      "titleVi": "Cụm động bổ (2): động từ + tính từ/động từ chỉ kết quả (看清楚, 听明白, 写对)",
+      "summaryVi": "Ngoài 懂, 错, 完, 好, 会, nhiều tính từ và động từ khác cũng đứng ngay sau động từ để nói kết quả: 看清楚 (nhìn rõ), 听明白 (nghe hiểu), 写对 (viết đúng), 吃饱 (ăn no).",
+      "explanationVi": [
+        "Ở HSK2 đã học cụm động bổ với 懂, 错, 完, 好, 会 (听懂, 写错, 做完). Ở HSK3, phần kết quả phong phú hơn: **tính từ** như 清楚, 明白, 对, 干净, 饱, 累 (看清楚, 讲明白, 写对, 打扫干净, 吃饱, 走累) và **động từ** như 见, 到, 住, 走 (看见, 找到, 记住, 拿走 — xem điểm 'động từ + 到/住/走/上').",
+        "Động từ và kết quả dính liền thành một khối. Tân ngữ đứng **sau cả cụm** (我看完课文了) hoặc lên đầu câu / sau 把 (课文我看完了, 老师把问题讲清楚了). Không chen tân ngữ vào giữa như tiếng Việt 'đọc **bài** xong': không nói 看课文完.",
+        "Việc đã có kết quả thêm 「了」 sau cả cụm (听明白了). Phủ định dùng 「没」 **trước** cả cụm và bỏ 了: 我没听明白 (tôi chưa nghe hiểu). Không nói 我听没明白, cũng không dùng 不 để kể việc chưa có kết quả.",
+        "Một động từ đi với nhiều kết quả khác nhau cho nhiều nghĩa khác nhau: 看见 (nhìn thấy), 看懂 (đọc hiểu), 看清楚 (nhìn rõ), 看完 (xem xong), 看错 (nhìn nhầm). Hãy nghĩ theo công thức 'làm gì + kết quả ra sao'."
+      ],
+      "patterns": [
+        "Động từ + tính từ/động từ chỉ kết quả (+ 了)",
+        "Động từ + kết quả + tân ngữ",
+        "没 + động từ + kết quả"
+      ],
+      "examples": [
+        {
+          "zh": "老师讲得很慢，我听明白了。",
+          "py": "lǎo shī jiǎng de hěn màn wǒ tīng míng bai le",
+          "vi": "Thầy giảng rất chậm, em nghe hiểu rồi."
+        },
+        {
+          "zh": "这个字你写对了吗？",
+          "py": "zhè ge zì nǐ xiě duì le ma",
+          "vi": "Chữ này bạn viết đúng chưa?"
+        },
+        {
+          "zh": "我没看清楚，你再写一遍吧。",
+          "py": "wǒ méi kàn qīng chu nǐ zài xiě yí biàn ba",
+          "vi": "Tôi nhìn chưa rõ, bạn viết lại lần nữa đi."
+        },
+        {
+          "zh": "吃饱了，我们出去走走吧。",
+          "py": "chī bǎo le wǒ men chū qù zǒu zǒu ba",
+          "vi": "Ăn no rồi, chúng mình ra ngoài đi dạo một chút đi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我听没明白。",
+          "right": "我没听明白。",
+          "noteVi": "「没」 đứng trước cả cụm 听明白, không chen vào giữa động từ và kết quả."
+        },
+        {
+          "wrong": "我看课文完了。",
+          "right": "我看完课文了。",
+          "noteVi": "Tân ngữ (课文) đứng sau cả cụm 看完, không chen giữa như tiếng Việt 'đọc bài xong'."
+        },
+        {
+          "wrong": "刚才老师说的，我不听清楚。",
+          "right": "刚才老师说的，我没听清楚。",
+          "noteVi": "Kể việc chưa đạt kết quả dùng 「没」. Muốn nói 'không có khả năng nghe rõ' thì dùng bổ ngữ khả năng 听不清楚."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 196,
+      "titleVi": "「一点儿也不……」: không … chút nào",
+      "summaryVi": "「一点儿也(都)不 + tính từ/động từ」 phủ định hoàn toàn, mạnh hơn 「不」: 一点儿也不难 (chẳng khó chút nào); việc đã qua thì dùng 「一点儿也没……」.",
+      "explanationVi": [
+        "「一点儿也不 + tính từ / động từ」 nghĩa là '**không … chút nào**', '**chẳng … tí nào**': 今天一点儿也不冷 (Hôm nay chẳng lạnh chút nào). 「也」 có thể thay bằng 「都」: 一点儿都不冷.",
+        "Trật tự khác tiếng Việt: tiếng Việt để 'chút nào' ở **cuối** câu ('không khó chút nào'); tiếng Trung đặt 「一点儿也」 **trước** 「不」 và tính từ: 一点儿也不难. Không nói 不难一点儿.",
+        "Với việc đã xảy ra, hoặc với 有, dùng 「没」: 今天的作业我一点儿也没做 (bài tập hôm nay tôi chưa làm chút nào). Có danh từ thì đặt danh từ sau 一点儿: 这个电影一点儿意思也没有 (bộ phim này chẳng có chút gì thú vị).",
+        "Đừng nhầm với 「有点儿」 (hơi, đứng trước tính từ: 有点儿难 — hơi khó) và 「一点儿」 đứng sau tính từ (难一点儿 — khó hơn một chút). 「一点儿也」 luôn đi với phủ định 不/没."
+      ],
+      "patterns": [
+        "一点儿也/都 + 不 + tính từ / động từ",
+        "一点儿也/都 + 没(有) + động từ",
+        "一点儿 + danh từ + 也/都 + 没有"
+      ],
+      "examples": [
+        {
+          "zh": "这个方法很简单，一点儿也不难。",
+          "py": "zhè ge fāng fǎ hěn jiǎn dān yì diǎn r yě bù nán",
+          "vi": "Phương pháp này rất đơn giản, chẳng khó chút nào."
+        },
+        {
+          "zh": "我睡了十个小时，现在一点儿也不累。",
+          "py": "wǒ shuì le shí gè xiǎo shí xiàn zài yì diǎn r yě bú lèi",
+          "vi": "Tôi ngủ mười tiếng, giờ chẳng mệt chút nào."
+        },
+        {
+          "zh": "今天的作业我一点儿也没做。",
+          "py": "jīn tiān de zuò yè wǒ yì diǎn r yě méi zuò",
+          "vi": "Bài tập hôm nay tôi chưa làm chút nào."
+        },
+        {
+          "zh": "这个电影一点儿意思也没有。",
+          "py": "zhè ge diàn yǐng yì diǎn r yì si yě méi yǒu",
+          "vi": "Bộ phim này chẳng có chút gì thú vị."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "汉字不难一点儿。",
+          "right": "汉字一点儿也不难。",
+          "noteVi": "Dịch theo trật tự tiếng Việt 'không khó chút nào' là sai: 「一点儿也」 đứng trước 「不」."
+        },
+        {
+          "wrong": "今天有点儿也不冷。",
+          "right": "今天一点儿也不冷。",
+          "noteVi": "「有点儿」 là 'hơi'. 'Không … chút nào' là 「一点儿也不」."
+        },
+        {
+          "wrong": "今天的作业我一点儿也不做。",
+          "right": "今天的作业我一点儿也没做。",
+          "noteVi": "Kể việc đã qua (chưa làm chút nào) dùng 「没」. Câu trái chỉ có nghĩa 'tôi nhất quyết không làm', sai với ý định nói."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 205,
+      "titleVi": "Bổ ngữ kết quả (2): động từ + 到 / 住 / 走 / 上",
+      "summaryVi": "「到」 (đạt được mục đích), 「住」 (giữ chắc, cố định), 「走」 (rời đi, mang đi), 「上」 (khép lại, gắn vào) đứng sau động từ để chỉ kết quả: 找到, 记住, 拿走, 关上.",
+      "explanationVi": [
+        "**到**: hành động đạt được mục đích: 找到 (tìm thấy), 买到 (mua được), 看到 / 听到 (nhìn thấy / nghe thấy), 学到 (học được). So sánh: 我在找手机 (tôi đang tìm điện thoại — chưa biết có thấy không) / 我找到手机了 (tôi tìm thấy điện thoại rồi). Tiếng Việt 'tìm **thấy**', 'mua **được**' cũng có phần kết quả, khi dịch đừng bỏ 「到」. 「到」 còn đứng trước thời gian, nơi chốn: 学到十一点, 走到门口.",
+        "**住**: làm cho chắc, cố định lại, không để mất: 记住 (ghi nhớ được), 拿住 (cầm chắc). 记住 khác 记得: 记住 là ghi nhớ có kết quả (请记住这个词), 记得 là vẫn còn nhớ (我还记得他).",
+        "**走**: làm cho người, vật rời khỏi chỗ cũ: 拿走 (lấy đi), 带走 (mang đi), 搬走 (chuyển đi). **上**: (1) khép lại: 关上门 (đóng cửa lại); (2) gắn, thêm vào: 写上名字 (ghi tên vào), 穿上 (mặc vào); (3) đạt được mục tiêu khó: 考上大学 (thi đỗ đại học).",
+        "Giống các bổ ngữ kết quả khác: 「了」 đứng sau cả cụm (找到了), phủ định bằng 「没」 và bỏ 了 (没找到, 没记住); không dùng 「不」 cho việc đã qua."
+      ],
+      "patterns": [
+        "Động từ + 到/住/走/上 (+ 了) (+ tân ngữ)",
+        "没 + động từ + 到/住/走/上",
+        "把 + tân ngữ + động từ + 走/上 (+ 了)"
+      ],
+      "examples": [
+        {
+          "zh": "我找到我的笔记本了，在书包里。",
+          "py": "wǒ zhǎo dào wǒ de bǐ jì běn le zài shū bāo lǐ",
+          "vi": "Tôi tìm thấy sổ ghi chép rồi, nó ở trong cặp."
+        },
+        {
+          "zh": "这些常用的词，你都记住了吗？",
+          "py": "zhè xiē cháng yòng de cí nǐ dōu jì zhù le ma",
+          "vi": "Những từ thông dụng này, bạn đã nhớ hết chưa?"
+        },
+        {
+          "zh": "谁把我的词典拿走了？",
+          "py": "shéi bǎ wǒ de cí diǎn ná zǒu le",
+          "vi": "Ai lấy mất quyển từ điển của tôi rồi?"
+        },
+        {
+          "zh": "请在纸上写上你的名字。",
+          "py": "qǐng zài zhǐ shàng xiě shàng nǐ de míng zi",
+          "vi": "Hãy ghi tên của bạn lên giấy."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我找了我的手机。",
+          "right": "我找到我的手机了。",
+          "noteVi": "Câu trái đúng ngữ pháp nhưng chỉ có nghĩa 'tôi đã tìm điện thoại' (chưa chắc thấy). Muốn nói 'tìm thấy' phải có 「到」."
+        },
+        {
+          "wrong": "这个词我不记住。",
+          "right": "这个词我没记住。",
+          "noteVi": "Phủ định của bổ ngữ kết quả là 「没」 (没记住). Muốn nói 'không nhớ nổi' thì dùng 记不住."
+        },
+        {
+          "wrong": "我没找到了。",
+          "right": "我没找到。",
+          "noteVi": "Câu phủ định với 「没」 không có 「了」."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 209,
+      "titleVi": "Bổ ngữ khả năng (1): động từ + 得/不 + kết quả (看得懂, 听不清楚)",
+      "summaryVi": "Chèn 「得」 hoặc 「不」 vào giữa động từ và bổ ngữ để nói **có thể / không thể** đạt kết quả: 看得懂 (đọc hiểu được), 听不清楚 (nghe không rõ), 做不完 (làm không xong).",
+      "explanationVi": [
+        "Từ một cụm động bổ (看懂, 听清楚, 做完, 找到, 记住, 进去…), chèn 「得」 vào giữa nghĩa là **được, có thể**: 看得懂 (đọc hiểu được); chèn 「不」 nghĩa là **không thể, không nổi**: 看不懂 (đọc không hiểu). Tiếng Việt có cách nói rất giống: 'nghe không rõ', 'làm không xong', 'nhớ không nổi'.",
+        "Bổ ngữ khả năng cho biết điều kiện có cho phép đạt kết quả hay không: 字太小，我看不清楚 (chữ nhỏ quá, tôi nhìn không rõ); 作业太多，今天做不完. Câu hỏi: 你听得懂吗？ hoặc 你听得懂听不懂？ Trả lời: 听得懂 / 听不懂.",
+        "**Lỗi rất hay gặp**: dịch 'không thể hiểu', 'không thể nhìn rõ' thành 不能看懂, 不能看清楚. Phủ định khả năng đạt kết quả phải dùng 「động từ + 不 + kết quả」: 看不懂, 看不清楚. (能 + động từ + kết quả chỉ dùng ở câu khẳng định: 我能看懂 ≈ 我看得懂.) Cũng không nói 看得不懂: 「得」 và 「不」 không đứng cùng nhau.",
+        "Phân biệt: 我没听懂 = lần này tôi **chưa** nghe hiểu (kể kết quả); 我听不懂 = tôi **không có khả năng** nghe hiểu (vì khó quá, nói nhanh quá…). Tân ngữ đứng sau cả cụm hoặc lên đầu câu: 我看不懂这本书 / 这本书我看不懂. Không thêm 了 vào giữa cụm."
+      ],
+      "patterns": [
+        "Động từ + 得 + kết quả / xu hướng",
+        "Động từ + 不 + kết quả / xu hướng",
+        "Động từ + 得 + kết quả + động từ + 不 + kết quả？"
+      ],
+      "examples": [
+        {
+          "zh": "老师说得太快了，我听不懂。",
+          "py": "lǎo shī shuō de tài kuài le wǒ tīng bù dǒng",
+          "vi": "Thầy nói nhanh quá, em nghe không hiểu."
+        },
+        {
+          "zh": "这本书不难，我看得懂。",
+          "py": "zhè běn shū bù nán wǒ kàn de dǒng",
+          "vi": "Quyển sách này không khó, tôi đọc hiểu được."
+        },
+        {
+          "zh": "作业太多了，今天晚上我做不完。",
+          "py": "zuò yè tài duō le jīn tiān wǎn shang wǒ zuò bù wán",
+          "vi": "Bài tập nhiều quá, tối nay tôi làm không xong."
+        },
+        {
+          "zh": "这么多常用的词，你记得住吗？",
+          "py": "zhè me duō cháng yòng de cí nǐ jì de zhù ma",
+          "vi": "Nhiều từ thông dụng thế này, bạn có nhớ nổi không?"
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "老师说得太快了，我不能听懂。",
+          "right": "老师说得太快了，我听不懂。",
+          "noteVi": "Không thể đạt kết quả thì dùng 「听不懂」, không dịch thẳng 'không thể hiểu' thành 不能听懂."
+        },
+        {
+          "wrong": "这本书我看得不懂。",
+          "right": "这本书我看不懂。",
+          "noteVi": "「得」 và 「不」 không đi cùng nhau: có thể là 看得懂, không thể là 看不懂."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 229,
+      "titleVi": "Câu lặp động từ: chủ ngữ + động từ + tân ngữ + động từ + bổ ngữ",
+      "summaryVi": "Khi động từ vừa có tân ngữ vừa có bổ ngữ (得 + nhận xét, thời lượng, kết quả), ta lặp lại động từ: 他说汉语说得很好, 我看书看了两个小时.",
+      "explanationVi": [
+        "Ngay sau động từ tiếng Trung thường chỉ có **một** chỗ: hoặc cho tân ngữ, hoặc cho bổ ngữ. Khi cần cả hai, ta **lặp lại động từ**: động từ thứ nhất đi với tân ngữ, động từ thứ hai đi với bổ ngữ: 他**说**汉语**说**得很好 (Anh ấy nói tiếng Trung rất giỏi).",
+        "Ba loại bổ ngữ hay gặp: (1) bổ ngữ trạng thái với 得: 她写汉字写得很漂亮; (2) bổ ngữ thời lượng: 我看书看了两个小时, 他学汉语学了三年了; (3) bổ ngữ kết quả hoặc 到 + thời gian: 她看电视看累了, 我写作业写到十一点. 「了」 đặt sau động từ **thứ hai**: 看书看了两个小时.",
+        "Tiếng Việt chỉ nói động từ một lần: 'nói tiếng Trung rất giỏi', 'đọc sách hai tiếng'. Dịch thẳng sẽ thành câu sai 他说汉语得很好, 我看书了两个小时. Cách khác không cần lặp: đưa tân ngữ lên trước (他汉语说得很好), hoặc với thời lượng thì đặt thời lượng giữa động từ và tân ngữ (我看了两个小时(的)书).",
+        "Phó từ (都, 也, 已经…) và phủ định đặt trước động từ **thứ hai**: 他说汉语说得不好, 我们学汉语已经学了一年了."
+      ],
+      "patterns": [
+        "Chủ ngữ + động từ + tân ngữ + động từ + 得 + tính từ",
+        "Chủ ngữ + động từ + tân ngữ + động từ + 了 + thời lượng",
+        "Chủ ngữ + động từ + tân ngữ + động từ + kết quả / 到 + thời gian"
+      ],
+      "examples": [
+        {
+          "zh": "他说汉语说得非常好。",
+          "py": "tā shuō hàn yǔ shuō de fēi cháng hǎo",
+          "vi": "Anh ấy nói tiếng Trung rất giỏi."
+        },
+        {
+          "zh": "我昨天看书看了三个小时。",
+          "py": "wǒ zuó tiān kàn shū kàn le sān gè xiǎo shí",
+          "vi": "Hôm qua tôi đọc sách ba tiếng đồng hồ."
+        },
+        {
+          "zh": "妹妹看电视看累了，已经睡了。",
+          "py": "mèi mei kàn diàn shì kàn lèi le yǐ jīng shuì le",
+          "vi": "Em gái xem tivi mệt rồi, đã ngủ mất rồi."
+        },
+        {
+          "zh": "我们学汉语已经学了一年了。",
+          "py": "wǒ men xué hàn yǔ yǐ jīng xué le yì nián le",
+          "vi": "Chúng tôi học tiếng Trung đã được một năm rồi."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他说汉语得很好。",
+          "right": "他说汉语说得很好。",
+          "noteVi": "「得」 phải đứng ngay sau động từ: lặp lại 说 rồi mới đến 得."
+        },
+        {
+          "wrong": "我看书了两个小时。",
+          "right": "我看书看了两个小时。",
+          "noteVi": "Có tân ngữ (书) và thời lượng (两个小时) thì lặp động từ; 「了」 đứng sau động từ thứ hai."
+        },
+        {
+          "wrong": "他说得汉语很好。",
+          "right": "他汉语说得很好。",
+          "noteVi": "Tân ngữ không chen giữa 得 và tính từ. Lặp động từ (他说汉语说得很好) hoặc đưa tân ngữ lên trước động từ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-10-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "课本",
+          "sách giáo khoa"
+        ],
+        [
+          "课文",
+          "bài khóa"
+        ],
+        [
+          "作业",
+          "bài tập về nhà"
+        ],
+        [
+          "词典",
+          "từ điển"
+        ],
+        [
+          "铅笔",
+          "bút chì"
+        ],
+        [
+          "笔记本",
+          "sổ ghi chép"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-10-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "简单",
+          "đơn giản"
+        ],
+        [
+          "容易",
+          "dễ"
+        ],
+        [
+          "难",
+          "khó"
+        ],
+        [
+          "明白",
+          "hiểu"
+        ],
+        [
+          "清楚",
+          "rõ ràng"
+        ],
+        [
+          "复习",
+          "ôn tập"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-10-e03",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "我去过两＿北京，还想再去。",
+      "options": [
+        "次",
+        "遍",
+        "页"
+      ],
+      "answer": 0,
+      "explainVi": "Đếm số lần đi đâu dùng 「次」. 「遍」 là làm trọn một lượt từ đầu đến cuối (读三遍课文)."
+    },
+    {
+      "id": "hsk3-10-e04",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "请大家打开课本，看第十五",
+      "after": "。",
+      "answers": [
+        "页"
+      ],
+      "options": [
+        "页",
+        "遍",
+        "句"
+      ],
+      "vi": "Mời cả lớp mở sách giáo khoa, xem trang 15."
+    },
+    {
+      "id": "hsk3-10-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "老师讲得很慢，我听",
+      "after": "了。",
+      "answers": [
+        "明白"
+      ],
+      "options": [
+        "明白",
+        "简单",
+        "容易"
+      ],
+      "vi": "Thầy giảng rất chậm, em nghe hiểu rồi.",
+      "explainVi": "听明白 = nghe hiểu: 明白 là kết quả của 听.",
+      "grammar": [
+        181
+      ]
+    },
+    {
+      "id": "hsk3-10-e06",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi nhìn chưa rõ.)",
+      "options": [
+        "我没看清楚。",
+        "我看没清楚。",
+        "我不看清楚。"
+      ],
+      "answer": 0,
+      "explainVi": "Phủ định cụm động bổ: 「没」 đứng trước cả cụm 看清楚.",
+      "grammar": [
+        181
+      ]
+    },
+    {
+      "id": "hsk3-10-e07",
+      "type": "order",
+      "vi": "Thầy giáo đã giảng rõ vấn đề này rồi.",
+      "tiles": [
+        "老师",
+        "把",
+        "这个问题",
+        "讲",
+        "清楚",
+        "了"
+      ],
+      "answers": [
+        "老师把这个问题讲清楚了"
+      ],
+      "explainVi": "讲清楚 là một cụm; tân ngữ (这个问题) đưa lên sau 把.",
+      "grammar": [
+        181
+      ]
+    },
+    {
+      "id": "hsk3-10-e08",
+      "type": "translate",
+      "vi": "Em chưa nghe rõ, thầy nói lại một lần nữa được không ạ?",
+      "answers": [
+        "我没(有)听清楚，(老师)，[您|你]再说一[遍|次]，好吗？",
+        "我没(有)听清楚，请[您|你]再说一[遍|次](，好吗)。"
+      ],
+      "examples": [
+        {
+          "answer": "我没听清楚，您再说一遍，好吗？",
+          "score": 100
+        },
+        {
+          "answer": "我没有听清楚，请您再说一遍。",
+          "score": 100
+        },
+        {
+          "answer": "我没听清楚，老师，你再说一次，好吗？",
+          "score": 100
+        },
+        {
+          "answer": "我听清楚了，您再说一遍，好吗？",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        181
+      ]
+    },
+    {
+      "id": "hsk3-10-e09",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Bài tập hôm nay chẳng khó chút nào.)",
+      "options": [
+        "今天的作业一点儿也不难。",
+        "今天的作业不难一点儿。",
+        "今天的作业有点儿不难。"
+      ],
+      "answer": 0,
+      "explainVi": "「一点儿也」 đứng trước 「不」 và tính từ, không đặt ra cuối câu như tiếng Việt 'chút nào'.",
+      "grammar": [
+        196
+      ]
+    },
+    {
+      "id": "hsk3-10-e10",
+      "type": "fill",
+      "promptVi": "Điền một chữ thích hợp.",
+      "before": "我学汉语学了两年了，我觉得汉语一点儿",
+      "after": "不难。",
+      "answers": [
+        "也",
+        "都"
+      ],
+      "vi": "Tôi học tiếng Trung hai năm rồi, tôi thấy tiếng Trung chẳng khó chút nào.",
+      "explainVi": "一点儿也不 / 一点儿都不 = không … chút nào.",
+      "grammar": [
+        196,
+        229
+      ]
+    },
+    {
+      "id": "hsk3-10-e11",
+      "type": "order",
+      "vi": "Tôi không mệt chút nào.",
+      "tiles": [
+        "我",
+        "一点儿",
+        "也",
+        "不",
+        "累"
+      ],
+      "answers": [
+        "我一点儿也不累"
+      ],
+      "grammar": [
+        196
+      ]
+    },
+    {
+      "id": "hsk3-10-e12",
+      "type": "translate",
+      "vi": "Bộ phim này chẳng hay chút nào.",
+      "answers": [
+        "这个电影一点儿[也|都]不好看。",
+        "这个电影一点儿意思[也|都]没有。"
+      ],
+      "examples": [
+        {
+          "answer": "这个电影一点儿也不好看。",
+          "score": 100
+        },
+        {
+          "answer": "这个电影一点儿都不好看。",
+          "score": 100
+        },
+        {
+          "answer": "这个电影一点儿意思也没有。",
+          "score": 100
+        },
+        {
+          "answer": "这个电影有点儿好看。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        196
+      ]
+    },
+    {
+      "id": "hsk3-10-e13",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "汉字难不难？",
+        "promptVi": "Chữ Hán có khó không? (Hãy trả lời: không khó chút nào.)",
+        "answers": [
+          "(汉字)一点儿[也|都]不难。",
+          {
+            "text": "(汉字)不难。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "汉字一点儿也不难。",
+            "score": 100
+          },
+          {
+            "answer": "一点儿都不难。",
+            "score": 100
+          },
+          {
+            "answer": "不难。",
+            "score": 80,
+            "note": "Đúng ý nhưng chưa dùng 一点儿也不"
+          },
+          {
+            "answer": "汉字很难。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        196
+      ]
+    },
+    {
+      "id": "hsk3-10-e14",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "我的笔记本找",
+      "after": "了，在书包里。",
+      "answers": [
+        "到"
+      ],
+      "options": [
+        "到",
+        "住",
+        "走"
+      ],
+      "vi": "Sổ ghi chép của tôi tìm thấy rồi, ở trong cặp.",
+      "grammar": [
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e15",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "这些常用的词，你一定要记",
+      "after": "。",
+      "answers": [
+        "住"
+      ],
+      "options": [
+        "住",
+        "走",
+        "上"
+      ],
+      "vi": "Những từ thông dụng này, bạn nhất định phải nhớ kỹ.",
+      "grammar": [
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e16",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng. (Ai lấy mất quyển từ điển của tôi rồi?)",
+      "zh": "谁把我的词典拿＿了？",
+      "options": [
+        "走",
+        "住",
+        "上"
+      ],
+      "answer": 0,
+      "explainVi": "「走」 sau động từ: làm cho vật rời khỏi chỗ cũ (拿走 = lấy đi).",
+      "grammar": [
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e17",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "出门的时候，请把门关",
+      "after": "。",
+      "answers": [
+        "上"
+      ],
+      "options": [
+        "上",
+        "走",
+        "到"
+      ],
+      "vi": "Khi ra ngoài, làm ơn đóng cửa lại.",
+      "grammar": [
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e18",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đã tìm điện thoại nhưng không tìm thấy.)",
+      "options": [
+        "我找手机了，可是没找到。",
+        "我找到手机了，可是没找。",
+        "我找手机了，可是不找到。"
+      ],
+      "answer": 0,
+      "explainVi": "找 là tìm, 找到 là tìm thấy. Chưa đạt kết quả thì dùng 「没」: 没找到.",
+      "grammar": [
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e19",
+      "type": "translate",
+      "vi": "Tôi tìm thấy điện thoại rồi.",
+      "answers": [
+        "我找到(我的)手机了。",
+        "(我的)手机(我)找到了。"
+      ],
+      "examples": [
+        {
+          "answer": "我找到手机了。",
+          "score": 100
+        },
+        {
+          "answer": "我找到我的手机了。",
+          "score": 100
+        },
+        {
+          "answer": "手机找到了。",
+          "score": 100
+        },
+        {
+          "answer": "我没找到手机。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e20",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Thầy nói nhanh quá, em nghe không hiểu.)",
+      "options": [
+        "老师说得太快了，我听不懂。",
+        "老师说得太快了，我不能听懂。",
+        "老师说得太快了，我听得不懂。"
+      ],
+      "answer": 0,
+      "explainVi": "Không thể đạt kết quả: động từ + 不 + kết quả (听不懂).",
+      "grammar": [
+        209
+      ]
+    },
+    {
+      "id": "hsk3-10-e21",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "后边的同学，你们听得",
+      "after": "吗？",
+      "answers": [
+        "清楚"
+      ],
+      "options": [
+        "清楚",
+        "简单",
+        "容易"
+      ],
+      "vi": "Các bạn ở phía sau có nghe rõ không?",
+      "grammar": [
+        209
+      ]
+    },
+    {
+      "id": "hsk3-10-e22",
+      "type": "order",
+      "vi": "Bài tập nhiều quá, tối nay tôi làm không xong.",
+      "tiles": [
+        "作业太多了",
+        "今天晚上",
+        "我",
+        "做",
+        "不",
+        "完"
+      ],
+      "answers": [
+        "作业太多了今天晚上我做不完",
+        "作业太多了我今天晚上做不完"
+      ],
+      "grammar": [
+        209
+      ]
+    },
+    {
+      "id": "hsk3-10-e23",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "这本书你看得懂吗？",
+        "promptVi": "Quyển sách này bạn có đọc hiểu được không? (Giả sử: đọc hiểu được.)",
+        "answers": [
+          "(这本书)(我)看得懂。",
+          "(我)能看懂。"
+        ],
+        "examples": [
+          {
+            "answer": "看得懂。",
+            "score": 100
+          },
+          {
+            "answer": "这本书我看得懂。",
+            "score": 100
+          },
+          {
+            "answer": "我能看懂。",
+            "score": 100
+          },
+          {
+            "answer": "看不懂。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        209
+      ]
+    },
+    {
+      "id": "hsk3-10-e24",
+      "type": "translate",
+      "vi": "Chữ nhỏ quá, tôi nhìn không rõ.",
+      "answers": [
+        "字太小(了)，我看不清楚。"
+      ],
+      "examples": [
+        {
+          "answer": "字太小了，我看不清楚。",
+          "score": 100
+        },
+        {
+          "answer": "字太小，我看不清楚。",
+          "score": 100
+        },
+        {
+          "answer": "字太小了，我不能看清楚。",
+          "score": 0,
+          "note": "Không thể đạt kết quả phải dùng 看不清楚"
+        },
+        {
+          "answer": "字太小了，我看得清楚。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        209
+      ]
+    },
+    {
+      "id": "hsk3-10-e25",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Anh ấy nói tiếng Trung rất giỏi.)",
+      "options": [
+        "他说汉语说得很好。",
+        "他说汉语得很好。",
+        "他说得汉语很好。"
+      ],
+      "answer": 0,
+      "explainVi": "Có tân ngữ (汉语) và bổ ngữ (得很好) thì lặp lại động từ: 说汉语说得很好.",
+      "grammar": [
+        229
+      ]
+    },
+    {
+      "id": "hsk3-10-e26",
+      "type": "order",
+      "vi": "Tôi đọc sách hai tiếng đồng hồ.",
+      "tiles": [
+        "我",
+        "看书",
+        "看了",
+        "两个小时"
+      ],
+      "answers": [
+        "我看书看了两个小时"
+      ],
+      "grammar": [
+        229
+      ]
+    },
+    {
+      "id": "hsk3-10-e27",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "她写汉字写",
+      "after": "很漂亮。",
+      "answers": [
+        "得"
+      ],
+      "options": [
+        "得",
+        "的",
+        "地"
+      ],
+      "vi": "Cô ấy viết chữ Hán rất đẹp.",
+      "grammar": [
+        229
+      ]
+    },
+    {
+      "id": "hsk3-10-e28",
+      "type": "translate",
+      "vi": "Hôm qua tôi làm bài tập đến mười một giờ.",
+      "answers": [
+        "[我昨天|昨天我]写作业写到(了)十一点。",
+        "[我昨天|昨天我]做作业做到(了)十一点。"
+      ],
+      "examples": [
+        {
+          "answer": "昨天我写作业写到十一点。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天做作业做到十一点。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天写作业写到了十一点。",
+          "score": 100
+        },
+        {
+          "answer": "我昨天写作业写到十点。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        229,
+        205
+      ]
+    },
+    {
+      "id": "hsk3-10-e29",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你学汉语学了多长时间了？",
+        "promptVi": "Bạn học tiếng Trung được bao lâu rồi? (Giả sử: một năm rưỡi.)",
+        "answers": [
+          "(我)学汉语学了一年半(了)。",
+          "(我)学了一年半(了)。",
+          "一年半(了)。",
+          "(我)学了一年半(的)汉语(了)。"
+        ],
+        "examples": [
+          {
+            "answer": "我学汉语学了一年半了。",
+            "score": 100
+          },
+          {
+            "answer": "学了一年半。",
+            "score": 100
+          },
+          {
+            "answer": "一年半。",
+            "score": 100
+          },
+          {
+            "answer": "我学了一年半的汉语。",
+            "score": 100
+          },
+          {
+            "answer": "我学汉语学了两年半了。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        229
+      ]
+    },
+    {
+      "id": "hsk3-10-e30",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "桌子上有几本词典？",
+        "promptVi": "Trên bàn có mấy quyển từ điển?",
+        "picture": "📘📘📘📘",
+        "expected": {
+          "number": 4,
+          "noun": "词典",
+          "sentence": "桌子上有四本词典。"
+        },
+        "examples": [
+          {
+            "answer": "桌子上有四本词典。",
+            "score": 100
+          },
+          {
+            "answer": "有四本。",
+            "score": 100
+          },
+          {
+            "answer": "桌子上有四个词典。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有四词典。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "桌子上有三本词典。",
+            "score": 20
+          }
+        ]
+      }
+    }
+  ]
+}

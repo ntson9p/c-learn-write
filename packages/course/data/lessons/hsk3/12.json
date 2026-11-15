@@ -1,0 +1,1396 @@
+{
+  "id": "hsk3-12",
+  "goalsVi": [
+    "Nói về ngày lễ, quà tặng, dạ hội, tiết mục: 节日, 过节, 新年, 礼物, 晚会, 节目, 表演, 音乐…",
+    "Mời bạn đến chơi, đón khách, gặp gỡ, trò chuyện: 做客, 客人, 欢迎, 请客, 接, 见面, 遇见, 聊天儿",
+    "Đếm số lần của hành động bằng động lượng từ 口, 回, 遍, 声: 尝一口, 去过两回, 叫了他一声",
+    "Đánh giá nhẹ nhàng bằng 「不怎么样」 và đặt nhiều định ngữ trước danh từ đúng thứ tự: 我的那两本新词典",
+    "Nói chuyển vật cho ai bằng câu chữ 「把」: 我把礼物送给她了, 请把书还给他"
+  ],
+  "words": [
+    {
+      "no": 710,
+      "word": "节日",
+      "meaningsVi": [
+        "ngày lễ, ngày tết"
+      ],
+      "noteVi": "Hán Việt 'tiết nhật'. Chỉ chung các ngày lễ trong năm; 'ăn tết, đón lễ' là 过节.",
+      "examples": [
+        {
+          "zh": "你最喜欢什么节日？",
+          "py": "nǐ zuì xǐ huan shén me jié rì",
+          "vi": "Bạn thích ngày lễ nào nhất?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 659,
+      "word": "过节",
+      "meaningsVi": [
+        "ăn tết, đón lễ, nghỉ lễ"
+      ],
+      "noteVi": "过 + 节 (ngày lễ), giống 过年 (ăn Tết), 过生日 (đón sinh nhật). Là từ li hợp: 过了一个快乐的节.",
+      "examples": [
+        {
+          "zh": "过节的时候，我们一家人在一起吃饭。",
+          "py": "guò jié de shí hou wǒ men yì jiā rén zài yì qǐ chī fàn",
+          "vi": "Dịp lễ tết, cả nhà chúng tôi quây quần ăn cơm với nhau."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 903,
+      "word": "新年",
+      "meaningsVi": [
+        "năm mới"
+      ],
+      "noteVi": "Lời chúc quen thuộc: 新年快乐！ (Chúc mừng năm mới!).",
+      "examples": [
+        {
+          "zh": "新年的时候，我收到了很多礼物。",
+          "py": "xīn nián de shí hou wǒ shōu dào le hěn duō lǐ wù",
+          "vi": "Dịp năm mới, tôi nhận được rất nhiều quà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 748,
+      "word": "礼物",
+      "meaningsVi": [
+        "quà, món quà"
+      ],
+      "noteVi": "Hán Việt 'lễ vật' nhưng dùng hằng ngày với nghĩa **quà**: 生日礼物 (quà sinh nhật), 送礼物 (tặng quà). Lượng từ 个 hoặc 件.",
+      "examples": [
+        {
+          "zh": "这是我送给你的生日礼物。",
+          "py": "zhè shì wǒ sòng gěi nǐ de shēng rì lǐ wù",
+          "vi": "Đây là quà sinh nhật tôi tặng bạn."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 870,
+      "word": "晚会",
+      "meaningsVi": [
+        "dạ hội, buổi liên hoan (buổi tối)"
+      ],
+      "noteVi": "新年晚会 (đêm hội mừng năm mới), 参加晚会 (dự dạ hội). Ở buổi dạ hội thường có 节目, 表演.",
+      "examples": [
+        {
+          "zh": "明天晚上学校有新年晚会，你去吗？",
+          "py": "míng tiān wǎn shang xué xiào yǒu xīn nián wǎn huì nǐ qù ma",
+          "vi": "Tối mai trường có dạ hội mừng năm mới, bạn có đi không?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 709,
+      "word": "节目",
+      "meaningsVi": [
+        "tiết mục",
+        "chương trình (truyền hình, phát thanh)"
+      ],
+      "noteVi": "表演节目 (biểu diễn tiết mục), 电视节目 (chương trình truyền hình). Lượng từ 个.",
+      "examples": [
+        {
+          "zh": "晚会上有很多好看的节目。",
+          "py": "wǎn huì shàng yǒu hěn duō hǎo kàn de jié mù",
+          "vi": "Ở buổi dạ hội có rất nhiều tiết mục hay."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 530,
+      "word": "表演",
+      "meaningsVi": [
+        "biểu diễn",
+        "màn biểu diễn (danh từ)"
+      ],
+      "noteVi": "Động từ: 表演节目 (biểu diễn tiết mục). Danh từ: 他的表演很好 (màn biểu diễn của anh ấy rất hay).",
+      "examples": [
+        {
+          "zh": "我们班要在晚会上表演一个节目。",
+          "py": "wǒ men bān yào zài wǎn huì shàng biǎo yǎn yí gè jié mù",
+          "vi": "Lớp chúng tôi sẽ biểu diễn một tiết mục ở buổi dạ hội."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 935,
+      "word": "音乐",
+      "meaningsVi": [
+        "âm nhạc, nhạc"
+      ],
+      "noteVi": "「乐」 ở đây đọc **yuè**, khác 快乐 (lè). 听音乐 (nghe nhạc).",
+      "examples": [
+        {
+          "zh": "我喜欢一边听音乐一边做作业。",
+          "py": "wǒ xǐ huan yì biān tīng yīn yuè yì biān zuò zuò yè",
+          "vi": "Tôi thích vừa nghe nhạc vừa làm bài tập."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 831,
+      "word": "声音",
+      "meaningsVi": [
+        "âm thanh, tiếng",
+        "giọng (nói, hát)"
+      ],
+      "noteVi": "声音很大 (tiếng to), 声音太小 (tiếng nhỏ quá), 她的声音很好听 (giọng cô ấy rất hay).",
+      "examples": [
+        {
+          "zh": "你的声音太小了，我听不清楚。",
+          "py": "nǐ de shēng yīn tài xiǎo le wǒ tīng bù qīng chu",
+          "vi": "Tiếng bạn nhỏ quá, tôi nghe không rõ."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 830,
+      "word": "声",
+      "meaningsVi": [
+        "tiếng (âm thanh)",
+        "tiếng, lần (lượng từ: gọi, kêu, nói)"
+      ],
+      "noteVi": "Danh từ: 大声 (to tiếng): 请大声说. Lượng từ đếm số lần phát ra tiếng: 叫了他一声 (gọi anh ấy một tiếng), 说一声 (báo một tiếng).",
+      "examples": [
+        {
+          "zh": "你走的时候，跟我说一声。",
+          "py": "nǐ zǒu de shí hou gēn wǒ shuō yì shēng",
+          "vi": "Lúc nào bạn đi thì báo tôi một tiếng nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 782,
+      "word": "难听",
+      "meaningsVi": [
+        "khó nghe, dở (âm thanh)",
+        "khó nghe (lời nói)"
+      ],
+      "noteVi": "Trái nghĩa với 「好听」. Giống 难看 (xấu): 难 + 听 / 看 tạo thành tính từ.",
+      "examples": [
+        {
+          "zh": "他唱得很难听，可是大家都很开心。",
+          "py": "tā chàng de hěn nán tīng kě shì dà jiā dōu hěn kāi xīn",
+          "vi": "Anh ấy hát rất dở, nhưng mọi người đều rất vui."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 1000,
+      "word": "做客",
+      "meaningsVi": [
+        "làm khách, đến chơi nhà"
+      ],
+      "noteVi": "去朋友家做客 (đến nhà bạn chơi), 请你来我家做客 (mời bạn đến nhà tôi chơi). Không có tân ngữ sau 做客.",
+      "examples": [
+        {
+          "zh": "这个周末我想请你来我家做客。",
+          "py": "zhè ge zhōu mò wǒ xiǎng qǐng nǐ lái wǒ jiā zuò kè",
+          "vi": "Cuối tuần này tôi muốn mời bạn đến nhà tôi chơi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 736,
+      "word": "客人",
+      "meaningsVi": [
+        "khách, khách khứa"
+      ],
+      "noteVi": "Người đến nhà mình chơi, hoặc khách của cửa hàng, nhà hàng.",
+      "examples": [
+        {
+          "zh": "客人来了，快去开门吧。",
+          "py": "kè rén lái le kuài qù kāi mén ba",
+          "vi": "Khách đến rồi, mau ra mở cửa đi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 677,
+      "word": "欢迎",
+      "meaningsVi": [
+        "chào mừng, hoan nghênh"
+      ],
+      "noteVi": "欢迎 + người (+ động từ): 欢迎你来我家！ (Chào mừng bạn đến nhà tôi!). Khi tiễn khách hay nói 欢迎再来 (lần sau lại đến chơi nhé).",
+      "examples": [
+        {
+          "zh": "欢迎你来我家做客！",
+          "py": "huān yíng nǐ lái wǒ jiā zuò kè",
+          "vi": "Chào mừng bạn đến nhà tôi chơi!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 809,
+      "word": "请客",
+      "meaningsVi": [
+        "mời (ăn uống), đãi, khao"
+      ],
+      "noteVi": "「今天我请客」 là 'hôm nay tôi mời / tôi trả tiền'; hỏi 'ai bao?' là 谁请客？. Không hiểu theo nghĩa đen 'mời khách' chung chung.",
+      "examples": [
+        {
+          "zh": "今天我请客，大家想吃什么就点什么。",
+          "py": "jīn tiān wǒ qǐng kè dà jiā xiǎng chī shén me jiù diǎn shén me",
+          "vi": "Hôm nay tôi mời, mọi người muốn ăn gì thì cứ gọi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 814,
+      "word": "热情",
+      "meaningsVi": [
+        "nhiệt tình, niềm nở, mến khách"
+      ],
+      "noteVi": "Đối với ai rất nhiệt tình: 对 + người + 很热情.",
+      "examples": [
+        {
+          "zh": "我朋友的家人对我非常热情。",
+          "py": "wǒ péng you de jiā rén duì wǒ fēi cháng rè qíng",
+          "vi": "Người nhà của bạn tôi rất niềm nở với tôi."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 729,
+      "word": "开心",
+      "meaningsVi": [
+        "vui, vui vẻ"
+      ],
+      "noteVi": "Nghĩa như 「高兴」 nhưng khẩu ngữ hơn: 玩得很开心 (chơi rất vui). Hán Việt 'khai tâm' (mở lòng).",
+      "examples": [
+        {
+          "zh": "昨天的晚会，大家都玩得很开心。",
+          "py": "zuó tiān de wǎn huì dà jiā dōu wán de hěn kāi xīn",
+          "vi": "Ở buổi dạ hội hôm qua, mọi người đều chơi rất vui."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 706,
+      "word": "接",
+      "meaningsVi": [
+        "đón (người)",
+        "nhận, nghe (điện thoại)"
+      ],
+      "noteVi": "去机场接朋友 (ra sân bay đón bạn), 接孩子 (đón con). Nhấc máy, nghe điện thoại là 接电话.",
+      "examples": [
+        {
+          "zh": "明天我去机场接你。",
+          "py": "míng tiān wǒ qù jī chǎng jiē nǐ",
+          "vi": "Mai tôi ra sân bay đón bạn."
+        },
+        {
+          "zh": "刚才我在洗澡，没接电话。",
+          "py": "gāng cái wǒ zài xǐ zǎo méi jiē diàn huà",
+          "vi": "Lúc nãy tôi đang tắm nên không nghe điện thoại."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 701,
+      "word": "见面",
+      "meaningsVi": [
+        "gặp mặt, gặp nhau"
+      ],
+      "noteVi": "「见面」 không có tân ngữ: gặp ai là 跟/和 + người + 见面. Không nói 见面朋友 theo kiểu 'gặp bạn'. Là từ li hợp: 见过面.",
+      "examples": [
+        {
+          "zh": "我们明天下午三点在学校门口见面吧。",
+          "py": "wǒ men míng tiān xià wǔ sān diǎn zài xué xiào mén kǒu jiàn miàn ba",
+          "vi": "Ba giờ chiều mai chúng mình gặp nhau ở cổng trường nhé."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 954,
+      "word": "遇见",
+      "meaningsVi": [
+        "tình cờ gặp, bắt gặp"
+      ],
+      "noteVi": "Gặp mà không hẹn trước: 在超市遇见老师. Còn hẹn gặp nhau là 见面.",
+      "examples": [
+        {
+          "zh": "昨天我在超市遇见了王老师。",
+          "py": "zuó tiān wǒ zài chāo shì yù jiàn le wáng lǎo shī",
+          "vi": "Hôm qua tôi tình cờ gặp thầy Vương ở siêu thị."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 755,
+      "word": "聊",
+      "meaningsVi": [
+        "nói chuyện, tán chuyện"
+      ],
+      "noteVi": "聊 + chủ đề: 聊什么？(nói chuyện gì?), 聊学习 (nói chuyện học hành). Lặp lại: 聊聊, 聊一聊.",
+      "examples": [
+        {
+          "zh": "你们在聊什么呢？",
+          "py": "nǐ men zài liáo shén me ne",
+          "vi": "Các bạn đang nói chuyện gì thế?"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 756,
+      "word": "聊天儿",
+      "meaningsVi": [
+        "tán gẫu, trò chuyện"
+      ],
+      "noteVi": "Trò chuyện với ai: 跟 + người + 聊天儿. Không nói 聊天儿朋友. Là từ li hợp: 聊了一会儿天儿.",
+      "examples": [
+        {
+          "zh": "晚上我常常跟朋友在网上聊天儿。",
+          "py": "wǎn shang wǒ cháng cháng gēn péng you zài wǎng shang liáo tiān r",
+          "vi": "Buổi tối tôi thường trò chuyện với bạn bè trên mạng."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 906,
+      "word": "信",
+      "meaningsVi": [
+        "thư, lá thư",
+        "tin (khẩu ngữ, = 相信)"
+      ],
+      "noteVi": "写信 (viết thư), 一封信 (một bức thư). Làm động từ: 我不信 (tôi không tin), nghĩa như 相信.",
+      "examples": [
+        {
+          "zh": "我给奶奶写了一封信。",
+          "py": "wǒ gěi nǎi nai xiě le yì fēng xìn",
+          "vi": "Tôi viết một bức thư cho bà."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 630,
+      "word": "封",
+      "meaningsVi": [
+        "bức, lá (lượng từ cho thư)"
+      ],
+      "noteVi": "Dùng cho thư từ: 一封信, 两封信.",
+      "examples": [
+        {
+          "zh": "今天我收到了两封信。",
+          "py": "jīn tiān wǒ shōu dào le liǎng fēng xìn",
+          "vi": "Hôm nay tôi nhận được hai bức thư."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 837,
+      "word": "收到",
+      "meaningsVi": [
+        "nhận được"
+      ],
+      "noteVi": "收 (nhận) + 到 (kết quả): 收到礼物, 收到信. Phủ định: 没收到 (chưa nhận được).",
+      "examples": [
+        {
+          "zh": "你的信我已经收到了，谢谢！",
+          "py": "nǐ de xìn wǒ yǐ jīng shōu dào le xiè xie",
+          "vi": "Thư của bạn tôi nhận được rồi, cảm ơn nhé!"
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "grammar": [
+    {
+      "no": 162,
+      "titleVi": "Động lượng từ: 口, 回, 遍, 声",
+      "summaryVi": "Đếm số lần của hành động bằng động lượng từ đặt sau động từ: 尝一口 (nếm một miếng), 去过两回 (đi hai lần), 看了三遍 (xem ba lượt), 叫了一声 (gọi một tiếng).",
+      "explanationVi": [
+        "Động lượng từ đếm **số lần của hành động** và đứng **sau động từ** (khác danh lượng từ đứng trước danh từ như 一本书). Ở HSK2 đã học 「次」; bài này thêm 口, 回, 遍, 声.",
+        "「口」: một miếng, một ngụm (ăn, uống, nếm): 尝一口 (nếm một miếng), 他一口也没吃 (anh ấy không ăn một miếng nào). 「声」: một tiếng (gọi, kêu, nói): 叫了一声, 说一声 (báo một tiếng). 「遍」: một lượt trọn vẹn từ đầu đến cuối: 读了两遍, 请再说一遍. 「回」: nghĩa như 「次」 (lần) nhưng khẩu ngữ hơn: 去过一回.",
+        "Vị trí tân ngữ: tân ngữ chỉ vật, nơi chốn thường đứng **sau** động lượng từ: 看了三遍课文, 去过两回上海. Tân ngữ là đại từ (他, 我, 你…) thì đứng **trước**: 叫了他一声, 我找过他两回. 「了」/「过」 đứng ngay sau động từ: 喝了一口, 去过两回.",
+        "Tiếng Việt cũng nói 'nếm một miếng', 'gọi một tiếng', 'đi hai lần' với số lần sau động từ, nên trật tự này khá dễ. Lỗi hay gặp là đặt số lần trước động từ (两回去过) hoặc đặt đại từ sau số lần (叫了一声他)."
+      ],
+      "patterns": [
+        "Động từ + (了/过) + số + 口/回/遍/声",
+        "Động từ + (了/过) + số + 遍/回 + tân ngữ (vật, nơi chốn)",
+        "Động từ + (了/过) + đại từ + số + 声/回"
+      ],
+      "examples": [
+        {
+          "zh": "这个菜很好吃，你尝一口吧。",
+          "py": "zhè ge cài hěn hǎo chī nǐ cháng yì kǒu ba",
+          "vi": "Món này ngon lắm, bạn nếm thử một miếng đi."
+        },
+        {
+          "zh": "我叫了他两声，他都没听见。",
+          "py": "wǒ jiào le tā liǎng shēng tā dōu méi tīng jiàn",
+          "vi": "Tôi gọi anh ấy hai tiếng mà anh ấy đều không nghe thấy."
+        },
+        {
+          "zh": "这个节目我看过两遍了，还想再看一遍。",
+          "py": "zhè ge jié mù wǒ kàn guo liǎng biàn le hái xiǎng zài kàn yí biàn",
+          "vi": "Tiết mục này tôi xem hai lượt rồi, vẫn muốn xem thêm lượt nữa."
+        },
+        {
+          "zh": "我去过两回上海。",
+          "py": "wǒ qù guo liǎng huí shàng hǎi",
+          "vi": "Tôi đã đến Thượng Hải hai lần."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我两回去过上海。",
+          "right": "我去过两回上海。",
+          "noteVi": "Động lượng từ (两回) đứng sau động từ và 过."
+        },
+        {
+          "wrong": "我叫了一声他。",
+          "right": "我叫了他一声。",
+          "noteVi": "Tân ngữ là đại từ (他) đứng trước động lượng từ (一声)."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 191,
+      "titleVi": "「不怎么样」: chẳng ra sao, không hay lắm",
+      "summaryVi": "「不怎么样」 là lời đánh giá tiêu cực nhẹ nhàng, khẩu ngữ: 'chẳng ra sao, không hay lắm, thường thôi': 这个节目不怎么样.",
+      "explanationVi": [
+        "「怎么样」 là câu hỏi 'thế nào?'. Thêm 「不」 thành 「不怎么样」 thì **không còn là câu hỏi** mà là lời đánh giá: 'chẳng ra sao', 'không hay lắm', 'bình thường thôi': 这家饭馆的菜不怎么样 (đồ ăn quán này chẳng ra sao).",
+        "「不怎么样」 làm vị ngữ, đứng ngay sau chủ ngữ, không cần 很 hay 是: 这个电影不怎么样. Nó cũng hay đứng sau 得 để nhận xét một hành động: 他唱得不怎么样 (anh ấy hát chẳng hay lắm), 汉字写得不怎么样. Nhớ phải có 「得」 sau động từ.",
+        "So với 不好, 很难看, 很难听, cách nói này **nhẹ nhàng, khéo** hơn, nên hay dùng khi chê mà không muốn làm người khác buồn. Tiếng Việt tương tự: 'cũng thường thôi', 'chẳng ra gì lắm'.",
+        "Phân biệt: 「……怎么样？」 là câu hỏi ý kiến (昨天的晚会怎么样？); 「不怎么样」 là câu trả lời. Còn 「不怎么 + tính từ / động từ」 nghĩa là 'không … lắm': 不怎么好看 (không đẹp lắm), 我不怎么喜欢 (tôi không thích lắm)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 不怎么样",
+        "Chủ ngữ + động từ + 得 + 不怎么样",
+        "不怎么 + tính từ / động từ"
+      ],
+      "examples": [
+        {
+          "zh": "这个节目不怎么样，我们看别的吧。",
+          "py": "zhè ge jié mù bù zěn me yàng wǒ men kàn bié de ba",
+          "vi": "Tiết mục này chẳng ra sao, chúng mình xem cái khác đi."
+        },
+        {
+          "zh": "那家饭馆的菜不怎么样，可是很便宜。",
+          "py": "nà jiā fàn guǎn de cài bù zěn me yàng kě shì hěn pián yi",
+          "vi": "Đồ ăn ở quán đó cũng thường thôi, nhưng rất rẻ."
+        },
+        {
+          "zh": "他汉字写得不怎么样。",
+          "py": "tā hàn zì xiě de bù zěn me yàng",
+          "vi": "Chữ Hán anh ấy viết chẳng đẹp lắm."
+        },
+        {
+          "zh": "——昨天的晚会怎么样？——不怎么样，人太多了。",
+          "py": "zuó tiān de wǎn huì zěn me yàng bù zěn me yàng rén tài duō le",
+          "vi": "— Dạ hội hôm qua thế nào? — Chẳng ra sao, đông người quá."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "他唱不怎么样。",
+          "right": "他唱得不怎么样。",
+          "noteVi": "Nhận xét một hành động thì sau động từ phải có 「得」."
+        },
+        {
+          "wrong": "昨天的晚会不怎么样吗？",
+          "right": "昨天的晚会怎么样？",
+          "noteVi": "Muốn hỏi ý kiến thì dùng 「怎么样？」. Câu trái chỉ có nghĩa 'dạ hội hôm qua dở lắm à?' (hỏi lại để xác nhận), sai với ý hỏi 'thế nào'."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 204,
+      "titleVi": "Nhiều định ngữ trước một danh từ",
+      "summaryVi": "Khi một danh từ có nhiều định ngữ, tất cả đều đứng trước danh từ theo thứ tự: của ai → 这/那 → số + lượng từ → cụm có 的 → tính từ/danh từ không 的 → danh từ: 我的那两本新词典.",
+      "explanationVi": [
+        "Trong tiếng Trung, **mọi** định ngữ đều đứng **trước** danh từ, dù có bao nhiêu đi nữa. Tiếng Việt thì phần lớn định ngữ đứng sau: 'hai quyển từ điển mới **của tôi**' → 我的那两本新词典. Đây là chỗ người Việt hay sai nhất.",
+        "Thứ tự thường gặp: (1) sở hữu, người (我的, 老师的) → (2) chỉ định 这/那 → (3) số + lượng từ (两本, 一个) → (4) cụm miêu tả có 的 (很有意思的, 我昨天买的) → (5) tính từ một âm tiết hoặc danh từ không có 的 (新, 大, 汉语, 红色) → danh từ chính. Ví dụ: 我的 + 那 + 两本 + 很有意思的 + 汉语 + 书.",
+        "Định ngữ có 「的」 (cụm dài, tính từ có 很) đứng **xa** danh từ; định ngữ không có 的 (新, 旧, 红色, 中国…) đứng **sát** danh từ: 一件很漂亮的红色大衣 (một chiếc áo khoác màu đỏ rất đẹp). Không cần nhiều 的 liên tiếp: nói 我的那本新书, không nói 我的那本的新的书.",
+        "Mẹo: dịch từ tiếng Việt thì đọc **ngược** từ cuối lên. 'Món quà bạn tặng tôi hôm qua' → 你昨天送给我的礼物. Câu tự nhiên thường chỉ có 2–3 định ngữ, không cần dùng hết các loại."
+      ],
+      "patterns": [
+        "sở hữu + 这/那 + số + lượng từ + cụm có 的 + tính từ/danh từ + danh từ",
+        "我的 + 那 + 两本 + 新 + 词典",
+        "người + động từ + 的 + 礼物"
+      ],
+      "examples": [
+        {
+          "zh": "我的那两本新词典都是老师送的。",
+          "py": "wǒ de nà liǎng běn xīn cí diǎn dōu shì lǎo shī sòng de",
+          "vi": "Hai quyển từ điển mới đó của tôi đều là thầy giáo tặng."
+        },
+        {
+          "zh": "这是我昨天收到的一封很长的信。",
+          "py": "zhè shì wǒ zuó tiān shōu dào de yì fēng hěn cháng de xìn",
+          "vi": "Đây là bức thư rất dài mà tôi nhận được hôm qua."
+        },
+        {
+          "zh": "她穿着一件很漂亮的红色大衣。",
+          "py": "tā chuān zhe yí jiàn hěn piào liang de hóng sè dà yī",
+          "vi": "Cô ấy mặc một chiếc áo khoác màu đỏ rất đẹp."
+        },
+        {
+          "zh": "晚会上，我们班表演了两个很有意思的节目。",
+          "py": "wǎn huì shàng wǒ men bān biǎo yǎn le liǎng gè hěn yǒu yì si de jié mù",
+          "vi": "Ở buổi dạ hội, lớp chúng tôi biểu diễn hai tiết mục rất thú vị."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我有两本词典新。",
+          "right": "我有两本新词典。",
+          "noteVi": "Tính từ 新 đứng trước danh từ, không đặt sau như tiếng Việt 'từ điển mới'.",
+          "issue": "modifier_order"
+        },
+        {
+          "wrong": "这是礼物你送给我的。",
+          "right": "这是你送给我的礼物。",
+          "noteVi": "Cụm 你送给我的 là định ngữ, phải đứng trước 礼物."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    },
+    {
+      "no": 216,
+      "titleVi": "Câu chữ 「把」 (3): 把 + vật + động từ (+ 给) + người",
+      "summaryVi": "Chủ ngữ + 把 + vật + 送/借/还/拿/带 + 给 + người: chuyển một vật xác định cho ai: 我把礼物送给她了, 请把书还给他.",
+      "explanationVi": [
+        "Bài 6 đã học 把 + vật + động từ + 在/到 + nơi chốn (把书放在桌子上) và 把 + vật + động từ + kết quả. Kiểu này nói **chuyển vật cho người**: chủ ngữ + 把 + vật + động từ + 给 + người: 我把礼物送给小红了 (tôi đã tặng món quà cho Tiểu Hồng), 请把词典还给他 (làm ơn trả từ điển cho anh ấy).",
+        "Động từ hay gặp: 送给, 借给, 还给, 拿给, 带给, 教给, và 给 một mình (đưa): 请把手机给我. Với 「告诉」 thì không cần 给: 我把这件事告诉了妈妈 (tôi đã kể chuyện này với mẹ).",
+        "Tiếng Việt nói 'tặng quà cho cô ấy', nên người Việt hay nói 我送礼物给她. Khi món đồ đã xác định (món quà đó, quyển sách này), người Trung Quốc thường dùng 「把」: 我把那个礼物送给她了. Món đồ chưa xác định thì dùng câu hai tân ngữ đã học: 我送给她一个礼物.",
+        "Như các câu chữ 把 khác: vật sau 把 phải **xác định** (这本书, 我的词典); phủ định và động từ năng nguyện đứng **trước** 把 (我没把书还给他, 你能把词典借给我吗？); 「了」 đứng sau cả cụm hoặc cuối câu (送给了她 / 送给她了)."
+      ],
+      "patterns": [
+        "Chủ ngữ + 把 + vật + động từ + 给 + người (+ 了)",
+        "Chủ ngữ + 没/能/要… + 把 + vật + động từ + 给 + người",
+        "Chủ ngữ + 把 + vật / việc + 告诉 + người"
+      ],
+      "examples": [
+        {
+          "zh": "我把那个礼物送给小红了。",
+          "py": "wǒ bǎ nà ge lǐ wù sòng gěi xiǎo hóng le",
+          "vi": "Tôi đã tặng món quà đó cho Tiểu Hồng rồi."
+        },
+        {
+          "zh": "你能把你的词典借给我吗？",
+          "py": "nǐ néng bǎ nǐ de cí diǎn jiè gěi wǒ ma",
+          "vi": "Bạn có thể cho tôi mượn từ điển của bạn không?"
+        },
+        {
+          "zh": "看完以后，请把书还给他。",
+          "py": "kàn wán yǐ hòu qǐng bǎ shū huán gěi tā",
+          "vi": "Đọc xong thì làm ơn trả sách cho anh ấy."
+        },
+        {
+          "zh": "我把这件事告诉了妈妈。",
+          "py": "wǒ bǎ zhè jiàn shì gào su le mā ma",
+          "vi": "Tôi đã kể chuyện này với mẹ."
+        }
+      ],
+      "mistakes": [
+        {
+          "wrong": "我把书没还给他。",
+          "right": "我没把书还给他。",
+          "noteVi": "「没」 đứng trước 「把」, không đứng trước động từ."
+        },
+        {
+          "wrong": "我把一本书送给她了。",
+          "right": "我把那本书送给她了。",
+          "noteVi": "Vật sau 「把」 phải là vật đã xác định. 'Tặng cô ấy một quyển sách' (chưa xác định) thì nói 我送给她一本书."
+        }
+      ],
+      "review": {
+        "status": "draft"
+      }
+    }
+  ],
+  "exercises": [
+    {
+      "id": "hsk3-12-e01",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "节日",
+          "ngày lễ"
+        ],
+        [
+          "礼物",
+          "món quà"
+        ],
+        [
+          "晚会",
+          "dạ hội"
+        ],
+        [
+          "节目",
+          "tiết mục"
+        ],
+        [
+          "音乐",
+          "âm nhạc"
+        ],
+        [
+          "客人",
+          "khách"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-12-e02",
+      "type": "match",
+      "promptVi": "Nối từ tiếng Trung với nghĩa tiếng Việt.",
+      "pairs": [
+        [
+          "欢迎",
+          "chào mừng"
+        ],
+        [
+          "热情",
+          "nhiệt tình"
+        ],
+        [
+          "开心",
+          "vui vẻ"
+        ],
+        [
+          "见面",
+          "gặp mặt"
+        ],
+        [
+          "遇见",
+          "tình cờ gặp"
+        ],
+        [
+          "聊天儿",
+          "tán gẫu"
+        ]
+      ]
+    },
+    {
+      "id": "hsk3-12-e03",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "明天我去机场",
+      "after": "你。",
+      "answers": [
+        "接"
+      ],
+      "options": [
+        "接",
+        "见面",
+        "遇见"
+      ],
+      "vi": "Mai tôi ra sân bay đón bạn."
+    },
+    {
+      "id": "hsk3-12-e04",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Ngày mai tôi gặp anh ấy.)",
+      "options": [
+        "明天我跟他见面。",
+        "明天我见面他。",
+        "明天我见面跟他。"
+      ],
+      "answer": 0,
+      "explainVi": "「见面」 không có tân ngữ: gặp ai là 跟 + người + 见面."
+    },
+    {
+      "id": "hsk3-12-e05",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "今天我",
+      "after": "，大家想吃什么就点什么。",
+      "answers": [
+        "请客"
+      ],
+      "options": [
+        "请客",
+        "做客",
+        "客人"
+      ],
+      "vi": "Hôm nay tôi mời, mọi người muốn ăn gì thì cứ gọi."
+    },
+    {
+      "id": "hsk3-12-e06",
+      "type": "fill",
+      "promptVi": "Chọn lượng từ đúng.",
+      "before": "我给奶奶写了一",
+      "after": "信。",
+      "answers": [
+        "封"
+      ],
+      "options": [
+        "封",
+        "本",
+        "页"
+      ],
+      "vi": "Tôi viết một bức thư cho bà."
+    },
+    {
+      "id": "hsk3-12-e07",
+      "type": "choice",
+      "promptVi": "Chọn từ đúng.",
+      "zh": "你的礼物我已经＿了，谢谢！",
+      "options": [
+        "收到",
+        "遇见",
+        "欢迎"
+      ],
+      "answer": 0,
+      "explainVi": "Nhận được quà, thư: 收到."
+    },
+    {
+      "id": "hsk3-12-e08",
+      "type": "fill",
+      "promptVi": "Chọn động lượng từ đúng.",
+      "before": "这个菜很好吃，你尝一",
+      "after": "吧。",
+      "answers": [
+        "口"
+      ],
+      "options": [
+        "口",
+        "声",
+        "遍"
+      ],
+      "vi": "Món này ngon lắm, bạn nếm thử một miếng đi.",
+      "explainVi": "Ăn, uống, nếm một miếng / một ngụm: 一口.",
+      "grammar": [
+        162
+      ]
+    },
+    {
+      "id": "hsk3-12-e09",
+      "type": "fill",
+      "promptVi": "Chọn động lượng từ đúng.",
+      "before": "我叫了他两",
+      "after": "，他都没听见。",
+      "answers": [
+        "声"
+      ],
+      "options": [
+        "声",
+        "口",
+        "页"
+      ],
+      "vi": "Tôi gọi anh ấy hai tiếng mà anh ấy đều không nghe thấy.",
+      "grammar": [
+        162
+      ]
+    },
+    {
+      "id": "hsk3-12-e10",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đã đến Thượng Hải hai lần.)",
+      "options": [
+        "我去过两回上海。",
+        "我两回去过上海。",
+        "我去两回过上海。"
+      ],
+      "answer": 0,
+      "explainVi": "「过」 đứng ngay sau động từ, rồi đến số lần (两回), rồi nơi chốn.",
+      "grammar": [
+        162
+      ]
+    },
+    {
+      "id": "hsk3-12-e11",
+      "type": "order",
+      "vi": "Tôi gọi anh ấy một tiếng.",
+      "tiles": [
+        "我",
+        "叫了",
+        "他",
+        "一声"
+      ],
+      "answers": [
+        "我叫了他一声"
+      ],
+      "explainVi": "Tân ngữ là đại từ (他) đứng trước động lượng từ (一声).",
+      "grammar": [
+        162
+      ]
+    },
+    {
+      "id": "hsk3-12-e12",
+      "type": "translate",
+      "vi": "Bộ phim này tôi đã xem ba lần rồi.",
+      "answers": [
+        "这个电影我(已经)看[了|过]三[遍|次|回](了)。",
+        "我(已经)看[了|过]三[遍|次|回]这个电影(了)。"
+      ],
+      "examples": [
+        {
+          "answer": "这个电影我看了三遍了。",
+          "score": 100
+        },
+        {
+          "answer": "这个电影我看过三次。",
+          "score": 100
+        },
+        {
+          "answer": "我看过三回这个电影。",
+          "score": 100
+        },
+        {
+          "answer": "这个电影我三遍看了。",
+          "score": 0,
+          "note": "Số lần (三遍) phải đứng sau động từ"
+        },
+        {
+          "answer": "这个电影我看了两遍了。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        162
+      ]
+    },
+    {
+      "id": "hsk3-12-e13",
+      "type": "choice",
+      "promptVi": "「这个节目不怎么样。」 nghĩa là gì?",
+      "options": [
+        "Tiết mục này chẳng hay lắm.",
+        "Tiết mục này thế nào?",
+        "Tiết mục này rất hay."
+      ],
+      "answer": 0,
+      "explainVi": "「不怎么样」 là lời đánh giá nhẹ nhàng: chẳng ra sao, không hay lắm.",
+      "grammar": [
+        191
+      ]
+    },
+    {
+      "id": "hsk3-12-e14",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "——昨天的晚会",
+      "after": "？——不怎么样，人太多了。",
+      "answers": [
+        "怎么样"
+      ],
+      "options": [
+        "怎么样",
+        "不怎么样",
+        "什么"
+      ],
+      "vi": "— Dạ hội hôm qua thế nào? — Chẳng ra sao, đông người quá.",
+      "explainVi": "Hỏi ý kiến dùng 「怎么样？」; 「不怎么样」 là câu trả lời.",
+      "grammar": [
+        191
+      ]
+    },
+    {
+      "id": "hsk3-12-e15",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "那家饭馆的菜怎么样？",
+        "promptVi": "Đồ ăn ở quán đó thế nào? (Hãy trả lời: chẳng ra sao — dùng 不怎么样.)",
+        "answers": [
+          "(那家饭馆的菜)不怎么样。",
+          {
+            "text": "(那家饭馆的菜)不[太|怎么]好吃。",
+            "score": 80
+          }
+        ],
+        "examples": [
+          {
+            "answer": "不怎么样。",
+            "score": 100
+          },
+          {
+            "answer": "那家饭馆的菜不怎么样。",
+            "score": 100
+          },
+          {
+            "answer": "不太好吃。",
+            "score": 80,
+            "note": "Đúng ý nhưng chưa dùng 不怎么样"
+          },
+          {
+            "answer": "非常好吃。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        191
+      ]
+    },
+    {
+      "id": "hsk3-12-e16",
+      "type": "translate",
+      "vi": "Anh ấy hát chẳng hay lắm.",
+      "answers": [
+        "他唱得不怎么样。",
+        "他唱歌唱得不怎么样。",
+        {
+          "text": "他唱得不[太|怎么]好听。",
+          "score": 90
+        }
+      ],
+      "examples": [
+        {
+          "answer": "他唱得不怎么样。",
+          "score": 100
+        },
+        {
+          "answer": "他唱歌唱得不怎么样。",
+          "score": 100
+        },
+        {
+          "answer": "他唱得不太好听。",
+          "score": 90
+        },
+        {
+          "answer": "他唱不怎么样。",
+          "score": 0,
+          "note": "Thiếu 得 sau động từ 唱"
+        },
+        {
+          "answer": "他唱得很好听。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        191,
+        229
+      ]
+    },
+    {
+      "id": "hsk3-12-e17",
+      "type": "choice",
+      "promptVi": "Cụm nào đúng? (hai quyển từ điển mới của tôi)",
+      "options": [
+        "我的两本新词典",
+        "两本新词典我的",
+        "我的新两本词典"
+      ],
+      "answer": 0,
+      "explainVi": "Thứ tự: sở hữu (我的) → số + lượng từ (两本) → tính từ (新) → danh từ.",
+      "grammar": [
+        204
+      ]
+    },
+    {
+      "id": "hsk3-12-e18",
+      "type": "order",
+      "vi": "Đây là món quà bạn tặng tôi hôm qua.",
+      "tiles": [
+        "这是",
+        "你",
+        "昨天",
+        "送给我的",
+        "礼物"
+      ],
+      "answers": [
+        "这是你昨天送给我的礼物"
+      ],
+      "explainVi": "Cụm 你昨天送给我的 là định ngữ, đứng trước 礼物.",
+      "grammar": [
+        204
+      ]
+    },
+    {
+      "id": "hsk3-12-e19",
+      "type": "order",
+      "vi": "Cô ấy mặc một chiếc áo khoác màu đỏ rất đẹp.",
+      "tiles": [
+        "她",
+        "穿着",
+        "一件",
+        "很漂亮的",
+        "红色",
+        "大衣"
+      ],
+      "answers": [
+        "她穿着一件很漂亮的红色大衣"
+      ],
+      "explainVi": "Định ngữ có 的 (很漂亮的) đứng xa danh từ; định ngữ không có 的 (红色) đứng sát danh từ.",
+      "grammar": [
+        204
+      ]
+    },
+    {
+      "id": "hsk3-12-e20",
+      "type": "choice",
+      "promptVi": "Cụm nào đúng? (hai tiết mục rất thú vị của lớp chúng tôi)",
+      "options": [
+        "我们班的两个很有意思的节目",
+        "两个节目很有意思的我们班",
+        "我们班的节目两个很有意思的"
+      ],
+      "answer": 0,
+      "grammar": [
+        204
+      ]
+    },
+    {
+      "id": "hsk3-12-e21",
+      "type": "translate",
+      "vi": "Ở buổi dạ hội, lớp chúng tôi biểu diễn hai tiết mục rất thú vị.",
+      "answers": [
+        "(在)晚会上，我们班表演了两个[很|非常]有意思的节目。",
+        "我们班在晚会上表演了两个[很|非常]有意思的节目。"
+      ],
+      "examples": [
+        {
+          "answer": "晚会上，我们班表演了两个很有意思的节目。",
+          "score": 100
+        },
+        {
+          "answer": "我们班在晚会上表演了两个非常有意思的节目。",
+          "score": 100
+        },
+        {
+          "answer": "晚会上，我们班表演了两个节目很有意思的。",
+          "score": 0,
+          "note": "Định ngữ 很有意思的 phải đứng trước 节目"
+        },
+        {
+          "answer": "晚会上，我们班表演了三个很有意思的节目。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        204
+      ]
+    },
+    {
+      "id": "hsk3-12-e22",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi đã tặng món quà đó cho Tiểu Hồng rồi.)",
+      "options": [
+        "我把那个礼物送给小红了。",
+        "我把小红送给那个礼物了。",
+        "我把那个礼物送了小红给。"
+      ],
+      "answer": 0,
+      "explainVi": "把 + vật (那个礼物) + 送给 + người (小红).",
+      "grammar": [
+        216
+      ]
+    },
+    {
+      "id": "hsk3-12-e23",
+      "type": "fill",
+      "promptVi": "Chọn từ đúng.",
+      "before": "看完以后，请把书还",
+      "after": "他。",
+      "answers": [
+        "给"
+      ],
+      "options": [
+        "给",
+        "在",
+        "向"
+      ],
+      "vi": "Đọc xong thì làm ơn trả sách cho anh ấy.",
+      "grammar": [
+        216
+      ]
+    },
+    {
+      "id": "hsk3-12-e24",
+      "type": "order",
+      "vi": "Bạn có thể cho tôi mượn từ điển của bạn không?",
+      "tiles": [
+        "你",
+        "能",
+        "把",
+        "你的词典",
+        "借给我",
+        "吗"
+      ],
+      "answers": [
+        "你能把你的词典借给我吗"
+      ],
+      "explainVi": "Động từ năng nguyện 能 đứng trước 把.",
+      "grammar": [
+        216
+      ]
+    },
+    {
+      "id": "hsk3-12-e25",
+      "type": "choice",
+      "promptVi": "Câu nào đúng? (Tôi chưa trả sách cho anh ấy.)",
+      "options": [
+        "我没把书还给他。",
+        "我把书没还给他。",
+        "我没把书还给他了。"
+      ],
+      "answer": 0,
+      "explainVi": "「没」 đứng trước 「把」; câu phủ định với 没 không có 了.",
+      "grammar": [
+        216
+      ]
+    },
+    {
+      "id": "hsk3-12-e26",
+      "type": "translate",
+      "vi": "Tôi đã kể chuyện này với mẹ rồi.",
+      "answers": [
+        "我(已经)把这件事告诉妈妈了。",
+        "我(已经)把这件事告诉了妈妈。",
+        "这件事我(已经)告诉妈妈了。",
+        "我(已经)告诉妈妈这件事了。"
+      ],
+      "examples": [
+        {
+          "answer": "我把这件事告诉妈妈了。",
+          "score": 100
+        },
+        {
+          "answer": "我已经把这件事告诉了妈妈。",
+          "score": 100
+        },
+        {
+          "answer": "这件事我已经告诉妈妈了。",
+          "score": 100
+        },
+        {
+          "answer": "我没把这件事告诉妈妈。",
+          "score": 0
+        }
+      ],
+      "grammar": [
+        216
+      ]
+    },
+    {
+      "id": "hsk3-12-e27",
+      "type": "question",
+      "question": {
+        "type": "model",
+        "prompt": "你把那本书还给他了吗？",
+        "promptVi": "Bạn đã trả quyển sách đó cho anh ấy chưa? (Giả sử: trả rồi.)",
+        "answers": [
+          "(我)(已经)把(那本)书还给他了。",
+          "(我)(已经)还给他了。",
+          "(我)(已经)还了。"
+        ],
+        "examples": [
+          {
+            "answer": "我已经把那本书还给他了。",
+            "score": 100
+          },
+          {
+            "answer": "还给他了。",
+            "score": 100
+          },
+          {
+            "answer": "已经还了。",
+            "score": 100
+          },
+          {
+            "answer": "我还没把书还给他。",
+            "score": 0
+          }
+        ]
+      },
+      "grammar": [
+        216
+      ]
+    },
+    {
+      "id": "hsk3-12-e28",
+      "type": "question",
+      "question": {
+        "type": "count",
+        "prompt": "你收到了几封信？",
+        "promptVi": "Bạn nhận được mấy bức thư?",
+        "picture": "✉️✉️✉️",
+        "expected": {
+          "number": 3,
+          "noun": "信",
+          "sentence": "我收到了三封信。"
+        },
+        "examples": [
+          {
+            "answer": "我收到了三封信。",
+            "score": 100
+          },
+          {
+            "answer": "三封。",
+            "score": 100
+          },
+          {
+            "answer": "我收到了三个信。",
+            "score": 80,
+            "issues": [
+              "wrong_measure_word"
+            ]
+          },
+          {
+            "answer": "我收到了三信。",
+            "score": 80,
+            "issues": [
+              "missing_measure_word"
+            ]
+          },
+          {
+            "answer": "我收到了两封信。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-12-e29",
+      "type": "question",
+      "question": {
+        "type": "location",
+        "prompt": "礼物在哪儿？",
+        "promptVi": "Món quà ở đâu? (Trong hình: món quà ở trong cái hòm.)",
+        "expected": {
+          "places": [
+            "箱子"
+          ],
+          "localizer": "里",
+          "sentence": "礼物在箱子里。"
+        },
+        "examples": [
+          {
+            "answer": "礼物在箱子里。",
+            "score": 100
+          },
+          {
+            "answer": "在箱子里面。",
+            "score": 100
+          },
+          {
+            "answer": "礼物在箱子。",
+            "score": 80,
+            "issues": [
+              "missing_localizer"
+            ]
+          },
+          {
+            "answer": "礼物在里箱子。",
+            "score": 80,
+            "issues": [
+              "localizer_order"
+            ]
+          },
+          {
+            "answer": "礼物在箱子上。",
+            "score": 20
+          }
+        ]
+      }
+    },
+    {
+      "id": "hsk3-12-e30",
+      "type": "translate",
+      "vi": "Chào mừng bạn đến nhà tôi chơi!",
+      "answers": [
+        "欢迎(你)来我家(做客)！",
+        "欢迎(你)来我家玩！",
+        "欢迎(你)到我家(来)做客！"
+      ],
+      "examples": [
+        {
+          "answer": "欢迎你来我家做客！",
+          "score": 100
+        },
+        {
+          "answer": "欢迎来我家！",
+          "score": 100
+        },
+        {
+          "answer": "欢迎你到我家做客！",
+          "score": 100
+        },
+        {
+          "answer": "谢谢你来我家做客！",
+          "score": 0
+        }
+      ]
+    }
+  ]
+}
