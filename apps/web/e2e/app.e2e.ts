@@ -33,20 +33,50 @@ afterAll(async () => {
 });
 
 describe('app (production build)', () => {
-  it('fits a phone screen without horizontal scrolling', async () => {
-    const context = await browser.newContext({ ...devices['Pixel 7'] });
-    const page = await context.newPage();
-    await page.goto(base);
-    await page.getByRole('heading', { level: 1, name: 'Lộ trình học' }).waitFor();
-    const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
-    expect(overflow).toBeLessThanOrEqual(0);
-    await expect(page.getByRole('navigation', { name: 'Điều hướng chính' }).isVisible()).resolves.toBe(true);
-    await shot(page, 'home-phone');
-    await page.goto(`${base}#/settings`);
-    await page.getByRole('heading', { level: 1, name: 'Cài đặt' }).waitFor();
-    await shot(page, 'settings-phone');
-    await context.close();
-  });
+  // Device emulation runs on Chromium (only Chromium is installed): it checks
+  // viewport, pixel ratio, touch and user agent, not the WebKit engine itself.
+  const SCREENS = [
+    '#/',
+    '#/lesson/hsk1-01',
+    '#/lesson/hsk3-20',
+    '#/word/248',
+    '#/grammar/52',
+    '#/practice/hsk2-01',
+    '#/quiz/hsk3-01',
+    '#/test/3',
+    '#/dict',
+    '#/review',
+    '#/progress',
+    '#/settings',
+    '#/write/%E7%88%B1',
+    '#/grader',
+    '#/about',
+  ];
+  for (const device of ['Pixel 7', 'iPhone 13'] as const) {
+    it(`fits a phone screen without horizontal scrolling (${device})`, async () => {
+      const { defaultBrowserType: _engine, ...descriptor } = devices[device];
+      const context = await browser.newContext(descriptor);
+      const page = await context.newPage();
+      const overflowing: string[] = [];
+      for (const hash of SCREENS) {
+        await page.goto(`${base}${hash}`);
+        await page.locator('h1').first().waitFor();
+        await page.waitForTimeout(100);
+        const overflow = await page.evaluate(() => document.documentElement.scrollWidth - window.innerWidth);
+        if (overflow > 0) overflowing.push(`${hash}: ${overflow}px`);
+      }
+      expect(overflowing).toEqual([]);
+      await page.goto(base);
+      await page.getByRole('heading', { level: 1, name: 'Lộ trình học' }).waitFor();
+      await expect(page.getByRole('navigation', { name: 'Điều hướng chính' }).isVisible()).resolves.toBe(true);
+      const name = device.toLowerCase().replace(/\s+/g, '-');
+      await shot(page, `home-${name}`);
+      await page.goto(`${base}#/lesson/hsk1-01`);
+      await page.locator('h1').first().waitFor();
+      await shot(page, `lesson-${name}`);
+      await context.close();
+    });
+  }
 
   it('starts offline after the first visit and grades answers offline', async () => {
     const context = await browser.newContext({ viewport: { width: 375, height: 812 } });

@@ -47,7 +47,9 @@ Một số câu được ghi là "sai" thật ra **đúng ngữ pháp nhưng sai
 - **Độ tự nhiên:** 我妻子河内人, 明天我生日 (điểm 116), 一包饺子, 走路有十分钟, 他是高个子, 门口开着很多红色的花, 一间房间, 我也想买那样的一个书包; 一条狗 được trình bày là chấp nhận được; ghi chú văn hóa 一楼 / tầng trệt.
 - Pinyin đã sửa tay: 教 jiāo (động từ), thanh nhẹ trong 看看, 想想, 帮个忙; 得/地/过 làm trợ từ đọc de/de/guo.
 
-## HSK3 (bài 01–08)
+## HSK3
+
+### Bài 01–08
 
 - **Cách hiểu nghĩa con:** 才1 "muộn/chậm, mới", 就3 "chỉ" (就我一个人), 还3 chỉ mức độ (还不错, A比B还…), 有些 "hơi", 极 trước tính từ (极少; 极了 để sau).
 - **Hình vị khai báo thêm:** 盘 (điểm 161, vì chỉ có từ 盘子), 不必 (điểm 171).
@@ -55,6 +57,14 @@ Một số câu được ghi là "sai" thật ra **đúng ngữ pháp nhưng sai
 - **Chưa chắc là sai:** 这家饭馆又便宜，而且好吃 (trộn hai cấu trúc), 这个蛋糕极好吃了, 在楼上搬来了…, 楼上搬来了那位邻居, 我家在学校北方; khẳng định 不A不B có trật tự cố định; khác biệt sắc thái 大概 / 差不多.
 - Một số câu hỏi `model` cho 80 điểm khi câu trả lời đúng nhưng không dùng cấu trúc đang luyện (我很饿, 打扫干净了, 我感冒了).
 - Ghi chú về 层 so sánh cách đánh số tầng ở Trung Quốc với miền Bắc và miền Nam Việt Nam; ghi chú 屋子 là từ của miền Bắc Trung Quốc.
+
+### Bài 17–20
+
+- **Hình vị khai báo thêm:** 所 (điểm 160, cho 一所学校); 结, 婚, 澡, 假 (điểm 153, cho 结了婚, 结过婚, 洗了个澡, 放了三天假). Bốn chữ này có trong nội dung chính thức của điểm 153. Hệ quả: từ bài này về sau, các chữ đó qua được kiểm soát từ vựng.
+- **Đáp án cần xác nhận:** bài 19, câu "Đối với tôi, gia đình…" nhận cả 在我看来… với điểm tối đa; câu "Theo bố tôi…" trả lời bằng 对爸爸来说… được 60 điểm.
+- **Câu "sai" dựa trên sắc thái hoặc văn phong:** 我们等了不一会儿, 你说下来吧 (bài 18); 都十点了，看上去他不来了 (bài 17, ghi chú nói là kém tự nhiên chứ không sai ngữ pháp); 他是一名运动家, 我买了一张桌 (bài 19).
+- **Cần xem:** phân biệt 看起来 / 看上去 (chỉ 看上去 giới hạn ở vẻ bề ngoài nhìn thấy); lượng từ 两头牛 / 三只牛 (theo bảng danh từ của bộ chấm) và 只 cho 羊. Bài 17 tránh 看起来像 vì 像 đến bài 18 mới dạy.
+- Pinyin đã sửa tay: 得 trợ từ (跑得快, 跳得很高, 发展得) đọc de; 得多运动 đọc děi; 长得 zhǎng; 放假 jià.
 
 ## Giới hạn của bộ chấm phát hiện khi soạn HSK2–3
 
